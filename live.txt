@@ -118,9 +118,11 @@ CCTV5+体育赛事,https://live.v1.mk/api/bestv.php?id=cctv5phd8m/8000000
 重庆少儿,http://113.207.84.197:8090/__cl/cg:live/__c/cqseHD/__op/default/__f/index.m3u8
 时尚生活,http://113.207.84.197:8090/__cl/cg:live/__c/cqssgwHD/__op/default/__f/index.m3u8
 新农村,http://113.207.84.197:8090/__cl/cg:live/__c/cqggncHD/__op/default/__f/index.m3u8
-bili哔哩,http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/1/224/3221228641/index.m3u8
 
 数字,#genre#
+CHC动作电影,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002055/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CHC家庭影院,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CHC高清电影,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 兵器科技,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226975/index.m3u8
 怀旧剧场,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226972/index.m3u8
 世界地理,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226947/index.m3u8
@@ -133,9 +135,6 @@ bili哔哩,http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/1/2
 风云音乐,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226953/index.m3u8
 风云足球,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226984/index.m3u8
 电视指南,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226987/index.m3u8
-CHC动作电影,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002055/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CHC家庭影院,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CHC高清电影,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 中国教育1台,http://txycsbl.centv.cn/zb/0628cetv1.m3u8
 中国教育2台,http://txycetvbl.centv.cn/cetv2/2020tsytk.m3u8
 中国教育3台,http://txycetvbl.centv.cn/cetv3/bjdm.m3u8
@@ -156,10 +155,10 @@ CHC高清电影,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch0000009099000
 咪咕6,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226261/index.m3u8
 咪咕4K-SDR源,http://120.234.220.107:9000/udp/239.20.0.66:3136
 咪咕4K-HLG源,http://117.136.156.66:80/000000001000/3000000010000005180/index.m3u8
-
 哒啵赛事,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225653/index.m3u8
 哒啵电竞,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226265/index.m3u8
 斗地主,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225666/index.m3u8
+bili哔哩,http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/1/224/3221228641/index.m3u8
 
 体育,#genre#
 劲爆体育,https://live.v1.mk/api/bestv.php?id=jbtyhd8m/8000000
