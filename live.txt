@@ -21,26 +21,6 @@ CCTV16-4K,http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaibox.com/PLTV/3/22
 CCTV4K超高清,https://live.v1.mk/api/bestv.php?id=cctv4k/15000000#http://113.207.84.197:8090/__cl/cg:live/__c/CCTV4K/__op/default/__f/index.m3u8
 CCTV4欧洲,http://[2409:8087:5011:1020::1f]/180000001002/00000001000000000071000000305577/main.m3u8?IASHttpSessionId=OTT
 CCTV4美洲,http://[2409:8087:5011:1020::1f]/180000001002/00000001000000000071000000305581/main.m3u8?IASHttpSessionId=OTT
-
-CCTV1综合,http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225642/index.m3u8
-CCTV2财经,http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225643/index.m3u8
-CCTV3综艺,http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225634/index.m3u8
-CCTV4国际,http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225621/index.m3u8
-CCTV5体育,http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225633/index.m3u8
-CCTV6电影,http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225632/index.m3u8
-CCTV7军事,http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225624/index.m3u8
-CCTV8电视剧,http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225631/index.m3u8
-CCTV9纪录,http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225646/index.m3u8
-CCTV10科教,http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225636/index.m3u8
-CCTV11戏曲,http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225628/index.m3u8
-CCTV12社会与法,http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225637/index.m3u8
-CCTV13新闻,http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225638/index.m3u8
-CCTV14少儿,http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225640/index.m3u8
-CCTV15音乐,http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225641/index.m3u8
-CCTV16奥林匹克,http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226233/index.m3u8
-CCTV17农业,http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225909/index.m3u8
-CCTV5+体育赛事,http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225706/index.m3u8
-
 CCTV1综合,https://live.v1.mk/api/bestv.php?id=cctv1hd8m/8000000
 CCTV2财经,https://live.v1.mk/api/bestv.php?id=cctv2hd8m/8000000
 CCTV3综艺,https://live.v1.mk/api/bestv.php?id=cctv38m/8000000
@@ -70,8 +50,16 @@ CCTV5+体育赛事,https://live.v1.mk/api/bestv.php?id=cctv5phd8m/8000000
 凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
 翡翠台,http://live.cooltv.top/tv/good.php?id=1350_4500
 明珠台,http://live.cooltv.top/tv/good.php?id=1351_4500
+澳门莲花,http://107.151.203.111:2209/135/hk.php?id=amlh
 大爱1,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 大爱2,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
+大愛電視,http://123.51.230.108:18567/.m3u8
+緯來綜合HD,http://123.51.230.108:18540/.m3u8
+緯來體育HD,http://123.51.230.108:18509/.m3u8
+東風衛視,http://123.51.230.108:18560/.m3u8
+東森戲劇HD,http://123.51.230.108:18538/.m3u8
+龍華戲劇台,http://123.51.230.108:8509/.m3u8
+民視新聞,http://123.51.230.108:18663/.m3u8
 
 卫视,#genre#
 北京卫视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225674/index.m3u8
@@ -159,18 +147,16 @@ CHC家庭影院,https://live.v1.mk/api/sxg.php?id=jbtygqCHCjtyyH265_4000
 风云音乐,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226953/index.m3u8
 风云足球,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226984/index.m3u8
 电视指南,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226987/index.m3u8
-
 中国教育1台,http://txycsbl.centv.cn/zb/0628cetv1.m3u8
 中国教育2台,http://txycetvbl.centv.cn/cetv2/2020tsytk.m3u8
 中国教育3台,http://txycetvbl.centv.cn/cetv3/bjdm.m3u8
 中国教育4台,http://[2409:8087:5011:1020::15]/180000001001/00000001000000001017000000440665/index.m3u8
-
 求索动物,http://[2409:8087:4402:20:1:1216:401:41]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226118/index.m3u8
 求索生活,http://[2409:8087:4402:20:1:1216:401:43]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226116/index.m3u8
 求索科学,http://[2409:8087:4402:20:1:1216:401:46]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226115/index.m3u8
 求索纪录,http://[2409:8087:4402:20:1:1216:401:38]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226114/index.m3u8
 
-网络,#genre#
+文体,#genre#
 咪咕1,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226235/index.m3u8
 咪咕2,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226238/index.m3u8
 咪咕3,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226240/index.m3u8
@@ -185,7 +171,6 @@ BesTV永劫无间,http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/000000010000000600
 哒啵赛事,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225653/index.m3u8
 哒啵电竞,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226265/index.m3u8
 斗地主,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225666/index.m3u8
-bili哔哩,http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/1/224/3221228641/index.m3u8
 北京体育休闲,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001329/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 劲爆体育,https://live.v1.mk/api/bestv.php?id=jbtyhd8m/8000000
 五星体育,https://live.v1.mk/api/bestv.php?id=wxtyhd8m/8000000
@@ -193,6 +178,7 @@ bili哔哩,http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/1/2
 魅力足球,https://live.v1.mk/api/bestv.php?id=mlyyhd8m/8000000
 游戏风云,https://live.v1.mk/api/bestv.php?id=yxfy8m/8000000
 电竞天堂,https://live.v1.mk/api/bestv.php?id=djtt8m/8000000
+足球频道,http://live.aptvapp.com/ghyx.php?id=ZuQiuHD_6000
 
 国际,#genre#
 CNC英文,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225693/2/index.m3u8
@@ -208,8 +194,9 @@ NHKWORLD,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/ind
 亚洲新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 金砖中文,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
 FTV,https://fashiontv-fashiontv-4-de.samsung.wurl.com/manifest/playlist_1920x1080_4200k.m3u8
+NHK世界HD,http://123.51.230.108:18525/.m3u8
 
-海南,#genre#
+其他,#genre#
 三沙卫视,http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/08984400000000060000000000000319/index.m3u8?IAS
 海南自贸,http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/08984400000000060000000000000320/index.m3u8?IAS
 海南新闻,http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/08984400000000060000000000000321/index.m3u8?IAS
@@ -218,6 +205,30 @@ FTV,https://fashiontv-fashiontv-4-de.samsung.wurl.com/manifest/playlist_1920x108
 海南融媒1,http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/08984400000000060000000000000326/index.m3u8?IAS
 海南融媒2,http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/08984400000000060000000000000327/index.m3u8?IAS
 海南融媒3,http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/08984400000000060000000000000328/index.m3u8?IAS
+
+镇江3,http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/1/224/3221228208/index.m3u8
+盐城2,http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/1/224/3221228433/index.m3u8
+盐城1,http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/1/224/3221228435/index.m3u8
+二更,http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/1/224/3221228441/index.m3u8
+南通2,http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/1/224/3221228448/index.m3u8
+南通3,http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/1/224/3221228451/index.m3u8
+动画1,http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/1/224/3221228456/index.m3u8
+动画2,http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/1/224/3221228460/index.m3u8
+外文1,http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/1/224/3221228559/index.m3u8
+美食,http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/1/224/3221228562/index.m3u8
+外文2,http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/1/224/3221228588/index.m3u8
+小电视,http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/1/224/3221228641/index.m3u8
+
+沙湾融媒,https://live.v1.mk/api/sxg.php?id=swxwzh_2000
+四川经济,https://live.v1.mk/api/sxg.php?id=SCTV-2-H265_4000
+四川文化旅游,https://live.v1.mk/api/sxg.php?id=SCTV-3-H265_4000
+四川新闻,https://live.v1.mk/api/sxg.php?id=SCTV-4H265_4000
+四川影视文艺,https://live.v1.mk/api/sxg.php?id=SCTV-5-scysH265_4000
+四川7,https://live.v1.mk/api/sxg.php?id=SCTV-7-_4000
+四川科教,https://live.v1.mk/api/sxg.php?id=SCTV-ggSCTV-8_4000
+四川乡村,https://live.v1.mk/api/sxg.php?id=SCTV-kjSCTV-9-_4000
+四川峨嵋电影,https://live.v1.mk/api/sxg.php?id=emdygqH265_4000
+成都新闻综合,https://live.v1.mk/api/sxg.php?id=CDTV-1_4000
 
 UHD,#genre#
 北京-4K,http://221.179.217.76/PLTV/88888888/224/3221226550/1.m3u8
