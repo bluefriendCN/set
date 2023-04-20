@@ -125,11 +125,10 @@ CCTV5+体育赛事,https://live.v1.mk/api/bestv.php?id=cctv5phd8m/8000000
 文体娱乐,http://113.207.84.197:8090/__cl/cg:live/__c/cqwtylHD/__op/default/__f/index.m3u8
 重庆少儿,http://113.207.84.197:8090/__cl/cg:live/__c/cqseHD/__op/default/__f/index.m3u8
 时尚生活,http://113.207.84.197:8090/__cl/cg:live/__c/cqssgwHD/__op/default/__f/index.m3u8
+社会与法,http://113.207.84.197:8090/__cl/cg:live/__c/CQTVTrendyHD/__op/default/__f//index.m3u8
 新农村,http://113.207.84.197:8090/__cl/cg:live/__c/cqggncHD/__op/default/__f/index.m3u8
-重庆汽摩,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225506/index.m3u8
-
-重庆都市,http://219.153.252.50/PLTV/88888888/224/3221225640/chunklist.m3u8#http://219.153.252.50/PLTV/88888888/224/3221225631/chunklist.m3u8
-重庆公共,http://219.153.252.50/PLTV/88888888/224/3221225647/chunklist.m3u8
+重庆汽摩,http://113.207.84.197:8090/__cl/cg:live/__c/cqcarSD/__op/default/__f//index.m3u8#http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225506/index.m3u8
+重庆靓妆,http://113.207.84.197:8090/__cl/cg:live/__c/liang/__op/default/__f//index.m3u8
 
 数字,#genre#
 CHC动作电影,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002055/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
