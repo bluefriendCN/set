@@ -170,7 +170,15 @@
       "quickSearch": 1,
       "searchable": 1
     },
-    //{"key":"*我要啪啪","name":"*🔞我要啪啪","type":0,"api":"http://www.caiji21.com/home/cjapi/klkl/mc10/vod/xml","searchable":0,"quickSearch":0},
+    {
+      "key": "❤91麻豆",
+      "name": "❤91麻豆源",
+      "type": 1,
+      "api": "https://91md.me/api.php/provide/vod/",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0
+    },
     {
       "key": "csp_Nkdy",
       "name": "⏺南柯",
