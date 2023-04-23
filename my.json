@@ -19,6 +19,7 @@
   "lives": [
     {
       "name": "Live",
+      "type": 0,
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
       "url": "https://ghproxy.net/raw.githubusercontent.com/bluefriendCN/tvbox/main/live.txt"
     }
