@@ -20,7 +20,7 @@
     {
       "name": "Live",
       "type": 0,
-      "epg": "http://epg.112114.xyz/?ch={name}",
+      "epg": "http://epg.112114.xyz/",
       "url": "https://ghproxy.net/raw.githubusercontent.com/bluefriendCN/tvbox/main/live.txt"
     }
   ],
