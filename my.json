@@ -53,15 +53,6 @@
       "filterable": 1
     },
     {
-      "key": "❤91麻豆",
-      "name": "❤91麻豆源",
-      "type": 1,
-      "api": "https://91md.me/api.php/provide/vod/",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0
-    },
-    {
       "key": "csp_Bttoo",
       "name": "✌两个BT",
       "type": 3,
