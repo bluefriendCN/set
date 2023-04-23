@@ -22,8 +22,10 @@
       "channels": [
         {
           "name": "TV",
-          "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
-          "urls":"https://ghproxy.net/raw.githubusercontent.com/bluefriendCN/tvbox/main/live.txt"
+          "epg": "http://epg.51zmt.top:8000/api/i/?ch={name}&date={date}",
+          "urls":[
+            "proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlZS5jb20vcm9ib3Ivc2V0L3Jhdy9tYWluL2xpdmUudHh0"
+          ]
         }
       ]
     }
