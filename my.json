@@ -18,16 +18,9 @@
   ],
   "lives": [
     {
-      "group": "redirect",
-      "channels": [
-        {
-          "name": "Live",
-          "epg": "http://epg.112114.xyz/pp.xml?ch={name}&date={date}",
-          "urls": [
-            "proxy://do=live&type=txt&ext=aHR0cHM6Ly9naHByb3h5Lm5ldC9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2JsdWVmcmllbmRDTi90dmJveC9tYWluL2xpdmUudHh0"
-          ]
-        }
-      ]
+      "name": "Live",
+      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+      "url": "https://ghproxy.net/raw.githubusercontent.com/bluefriendCN/tvbox/main/live.txt"
     }
   ],
   "sites": [
