@@ -43,7 +43,7 @@
       "name": "TV",
       "type": 0,
       "playerType": 1,
-      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+      "epg": "http://epg.51zmt.top:8000/api/i/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png",
       "url": "https://ghproxy.net/raw.githubusercontent.com/bluefriendCN/tvbox/main/live.txt"
     }
