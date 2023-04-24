@@ -18,7 +18,7 @@
           "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
           "logo": "https://epg.112114.xyz/logo/{name}.png",
           "urls": [
-            "proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuaXFpcS5pby9ibHVlZnJpZW5kQ04vdHZib3gvbWFpbi9saXZlLnR4dA=="
+            "proxy://do=live&type=txt&ext=aHR0cHM6Ly9jZG4uc3RhdGljYWx5LmNvbS9naC9ibHVlZnJpZW5kQ04vdHZib3gvbWFpbi9saXZlLnR4dA=="
           ]
         }
       ]
