@@ -1,7 +1,7 @@
 //以下内容来源于互联网，只为自用，如有冒犯，请联系删除
 {
   "wallpaper": "https://epg.112114.xyz/bingimg",
-  "spider": "https://raw.iqiq.io/52670576/tvbox/main/YSC.jar;md5;573BE8213FA597C2E473C0ADF14B3A82",
+  "spider": "https://gitee.com/robor/set/raw/main/YSC.jar;md5;573BE8213FA597C2E473C0ADF14B3A82",
   "flags": [
     "qq",    "腾讯",    "企鹅",    "IQiYi",    "qiyi",    "爱奇艺",    "奇艺",
     "youku",    "YouKu",    "优酷",    "sohu",    "SoHu",    "搜狐",
