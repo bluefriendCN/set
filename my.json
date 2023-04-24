@@ -1,7 +1,7 @@
 //以下内容来源于互联网，只为自用，如有冒犯，请联系删除
 {
   "wallpaper": "https://epg.112114.xyz/bingimg",
-  "spider": "https://raw.iqiq.io/52670576/tvbox/main/YSC.jar;md5;573BE8213FA597C2E473C0ADF14B3A82",
+  "spider": "https://raw.kgithub.com/52670576/tvbox/main/YSC.jar;md5;573BE8213FA597C2E473C0ADF14B3A82",
   "flags": [
     "qq",    "腾讯",    "企鹅",    "IQiYi",    "qiyi",    "爱奇艺",    "奇艺",
     "youku",    "YouKu",    "优酷",    "sohu",    "SoHu",    "搜狐",
@@ -18,7 +18,7 @@
           "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
           "logo": "https://epg.112114.xyz/logo/{name}.png",
           "urls": [
-            "proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuaXFpcS5pby9ibHVlZnJpZW5kQ04vdHZib3gvbWFpbi9saXZlLnR4dA=="
+            "proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcua2dpdGh1Yi5jb20vYmx1ZWZyaWVuZENOL3R2Ym94L21haW4vbGl2ZS50eHQ="
           ]
         }
       ]
@@ -29,46 +29,46 @@
       "key": "豆瓣",
       "name": "🔍豆瓣荐片",
       "type": 3,
-      "api": "https://raw.iqiq.io/52670576/tvbox/main/js/lib/drpy2.min.js",
+      "api": "https://raw.kgithub.com/52670576/tvbox/main/js/lib/drpy2.min.js",
       "searchable": 2,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://raw.iqiq.io/52670576/tvbox/main/js/douban.js"
+      "ext": "https://raw.kgithub.com/52670576/tvbox/main/js/douban.js"
     },
     {
       "key": "爱奇异",
       "name": "🥝爱奇艺(官)",
       "type": 3,
-      "api": "https://raw.iqiq.io/52670576/tvbox/main/js/lib/drpy2.min.js",
-      "ext": "https://raw.iqiq.io/52670576/tvbox/main/js/aiqiyi.js"
+      "api": "https://raw.kgithub.com/52670576/tvbox/main/js/lib/drpy2.min.js",
+      "ext": "https://raw.kgithub.com/52670576/tvbox/main/js/aiqiyi.js"
     },
     {
       "key": "优酷",
       "name": "👑优酷(官)",
       "type": 3,
-      "api": "https://raw.iqiq.io/52670576/tvbox/main/js/lib/drpy2.min.js",
-      "ext": "https://raw.iqiq.io/52670576/tvbox/main/js/youku.js"
+      "api": "https://raw.kgithub.com/52670576/tvbox/main/js/lib/drpy2.min.js",
+      "ext": "https://raw.kgithub.com/52670576/tvbox/main/js/youku.js"
     },
     {
       "key": "腾讯",
       "name": "🐧腾讯(官)",
       "type": 3,
-      "api": "https://raw.iqiq.io/52670576/tvbox/main/js/lib/drpy2.min.js",
-      "ext": "https://raw.iqiq.io/52670576/tvbox/main/js/tengxun.js"
+      "api": "https://raw.kgithub.com/52670576/tvbox/main/js/lib/drpy2.min.js",
+      "ext": "https://raw.kgithub.com/52670576/tvbox/main/js/tengxun.js"
     },
     {
       "key": "芒果",
       "name": "🥭芒果(官)",
       "type": 3,
-      "api": "https://raw.iqiq.io/52670576/tvbox/main/js/lib/drpy2.min.js",
-      "ext": "https://raw.iqiq.io/52670576/tvbox/main/js/mangguo.js"
+      "api": "https://raw.kgithub.com/52670576/tvbox/main/js/lib/drpy2.min.js",
+      "ext": "https://raw.kgithub.com/52670576/tvbox/main/js/mangguo.js"
     },
     {
       "key": "搜狗",
       "name": "🐼搜狗(官)",
       "type": 3,
-      "api": "https://raw.iqiq.io/52670576/tvbox/main/js/lib/drpy2.min.js",
-      "ext": "https://raw.iqiq.io/52670576/tvbox/main/js/caigou.js"
+      "api": "https://raw.kgithub.com/52670576/tvbox/main/js/lib/drpy2.min.js",
+      "ext": "https://raw.kgithub.com/52670576/tvbox/main/js/caigou.js"
     },
     {
       "key": "360影视",
@@ -88,7 +88,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.iqiq.io/52670576/tvbox/main/py/py_xigua.py"
+      "ext": "https://raw.kgithub.com/52670576/tvbox/main/py/py_xigua.py"
     },
     {
       "key": "py_cctv",
@@ -98,7 +98,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.iqiq.io/52670576/tvbox/main/py/py_cctv.py"
+      "ext": "https://raw.kgithub.com/52670576/tvbox/main/py/py_cctv.py"
     },
     {
       "key": "布雷蓝光",
@@ -147,7 +147,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.iqiq.io/52670576/tvbox/main/sub/LIBVIO.json"
+      "ext": "https://raw.kgithub.com/52670576/tvbox/main/sub/LIBVIO.json"
     },
     {
       "key": "HDmoli",
@@ -157,7 +157,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.iqiq.io/52670576/tvbox/main/sub/HDmoli.json"
+      "ext": "https://raw.kgithub.com/52670576/tvbox/main/sub/HDmoli.json"
     },
     {
       "key": "爱看影院",
@@ -168,7 +168,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.iqiq.io/52670576/tvbox/main/sub/aikan.json"
+      "ext": "https://raw.kgithub.com/52670576/tvbox/main/sub/aikan.json"
     },
     {
       "key": "农民影视",
@@ -178,7 +178,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.iqiq.io/52670576/tvbox/main/sub/nongmin.json"
+      "ext": "https://raw.kgithub.com/52670576/tvbox/main/sub/nongmin.json"
     },
     {
       "key": "电影盒子",
@@ -189,7 +189,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.iqiq.io/52670576/tvbox/main/sub/dianyinghezi.json"
+      "ext": "https://raw.kgithub.com/52670576/tvbox/main/sub/dianyinghezi.json"
     },
     {
       "key": "快看",
@@ -208,21 +208,21 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://raw.iqiq.io/52670576/tvbox/main/sub/shenma.json"
+      "ext": "https://raw.kgithub.com/52670576/tvbox/main/sub/shenma.json"
     },
     {
       "key": "UM影院",
       "name": "⏺UM影院",
       "type": 3,
-      "api": "https://raw.iqiq.io/52670576/tvbox/main/js/lib/drpy2.min.js",
-      "ext": "https://raw.iqiq.io/52670576/tvbox/main/js/um.js"
+      "api": "https://raw.kgithub.com/52670576/tvbox/main/js/lib/drpy2.min.js",
+      "ext": "https://raw.kgithub.com/52670576/tvbox/main/js/um.js"
     },
     {
       "key": "鸭奈飞",
       "name": "🦆鸭奈飞",
       "type": 3,
-      "api": "https://raw.iqiq.io/52670576/tvbox/main/js/lib/drpy2.min.js",
-      "ext": "https://raw.iqiq.io/52670576/tvbox/main/js/yanaifei.js"
+      "api": "https://raw.kgithub.com/52670576/tvbox/main/js/lib/drpy2.min.js",
+      "ext": "https://raw.kgithub.com/52670576/tvbox/main/js/yanaifei.js"
     },
     {
       "key": "csp_Bd",
@@ -251,17 +251,17 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://raw.iqiq.io/52670576/tvbox/main/sub/baoxian.json"
+      "ext": "https://raw.kgithub.com/52670576/tvbox/main/sub/baoxian.json"
     },
     {
       "key": "饭团影视",
       "name": "🍙饭团影视",
       "type": 3,
-      "api": "https://raw.iqiq.io/52670576/tvbox/main/js/lib/drpy2.min.js",
+      "api": "https://raw.kgithub.com/52670576/tvbox/main/js/lib/drpy2.min.js",
       "searchable": 2,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://raw.iqiq.io/52670576/tvbox/main/js/fantuan.js"
+      "ext": "https://raw.kgithub.com/52670576/tvbox/main/js/fantuan.js"
     },
     {
       "key": "csp_AppMr",
@@ -286,15 +286,15 @@
       "key": "csp_panghu",
       "name": "🐯胖虎",
       "type": 3,
-      "api": "https://raw.iqiq.io/52670576/tvbox/main/js/lib/drpy2.min.js",
-      "ext": "https://raw.iqiq.io/52670576/tvbox/main/js/panghu.js"
+      "api": "https://raw.kgithub.com/52670576/tvbox/main/js/lib/drpy2.min.js",
+      "ext": "https://raw.kgithub.com/52670576/tvbox/main/js/panghu.js"
     },
     {
       "key": "101影院",
       "name": "🎞101影院",
       "type": 3,
-      "api": "https://raw.iqiq.io/52670576/tvbox/main/js/lib/drpy2.min.js",
-      "ext": "https://raw.iqiq.io/52670576/tvbox/main/js/l0l.js"
+      "api": "https://raw.kgithub.com/52670576/tvbox/main/js/lib/drpy2.min.js",
+      "ext": "https://raw.kgithub.com/52670576/tvbox/main/js/l0l.js"
     },
     {
       "key": "csp_Ysgc",
@@ -323,7 +323,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.iqiq.io/52670576/tvbox/main/sub/shiliu.json"
+      "ext": "https://raw.kgithub.com/52670576/tvbox/main/sub/shiliu.json"
     },
     {
       "key": "巨人影院",
@@ -333,7 +333,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.iqiq.io/52670576/tvbox/main/sub/juren.json"
+      "ext": "https://raw.kgithub.com/52670576/tvbox/main/sub/juren.json"
     },
     {
       "key": "csp_XYQHiker_shuangshi",
@@ -343,7 +343,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.iqiq.io/52670576/tvbox/main/sub/shuangshi.json"
+      "ext": "https://raw.kgithub.com/52670576/tvbox/main/sub/shuangshi.json"
     },
     {
       "key": "csp_Voflix",
@@ -353,14 +353,14 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.iqiq.io/52670576/tvbox/main/sub/voflix.json"
+      "ext": "https://raw.kgithub.com/52670576/tvbox/main/sub/voflix.json"
     },
     {
       "key": "素白白",
       "name": "素白白",
       "type": 3,
-      "api": "https://raw.iqiq.io/52670576/tvbox/main/js/lib/drpy2.min.js",
-      "ext": "https://raw.iqiq.io/52670576/tvbox/main/js/subaibai.js"
+      "api": "https://raw.kgithub.com/52670576/tvbox/main/js/lib/drpy2.min.js",
+      "ext": "https://raw.kgithub.com/52670576/tvbox/main/js/subaibai.js"
     },
     {
       "key": "csp_Cokemv",
@@ -384,15 +384,15 @@
       "key": "二次萌",
       "name": "🏠二次萌",
       "type": 3,
-      "api": "https://raw.iqiq.io/52670576/tvbox/main/js/lib/drpy2.min.js",
-      "ext": "https://raw.iqiq.io/52670576/tvbox/main/js/ercimeng.js"
+      "api": "https://raw.kgithub.com/52670576/tvbox/main/js/lib/drpy2.min.js",
+      "ext": "https://raw.kgithub.com/52670576/tvbox/main/js/ercimeng.js"
     },
     {
       "key": "万能影院",
       "name": "🔷万能影院",
       "type": 3,
-      "api": "https://raw.iqiq.io/52670576/tvbox/main/js/lib/drpy2.min.js",
-      "ext": "https://raw.iqiq.io/52670576/tvbox/main/js/wanneng.js"
+      "api": "https://raw.kgithub.com/52670576/tvbox/main/js/lib/drpy2.min.js",
+      "ext": "https://raw.kgithub.com/52670576/tvbox/main/js/wanneng.js"
     },
     {
       "key": "csp_Nkdy",
@@ -411,7 +411,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.iqiq.io/52670576/tvbox/main/sub/languang.json"
+      "ext": "https://raw.kgithub.com/52670576/tvbox/main/sub/languang.json"
     },
     {
       "key": "csp_Bttoo",
@@ -426,8 +426,8 @@
       "key": "人人影视",
       "name": "🍀人人影视",
       "type": 3,
-      "api": "https://raw.iqiq.io/52670576/tvbox/main/js/lib/drpy2.min.js",
-      "ext": "https://raw.iqiq.io/52670576/tvbox/main/js/renren.js"
+      "api": "https://raw.kgithub.com/52670576/tvbox/main/js/lib/drpy2.min.js",
+      "ext": "https://raw.kgithub.com/52670576/tvbox/main/js/renren.js"
     },
     {
       "key": "csp_AppYsV2",
@@ -443,29 +443,29 @@
       "key": "看看电影",
       "name": "🍀看看电影",
       "type": 3,
-      "api": "https://raw.iqiq.io/52670576/tvbox/main/js/lib/drpy2.min.js",
-      "ext": "https://raw.iqiq.io/52670576/tvbox/main/js/kankandianying.js"
+      "api": "https://raw.kgithub.com/52670576/tvbox/main/js/lib/drpy2.min.js",
+      "ext": "https://raw.kgithub.com/52670576/tvbox/main/js/kankandianying.js"
     },
     {
       "key": "兄弟影视",
       "name": "🍀兄弟影视",
       "type": 3,
-      "api": "https://raw.iqiq.io/52670576/tvbox/main/js/lib/drpy2.min.js",
-      "ext": "https://raw.iqiq.io/52670576/tvbox/main/js/xiongdiyingshi.js"
+      "api": "https://raw.kgithub.com/52670576/tvbox/main/js/lib/drpy2.min.js",
+      "ext": "https://raw.kgithub.com/52670576/tvbox/main/js/xiongdiyingshi.js"
     },
     {
       "key": "大师兄影视",
       "name": "🍀大师兄影视",
       "type": 3,
-      "api": "https://raw.iqiq.io/52670576/tvbox/main/js/lib/drpy2.min.js",
-      "ext": "https://raw.iqiq.io/52670576/tvbox/main/js/dashixiongyingshi.js"
+      "api": "https://raw.kgithub.com/52670576/tvbox/main/js/lib/drpy2.min.js",
+      "ext": "https://raw.kgithub.com/52670576/tvbox/main/js/dashixiongyingshi.js"
     },
     {
       "key": "创艺影视",
       "name": "🍀创艺影视",
       "type": 3,
-      "api": "https://raw.iqiq.io/52670576/tvbox/main/js/lib/drpy2.min.js",
-      "ext": "https://raw.iqiq.io/52670576/tvbox/main/js/chuangyi.js"
+      "api": "https://raw.kgithub.com/52670576/tvbox/main/js/lib/drpy2.min.js",
+      "ext": "https://raw.kgithub.com/52670576/tvbox/main/js/chuangyi.js"
     },
     {
       "key": "咕噜咕噜",
@@ -475,7 +475,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://raw.iqiq.io/52670576/tvbox/main/sub/gulugulu.json"
+      "ext": "https://raw.kgithub.com/52670576/tvbox/main/sub/gulugulu.json"
     },
     {
       "key": "乐猪",
@@ -485,7 +485,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.iqiq.io/52670576/tvbox/main/sub/lezhu.json"
+      "ext": "https://raw.kgithub.com/52670576/tvbox/main/sub/lezhu.json"
     },
     {
       "key": "无名小站",
@@ -495,7 +495,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.iqiq.io/52670576/tvbox/main/sub/wumingxiaozhan.json"
+      "ext": "https://raw.kgithub.com/52670576/tvbox/main/sub/wumingxiaozhan.json"
     },
     {
       "key": "真不卡",
@@ -505,7 +505,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.iqiq.io/52670576/tvbox/main/sub/zhenbuka.json"
+      "ext": "https://raw.kgithub.com/52670576/tvbox/main/sub/zhenbuka.json"
     },
     {
       "key": "映迷影院",
@@ -515,7 +515,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.iqiq.io/52670576/tvbox/main/sub/yingmiyingyuan.json"
+      "ext": "https://raw.kgithub.com/52670576/tvbox/main/sub/yingmiyingyuan.json"
     },
     {
       "key": "皮皮鸭",
@@ -525,7 +525,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.iqiq.io/52670576/tvbox/main/sub/pipiya.json"
+      "ext": "https://raw.kgithub.com/52670576/tvbox/main/sub/pipiya.json"
     },
     {
       "key": "野荷塘影院",
@@ -535,7 +535,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.iqiq.io/52670576/tvbox/main/sub/yehetang.json"
+      "ext": "https://raw.kgithub.com/52670576/tvbox/main/sub/yehetang.json"
     },
     {
       "key": "达达龟",
@@ -545,7 +545,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://raw.iqiq.io/52670576/tvbox/main/sub/dadagui.json"
+      "ext": "https://raw.kgithub.com/52670576/tvbox/main/sub/dadagui.json"
     },
     {
       "key": "csp_Czsapp",
@@ -598,8 +598,8 @@
       "key": "喜马拉雅",
       "name": "👂喜马拉雅",
       "type": 3,
-      "api": "https://raw.iqiq.io/52670576/tvbox/main/js/lib/drpy2.min.js",
-      "ext": "https://raw.iqiq.io/52670576/tvbox/main/js/ximalaya.js"
+      "api": "https://raw.kgithub.com/52670576/tvbox/main/js/lib/drpy2.min.js",
+      "ext": "https://raw.kgithub.com/52670576/tvbox/main/js/ximalaya.js"
     },
     {
       "key": "有声小说吧",
@@ -609,14 +609,14 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.iqiq.io/52670576/tvbox/main/sub/youshengxiaoshuoba.json"
+      "ext": "https://raw.kgithub.com/52670576/tvbox/main/sub/youshengxiaoshuoba.json"
     },
     {
       "key": "海洋听书",
       "name": "👂海洋听书",
       "type": 3,
-      "api": "https://raw.iqiq.io/52670576/tvbox/main/js/lib/drpy2.min.js",
-      "ext": "https://raw.iqiq.io/52670576/tvbox/main/js/haiyangtingshu.js"
+      "api": "https://raw.kgithub.com/52670576/tvbox/main/js/lib/drpy2.min.js",
+      "ext": "https://raw.kgithub.com/52670576/tvbox/main/js/haiyangtingshu.js"
     },
     {
       "key": "csp_Anime1",
@@ -663,7 +663,7 @@
       "quickSearch": 0,
       "filterable": 1,
       "changeable": 0,
-      "ext": "https://raw.iqiq.io/52670576/tvbox/main/sub/Alist.json"
+      "ext": "https://raw.kgithub.com/52670576/tvbox/main/sub/Alist.json"
     },
     {
       "key": "阿里云盘",
@@ -756,41 +756,41 @@
       "key": "88看球",
       "name": "⚽88看球",
       "type": 3,
-      "api": "https://raw.iqiq.io/52670576/tvbox/main/js/lib/drpy2.min.js",
+      "api": "https://raw.kgithub.com/52670576/tvbox/main/js/lib/drpy2.min.js",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://raw.iqiq.io/52670576/tvbox/main/js/88kanqiu.js"
+      "ext": "https://raw.kgithub.com/52670576/tvbox/main/js/88kanqiu.js"
     },
     {
       "key": "JRKAN直播",
       "name": "⚽JRKAN直播",
       "type": 3,
-      "api": "https://raw.iqiq.io/52670576/tvbox/main/js/lib/drpy.min.js",
+      "api": "https://raw.kgithub.com/52670576/tvbox/main/js/lib/drpy.min.js",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://raw.iqiq.io/52670576/tvbox/main/js/jrkanzhibo.js"
+      "ext": "https://raw.kgithub.com/52670576/tvbox/main/js/jrkanzhibo.js"
     },
     {
       "key": "虎牙直播",
       "name": "🐯虎牙直播",
       "type": 3,
-      "api": "https://raw.iqiq.io/52670576/tvbox/main/js/lib/drpy2.min.js",
+      "api": "https://raw.kgithub.com/52670576/tvbox/main/js/lib/drpy2.min.js",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://raw.iqiq.io/52670576/tvbox/main/js/huyazhibo.js"
+      "ext": "https://raw.kgithub.com/52670576/tvbox/main/js/huyazhibo.js"
     },
     {
       "key": "兔小贝",
       "name": "🐰兔小贝",
       "type": 3,
-      "api": "https://raw.iqiq.io/52670576/tvbox/main/js/lib/drpy2.min.js",
+      "api": "https://raw.kgithub.com/52670576/tvbox/main/js/lib/drpy2.min.js",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://raw.iqiq.io/52670576/tvbox/main/js/tuxiaobei.js"
+      "ext": "https://raw.kgithub.com/52670576/tvbox/main/js/tuxiaobei.js"
     },
     {
       "key": "高中教育",
@@ -800,7 +800,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://raw.iqiq.io/52670576/tvbox/main/sub/Blixt.json"
+      "ext": "https://raw.kgithub.com/52670576/tvbox/main/sub/Blixt.json"
     },
     {
       "key": "学外语",
@@ -810,7 +810,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://raw.iqiq.io/52670576/tvbox/main/sub/waiyu.json"
+      "ext": "https://raw.kgithub.com/52670576/tvbox/main/sub/waiyu.json"
     },
     {
       "key": "软件教程",
@@ -820,7 +820,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://raw.iqiq.io/52670576/tvbox/main/sub/jiaocheng.json"
+      "ext": "https://raw.kgithub.com/52670576/tvbox/main/sub/jiaocheng.json"
     },
     {
       "key": "哔哩哔哩",
@@ -830,7 +830,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://raw.iqiq.io/52670576/tvbox/main/sub/Bili.json"
+      "ext": "https://raw.kgithub.com/52670576/tvbox/main/sub/Bili.json"
     },
     {
       "key": "相声小品",
@@ -840,7 +840,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://raw.iqiq.io/52670576/tvbox/main/sub/Blixs.json"
+      "ext": "https://raw.kgithub.com/52670576/tvbox/main/sub/Blixs.json"
     },
     {
       "key": "戏 曲",
@@ -850,7 +850,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://raw.iqiq.io/52670576/tvbox/main/sub/Blixq.json"
+      "ext": "https://raw.kgithub.com/52670576/tvbox/main/sub/Blixq.json"
     },
     {
       "key": "歌曲MV",
@@ -860,7 +860,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://raw.iqiq.io/52670576/tvbox/main/sub/gequ.txt"
+      "ext": "https://raw.kgithub.com/52670576/tvbox/main/sub/gequ.txt"
     },
     {
       "key": "女团热舞",
@@ -870,7 +870,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.iqiq.io/52670576/tvbox/main/sub/nvtuanrewu.json"
+      "ext": "https://raw.kgithub.com/52670576/tvbox/main/sub/nvtuanrewu.json"
     },
     {
       "key": "演唱会",
@@ -880,7 +880,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.iqiq.io/52670576/tvbox/main/sub/yanchanghui.txt"
+      "ext": "https://raw.kgithub.com/52670576/tvbox/main/sub/yanchanghui.txt"
     },
     {
       "key": "csp_XBPQ_短视频",
@@ -890,7 +890,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://raw.iqiq.io/52670576/tvbox/main/sub/duanshipin.json"
+      "ext": "https://raw.kgithub.com/52670576/tvbox/main/sub/duanshipin.json"
     },
     {
       "key": "csp_Yj1211",
@@ -905,8 +905,8 @@
       "key": "哔哩直播",
       "name": "🅱️哔哩直播",
       "type": 3,
-      "api": "https://raw.iqiq.io/52670576/tvbox/main/js/lib/drpy2.min.js",
-      "ext": "https://raw.iqiq.io/52670576/tvbox/main/js/blzb.js"
+      "api": "https://raw.kgithub.com/52670576/tvbox/main/js/lib/drpy2.min.js",
+      "ext": "https://raw.kgithub.com/52670576/tvbox/main/js/blzb.js"
     },
     {
       "key": "csp_XYQBiu_斗鱼",
@@ -916,7 +916,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://raw.iqiq.io/52670576/tvbox/main/sub/douyu.json"
+      "ext": "https://raw.kgithub.com/52670576/tvbox/main/sub/douyu.json"
     },
     {
       "key": "csp_xpath_kuqimv",
@@ -926,7 +926,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://raw.iqiq.io/52670576/tvbox/main/sub/kuqimv.json"
+      "ext": "https://raw.kgithub.com/52670576/tvbox/main/sub/kuqimv.json"
     },
     {
       "key": "csp_xpath_A33",
@@ -936,7 +936,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://raw.iqiq.io/52670576/tvbox/main/sub/mtv.json"
+      "ext": "https://raw.kgithub.com/52670576/tvbox/main/sub/mtv.json"
     }
   ],
   //解X设置
