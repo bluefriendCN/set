@@ -1,20 +1,49 @@
-//以下内容来源于互联网，只为自用，如有冒犯，请联系删除
+//以下内容来源于互联网，只为自用，如有冒犯，请联系删除。特别感谢52670576@github
 {
   "wallpaper": "https://epg.112114.xyz/bingimg",
-  "spider": "https://gitee.com/robor/set/raw/main/YSC.jar;md5;573BE8213FA597C2E473C0ADF14B3A82",
+  "spider": "https://gitee.com/robor/tvbox/raw/main/YSC.jar;md5;573BE8213FA597C2E473C0ADF14B3A82",
   "flags": [
-    "qq",    "腾讯",    "企鹅",    "IQiYi",    "qiyi",    "爱奇艺",    "奇艺",
-    "youku",    "YouKu",    "优酷",    "sohu",    "SoHu",    "搜狐",
-    "letv",    "LeShi",    "乐视",    "imgo",    "mgtv",    "MangGuo",    "芒果",
-    "SLYS4k",    "BYGA",    "luanzi",    "AliS",    "dxzy",    "bilibili",    "QEYSS",
-    "xigua",    "西瓜视频",    "腾讯视频",    "奇艺视频",    "优酷视频",    "芒果视频",    "乐视视频"
+    "qq",
+    "腾讯",
+    "企鹅",
+    "IQiYi",
+    "qiyi",
+    "爱奇艺",
+    "奇艺",
+    "youku",
+    "YouKu",
+    "优酷",
+    "sohu",
+    "SoHu",
+    "搜狐",
+    "letv",
+    "LeShi",
+    "乐视",
+    "imgo",
+    "mgtv",
+    "MangGuo",
+    "芒果",
+    "SLYS4k",
+    "BYGA",
+    "luanzi",
+    "AliS",
+    "dxzy",
+    "bilibili",
+    "QEYSS",
+    "xigua",
+    "西瓜视频",
+    "腾讯视频",
+    "奇艺视频",
+    "优酷视频",
+    "芒果视频",
+    "乐视视频"
   ],
   "lives": [
     {
       "group": "TV",
       "channels": [
         {
-          "name": "IPv6",
+          "name": "Live",
           "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
           "logo": "https://epg.112114.xyz/logo/{name}.png",
           "urls": [
@@ -29,46 +58,46 @@
       "key": "豆瓣",
       "name": "🔍豆瓣荐片",
       "type": 3,
-      "api": "https://gitee.com/robor/set/raw/main/js/lib/drpy2.min.js",
+      "api": "https://gitee.com/robor/tvbox/raw/main/js/lib/drpy2.min.js",
       "searchable": 2,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://gitee.com/robor/set/raw/main/js/douban.js"
+      "ext": "https://gitee.com/robor/tvbox/raw/main/js/douban.js"
     },
     {
       "key": "爱奇异",
       "name": "🥝爱奇艺(官)",
       "type": 3,
-      "api": "https://gitee.com/robor/set/raw/main/js/lib/drpy2.min.js",
-      "ext": "https://gitee.com/robor/set/raw/main/js/aiqiyi.js"
+      "api": "https://gitee.com/robor/tvbox/raw/main/js/lib/drpy2.min.js",
+      "ext": "https://gitee.com/robor/tvbox/raw/main/js/aiqiyi.js"
     },
     {
       "key": "优酷",
       "name": "👑优酷(官)",
       "type": 3,
-      "api": "https://gitee.com/robor/set/raw/main/js/lib/drpy2.min.js",
-      "ext": "https://gitee.com/robor/set/raw/main/js/youku.js"
+      "api": "https://gitee.com/robor/tvbox/raw/main/js/lib/drpy2.min.js",
+      "ext": "https://gitee.com/robor/tvbox/raw/main/js/youku.js"
     },
     {
       "key": "腾讯",
       "name": "🐧腾讯(官)",
       "type": 3,
-      "api": "https://gitee.com/robor/set/raw/main/js/lib/drpy2.min.js",
-      "ext": "https://gitee.com/robor/set/raw/main/js/tengxun.js"
+      "api": "https://gitee.com/robor/tvbox/raw/main/js/lib/drpy2.min.js",
+      "ext": "https://gitee.com/robor/tvbox/raw/main/js/tengxun.js"
     },
     {
       "key": "芒果",
       "name": "🥭芒果(官)",
       "type": 3,
-      "api": "https://gitee.com/robor/set/raw/main/js/lib/drpy2.min.js",
-      "ext": "https://gitee.com/robor/set/raw/main/js/mangguo.js"
+      "api": "https://gitee.com/robor/tvbox/raw/main/js/lib/drpy2.min.js",
+      "ext": "https://gitee.com/robor/tvbox/raw/main/js/mangguo.js"
     },
     {
       "key": "搜狗",
       "name": "🐼搜狗(官)",
       "type": 3,
-      "api": "https://gitee.com/robor/set/raw/main/js/lib/drpy2.min.js",
-      "ext": "https://gitee.com/robor/set/raw/main/js/caigou.js"
+      "api": "https://gitee.com/robor/tvbox/raw/main/js/lib/drpy2.min.js",
+      "ext": "https://gitee.com/robor/tvbox/raw/main/js/caigou.js"
     },
     {
       "key": "360影视",
@@ -88,7 +117,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/robor/set/raw/main/py/py_xigua.py"
+      "ext": "https://gitee.com/robor/tvbox/raw/main/py/py_xigua.py"
     },
     {
       "key": "py_cctv",
@@ -98,18 +127,9 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/robor/set/raw/main/py/py_cctv.py"
+      "ext": "https://gitee.com/robor/tvbox/raw/main/py/py_cctv.py"
     },
-    {
-      "key": "布雷蓝光",
-      "name": "⚡布雷┃4K",
-      "type": 3,
-      "api": "csp_BuLei",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://movie.bulei.cc$$$login$$$sdlw1111$$$qqaa1122"
-    },
+    //{"key":"布雷蓝光","name":"⚡布雷┃4K","type":3,"api":"csp_BuLei","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://movie.bulei.cc$$$login$$$860240143$$$123456"},
     {
       "key": "纸条",
       "name": "📜纸条4K",
@@ -147,17 +167,17 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/robor/set/raw/main/sub/LIBVIO.json"
+      "ext": "https://gitee.com/robor/tvbox/raw/main/sub/LIBVIO.json"
     },
     {
       "key": "HDmoli",
-      "name": "💧魔力高清",
+      "name": "🦹魔力高清",
       "type": 3,
       "api": "csp_XYQHiker",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/robor/set/raw/main/sub/HDmoli.json"
+      "ext": "https://gitee.com/robor/tvbox/raw/main/sub/HDmoli.json"
     },
     {
       "key": "爱看影院",
@@ -168,7 +188,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/robor/set/raw/main/sub/aikan.json"
+      "ext": "https://gitee.com/robor/tvbox/raw/main/sub/aikan.json"
     },
     {
       "key": "农民影视",
@@ -178,7 +198,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/robor/set/raw/main/sub/nongmin.json"
+      "ext": "https://gitee.com/robor/tvbox/raw/main/sub/nongmin.json"
     },
     {
       "key": "电影盒子",
@@ -189,7 +209,17 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/robor/set/raw/main/sub/dianyinghezi.json"
+      "ext": "https://gitee.com/robor/tvbox/raw/main/sub/dianyinghezi.json"
+    },
+    {
+      "key": "csp_XYQBiu_磁力熊",
+      "name": "🐻磁力熊",
+      "type": 3,
+      "api": "csp_XYQBiu",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gitee.com/robor/tvbox/raw/main/sub/cilixiong.json"
     },
     {
       "key": "快看",
@@ -207,22 +237,39 @@
       "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://gitee.com/robor/set/raw/main/sub/shenma.json"
+      "filterable": 1,
+      "ext": "https://gitee.com/robor/tvbox/raw/main/sub/shenma.json"
     },
     {
       "key": "UM影院",
       "name": "⏺UM影院",
       "type": 3,
-      "api": "https://gitee.com/robor/set/raw/main/js/lib/drpy2.min.js",
-      "ext": "https://gitee.com/robor/set/raw/main/js/um.js"
+      "api": "https://gitee.com/robor/tvbox/raw/main/js/lib/drpy2.min.js",
+      "ext": "https://gitee.com/robor/tvbox/raw/main/js/um.js"
     },
     {
       "key": "鸭奈飞",
       "name": "🦆鸭奈飞",
       "type": 3,
-      "api": "https://gitee.com/robor/set/raw/main/js/lib/drpy2.min.js",
-      "ext": "https://gitee.com/robor/set/raw/main/js/yanaifei.js"
+      "api": "https://gitee.com/robor/tvbox/raw/main/js/lib/drpy2.min.js",
+      "ext": "https://gitee.com/robor/tvbox/raw/main/js/yanaifei.js"
+    },
+    {
+      "key": "csp_Voflix",
+      "name": "🌀Voflix",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gitee.com/robor/tvbox/raw/main/sub/voflix.json"
+    },
+    {
+      "key": "大豆高清",
+      "name": "💧大豆高清",
+      "type": 3,
+      "api": "https://gitee.com/robor/tvbox/raw/main/js/lib/drpy2.min.js",
+      "ext": "https://gitee.com/robor/tvbox/raw/main/js/dadou.js"
     },
     {
       "key": "csp_Bd",
@@ -244,24 +291,24 @@
       "ext": "dk1YWXFYbkhNbmlsU1JLI01kMFZ0OE1JdzRJQW1yY3I=$$$Y2hpbkpaUzdiTXpYbzZzWQ==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ=="
     },
     {
-      "key": "宝仙HD",
+      "key": "👨‍🌾宝仙HD",
       "name": "👨‍🌾宝仙HD",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://gitee.com/robor/set/raw/main/sub/baoxian.json"
+      "ext": "https://gitee.com/robor/tvbox/raw/main/sub/baoxian.json"
     },
     {
       "key": "饭团影视",
       "name": "🍙饭团影视",
       "type": 3,
-      "api": "https://gitee.com/robor/set/raw/main/js/lib/drpy2.min.js",
+      "api": "https://gitee.com/robor/tvbox/raw/main/js/lib/drpy2.min.js",
       "searchable": 2,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://gitee.com/robor/set/raw/main/js/fantuan.js"
+      "ext": "https://gitee.com/robor/tvbox/raw/main/js/fantuan.js"
     },
     {
       "key": "csp_AppMr",
@@ -286,15 +333,15 @@
       "key": "csp_panghu",
       "name": "🐯胖虎",
       "type": 3,
-      "api": "https://gitee.com/robor/set/raw/main/js/lib/drpy2.min.js",
-      "ext": "https://gitee.com/robor/set/raw/main/js/panghu.js"
+      "api": "https://gitee.com/robor/tvbox/raw/main/js/lib/drpy2.min.js",
+      "ext": "https://gitee.com/robor/tvbox/raw/main/js/panghu.js"
     },
     {
       "key": "101影院",
       "name": "🎞101影院",
       "type": 3,
-      "api": "https://gitee.com/robor/set/raw/main/js/lib/drpy2.min.js",
-      "ext": "https://gitee.com/robor/set/raw/main/js/l0l.js"
+      "api": "https://gitee.com/robor/tvbox/raw/main/js/lib/drpy2.min.js",
+      "ext": "https://gitee.com/robor/tvbox/raw/main/js/l0l.js"
     },
     {
       "key": "csp_Ysgc",
@@ -323,7 +370,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/robor/set/raw/main/sub/shiliu.json"
+      "ext": "https://gitee.com/robor/tvbox/raw/main/sub/shiliu.json"
     },
     {
       "key": "巨人影院",
@@ -333,7 +380,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/robor/set/raw/main/sub/juren.json"
+      "ext": "https://gitee.com/robor/tvbox/raw/main/sub/juren.json"
     },
     {
       "key": "csp_XYQHiker_shuangshi",
@@ -343,24 +390,14 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/robor/set/raw/main/sub/shuangshi.json"
-    },
-    {
-      "key": "csp_Voflix",
-      "name": "🌀Voflix",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gitee.com/robor/set/raw/main/sub/voflix.json"
+      "ext": "https://gitee.com/robor/tvbox/raw/main/sub/shuangshi.json"
     },
     {
       "key": "素白白",
-      "name": "素白白",
+      "name": "💮素白白",
       "type": 3,
-      "api": "https://gitee.com/robor/set/raw/main/js/lib/drpy2.min.js",
-      "ext": "https://gitee.com/robor/set/raw/main/js/subaibai.js"
+      "api": "https://gitee.com/robor/tvbox/raw/main/js/lib/drpy2.min.js",
+      "ext": "https://gitee.com/robor/tvbox/raw/main/js/subaibai.js"
     },
     {
       "key": "csp_Cokemv",
@@ -384,15 +421,8 @@
       "key": "二次萌",
       "name": "🏠二次萌",
       "type": 3,
-      "api": "https://gitee.com/robor/set/raw/main/js/lib/drpy2.min.js",
-      "ext": "https://gitee.com/robor/set/raw/main/js/ercimeng.js"
-    },
-    {
-      "key": "万能影院",
-      "name": "🔷万能影院",
-      "type": 3,
-      "api": "https://gitee.com/robor/set/raw/main/js/lib/drpy2.min.js",
-      "ext": "https://gitee.com/robor/set/raw/main/js/wanneng.js"
+      "api": "https://gitee.com/robor/tvbox/raw/main/js/lib/drpy2.min.js",
+      "ext": "https://gitee.com/robor/tvbox/raw/main/js/ercimeng.js"
     },
     {
       "key": "csp_Nkdy",
@@ -411,7 +441,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/robor/set/raw/main/sub/languang.json"
+      "ext": "https://gitee.com/robor/tvbox/raw/main/sub/languang.json"
     },
     {
       "key": "csp_Bttoo",
@@ -426,8 +456,8 @@
       "key": "人人影视",
       "name": "🍀人人影视",
       "type": 3,
-      "api": "https://gitee.com/robor/set/raw/main/js/lib/drpy2.min.js",
-      "ext": "https://gitee.com/robor/set/raw/main/js/renren.js"
+      "api": "https://gitee.com/robor/tvbox/raw/main/js/lib/drpy2.min.js",
+      "ext": "https://gitee.com/robor/tvbox/raw/main/js/renren.js"
     },
     {
       "key": "csp_AppYsV2",
@@ -443,29 +473,29 @@
       "key": "看看电影",
       "name": "🍀看看电影",
       "type": 3,
-      "api": "https://gitee.com/robor/set/raw/main/js/lib/drpy2.min.js",
-      "ext": "https://gitee.com/robor/set/raw/main/js/kankandianying.js"
+      "api": "https://gitee.com/robor/tvbox/raw/main/js/lib/drpy2.min.js",
+      "ext": "https://gitee.com/robor/tvbox/raw/main/js/kankandianying.js"
     },
     {
       "key": "兄弟影视",
       "name": "🍀兄弟影视",
       "type": 3,
-      "api": "https://gitee.com/robor/set/raw/main/js/lib/drpy2.min.js",
-      "ext": "https://gitee.com/robor/set/raw/main/js/xiongdiyingshi.js"
+      "api": "https://gitee.com/robor/tvbox/raw/main/js/lib/drpy2.min.js",
+      "ext": "https://gitee.com/robor/tvbox/raw/main/js/xiongdiyingshi.js"
     },
     {
       "key": "大师兄影视",
       "name": "🍀大师兄影视",
       "type": 3,
-      "api": "https://gitee.com/robor/set/raw/main/js/lib/drpy2.min.js",
-      "ext": "https://gitee.com/robor/set/raw/main/js/dashixiongyingshi.js"
+      "api": "https://gitee.com/robor/tvbox/raw/main/js/lib/drpy2.min.js",
+      "ext": "https://gitee.com/robor/tvbox/raw/main/js/dashixiongyingshi.js"
     },
     {
       "key": "创艺影视",
       "name": "🍀创艺影视",
       "type": 3,
-      "api": "https://gitee.com/robor/set/raw/main/js/lib/drpy2.min.js",
-      "ext": "https://gitee.com/robor/set/raw/main/js/chuangyi.js"
+      "api": "https://gitee.com/robor/tvbox/raw/main/js/lib/drpy2.min.js",
+      "ext": "https://gitee.com/robor/tvbox/raw/main/js/chuangyi.js"
     },
     {
       "key": "咕噜咕噜",
@@ -475,7 +505,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://gitee.com/robor/set/raw/main/sub/gulugulu.json"
+      "ext": "https://gitee.com/robor/tvbox/raw/main/sub/gulugulu.json"
     },
     {
       "key": "乐猪",
@@ -485,7 +515,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/robor/set/raw/main/sub/lezhu.json"
+      "ext": "https://gitee.com/robor/tvbox/raw/main/sub/lezhu.json"
     },
     {
       "key": "无名小站",
@@ -495,7 +525,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/robor/set/raw/main/sub/wumingxiaozhan.json"
+      "ext": "https://gitee.com/robor/tvbox/raw/main/sub/wumingxiaozhan.json"
     },
     {
       "key": "真不卡",
@@ -505,7 +535,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/robor/set/raw/main/sub/zhenbuka.json"
+      "ext": "https://gitee.com/robor/tvbox/raw/main/sub/zhenbuka.json"
     },
     {
       "key": "映迷影院",
@@ -515,7 +545,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/robor/set/raw/main/sub/yingmiyingyuan.json"
+      "ext": "https://gitee.com/robor/tvbox/raw/main/sub/yingmiyingyuan.json"
     },
     {
       "key": "皮皮鸭",
@@ -525,7 +555,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/robor/set/raw/main/sub/pipiya.json"
+      "ext": "https://gitee.com/robor/tvbox/raw/main/sub/pipiya.json"
     },
     {
       "key": "野荷塘影院",
@@ -535,7 +565,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/robor/set/raw/main/sub/yehetang.json"
+      "ext": "https://gitee.com/robor/tvbox/raw/main/sub/yehetang.json"
     },
     {
       "key": "达达龟",
@@ -545,7 +575,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://gitee.com/robor/set/raw/main/sub/dadagui.json"
+      "ext": "https://gitee.com/robor/tvbox/raw/main/sub/dadagui.json"
     },
     {
       "key": "csp_Czsapp",
@@ -598,8 +628,8 @@
       "key": "喜马拉雅",
       "name": "👂喜马拉雅",
       "type": 3,
-      "api": "https://gitee.com/robor/set/raw/main/js/lib/drpy2.min.js",
-      "ext": "https://gitee.com/robor/set/raw/main/js/ximalaya.js"
+      "api": "https://gitee.com/robor/tvbox/raw/main/js/lib/drpy2.min.js",
+      "ext": "https://gitee.com/robor/tvbox/raw/main/js/ximalaya.js"
     },
     {
       "key": "有声小说吧",
@@ -609,14 +639,14 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/robor/set/raw/main/sub/youshengxiaoshuoba.json"
+      "ext": "https://gitee.com/robor/tvbox/raw/main/sub/youshengxiaoshuoba.json"
     },
     {
       "key": "海洋听书",
       "name": "👂海洋听书",
       "type": 3,
-      "api": "https://gitee.com/robor/set/raw/main/js/lib/drpy2.min.js",
-      "ext": "https://gitee.com/robor/set/raw/main/js/haiyangtingshu.js"
+      "api": "https://gitee.com/robor/tvbox/raw/main/js/lib/drpy2.min.js",
+      "ext": "https://gitee.com/robor/tvbox/raw/main/js/haiyangtingshu.js"
     },
     {
       "key": "csp_Anime1",
@@ -663,7 +693,7 @@
       "quickSearch": 0,
       "filterable": 1,
       "changeable": 0,
-      "ext": "https://gitee.com/robor/set/raw/main/sub/Alist.json"
+      "ext": "https://gitee.com/robor/tvbox/raw/main/sub/Alist.json"
     },
     {
       "key": "阿里云盘",
@@ -756,41 +786,41 @@
       "key": "88看球",
       "name": "⚽88看球",
       "type": 3,
-      "api": "https://gitee.com/robor/set/raw/main/js/lib/drpy2.min.js",
+      "api": "https://gitee.com/robor/tvbox/raw/main/js/lib/drpy2.min.js",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://gitee.com/robor/set/raw/main/js/88kanqiu.js"
+      "ext": "https://gitee.com/robor/tvbox/raw/main/js/88kanqiu.js"
     },
     {
       "key": "JRKAN直播",
       "name": "⚽JRKAN直播",
       "type": 3,
-      "api": "https://gitee.com/robor/set/raw/main/js/lib/drpy.min.js",
+      "api": "https://gitee.com/robor/tvbox/raw/main/js/lib/drpy2.min.js",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://gitee.com/robor/set/raw/main/js/jrkanzhibo.js"
+      "ext": "https://gitee.com/robor/tvbox/raw/main/js/jrkan.js"
     },
     {
       "key": "虎牙直播",
       "name": "🐯虎牙直播",
       "type": 3,
-      "api": "https://gitee.com/robor/set/raw/main/js/lib/drpy2.min.js",
+      "api": "https://gitee.com/robor/tvbox/raw/main/js/lib/drpy2.min.js",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://gitee.com/robor/set/raw/main/js/huyazhibo.js"
+      "ext": "https://gitee.com/robor/tvbox/raw/main/js/huyazhibo.js"
     },
     {
       "key": "兔小贝",
       "name": "🐰兔小贝",
       "type": 3,
-      "api": "https://gitee.com/robor/set/raw/main/js/lib/drpy2.min.js",
+      "api": "https://gitee.com/robor/tvbox/raw/main/js/lib/drpy2.min.js",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://gitee.com/robor/set/raw/main/js/tuxiaobei.js"
+      "ext": "https://gitee.com/robor/tvbox/raw/main/js/tuxiaobei.js"
     },
     {
       "key": "高中教育",
@@ -800,7 +830,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://gitee.com/robor/set/raw/main/sub/Blixt.json"
+      "ext": "https://gitee.com/robor/tvbox/raw/main/sub/Blixt.json"
     },
     {
       "key": "学外语",
@@ -810,7 +840,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://gitee.com/robor/set/raw/main/sub/waiyu.json"
+      "ext": "https://gitee.com/robor/tvbox/raw/main/sub/waiyu.json"
     },
     {
       "key": "软件教程",
@@ -820,7 +850,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://gitee.com/robor/set/raw/main/sub/jiaocheng.json"
+      "ext": "https://gitee.com/robor/tvbox/raw/main/sub/jiaocheng.json"
     },
     {
       "key": "哔哩哔哩",
@@ -830,7 +860,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://gitee.com/robor/set/raw/main/sub/Bili.json"
+      "ext": "https://gitee.com/robor/tvbox/raw/main/sub/Bili.json"
     },
     {
       "key": "相声小品",
@@ -840,7 +870,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://gitee.com/robor/set/raw/main/sub/Blixs.json"
+      "ext": "https://gitee.com/robor/tvbox/raw/main/sub/Blixs.json"
     },
     {
       "key": "戏 曲",
@@ -850,7 +880,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://gitee.com/robor/set/raw/main/sub/Blixq.json"
+      "ext": "https://gitee.com/robor/tvbox/raw/main/sub/Blixq.json"
     },
     {
       "key": "歌曲MV",
@@ -860,7 +890,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://gitee.com/robor/set/raw/main/sub/gequ.txt"
+      "ext": "https://gitee.com/robor/tvbox/raw/main/sub/gequ.txt"
     },
     {
       "key": "女团热舞",
@@ -870,7 +900,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/robor/set/raw/main/sub/nvtuanrewu.json"
+      "ext": "https://gitee.com/robor/tvbox/raw/main/sub/nvtuanrewu.json"
     },
     {
       "key": "演唱会",
@@ -880,7 +910,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/robor/set/raw/main/sub/yanchanghui.txt"
+      "ext": "https://gitee.com/robor/tvbox/raw/main/sub/yanchanghui.txt"
     },
     {
       "key": "csp_XBPQ_短视频",
@@ -890,7 +920,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://gitee.com/robor/set/raw/main/sub/duanshipin.json"
+      "ext": "https://gitee.com/robor/tvbox/raw/main/sub/duanshipin.json"
     },
     {
       "key": "csp_Yj1211",
@@ -905,8 +935,8 @@
       "key": "哔哩直播",
       "name": "🅱️哔哩直播",
       "type": 3,
-      "api": "https://gitee.com/robor/set/raw/main/js/lib/drpy2.min.js",
-      "ext": "https://gitee.com/robor/set/raw/main/js/blzb.js"
+      "api": "https://gitee.com/robor/tvbox/raw/main/js/lib/drpy2.min.js",
+      "ext": "https://gitee.com/robor/tvbox/raw/main/js/blzb.js"
     },
     {
       "key": "csp_XYQBiu_斗鱼",
@@ -916,7 +946,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://gitee.com/robor/set/raw/main/sub/douyu.json"
+      "ext": "https://gitee.com/robor/tvbox/raw/main/sub/douyu.json"
     },
     {
       "key": "csp_xpath_kuqimv",
@@ -926,7 +956,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://gitee.com/robor/set/raw/main/sub/kuqimv.json"
+      "ext": "https://gitee.com/robor/tvbox/raw/main/sub/kuqimv.json"
     },
     {
       "key": "csp_xpath_A33",
@@ -936,10 +966,9 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://gitee.com/robor/set/raw/main/sub/mtv.json"
+      "ext": "https://gitee.com/robor/tvbox/raw/main/sub/mtv.json"
     }
   ],
-  //解X设置
   "parses": [
     {
       "name": "默认",
