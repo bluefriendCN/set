@@ -9,7 +9,7 @@
     {
       "name": "TV_Live",
       "type": 0,
-      "url": "https://raw.iqiq.io/bluefriendCN/tvbox/main/live.txt",
+      "url": "https://gitee.com/robor/set/raw/main/live.txt",
       "epg": "http://diyp.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png",
       "playerType": 1,
