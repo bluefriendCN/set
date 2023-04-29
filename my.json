@@ -10,7 +10,7 @@
       "name": "TV_Live",
       "type": 0,
       "url": "https://gitee.com/robor/set/raw/main/live.txt",
-      "epg": "http://epg.112114.xyz/?channel_name={name}&data={data},
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png",
       "playerType": 1,
       "boot": false
