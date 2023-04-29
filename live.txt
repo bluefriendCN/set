@@ -64,16 +64,18 @@ CETV4,http://txycsbl.centv.cn/zb/0822cetv4.m3u8
 凤凰香港,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226251/index.m3u8#http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226251/index.m3u8
 凤凰中文,http://playtimeshift-live.ifeng.com:80/timeshift/live/06OLEGEGM4G/timeshift.m3u8?txKbps=702&delay=300
 凤凰资讯,http://playtimeshift-live.ifeng.com:80/timeshift/live/06OLEEWQKN4/timeshift.m3u8?txKbps=702&delay=300
-TVB翡翠台,http://r.jdshipin.com/62WM7#http://162.19.247.76:22222/live/tvbfc/index.m3u8
-TVB明珠,http://r.jdshipin.com/ZQ4kN#https://cdn.hklive.tv/xxxx/84/index.m3u8
-TVB翡翠华丽,http://23.237.10.66:16410
-TVB财经体育资讯台,https://p2.weizan.cn/1646497941/269664979080385265/live.m3u8
+TVB翡翠台,https://cdn.hklive.tv/xxxx/81/index.m3u8#http://r.jdshipin.com/62WM7#http://162.19.247.76:22222/live/tvbfc/index.m3u8
+TVB明珠台,https://cdn.hklive.tv/xxxx/84/index.m3u8#http://r.jdshipin.com/ZQ4kN
+TVB财经体育资讯台,https://cdn.hklive.tv/xxxx/85/index.m3u8
 TVB J2,https://cdn.hklive.tv/xxxx/82/index.m3u8
-TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
-卫视电影台,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941625
-卫视中文台,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941624
-国家地理频道,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941665
-国家地理野生频道,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941664
+HOY,https://cdn.hklive.tv/xxxx/77/index.m3u8
+HOY资讯台,https://cdn.hklive.tv/xxxx/78/index.m3u8
+无线新闻台,https://cdn.hklive.tv/xxxx/83/index.m3u8
+ViU6,https://cdn.hklive.tv/xxxx/96/index.m3u8
+ViU,https://cdn.hklive.tv/xxxx/99/index.m3u8
+香港新闻台,https://cdn.hklive.tv/xxxx/109/index.m3u8
+香港国际财经台,https://cdn.hklive.tv/xxxx/76/index.m3u8
+香港财经咨询台,https://cdn.hklive.tv/xxxx/108/index.m3u8
 点掌财经,http://cclive2.aniu.tv/live/anzb.m3u8
 耀才财经,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
 澳门莲花,http://anren.live/HK/BiIOU11uLA.m3u8
@@ -326,15 +328,15 @@ Nostalgia,http://51.210.199.20/hls/stream.m3u8
 Technology,http://51.210.199.25/hls/stream.m3u8
 Channel News Asia,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 OAN (1080p),http://oneamericanews-roku-us.amagi.tv/playlist.m3u8
-美·NASA Public Channel,https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
-俄·IGITV蓝光,http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
-NHK-WORLD,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
-NHK,http://123.51.230.108:18525/.m3u8
-韩国-Arirang,http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-韩国-BBS,http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8
-韩国-KCTV_HV2,http://119.77.96.184:1935/chn05/chn05/chunklist_w1306745753.m3u8
-韩国-MBC综合频道,http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
-韩国-NBS Korea Agricultural Broadc,https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
+美NASA Public Channel,https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
+俄IGITV蓝光,http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
+日NHK-WORLD,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
+日NHK,http://123.51.230.108:18525/.m3u8
+韩Arirang,http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+韩BBS,http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8
+韩KCTV_HV2,http://119.77.96.184:1935/chn05/chn05/chunklist_w1306745753.m3u8
+韩MBC综合频道,http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
+韩NBS Korea Agricultural Broadc,https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
 
 特色,#genre#
 纪实人文,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225654/2/index.m3u8
@@ -349,7 +351,6 @@ NHK,http://123.51.230.108:18525/.m3u8
 百姓调解,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226581/index.m3u8
 中华特产,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226585/index.m3u8
 国学频道,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226629/index.m3u8
-陶瓷高清,https://live.v1.mk/api/bestv.php?id=taocihd/8000000
 书法,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226343/index.m3u8
 靓妆,https://xuyi-tv-replay.cm.jstv.com/lizhiapp/jslz.m3u8
 嘉佳卡通,https://live.v1.mk/api/sxg.php?id=jjkt_2000
@@ -369,10 +370,6 @@ NHK,http://123.51.230.108:18525/.m3u8
 中央新影-发现之旅,https://live.v1.mk/api/sxg.php?id=fxzl_2000
 中央新影-老故事,https://live.v1.mk/api/sxg.php?id=lgs_2000
 中央新影-中学生,https://live.v1.mk/api/sxg.php?id=zxs_4000
-CBN风尚生活,https://live.v1.mk/api/sxg.php?id=fssh_4000
-CBN每日影院,https://live.v1.mk/api/sxg.php?id=mryy_4000
-CBN幸福剧场,https://live.v1.mk/api/sxg.php?id=xfjc_4000
-CBN幸福娱乐,https://live.v1.mk/api/sxg.php?id=xfyl_4000
 
 UHD,#genre#
 纯享4K,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225786/index.m3u8
