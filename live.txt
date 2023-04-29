@@ -1,5 +1,5 @@
 央视,#genre#
-CCTV1,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225642/index.m3u8
+CCTV1综合,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225642/index.m3u8
 CCTV2财经,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225643/index.m3u8
 CCTV3综艺,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225634/index.m3u8
 CCTV4中文国际,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225621/index.m3u8
@@ -14,12 +14,12 @@ CCTV12社会与法,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/
 CCTV13新闻,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225638/index.m3u8
 CCTV14少儿,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225640/index.m3u8
 CCTV15音乐,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225641/index.m3u8
-CCTV16,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226230/index.m3u8
+CCTV16奥林匹克,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226230/index.m3u8
 CCTV17农业农村,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225909/index.m3u8
 CCTV5+体育赛事,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225706/index.m3u8
 CCTV4K超高清,http://113.207.84.197:8090/__cl/cg:live/__c/CCTV4K/__op/default/__f/index.m3u8#https://live.v1.mk/api/bestv.php?id=cctv4k/15000000
 
-CCTV1,https://live.v1.mk/api/bestv.php?id=cctv1hd8m/8000000
+CCTV1综合,https://live.v1.mk/api/bestv.php?id=cctv1hd8m/8000000
 CCTV2财经,https://live.v1.mk/api/bestv.php?id=cctv2hd8m/8000000
 CCTV3综艺,https://live.v1.mk/api/bestv.php?id=cctv38m/8000000
 CCTV4中文国际,https://live.v1.mk/api/bestv.php?id=cctv4hd8m/8000000
@@ -34,7 +34,7 @@ CCTV12社会与法,https://live.v1.mk/api/bestv.php?id=cctv12hd8m/8000000
 CCTV13新闻,https://live.v1.mk/api/bestv.php?id=cctv13xwhd8m/8000000
 CCTV14少儿,https://live.v1.mk/api/bestv.php?id=cctvsehd8m/8000000
 CCTV15音乐,https://live.v1.mk/api/bestv.php?id=cctv15hd8m/8000000
-CCTV16,https://live.v1.mk/api/bestv.php?id=cctv16hd8m/8000000
+CCTV16奥林匹克,https://live.v1.mk/api/bestv.php?id=cctv16hd8m/8000000
 CCTV17农业农村,https://live.v1.mk/api/bestv.php?id=cctv17hd8m/8000000
 CCTV5+体育赛事,https://live.v1.mk/api/bestv.php?id=cctv5phd8m/8000000
 兵器科技,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226975/index.m3u8
