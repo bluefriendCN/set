@@ -89,7 +89,7 @@
     {"key":"易搜","name": "🖥易搜","type": 3,"api": "csp_YiSo","searchable": 1,"filterable": 0,"changeable": 0,"ext": "http://127.0.0.1:9978/file/tvbox/tok.txt"},
     {"key":"盘搜","name": "🖥盘搜","type": 3,"api": "csp_PanSou","searchable": 1,"filterable": 0,"changeable": 0,"ext": "http://127.0.0.1:9978/file/tvbox/tok.txt"},
     {"key":"UP云搜","name": "☁️UP云搜","type": 3,"api": "csp_UpYun","searchable": 1,"filterable": 0,"changeable": 0,"ext": "http://127.0.0.1:9978/file/tvbox/tok.txt"},
-    {"key":"找资源","name": "🖥找资源","type": 3,"api": "csp_Zhaozy","searchable": 1,"filterable": 0,"changeable": 0,"ext": "http://127.0.0.1:9978/file/tvbox/tok.txt"},
+    {"key":"找资源","name": "🖥找资源","type": 3,"api": "csp_Zhaozy","searchable": 1,"filterable": 0,"changeable": 0,"ext": "http://127.0.0.1:9978/file/tvbox/tok.txt$$$yunshuche$$$11223344"},
     {"key":"push_agent","name":"🍭推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"filterable":0,"ext": "http://127.0.0.1:9978/file/tvbox/tok.txt"},
     {"key":"csp_NiNi","name":"👑泥巴(墙外)","type":3,"api":"csp_NiNi","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"兔小贝","name":"🐰兔小贝","type":3,"api":"https://gitee.com/robor/tvbox/raw/main/js/lib/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gitee.com/robor/tvbox/raw/main/js/tuxiaobei.js"},
