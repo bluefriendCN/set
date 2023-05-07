@@ -50,6 +50,9 @@ CCTV17农业农村,https://live.goodiptv.club/api/bestv.php?id=cctv17hd8m/800000
 风云音乐,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226953/index.m3u8
 风云足球,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226984/index.m3u8
 电视指南,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226987/index.m3u8
+CHC动作电影,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002055/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CHC家庭影院,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CHC高清电影,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CETV1,http://txycetvbl.centv.cn/cetv1/ypd.m3u8
 CETV2,http://txycetvbl.centv.cn/cetv2/2020tsytk.m3u8
 CETV3,http://txycetvbl.centv.cn/cetv3/bjdm.m3u8
@@ -65,11 +68,11 @@ CETV4,http://txycsbl.centv.cn/zb/0822cetv4.m3u8
 凤凰香港,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226251/index.m3u8#http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226251/index.m3u8
 凤凰中文,http://playtimeshift-live.ifeng.com:80/timeshift/live/06OLEGEGM4G/timeshift.m3u8?txKbps=702&delay=300
 凤凰资讯,http://playtimeshift-live.ifeng.com:80/timeshift/live/06OLEEWQKN4/timeshift.m3u8?txKbps=702&delay=300
-翡翠華麗台,http://2022.stream-link.org/tv/1245920974
 TVB翡翠台,http://r.jdshipin.com/62WM7#http://r.jdshipin.com/qClQf#http://2022.stream-link.org/tv/992054131
-TVB明珠台,https://cdn.hklive.tv/xxxx/84/index.m3u8#http://r.jdshipin.com/ZQ4kN
-TVB财经体育资讯台,http://2022.stream-link.org/tv/1883767101
-TVB J2,http://2022.stream-link.org/tv/1446008319
+TVB明珠台,http://r.jdshipin.com/ZQ4kN
+翡翠華麗台,http://2022.stream-link.org/tv/1245920974
+财经体育资讯台,http://2022.stream-link.org/tv/1883767101
+J2,http://2022.stream-link.org/tv/1446008319
 無綫新聞台,http://2022.stream-link.org/tv/797500227
 港台电视31,http://2022.stream-link.org/tv/1412822772
 港台电视32,http://2022.stream-link.org/tv/262124223
@@ -78,50 +81,36 @@ TVB J2,http://2022.stream-link.org/tv/1446008319
 香港開電視,http://2022.stream-link.org/tv/914130259
 香港開電視資訊台,http://2022.stream-link.org/tv/781469440
 香港國際財經台,http://2022.stream-link.org/tv/913715989
-ABC News Australia,http://2022.stream-link.org/tv/173339455
-ABC News,http://2022.stream-link.org/tv/573116716
-ANN News,http://2022.stream-link.org/tv/2598760
-Asianet News,http://2022.stream-link.org/tv/904803719
-CNA News,http://2022.stream-link.org/tv/44250289
-DW News,http://2022.stream-link.org/tv/29001492
-EURO News,http://2022.stream-link.org/tv/785800675
-France 24 English,http://2022.stream-link.org/tv/1996205982
-GB News,http://2022.stream-link.org/tv/2092154208
-Haber Turk,http://2022.stream-link.org/tv/2077582607
-NBC News,http://2022.stream-link.org/tv/596811646
-SKY News,http://2022.stream-link.org/tv/918685499
-HOY,https://cdn.hklive.tv/xxxx/77/index.m3u8
-HOY资讯台,https://cdn.hklive.tv/xxxx/78/index.m3u8
-ViU6,https://cdn.hklive.tv/xxxx/96/index.m3u8
-ViU,https://cdn.hklive.tv/xxxx/99/index.m3u8
 点掌财经,http://cclive2.aniu.tv/live/anzb.m3u8
 耀才财经,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
+ViU6,https://cdn.hklive.tv/xxxx/96/index.m3u8
+ViU,https://cdn.hklive.tv/xxxx/99/index.m3u8
 澳门莲花,http://anren.live/HK/BiIOU11uLA.m3u8
 大爱,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 大爱2,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 东风卫视,http://123.51.230.108:18560/.m3u8
-东森戏剧,http://123.51.230.108:18538/.m3u8
 龙华戏剧,http://123.51.230.108:8509/.m3u8
-民視新聞HD,http://123.51.230.108:18663/.m3u8
+民視新聞,http://123.51.230.108:18663/.m3u8
+东森戏剧,http://123.51.230.108:18538/.m3u8
 東森新聞,http://2023.stream-link.org/tv/1919365097
 東森財經新聞,http://2023.stream-link.org/tv/203448254
-華視新聞,http://2023.stream-link.org/tv/686953698
-中天新聞,http://2023.stream-link.org/tv/280231259
+東森yoyo,http://2023.stream-link.org/tv/1099757482
 中視新聞,http://2023.stream-link.org/tv/389451789
+華視新聞,http://2023.stream-link.org/tv/686953698
 民視新聞,http://2023.stream-link.org/tv/727114305
+台視新聞,http://2023.stream-link.org/tv/723728651
+台視,http://2023.stream-link.org/tv/1558743392
 寰宇國際新聞,http://2023.stream-link.org/tv/538334982
 寰宇台灣新聞,http://2023.stream-link.org/tv/1008347635
 三立財經新聞,http://2023.stream-link.org/tv/2011233628
 三立新聞,http://2023.stream-link.org/tv/1698256848
 三立新聞+,http://2023.stream-link.org/tv/728100935
-台視新聞,http://2023.stream-link.org/tv/723728651
 TVBS新聞,http://2023.stream-link.org/tv/2083798658
 TVBS財經,http://2023.stream-link.org/tv/342221541
+中天新聞,http://2023.stream-link.org/tv/280231259
 中天綜合台,http://2023.stream-link.org/tv/357535870
 中天亞洲台,http://2023.stream-link.org/tv/973103771
-台視,http://2023.stream-link.org/tv/1558743392
 天才衝衝衝,http://2023.stream-link.org/tv/1210311184
-東森yoyo,http://2023.stream-link.org/tv/1099757482
 
 TVB翡翠台,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=571187&extension=ts
 TVB星河频道,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=571186&extension=ts
@@ -129,9 +118,6 @@ TVB经典台,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=5711
 TVB娱乐新闻台,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=571188&extension=ts
 卫视电影台,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941625
 卫视中文台,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941624
-国家地理频道,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941665
-国家地理野生频道,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941664
-History,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941661
 
 卫视,#genre#
 北京卫视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225674/index.m3u8
@@ -210,9 +196,9 @@ CCTV16 4K,https://live.goodiptv.club/api/bestv.php?id=cctv16hd4k/15000000
 CCTV16 4K,http://113.207.84.197:8090/__cl/cg:live/__c/CCTV16_4K/__op/default/__f/index.m3u8
 CCTV16 4K,http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaibox.com/PLTV/3/224/3221228127/index.m3u8
 咪咕NBA,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226235/index.m3u8
-咪咕2,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226238/index.m3u8
+咪咕直播,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226238/index.m3u8
 咪咕足球,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226240/index.m3u8
-咪咕4,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226241/index.m3u8
+咪咕备播,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226241/index.m3u8
 咪咕CBA,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226243/index.m3u8
 咪咕健身,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226261/index.m3u8
 足球频道,https://nmglive.imfc.cn/5n1r1c/182396.m3u8
@@ -237,9 +223,6 @@ BesTV,http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/000000010000000600000000000003
 求索科学,http://[2409:8087:4402:20:1:1216:401:46]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226115/index.m3u8
 求索生活,http://[2409:8087:4402:20:1:1216:401:43]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226116/index.m3u8
 求索动物,http://[2409:8087:4402:20:1:1216:401:41]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226118/index.m3u8
-CHC动作电影,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002055/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CHC家庭影院,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CHC高清电影,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 黑莓电影,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225718/2/index.m3u8
 黑莓电影,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225718/index.m3u8
 黑莓动画,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225672/2/index.m3u8
@@ -384,7 +367,24 @@ CGTN阿语,https://livear.cgtn.com/1000a/prog_index.m3u8
 亚洲新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 金砖中文,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
 美国中文,https://jpts.sinovision.net/livestream.m3u8
+FTV,https://fashiontv-fashiontv-4-de.samsung.wurl.com/manifest/playlist_1920x1080_4200k.m3u8
+FashionTV,http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8#http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8
+FashionTV,http://lb.streaming.sk/fashiontv/stream/chunklist_w1402273512.m3u8
 ABC新闻,http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/chunklist_b1300000.m3u8
+ABC News Australia,http://2022.stream-link.org/tv/173339455
+ABC News,http://2022.stream-link.org/tv/573116716
+ANN News,http://2022.stream-link.org/tv/2598760
+Asianet News,http://2022.stream-link.org/tv/904803719
+CNA News,http://2022.stream-link.org/tv/44250289
+DW News,http://2022.stream-link.org/tv/29001492
+EURO News,http://2022.stream-link.org/tv/785800675
+France 24 English,http://2022.stream-link.org/tv/1996205982
+GB News,http://2022.stream-link.org/tv/2092154208
+Haber Turk,http://2022.stream-link.org/tv/2077582607
+NBC News,http://2022.stream-link.org/tv/596811646
+SKY News,http://2022.stream-link.org/tv/918685499
+国家地理频道,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941665
+国家地理野生频道,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941664
 History,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941661
 CNN,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941690
 BBC World News,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941693
@@ -394,9 +394,6 @@ EuroNews,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&st
 Bloomberg,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941692
 NewsmaxTV,http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 AlarabyTV,https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/playlist.m3u8
-FTV,https://fashiontv-fashiontv-4-de.samsung.wurl.com/manifest/playlist_1920x1080_4200k.m3u8
-FashionTV,http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8#http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8
-FashionTV,http://lb.streaming.sk/fashiontv/stream/chunklist_w1402273512.m3u8
 Comedy,http://51.210.199.27/hls/stream.m3u8
 Documentary,http://51.210.199.23/hls/stream.m3u8
 Family,http://51.210.199.19/hls/stream.m3u8
