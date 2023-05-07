@@ -18,7 +18,7 @@ CCTV16奥林匹克,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/
 CCTV17农业农村,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225909/index.m3u8
 CCTV5+体育赛事,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225706/index.m3u8
 CCTV4K超高清,https://live.goodiptv.club/api/bestv.php?id=cctv4k/15000000#http://113.207.84.197:8090/__cl/cg:live/__c/CCTV4K/__op/default/__f/index.m3u8
-CCTV8K超高清,http://[2409:8087:2001:20:2800:0:df6e:eb03]/wh7f454c46tw1981574683_-2118700426/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8?icpid=3&RTS=1659435610&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3
+CCTV8K超高清,http://[2409:8087:2001:20:2800:0:df6e:eb02]/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8
 
 CCTV1综合,https://live.goodiptv.club/api/bestv.php?id=cctv1hd8m/8000000
 CCTV2财经,https://live.goodiptv.club/api/bestv.php?id=cctv2hd8m/8000000
@@ -73,7 +73,7 @@ TVB翡翠台,http://r.jdshipin.com/62WM7#http://r.jdshipin.com/qClQf#http://2022
 TVB明珠台,http://r.jdshipin.com/ZQ4kN
 TVB星河,http://r.jdshipin.com/sXuuD
 華麗翡翠台,http://2022.stream-link.org/tv/1245920974
-财经体育资讯台,http://2022.stream-link.org/tv/1883767101
+财经体育资讯台,http://120.84.96.103:808/hls/86/index.m3u8
 J2,http://r.jdshipin.com/Nr5jq#http://r.jdshipin.com/ndGgS
 無綫新聞台,http://2022.stream-link.org/tv/797500227
 港台电视31,http://2022.stream-link.org/tv/1412822772
@@ -93,6 +93,7 @@ Viu,http://r.jdshipin.com/vSJvl
 东风卫视,http://123.51.230.108:18560/.m3u8
 龙华戏剧,http://123.51.230.108:8509/.m3u8
 东森戏剧,http://123.51.230.108:18538/.m3u8
+东森洋片,http://120.84.96.109:808/hls/33/index.m3u8
 東森新聞,http://2023.stream-link.org/tv/1919365097
 東森財經新聞,http://2023.stream-link.org/tv/203448254
 東森yoyo,http://2023.stream-link.org/tv/1099757482
@@ -101,7 +102,7 @@ TVBS財經,http://2023.stream-link.org/tv/342221541
 中視新聞,http://2023.stream-link.org/tv/389451789
 華視新聞,http://2023.stream-link.org/tv/686953698
 民視新聞,http://123.51.230.108:18663/.m3u8
-民視新聞,http://2023.stream-link.org/tv/727114305
+民視新聞,http://120.84.96.109:808/hls/34/index.m3u8
 台視新聞,http://2023.stream-link.org/tv/723728651
 台視,http://2023.stream-link.org/tv/1558743392
 寰宇國際新聞,http://2023.stream-link.org/tv/538334982
@@ -113,7 +114,9 @@ TVBS財經,http://2023.stream-link.org/tv/342221541
 中天綜合台,http://2023.stream-link.org/tv/357535870
 中天亞洲台,http://2023.stream-link.org/tv/973103771
 天才衝衝衝,http://2023.stream-link.org/tv/1210311184
-
+24[1920x1080],http://120.84.96.109:808/hls/24/index.m3u8
+84[1920x1080],http://120.84.96.109:808/hls/84/index.m3u8
+CCM,http://120.84.96.109:808/hls/85/index.m3u8
 TVB翡翠台,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=571187&extension=ts
 TVB经典台,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=571197&extension=ts
 TVB娱乐新闻台,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=571188&extension=ts
@@ -416,10 +419,12 @@ OAN (1080p),http://oneamericanews-roku-us.amagi.tv/playlist.m3u8
 HBO2,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 
 UHD,#genre#
+CCTV1-4K,http://[2409:8087:2001:20:2800:0:df6e:eb02]/ott.mobaibox.com/PLTV/4/224/3221227896/index.m3u8
 纯享4K,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225786/index.m3u8
 欢笑剧场4K,https://live.goodiptv.club/api/bestv.php?id=hxjc4k/15000000#http://113.207.84.197:8090/__cl/cg:live/__c/hxjc_4K/__op/default/__f/index.m3u8
 超高清电影4K,http://r.jdshipin.com/5DWJk
-影视4K,http://nas.jdshipin.com:8801/4kys.php
+修复4K,http://[2409:8087:2001:20:2800:0:df6e:eb14]/ott.mobaibox.com/PLTV/3/224/3221228141/index.m3u8?$7M2160HEVC
+影视4K,http://zteres.sn.chinamobile.com:6060/000000001000/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=3
 北京4K,http://221.179.217.76/PLTV/88888888/224/3221226550/1.m3u8
 广东4K,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=18581519202&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=004bfc8f56cd2797&cid=364&id=GDZYHD4K_38000
 河南4K,http://[2409:8087:4400:20:1:a0f:12:33]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226526/index.m3u8
@@ -428,5 +433,5 @@ UHD,#genre#
 爱上4K,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001709/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 BesTV4K,http://[2409:8087:5e01:34::30]:6610/ZTE_CMS/00000001000000060000000000000202/index.m3u8?IAS
 BesTV4K,http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000196/index.m3u8?IAS
-江苏8K,http://[2409:8087:2001:20:2800:0:df6e:eb04]/wh7f454c46tw1782571424_-1576923679/ott.mobaibox.com/PLTV/3/224/3221228132/index.m3u8?icpid=3&RTS=1674188624&from=40&popid=40&hms_devid=2041&prioritypopid=40&vqe=3
-BTV纪实科教8K,http://159.75.85.63:6798
+江苏8K测试,http://[2409:8087:2001:20:2800:0:df6e:eb04]/ott.mobaibox.com/PLTV/3/224/3221228132/index.m3u8
+北京纪实科教8K,http://159.75.85.63:6798
