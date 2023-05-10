@@ -69,76 +69,65 @@ CETV4,http://txycsbl.centv.cn/zb/0822cetv4.m3u8
 凤凰中文,http://playtimeshift-live.ifeng.com:80/timeshift/live/06OLEGEGM4G/timeshift.m3u8?txKbps=702&delay=300
 凤凰资讯,http://playtimeshift-live.ifeng.com:80/timeshift/live/06OLEEWQKN4/timeshift.m3u8?txKbps=702&delay=300
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
-TVB翡翠台,http://r.jdshipin.com/62WM7#http://r.jdshipin.com/qClQf#http://2022.stream-link.org/tv/992054131
+TVB翡翠台,http://r.jdshipin.com/62WM7#http://r.jdshipin.com/qClQf#https://2022.stream-link.org/list.php?id=h002
 TVB明珠台,http://r.jdshipin.com/ZQ4kN
 TVB星河,http://flv.mp4cdn.live/gt-key=00569874.php?id=4
-華麗翡翠台,http://2022.stream-link.org/tv/1245920974
+華麗翡翠台,https://2022.stream-link.org/list.php?id=h001
 财经体育资讯台,http://120.84.96.103:808/hls/86/index.m3u8
-J2,http://r.jdshipin.com/Nr5jq#http://r.jdshipin.com/ndGgS
-无线新闻台,http://flv.mp4cdn.live/gt-key=00569874.php?id=13#http://162.19.247.76:22222/live/tvbnews/index.m3u8
-HBO Family[1920x1080],http://flv.mp4cdn.live/gt-key=00569874.php?id=99
-好莱坞电影[1920x1080],http://flv.mp4cdn.live/gt-key=00569874.php?id=100
-AXN[1920x1080],http://flv.mp4cdn.live/gt-key=00569874.php?id=102
-CINEMAX[1920x1080],http://flv.mp4cdn.live/gt-key=00569874.php?id=101
-纬来电影台[1920x1080],http://flv.mp4cdn.live/gt-key=00569874.php?id=103
-东森电影[1920x1080],http://flv.mp4cdn.live/gt-key=00569874.php?id=104
-东森洋片[1920x1080],http://flv.mp4cdn.live/gt-key=00569874.php?id=105
-东森戏剧[1920x1080],http://flv.mp4cdn.live/gt-key=00569874.php?id=106
-龙华洋片[1280x720],http://flv.mp4cdn.live/gt-key=00569874.php?id=107
-龙祥时代[1920x1080],http://flv.mp4cdn.live/gt-key=00569874.php?id=108
-卫视中文台[1920x1080],http://flv.mp4cdn.live/gt-key=00569874.php?id=109
-天映频道[854x480],http://flv.mp4cdn.live/gt-key=00569874.php?id=110
-天映经典[873x480],http://flv.mp4cdn.live/gt-key=00569874.php?id=111
-星卫电影台[1280x720],http://flv.mp4cdn.live/gt-key=00569874.php?id=112
-美亚电影台[1280x720],http://flv.mp4cdn.live/gt-key=00569874.php?id=113
-卫视电影台[1920*1080],http://flv.mp4cdn.live/gt-key=00569874.php?id=114
-港台电视31,http://2022.stream-link.org/tv/1412822772
-港台电视32,http://2022.stream-link.org/tv/262124223
-有線新聞台,http://2022.stream-link.org/tv/1403047386
-有線財經資訊台,http://2022.stream-link.org/tv/1653781679
+J2,http://r.jdshipin.com/Nr5jq#http://flv.mp4cdn.live/gt-key=00569874.php?id=5
+无线新闻台,http://flv.mp4cdn.live/gt-key=00569874.php?id=13
+港台电视31,https://2022.stream-link.org/list.php?id=h006
+港台电视32,https://2022.stream-link.org/list.php?id=h007
+有線新聞台,https://2022.stream-link.org/list.php?id=h008
+有線財經資訊台,https://2022.stream-link.org/list.php?id=h009
 香港開電視,http://flv.mp4cdn.live/gt-key=00569874.php?id=1
-香港開電視資訊台,http://2022.stream-link.org/tv/781469440
-香港國際財經台,http://2022.stream-link.org/tv/913715989
+香港開電視資訊台,https://2022.stream-link.org/list.php?id=h011
+香港國際財經台,https://2022.stream-link.org/list.php?id=h012
 点掌财经,http://cclive2.aniu.tv/live/anzb.m3u8
 耀才财经,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
 Viu6,https://cdn.hklive.tv/xxxx/96/index.m3u8
 Viu,http://r.jdshipin.com/vSJvl
 澳门莲花,http://anren.live/HK/BiIOU11uLA.m3u8
+卫视中文台,http://flv.mp4cdn.live/gt-key=00569874.php?id=109
+卫视电影台,http://flv.mp4cdn.live/gt-key=00569874.php?id=114
 大爱,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 大爱2,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 东风卫视,http://123.51.230.108:18560/.m3u8
-龙华戏剧,http://123.51.230.108:8509/.m3u8
+HBO Family,http://flv.mp4cdn.live/gt-key=00569874.php?id=99
+AXN,http://flv.mp4cdn.live/gt-key=00569874.php?id=102
+CINEMAX,http://flv.mp4cdn.live/gt-key=00569874.php?id=101
+好莱坞电影,http://flv.mp4cdn.live/gt-key=00569874.php?id=100
+纬来电影台,http://flv.mp4cdn.live/gt-key=00569874.php?id=103
+东森电影,http://flv.mp4cdn.live/gt-key=00569874.php?id=104
+东森洋片,http://flv.mp4cdn.live/gt-key=00569874.php?id=105
+东森戏剧,http://flv.mp4cdn.live/gt-key=00569874.php?id=106
 东森戏剧,http://162.19.247.76:22222/live/dsxj/index.m3u8
 东森洋片,http://162.19.247.76:22222/live/dsypt/index.m3u8
-東森新聞,http://2023.stream-link.org/tv/1919365097
-東森財經新聞,rtmp://9sv2.mine.nu/sat/tv571
-东森超视,rtmp://9sv2.mine.nu/sat/tv331
-東森yoyo,http://2023.stream-link.org/tv/1099757482
-TVBS新闻,rtmp://9sv2.mine.nu/sat/tv551
-TVBS欢乐,rtmp://9sv2.mine.nu/sat/tv421
-中視新聞,rtmp://9sv2.mine.nu/sat/tv091
-華視新聞,rtmp://9sv2.mine.nu/sat/tv111
+東森新聞,https://2022.stream-link.org/list.php?id=t001
+東森財經,https://2022.stream-link.org/list.php?id=t002
+東森yoyo,https://2022.stream-link.org/list.php?id=t026
+龙华戏剧,http://123.51.230.108:8509/.m3u8
+龙华洋片,http://flv.mp4cdn.live/gt-key=00569874.php?id=107
+龙祥时代,http://flv.mp4cdn.live/gt-key=00569874.php?id=108
+天映频道,http://flv.mp4cdn.live/gt-key=00569874.php?id=110
+天映经典,http://flv.mp4cdn.live/gt-key=00569874.php?id=111
+星卫电影台,http://flv.mp4cdn.live/gt-key=00569874.php?id=112
+美亚电影台,http://flv.mp4cdn.live/gt-key=00569874.php?id=113
 民視新聞,http://123.51.230.108:18663/.m3u8
 民視新聞,http://120.84.96.109:808/hls/34/index.m3u8
-台視新聞,rtmp://9sv2.mine.nu/sat/tv071
-台視,http://2023.stream-link.org/tv/1558743392
-寰宇國際新聞,http://2023.stream-link.org/tv/538334982
-寰宇台灣新聞,http://2023.stream-link.org/tv/1008347635
-三立財經新聞,http://2023.stream-link.org/tv/2011233628
-三立新聞,http://2023.stream-link.org/tv/1698256848
-三立新聞+,http://2023.stream-link.org/tv/728100935
-中天新聞,http://2023.stream-link.org/tv/280231259
-中天綜合台,http://2023.stream-link.org/tv/357535870
-中天亞洲台,http://2023.stream-link.org/tv/973103771
-天才衝衝衝,http://2023.stream-link.org/tv/1210311184
+台視新聞,https://2022.stream-link.org/list.php?id=t012
+寰宇國際新聞,https://2022.stream-link.org/list.php?id=t007
+寰宇台灣新聞,https://2022.stream-link.org/list.php?id=t008
+三立財經新聞,https://2022.stream-link.org/list.php?id=t009
+三立新聞,https://2022.stream-link.org/list.php?id=t010
+三立新聞+,https://2022.stream-link.org/list.php?id=t011
+中天新聞,https://2022.stream-link.org/list.php?id=t003
+中天綜合台,https://2022.stream-link.org/list.php?id=t015
+中天亞洲台,https://2022.stream-link.org/list.php?id=t016
+天才衝衝衝,https://2022.stream-link.org/list.php?id=t025
 24频道,http://120.84.96.109:808/hls/24/index.m3u8
 84频道,http://120.84.96.109:808/hls/84/index.m3u8
-CCM,http://120.84.96.109:808/hls/85/index.m3u8
-TVB翡翠台,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=571187&extension=ts
-TVB经典台,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=571197&extension=ts
-TVB娱乐新闻台,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=571188&extension=ts
-卫视电影台,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941625
-卫视中文台,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941624
+天映经典,http://120.84.96.109:808/hls/85/index.m3u8
 
 卫视,#genre#
 北京卫视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225674/index.m3u8
@@ -389,30 +378,10 @@ CGTN阿语,https://livear.cgtn.com/1000a/prog_index.m3u8
 金砖中文,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
 美国中文,https://jpts.sinovision.net/livestream.m3u8
 FTV,https://fashiontv-fashiontv-4-de.samsung.wurl.com/manifest/playlist_1920x1080_4200k.m3u8
-FashionTV,http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8#http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8
+FashionTV,http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
+FashionTV,http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8
 FashionTV,http://lb.streaming.sk/fashiontv/stream/chunklist_w1402273512.m3u8
 ABC新闻,http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/chunklist_b1300000.m3u8
-ABC News Australia,http://2022.stream-link.org/tv/173339455
-ABC News,http://2022.stream-link.org/tv/573116716
-ANN News,http://2022.stream-link.org/tv/2598760
-Asianet News,http://2022.stream-link.org/tv/904803719
-CNA News,http://2022.stream-link.org/tv/44250289
-DW News,http://2022.stream-link.org/tv/29001492
-EURO News,http://2022.stream-link.org/tv/785800675
-France 24 English,http://2022.stream-link.org/tv/1996205982
-GB News,http://2022.stream-link.org/tv/2092154208
-Haber Turk,http://2022.stream-link.org/tv/2077582607
-NBC News,http://2022.stream-link.org/tv/596811646
-SKY News,http://2022.stream-link.org/tv/918685499
-国家地理频道,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941665
-国家地理野生频道,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941664
-History,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941661
-CNN,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941690
-BBC World News,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941693
-Sky News,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941684
-FOX News Channel,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941685
-EuroNews,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941686
-Bloomberg,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941692
 NewsmaxTV,http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 AlarabyTV,https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/playlist.m3u8
 Comedy,http://51.210.199.27/hls/stream.m3u8
@@ -433,7 +402,6 @@ OAN (1080p),http://oneamericanews-roku-us.amagi.tv/playlist.m3u8
 韩KCTV_HV2,http://119.77.96.184:1935/chn05/chn05/chunklist_w1306745753.m3u8
 韩MBC综合频道,http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
 韩NBS Korea Agricultural Broadc,https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
-HBO2,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 
 UHD,#genre#
 欢笑剧场4K,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226582/index.m3u8#http://113.207.84.197:8090/__cl/cg:live/__c/hxjc_4K/__op/default/__f/index.m3u8
