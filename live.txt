@@ -79,8 +79,8 @@ TVB1,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=153396&ex
 TVB J1,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=153395&extension=ts&play_token=Pd3SDU2VSy
 TVB J2,http://r.jdshipin.com/Nr5jq#http://flv.mp4cdn.live/gt-key=00569874.php?id=5
 华丽翡翠台,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=571187&extension=ts&play_token=uWRW1HvPSb
-香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 无线新闻台,http://flv.mp4cdn.live/gt-key=00569874.php?id=13
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 有線新聞台,https://2022.stream-link.org/list.php?id=h008
 有線財經資訊台,https://2022.stream-link.org/list.php?id=h009
 港台电视31,https://2022.stream-link.org/list.php?id=h006
@@ -103,6 +103,7 @@ TVBS新闻台,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=
 东森电影,http://120.84.96.109:808/hls/32/index.m3u8
 东森洋片,http://120.84.96.109:808/hls/33/index.m3u8
 民視HD,http://120.84.96.109:808/hls/34/index.m3u8
+民視新聞,http://123.51.230.108:18663/.m3u8
 龙祥时代,http://120.84.96.109:808/hls/35/index.m3u8
 84频道,http://120.84.96.109:808/hls/84/index.m3u8
 CCM,http://120.84.96.109:808/hls/85/index.m3u8
@@ -126,7 +127,6 @@ CINEMAX,http://flv.mp4cdn.live/gt-key=00569874.php?id=101
 天映经典,http://flv.mp4cdn.live/gt-key=00569874.php?id=111
 星卫电影台,http://flv.mp4cdn.live/gt-key=00569874.php?id=112
 美亚电影台,http://flv.mp4cdn.live/gt-key=00569874.php?id=113
-民視新聞,http://123.51.230.108:18663/.m3u8
 台視新聞,https://2022.stream-link.org/list.php?id=t012
 寰宇國際新聞,https://2022.stream-link.org/list.php?id=t007
 寰宇台灣新聞,https://2022.stream-link.org/list.php?id=t008
