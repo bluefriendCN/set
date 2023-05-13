@@ -1,7 +1,7 @@
 //以下内容来源于互联网，只为自用，如有冒犯，请联系删除。特别感谢52670576@github
 {
   "wallpaper": "https://epg.112114.xyz/bingimg",
-  "spider": "https://gitee.com/robor/tvbox/raw/main/YSC.jar;md5;573BE8213FA597C2E473C0ADF14B3A82",
+  "spider": "https://gitee.com/robor/tvbox/raw/main/YSC.jar;md5;ed936b57de121d5ecb2d51b0a2862409",
   "flags": [
     "qq","腾讯","企鹅","IQiYi","qiyi","爱奇艺","奇艺","youku","YouKu","优酷","sohu","SoHu","搜狐","letv","LeShi","乐视","imgo","mgtv","MangGuo","芒果","SLYS4k","BYGA","luanzi","AliS","dxzy","bilibili","QEYSS","xigua","西瓜视频","腾讯视频","奇艺视频","优酷视频","芒果视频","乐视视频"
   ],
@@ -10,8 +10,8 @@
       "name": "TV_Live",
       "type": 0,
       "url": "https://gitee.com/robor/set/raw/main/live.txt",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-//      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+//      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png",
       "playerType": 1,
       "boot": false
