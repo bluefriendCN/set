@@ -128,11 +128,11 @@ CCM,http://120.84.96.109:808/hls/85/index.m3u8
 黑龙江卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227207/index.m3u8
 内蒙古卫视,http://v2.91kds.cn/b9/hoge.m3u8?ip=nmtv&id=92&auth=rinimabi
 宁夏卫视SD,hhttp://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227187/index.m3u8
-陕西卫视SD,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225821/index.m3u8
+陕西卫视SD,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227216/index.m3u8
 甘肃卫视,http://[2409:8087:2001:20:2800:0:df6e:eb1a]/ott.mobaibox.com/PLTV/4/224/3221227568/index.m3u8
 青海卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226414/index.m3u8
 新疆卫视,http://livehyw5.chinamcache.com/hyw/zb01.m3u8?txSecret=58347f72aece2c25c685b8dc4da74652&txTime=95A66658#http://[2409:8087:2001:20:2800:0:df6e:eb0b]/ott.mobaibox.com/PLTV/3/224/3221228290/index.m3u8
-西藏卫视SD,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226212/index.m3u8
+西藏卫视SD,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227218/index.m3u8
 深圳卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227203/index.m3u8
 
 北京卫视,https://live.goodiptv.club/api/bestv.php?id=bjwshd8m/8000000
