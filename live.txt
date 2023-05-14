@@ -17,7 +17,7 @@ CCTV15音乐,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226478/ind
 CCTV16奥林匹克,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225893/index.m3u8
 CCTV17农业农村,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226630/index.m3u8
 CCTV5+体育赛事,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226609/index.m3u8
-CCTV4K超高清,https://live.goodiptv.club/api/bestv.php?id=cctv4k/15000000#http://113.207.84.197:8090/__cl/cg:live/__c/CCTV4K/__op/default/__f/index.m3u8
+CCTV4K超高清,https://live.goodiptv.club/api/bestv.php?id=cctv4k/15000000
 CCTV8K超高清,http://[2409:8087:2001:20:2800:0:df6e:eb02]/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8
 CCTV1-4K,http://[2409:8087:2001:20:2800:0:df6e:eb02]/ott.mobaibox.com/PLTV/4/224/3221227896/index.m3u8
 
