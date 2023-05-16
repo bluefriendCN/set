@@ -66,7 +66,7 @@ CETV4,http://txycsbl.centv.cn/zb/0822cetv4.m3u8
 港澳台,#genre#
 凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb24]/ott.mobaibox.com/PLTV/4/224/3221228527/index.m3u8
 凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb27]/ott.mobaibox.com/PLTV/4/224/3221228524/index.m3u8
-凤凰香港,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226251/index.m3u8#http://162.19.247.76:22222/live/fenghuangxianggang/index.m3u8
+凤凰香港,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226251/index.m3u8#https://cntv.sbs/fs?id=fhhk
 凤凰中文,http://cntv.sbs/ipv6?id=test1
 凤凰资讯,http://cntv.sbs/ipv6?id=test2
 凤凰中文,http://playtimeshift-live.ifeng.com:80/timeshift/live/06OLEGEGM4G/timeshift.m3u8?txKbps=702&delay=300
@@ -387,6 +387,7 @@ UHD,#genre#
 爱上4K,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226352/index.m3u8
 BesTV4K,http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000196/index.m3u8?IAS
 BesTV4KHDR,http://[2409:8087:5e01:34::30]:6610/ZTE_CMS/00000001000000060000000000000202/index.m3u8?IAS
+咪咕4K,http://gslbserv.itv.cmvideo.cn:80/3000000010000005180/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=3
 爱自然,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 北京纪实科教8K,http://159.75.85.63:6798
 江苏8K测试,http://[2409:8087:2001:20:2800:0:df6e:eb04]/ott.mobaibox.com/PLTV/3/224/3221228132/index.m3u8
