@@ -13,14 +13,457 @@
     ],
     "flags": ["qq","腾讯","企鹅","iQiYi","qiyi","爱奇艺","奇艺","youku","YouKu","优酷","sohu","SoHu","搜狐","letv","LeShi","乐视","imgo","mgtv","MangGuo","芒果","SLYS4k","BYGA","luanzi","AliS","dxzy","bilibili","QEYSS","xigua","西瓜视频","腾讯视频","奇艺视频","优酷视频","芒果视频","乐视视频"],
 	"sites": [
-        {"key": "泥巴","name": "泥巴","type": 3,"api": "csp_NiNi","searchable": 1,"filterable": 1,"ext": "1"},
+        {"key":"本地","name":"💻本地视频","type":3,"api":"csp_Local","searchable":0,"quickSearch":0,"filterable":0,"type_flag":0},
+        {"key": "AList","name": "AList","type": 3,"api": "csp_AList","searchable": 1,"changeable": 0,"ext": {"drives": [{"name": "AV","server": "https://a74d291e-3b91-45a5-9ec6-9f08a9178e59.id.repl.co"}]}},
         {"key": "玩偶","name": "玩偶","type": 3,"api": "csp_Doll","searchable": 1,"filterable": 1},
         {"key": "91麻豆","name": "91麻豆源","type": 1,"api": "https://91md.me/api.php/provide/vod/","searchable": 0,"quickSearch": 0,"filterable": 0},
         {"key": "18AV","name": "18AV","type": 3,"api": "csp_Eighteen","searchable": 1,"filterable": 1},
         {"key": "Jable","name": "Jable","type": 3,"api": "csp_Jable","searchable": 1,"filterable": 1},
         {"key": "MissAV","name": "MissAV","type": 3,"api": "csp_Miss","searchable": 1,"filterable": 1},
         {"key": "Supjav","name": "Supjav","type": 3,"api": "csp_Supjav","searchable": 1,"filterable": 1},
-        {"key": "Hanime","name": "Hanime","type": 3,"api": "csp_Hanime","searchable": 1,"filterable": 1}
+        {"key": "Hanime","name": "Hanime","type": 3,"api": "csp_Hanime","searchable": 1,"filterable": 1},
+        {
+            "key": "51smt4.xyz",
+            "name": "爱看01",
+            "type": 1,
+            "api": "http://51smt4.xyz/api.php/provide/vod/",
+            "searchable": 1
+          },
+          {
+            "key": "jcspcj8.com",
+            "name": "爱看02",
+            "type": 0,
+            "api": "http://jcspcj8.com/api?ac=videolist",
+            "searchable": 1
+          },
+          {
+            "key": "bttcj.com",
+            "name": "爱看03",
+            "type": 0,
+            "api": "http://bttcj.com/inc/sapi.php",
+            "searchable": 1
+          },
+          {
+            "key": "cjmygzy.com",
+            "name": "爱看04",
+            "type": 0,
+            "api": "http://cjmygzy.com/inc/sapi.php?ac=videolist",
+            "searchable": 1
+          },
+          {
+            "key": "91md.me",
+            "name": "爱看05",
+            "type": 1,
+            "api": "http://91md.me/api.php/provide/vod/",
+            "searchable": 1
+          },
+          {
+            "key": "dadiapi.com",
+            "name": "爱看06",
+            "type": 0,
+            "api": "http://dadiapi.com/api.php",
+            "searchable": 1
+          },
+          {
+            "key": "secj8.com",
+            "name": "爱看07",
+            "type": 0,
+            "api": "http://secj8.com/inc/sapi.php?ac=videolist",
+            "searchable": 1
+          },
+          {
+            "key": "api.putaozy.net",
+            "name": "爱看08",
+            "type": 1,
+            "api": "http://api.putaozy.net/inc/apijson_vod.php",
+            "searchable": 1
+          },
+          {
+            "key": "llzxcj.com",
+            "name": "爱看09",
+            "type": 0,
+            "api": "http://llzxcj.com/inc/sck.php?ac=videolist",
+            "searchable": 1
+          },
+          {
+            "key": "apilj.com",
+            "name": "爱看10",
+            "type": 1,
+            "api": "http://apilj.com/api.php/provide/vod/at/json/",
+            "searchable": 1
+          },
+          {
+            "key": "f2dcj6.com",
+            "name": "爱看11",
+            "type": 0,
+            "api": "http://f2dcj6.com/sapi?ac=videolist",
+            "searchable": 1
+          },
+          {
+            "key": "99zy.pw",
+            "name": "爱看12",
+            "type": 1,
+            "api": "http://99zy.pw/api.php/provide/vod/",
+            "searchable": 1
+          },
+          {
+            "key": "ggmmzy.com",
+            "name": "爱看13",
+            "type": 0,
+            "api": "http://www.ggmmzy.com:9999/inc/xml",
+            "searchable": 1
+          },
+          {
+            "key": "fhapi9.com",
+            "name": "爱看14",
+            "type": 1,
+            "api": "http://fhapi9.com/api.php/provide/vod/",
+            "searchable": 1
+          },
+          {
+            "key": "feifei67.com",
+            "name": "爱看15",
+            "type": 1,
+            "api": "http://www.feifei67.com/api.php/provide/vod/",
+            "searchable": 1
+          },
+          {
+            "key": "sdszyapi.com",
+            "name": "爱看16",
+            "type": 0,
+            "api": "http://sdszyapi.com/home/cjapi/asbb/mc10/vod/xml",
+            "searchable": 1
+          },
+          {
+            "key": "madouse.la",
+            "name": "爱看17",
+            "type": 1,
+            "api": "http://madouse.la/api.php/provide/vod/",
+            "searchable": 1
+          },
+          {
+            "key": "xjjzyapi.com",
+            "name": "爱看18",
+            "type": 0,
+            "api": "http://xjjzyapi.com/home/cjapi/askl/mc10/vod/xml",
+            "searchable": 1
+          },
+          {
+            "key": "shabizy.com",
+            "name": "爱看19",
+            "type": 0,
+            "api": "http://www.shabizy.com:777/inc/sea",
+            "searchable": 1
+          },
+          {
+            "key": "caiji21.com",
+            "name": "爱看20",
+            "type": 0,
+            "api": "http://www.caiji21.com/home/cjapi/klkl/mc10/vod/xml",
+            "searchable": 1
+          },
+          {
+            "key": "caiji25.com",
+            "name": "爱看21",
+            "type": 0,
+            "api": "http://www.caiji25.com/home/cjapi/p0as/mc10/vod/xml",
+            "searchable": 1
+          },
+          {
+            "key": "caiji26.com",
+            "name": "爱看22",
+            "type": 0,
+            "api": "http://caiji26.com/home/cjapi/p0g8/mc10/vod/xml",
+            "searchable": 1
+          },
+          {
+            "key": "caiji24.com",
+            "name": "爱看23",
+            "type": 0,
+            "api": "http://www.caiji24.com/home/cjapi/p0d2/mc10/vod/xml",
+            "searchable": 1
+          },
+          {
+            "key": "lbapiby.com",
+            "name": "爱看24",
+            "type": 0,
+            "api": "http://lbapiby.com/api.php/provide/vod/at/xml",
+            "searchable": 1
+          },
+          {
+            "key": "api.maozyapi.com",
+            "name": "爱看25",
+            "type": 1,
+            "api": "https://api.maozyapi.com/inc/apijson_vod.php",
+            "searchable": 1
+          },
+          {
+            "key": "888dav.com",
+            "name": "爱看26",
+            "type": 1,
+            "api": "https://www.888dav.com/api.php/provide/vod/",
+            "searchable": 1
+          },
+          {
+            "key": "mgav1.cc",
+            "name": "爱看27",
+            "type": 0,
+            "api": "https://www.mgav1.cc/api.php/provide/vod/at/xml",
+            "searchable": 1
+          },
+          {
+            "key": "mgzyz1.com",
+            "name": "爱看28",
+            "type": 1,
+            "api": "https://mgzyz1.com/api.php/provide/vod/",
+            "searchable": 1
+          },
+          {
+            "key": "msnii.com",
+            "name": "爱看29",
+            "type": 0,
+            "api": "https://www.msnii.com/api/xml.php",
+            "searchable": 1
+          },
+          {
+            "key": "kkzy.me",
+            "name": "爱看30",
+            "type": 1,
+            "api": "https://kkzy.me/api.php/provide/vod/",
+            "searchable": 1
+          },
+          {
+            "key": "caiji.huakuiapi.com",
+            "name": "爱看31",
+            "type": 1,
+            "api": "https://caiji.huakuiapi.com/inc/apijson_vod.php",
+            "searchable": 1
+          },
+          {
+            "key": "siwazyw.cc",
+            "name": "爱看32",
+            "type": 1,
+            "api": "https://siwazyw.cc/api.php/provide/vod/",
+            "searchable": 1
+          },
+          {
+            "key": "pgxdy.com",
+            "name": "爱看33",
+            "type": 0,
+            "api": "https://www.pgxdy.com/api/xml.php",
+            "searchable": 1
+          },
+          {
+            "key": "api.sexnguon.com",
+            "name": "爱看34",
+            "type": 1,
+            "api": "https://api.sexnguon.com/api.php/provide/vod/",
+            "searchable": 1
+          },
+          {
+            "key": "dmmapi.com",
+            "name": "爱看35",
+            "type": 0,
+            "api": "https://www.dmmapi.com/home/cjapi/asd2c7/mc10/vod/xml",
+            "searchable": 1
+          },
+          {
+            "key": "xx55zyapi.com",
+            "name": "爱看36",
+            "type": 0,
+            "api": "https://xx55zyapi.com/home/cjapi/ascf/mc10/vod/xml",
+            "searchable": 1
+          },
+          {
+            "key": "kxgav.com",
+            "name": "爱看37",
+            "type": 0,
+            "api": "https://www.kxgav.com/api/xml.php",
+            "searchable": 1
+          },
+          {
+            "key": "caiji02.com",
+            "name": "爱看38",
+            "type": 0,
+            "api": "https://www.caiji02.com/home/cjapi/cfas/mc10/vod/xml",
+            "searchable": 1
+          },
+          {
+            "key": "xrbsp.com",
+            "name": "爱看39",
+            "type": 0,
+            "api": "https://www.xrbsp.com/api/xml.php",
+            "searchable": 1
+          },
+          {
+            "key": "caiji07.com",
+            "name": "爱看40",
+            "type": 0,
+            "api": "https://www.caiji07.com/home/cjapi/cfcf/mc10/vod/xml",
+            "searchable": 1
+          },
+          {
+            "key": "lbapi9.com",
+            "name": "爱看41",
+            "type": 1,
+            "api": "https://lbapi9.com/api.php/provide/vod/",
+            "searchable": 1
+          },
+          {
+            "key": "caiji03.com",
+            "name": "爱看42",
+            "type": 0,
+            "api": "https://www.caiji03.com/home/cjapi/cfg8/mc10/vod/xml",
+            "searchable": 1
+          },
+          {
+            "key": "caiji08.com",
+            "name": "爱看43",
+            "type": 0,
+            "api": "https://www.caiji08.com/home/cjapi/cfkl/mc10/vod/xml",
+            "searchable": 1
+          },
+          {
+            "key": "caiji10.com",
+            "name": "爱看44",
+            "type": 0,
+            "api": "https://www.caiji10.com/home/cjapi/cfs6/mc10/vod/xml",
+            "searchable": 1
+          },
+          {
+            "key": "52zyapi.com",
+            "name": "爱看45",
+            "type": 0,
+            "api": "https://52zyapi.com/home/cjapi/asda/mc10/vod/xml",
+            "searchable": 1
+          },
+          {
+            "key": "apittzy.com",
+            "name": "爱看46",
+            "type": 1,
+            "api": "https://apittzy.com/api.php/provide/vod/",
+            "searchable": 1
+          },
+          {
+            "key": "api.xiuseapi.com",
+            "name": "爱看47",
+            "type": 1,
+            "api": "https://api.xiuseapi.com/api.php/provide/vod/",
+            "searchable": 1
+          },
+          {
+            "key": "caiji01.com",
+            "name": "爱看48",
+            "type": 0,
+            "api": "https://www.caiji01.com/home/cjapi/cfd2/mc10/vod/xml",
+            "searchable": 1
+          },
+          {
+            "key": "caiji22.com",
+            "name": "爱看49",
+            "type": 0,
+            "api": "https://www.caiji22.com/home/cjapi/klp0/mc10/vod/xml",
+            "searchable": 1
+          },
+          {
+            "key": "caiji23.com",
+            "name": "爱看50",
+            "type": 0,
+            "api": "https://www.caiji23.com/home/cjapi/kls6/mc10/vod/xml",
+            "searchable": 1
+          },
+          {
+            "key": "afasu.com",
+            "name": "爱看51",
+            "type": 0,
+            "api": "https://www.afasu.com/api/xml.php",
+            "searchable": 1
+          },
+          {
+            "key": "hghhh.com",
+            "name": "爱看52",
+            "type": 1,
+            "api": "https://hghhh.com/api.php/provide/vod/",
+            "searchable": 1
+          },
+          {
+            "key": "sewozyapi.com",
+            "name": "爱看53",
+            "type": 1,
+            "api": "https://sewozyapi.com/api.php/provide/vod/",
+            "searchable": 1
+          },
+          {
+            "key": "gdlsp.com",
+            "name": "爱看54",
+            "type": 0,
+            "api": "https://www.gdlsp.com/api/xml.php",
+            "searchable": 1
+          },
+          {
+            "key": "caiji04.com",
+            "name": "爱看55",
+            "type": 0,
+            "api": "https://www.caiji04.com/home/cjapi/cfc7/mc10/vod/xml",
+            "searchable": 1
+          },
+          {
+            "key": "caiji09.com",
+            "name": "爱看56",
+            "type": 0,
+            "api": "https://www.caiji09.com/home/cjapi/cfp0/mc10/vod/xml",
+            "searchable": 1
+          },
+          {
+            "key": "caiji05.com",
+            "name": "爱看57",
+            "type": 0,
+            "api": "https://www.caiji05.com/home/cjapi/cfda/mc10/vod/xml",
+            "searchable": 1
+          },
+          {
+            "key": "jgczyapi.com",
+            "name": "爱看58",
+            "type": 0,
+            "api": "https://jgczyapi.com/home/cjapi/kld2/mc10/vod/xml",
+            "searchable": 1
+          },
+          {
+            "key": "caiji.caomeiapi.com",
+            "name": "爱看59",
+            "type": 1,
+            "api": "https://caiji.caomeiapi.com/inc/apijson_vod.php",
+            "searchable": 1
+          },
+          {
+            "key": "caiji.523zyw.com",
+            "name": "爱看60",
+            "type": 1,
+            "api": "https://caiji.523zyw.com/inc/apijson_vod.php",
+            "searchable": 1
+          },
+          {
+            "key": "caiji.naichaapi.com",
+            "name": "爱看61",
+            "type": 1,
+            "api": "https://caiji.naichaapi.com/inc/apijson_vod.php",
+            "searchable": 1
+          },
+          {
+            "key": "api.apilyzy.com",
+            "name": "爱看62",
+            "type": 1,
+            "api": "https://api.apilyzy.com/api.php/provide/vod/",
+            "searchable": 1
+          },
+          {
+            "key": "push_agent",
+            "name": "推送",
+            "type": 3,
+            "api": "csp_Push",
+            "searchable": 1,
+            "changeable": 0
+          }
     ],
     "parses": [
         {"name":"Web聚合","type":3,"url":"Web"},
