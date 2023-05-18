@@ -24,7 +24,7 @@
     {"key":"豆瓣","name":"🔍豆瓣荐片","type":3,"api":"https://gitee.com/robor/tvbox/raw/main/js/lib/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gitee.com/robor/tvbox/raw/main/js/douban.js"},
     {"key":"本地","name":"💻本地视频","type":3,"api":"csp_Local","searchable":0,"quickSearch":0,"filterable":0,"type_flag":0},
     {"key":"爱奇异","name":"🥝爱奇艺(官)","type":3,"api":"https://gitee.com/robor/tvbox/raw/main/js/lib/drpy2.min.js","ext":"https://gitee.com/robor/tvbox/raw/main/js/aiqiyi.js"},
-    {"key":"优酷","name":"👑优酷(官)","type":3,"api":"https://gitee.com/robor/tvbox/raw/main/js/lib/drpy2.min.js","ext":"https://raw.iqiq.io/52670576/tvbox/main/js/youku.js"},
+    {"key":"优酷","name":"👑优酷(官)","type":3,"api":"https://gitee.com/robor/tvbox/raw/main/js/lib/drpy2.min.js","ext":"https://ghproxy.net/raw.githubusercontent.com/52670576/tvbox/main/js/youku.js"},
     {"key":"腾讯","name":"🐧腾讯(官)","type":3,"api":"https://gitee.com/robor/tvbox/raw/main/js/lib/drpy2.min.js","ext":"https://gitee.com/robor/tvbox/raw/main/js/tengxun.js"},
     {"key":"芒果","name":"🥭芒果(官)","type":3,"api":"https://gitee.com/robor/tvbox/raw/main/js/lib/drpy2.min.js","ext":"https://gitee.com/robor/tvbox/raw/main/js/mangguo.js"},
     {"key":"搜狗","name":"🐼搜狗(官)","type":3,"api":"https://gitee.com/robor/tvbox/raw/main/js/lib/drpy2.min.js","ext":"https://gitee.com/robor/tvbox/raw/main/js/caigou.js"},
@@ -121,7 +121,6 @@
     {"key":"哔哩直播","name":"🅱️哔哩直播","type":3,"api":"https://gitee.com/robor/tvbox/raw/main/js/lib/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://gitee.com/robor/tvbox/raw/main/js/blzb.js"},
     {"key":"csp_XYQBiu_斗鱼","name":"🐬斗鱼直播","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://gitee.com/robor/tvbox/raw/main/sub/douyu.json"},
     {"key":"csp_企鹅体育","name":"企鹅体育","type": 3,"api":"csp_XPath","searchable": 0,"quickSearch": 0,"filterable": 0,"ext":"http://ftp6284928.host108.abeiyun.cn/json/企鹅直播.json"},
-    {"key":"csp_Biliych","name":"看演唱会","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://ftp6284928.host108.abeiyun.cn/json/Biliych.json"},
     {"key":"csp_xpath_kuqimv","name":"🎤酷奇MV","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/robor/tvbox/raw/main/sub/kuqimv.json"},
     {"key":"csp_xpath_A33","name":"🎸MTV","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/robor/tvbox/raw/main/sub/mtv.json"}
   ],
