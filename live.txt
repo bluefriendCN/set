@@ -161,6 +161,7 @@ CCM,http://120.84.96.109:808/hls/85/index.m3u8
 贵州卫视,https://live.goodiptv.club/api/bestv.php?id=gzwshd8m/8000000
 海南卫视,https://live.goodiptv.club/api/bestv.php?id=hainanwshd8m/8000000
 内蒙古卫视,http://www.lu1.cc/itv/nmtv/nmxl.php?id=nmws
+青海卫视,http://[2409:8087:2001:20:2800:0:df6e:eb1b]/ott.mobaibox.com/PLTV/3/224/3221227554/index.m3u8
 
 重庆,#genre#
 重庆新闻,http://113.207.84.197:8090/__cl/cg:live/__c/CQTVNewsHD/__op/default/__f/index.m3u8
