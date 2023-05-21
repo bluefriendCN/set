@@ -19,7 +19,6 @@ CCTV17农业农村,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/32212266
 CCTV5+体育赛事,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226609/index.m3u8
 CCTV4K超高清,https://live.goodiptv.club/api/bestv.php?id=cctv4k/15000000
 CCTV8K超高清,http://[2409:8087:2001:20:2800:0:df6e:eb02]/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8
-CCTV1-4K,http://[2409:8087:2001:20:2800:0:df6e:eb02]/ott.mobaibox.com/PLTV/4/224/3221227896/index.m3u8
 
 CCTV1综合,https://live.goodiptv.club/api/bestv.php?id=cctv1hd8m/8000000
 CCTV2财经,https://live.goodiptv.club/api/bestv.php?id=cctv2hd8m/8000000
@@ -67,24 +66,26 @@ CETV4,http://txycsbl.centv.cn/zb/0822cetv4.m3u8
 凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb24]/ott.mobaibox.com/PLTV/4/224/3221228527/index.m3u8
 凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb27]/ott.mobaibox.com/PLTV/4/224/3221228524/index.m3u8
 凤凰香港,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226251/index.m3u8#https://cntv.sbs/fs?id=fhhk
-凤凰中文,http://cntv.sbs/ipv6?id=test1
-凤凰资讯,http://cntv.sbs/ipv6?id=test2
 凤凰中文,http://playtimeshift-live.ifeng.com:80/timeshift/live/06OLEGEGM4G/timeshift.m3u8?txKbps=702&delay=300
 凤凰资讯,http://playtimeshift-live.ifeng.com:80/timeshift/live/06OLEEWQKN4/timeshift.m3u8?txKbps=702&delay=300
 TVB财经体育资讯台,http://120.84.96.103:808/hls/86/index.m3u8
 TVB翡翠台,http://r.jdshipin.com/62WM7#http://r.jdshipin.com/qClQf#http://flv.mp4cdn.live/gt-key=00569874.php?id=2
 TVB明珠台,http://r.jdshipin.com/ZQ4kN#http://flv.mp4cdn.live/gt-key=00569874.php?id=3
 TVB星河,http://flv.mp4cdn.live/gt-key=00569874.php?id=4
-TVB 1,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=153396&extension=ts&play_token=ICdnbP1fWe
+TVB,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=153396&extension=ts&play_token=ICdnbP1fWe
 TVB J1,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=153395&extension=ts&play_token=Pd3SDU2VSy
 TVB J2,http://r.jdshipin.com/Nr5jq#http://flv.mp4cdn.live/gt-key=00569874.php?id=5
-华丽翡翠台,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=571187&extension=ts&play_token=uWRW1HvPSb
+华丽台,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=571187&extension=ts&play_token=uWRW1HvPSb
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 点掌财经,http://cclive2.aniu.tv/live/anzb.m3u8
 耀才财经,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
 Viu,http://r.jdshipin.com/vSJvl
 Viu6,https://cdn.hklive.tv/xxxx/96/index.m3u8
 澳门莲花,http://anren.live/HK/BiIOU11uLA.m3u8
+TVBS新闻台,mitv://generationnexxxt.com:19806/beaa6cbcf1034703a97d3295f8c0ae60
+TVBS亚洲台,mitv://generationnexxxt.com:19806/7389e1ced8184a84aa22aeec29be6f85
+TVBS欢乐台,mitv://generationnexxxt.com:19806/645c744e0000479b6afb2f39254b3e96
+TVBS,mitv://generationnexxxt.com:19806/644d1a13000e2f842f02b17e6e9f6cae
 卫视中文台,http://flv.mp4cdn.live/gt-key=00569874.php?id=109
 卫视电影台,http://flv.mp4cdn.live/gt-key=00569874.php?id=114
 大爱,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
