@@ -6,7 +6,7 @@
         {
         "name": "18live",
 		"type": 0,
-		"url": "https://ghproxy.com/raw.githubusercontent.com/mengzehe/TVBox/main/18live.txt",
+		"url": "https://raw.iqiq.io/mengzehe/TVBox/main/18live.txt",
         "playerType": 1,
         "boot": false
         }
