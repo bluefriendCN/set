@@ -1,12 +1,12 @@
 //以下全部来自网络，如有冒犯请联系删除。[所有内容仅供学习使用，请勿用于违法用途]
 {
-    "spider": "https://ghproxy.com/raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;0833bc9231deea016b7147ced68bc48a",
+    "spider": "https://ghproxy.com/raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;945ad30d5255359385ba59b8fb061bb7",
 	"wallpaper": "https://epg.112114.xyz/bingimg",
 	"lives": [
         {
         "name": "18live",
 		"type": 0,
-		"url": "https://ghproxy.com/https://raw.githubusercontent.com/mengzehe/TVBox/main/18live.txt",
+		"url": "https://ghproxy.com/raw.githubusercontent.com/mengzehe/TVBox/main/18live.txt",
         "playerType": 1,
         "boot": false
         }
