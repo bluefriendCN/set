@@ -12,17 +12,11 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png",
       "playerType": 1,
       "boot": false
-    },
-    {
-      "name":"动态",
-      "type":0,
-      "url":"http://43.224.33.165/iptv222/live.txt",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
     }
   ],
   "sites": [
     {"key":"豆瓣","name":"🔍豆瓣荐片","type":3,"api":"https://gitee.com/robor/tvbox/raw/main/js/lib/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gitee.com/robor/tvbox/raw/main/js/douban.js"},
-    {"key":"本地","name":"💻本地视频","type":3,"api":"csp_Local","searchable":0,"quickSearch":0,"filterable":0,"type_flag":0},
+    {"key":"Live","name":"电视直播","type":3,"api":"csp_Live","searchable":1,"ext":"smile$https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt"},
     {"key":"爱奇异","name":"🥝爱奇艺(官)","type":3,"api":"https://gitee.com/robor/tvbox/raw/main/js/lib/drpy2.min.js","ext":"https://gitee.com/robor/tvbox/raw/main/js/aiqiyi.js"},
     {"key":"优酷","name":"👑优酷(官)","type":3,"api":"https://gitee.com/robor/tvbox/raw/main/js/lib/drpy2.min.js","ext":"https://raw.gitmirror.com/52670576/tvbox/main/js/youku.js"},
     {"key":"腾讯","name":"🐧腾讯(官)","type":3,"api":"https://gitee.com/robor/tvbox/raw/main/js/lib/drpy2.min.js","ext":"https://gitee.com/robor/tvbox/raw/main/js/tengxun.js"},
@@ -32,6 +26,7 @@
     {"key":"py_xigua","name": "🔥西瓜视频","type": 3,"api": "py_xigua","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://gitee.com/robor/tvbox/raw/main/py/py_xigua.py"},
     {"key":"py_cctv","name": "🔥CCTV","type": 3,"api": "py_cctv","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://gitee.com/robor/tvbox/raw/main/py/py_cctv.py"},
     {"key":"玩偶哥哥","name":"💧玩偶┃4K","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/robor/tvbox/raw/main/sub/wanou.json"},
+    {"key":"阿里云盘网","name":"💧云盘网┃4K","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/robor/tvbox/raw/main/sub/aliyunpan.json"},
     {"key":"4KHDR","name":"💧4KHDR","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/robor/tvbox/raw/main/sub/4KHDR.json"},
     {"key":"布雷蓝光","name":"⚡布雷┃4K","type":3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://gitee.com/robor/tvbox/raw/main/sub/bulei.json"},
     {"key":"酷影蓝光","name":"💧酷影蓝光","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://kuying.kuyouk.top:9528/api.php/app/"},
