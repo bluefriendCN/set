@@ -77,6 +77,8 @@ TVB J1,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=153395&
 TVB J2,http://r.jdshipin.com/Nr5jq#http://flv.mp4cdn.live/gt-key=00569874.php?id=5
 华丽台,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=571187&extension=ts&play_token=uWRW1HvPSb
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
+香港有线财经资讯台,https://api.leonardpark.dev/live/icable/108
+香港有线直播新闻台,https://api.leonardpark.dev/live/icable/110
 点掌财经,http://cclive2.aniu.tv/live/anzb.m3u8
 耀才财经,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
 Viu,http://r.jdshipin.com/vSJvl
