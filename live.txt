@@ -3,7 +3,7 @@ CCTV1综合,http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaibox.com/PLTV/3/
 CCTV2财经,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226306/index.m3u8
 CCTV3综艺,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226308/index.m3u8
 CCTV4中文国际,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226303/index.m3u8
-CCTV5体育,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226305/index.m3u8
+CCTV5体育,http://[2409:8087:2001:20:2800:0:df6e:eb02]/ott.mobaibox.com/PLTV/4/224/3221227661/index.m3u8
 CCTV6电影,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226637/index.m3u8
 CCTV7国防军事,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226678/index.m3u8
 CCTV8电视剧,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226687/index.m3u8
@@ -173,9 +173,26 @@ CCM,http://120.84.96.109:808/hls/85/index.m3u8
 重庆新农村,http://113.207.84.197:8090/__cl/cg:live/__c/cqggncHD/__op/default/__f/index.m3u8
 重庆汽摩,http://113.207.84.197:8090/__cl/cg:live/__c/cqcarSD/__op/default/__f//index.m3u8
 
+重庆新闻,http://cntv.sbs/cbn?id=CQTVNewsHD
+重庆影视,http://cntv.sbs/cbn?id=cqyingshiHD
+重庆社会与法,http://cntv.sbs/cbn?id=CQTVTrendyHD
+重庆时尚生活,http://cntv.sbs/cbn?id=cqssgwHD
+重庆文体娱乐,http://cntv.sbs/cbn?id=cqwtylHD
+重庆新农村,http://cntv.sbs/cbn?id=cqggncHD
+重庆少儿,http://cntv.sbs/cbn?id=cqseHD
+重庆科教,http://cntv.sbs/cbn?id=CQTVkejiaoHD
+爱看导视,http://cntv.sbs/cbn?id=aikanHD
+重庆汽摩,http://cntv.sbs/cbn?id=cqcarSD
+重庆移动,http://cntv.sbs/cbn?id=mryyHD
+重广融媒,http://cntv.sbs/cbn?id=cqrongmei
+
 体育,#genre#
 CCTV16 4K,https://live.goodiptv.club/api/bestv.php?id=cctv16hd4k/15000000
 CCTV16 4K,http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaibox.com/PLTV/3/224/3221228127/index.m3u8
+足球频道,https://nmglive.imfc.cn/5n1r1c/182396.m3u8
+北京体育休闲,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001329/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+上海五星体育,https://live.goodiptv.club/api/bestv.php?id=wxtyhd8m/8000000
+广东体育,http://157.122.177.10:9901/tsfile/live/1001_1.m3u8
 咪咕直播1,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225737/index.m3u8
 咪咕直播2,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225758/index.m3u8
 咪咕直播3,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225782/index.m3u8
@@ -197,10 +214,6 @@ CCTV16 4K,http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaibox.com/PLTV/3/22
 咪咕足球,http://[2409:8087:2001:20:2800:0:df6e:eb13]/ott.mobaibox.com/PLTV/3/224/3221228234/index.m3u8
 咪咕意甲,http://[2409:8087:2001:20:2800:0:df6e:eb14]/ott.mobaibox.com/PLTV/3/224/3221228129/index.m3u8
 火箭燃脂,http://[2409:8087:2001:20:2800:0:df6e:eb27]/ott.mobaibox.com/PLTV/4/224/3221228427/index.m3u8
-足球频道,https://nmglive.imfc.cn/5n1r1c/182396.m3u8
-北京体育休闲,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001329/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-上海五星体育,https://live.goodiptv.club/api/bestv.php?id=wxtyhd8m/8000000
-广东体育,http://157.122.177.10:9901/tsfile/live/1001_1.m3u8
 NBA01,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=00000250001B50800001B401420BC069&Contentid=3000000001000005969
 NBA02,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=00000250001B50800001B401420BC069&Contentid=3000000001000007218
 NBA03,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=00000250001B50800001B401420BC069&Contentid=3000000001000008001
@@ -401,7 +414,6 @@ UHD,#genre#
 超高清电影4K,http://r.jdshipin.com/5DWJk
 真4K,http://[2409:8087:2001:20:2800:0:df6e:eb14]/ott.mobaibox.com/PLTV/3/224/3221228141/index.m3u8
 影视4K,http://zteres.sn.chinamobile.com:6060/000000001000/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=3
-北京4K,http://221.179.217.76/PLTV/88888888/224/3221226550/1.m3u8
 广东4K,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=18581519202&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=004bfc8f56cd2797&cid=364&id=GDZYHD4K_38000
 南国都市4K,http://player.521fanli.cn/1691/gd/gztvm3u8.php?id=gzngds
 河南4K,http://[2409:8087:4400:20:1:a0f:12:33]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226526/index.m3u8
