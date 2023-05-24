@@ -1,6 +1,6 @@
 //以下内容来源于互联网，只为自用，如有冒犯，请联系删除。特别感谢52670576@github
 {
-  "spider": "http://ftp6284928.host108.abeiyun.cn/jar/tvbox.txt;md5;a4bf71ea71185b7815d3e94d591a7c51",
+  "spider": "https://gitee.com/robor/tvbox/raw/main/YSC.jar;md5;0c8f389da29fc3ee9ecf2e94fc8a1c88",
   "wallpaper": "https://epg.112114.xyz/bingimg",
   "flags": ["qq","腾讯","企鹅","iQiYi","qiyi","爱奇艺","奇艺","youku","YouKu","优酷","sohu","SoHu","搜狐","letv","LeShi","乐视","imgo","mgtv","MangGuo","芒果","SLYS4k","BYGA","luanzi","AliS","dxzy","bilibili","QEYSS","xigua","西瓜视频","腾讯视频","奇艺视频","优酷视频","芒果视频","乐视视频"],
   "lives": [
@@ -16,7 +16,8 @@
   ],
   "sites": [
     {"key":"豆瓣","name":"🔍豆瓣荐片","type":3,"api":"https://gitee.com/robor/tvbox/raw/main/js/lib/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gitee.com/robor/tvbox/raw/main/js/douban.js"},
-    {"key":"直播","name":"💻电视直播","type":3,"api":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/lib/直播转点播.js","searchable":1,"ext":"南风$https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt#饭太硬$https://agit.ai/fantaiying/fty/raw/branch/master/live.txt#影视范$https://agit.ai/fantaiying/fmm/raw/branch/main/tv/m3u/global.m3u"},
+    {"key":"直播","name":"💻电视直播","type":3,"api":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/lib/直播转点播.js","searchable":1,
+    "ext":"南风$https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt#饭太硬$https://agit.ai/fantaiying/fty/raw/branch/master/live.txt#综合$http://home.jundie.top:81/Cat/tv/live.txt"},
     {"key":"爱奇异","name":"🥝爱奇艺(官)","type":3,"api":"https://gitee.com/robor/tvbox/raw/main/js/lib/drpy2.min.js","ext":"https://gitee.com/robor/tvbox/raw/main/js/aiqiyi.js"},
     {"key":"优酷","name":"👑优酷(官)","type":3,"api":"https://gitee.com/robor/tvbox/raw/main/js/lib/drpy2.min.js","ext":"https://raw.gitmirror.com/52670576/tvbox/main/js/youku.js"},
     {"key":"腾讯","name":"🐧腾讯(官)","type":3,"api":"https://gitee.com/robor/tvbox/raw/main/js/lib/drpy2.min.js","ext":"https://gitee.com/robor/tvbox/raw/main/js/tengxun.js"},
@@ -157,12 +158,25 @@
     {"name":"解析31","type":1,"url":"https://json.key521.cn/api/?key=a161dfbdceebcd60c72bc1a87b1f3281&url="}
   ],
   "rules":[
+    {"host":"www.iesdouyin.com","rule":["playwm/?video_id="]},
+    {"host":"v.douyin.com","rule":["playwm/?video_id="]},
+    {"host":"www.djuu.com","rule":["mp4.djuu.com","m4a"]},
+    {"host":"m.ysxs8.vip","rule":["ysting.ysxs8.vip:81","xmcdn.com"],"filter":[]},
+    {"host":"hdmoli.com","rule":[".m3u8"]},
+    {"host":"https://api.live.bilibili.com","rule":["bilivideo.com","/index.m3u8"],"filter":["data.bilibili.com/log/web","i0.hdslb.com/bfs/live/"]},
+    {"host":"www.fun4k.com","rule":["https://hd.ijycnd.com/play","index.m3u8"]},
+    {"host":"zjmiao.com","rule":["play.videomiao.vip/API.php","time=","key=","path="]},
     {"host":"dyxs20.com","rule":[".m3u8"]},
     {"host":"www.agemys.cc","rule":["cdn-tos","obj/tos-cn"]},
     {"host":"www.sharenice.net","rule":["http.*?/play.{0,3}\\?[^url]{2,8}=.*"]},
+    {"host":"www.sharenice.net","rule":["sovv.qianpailive.com","vid="],"filter":[]},
     {"host":"www.sharenice.net","rule":["qianpailive.com","vid="]},
-    {"host":"www.iesdouyin.com","rule":["playwm/?video_id="]},
-    {"host":"v.douyin.com","rule":["playwm/?video_id="]}
+    {"host":"www.sharenice.net","rule":["douyin.com","/play/"]},
+    {"host":"www.sharenice.net","rule":["huoshan.com","/item/video/"],"filter":[]},
+    {"host":"*","rule":["default.365yg.com"]},
+    {"host":"*","rule":["douyin.com/aweme","video_id="]},
+    {"host":"*","rule":["http((?!http).){12,}?\\.(m3u8|mp4|flv|avi|mkv|rm|wmv|mpg|m4a)\\?.*"]},
+    {"host":"*","rule":["http((?!http).){12,}\\.(m3u8|mp4|flv|avi|mkv|rm|wmv|mpg|m4a)"]}
   ],
   "ijk":[
     {"group":"软解码","options":[
