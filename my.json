@@ -16,8 +16,7 @@
   ],
   "sites": [
     {"key":"豆瓣","name":"🔍豆瓣荐片","type":3,"api":"https://gitee.com/robor/tvbox/raw/main/js/lib/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gitee.com/robor/tvbox/raw/main/js/douban.js"},
-    {"key":"直播","name":"💻电视直播","type":3,"api":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/lib/直播转点播.js","searchable":1,
-    "ext":"南风$https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt#饭太硬$https://agit.ai/fantaiying/fty/raw/branch/master/live.txt#综合$http://home.jundie.top:81/Cat/tv/live.txt"},
+    {"key":"直播","name":"💻电视直播","type":3,"api":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/lib/直播转点播.js","searchable":1,"ext":"饭太硬$http://ftyyy.tk/live.txt#范明明$https://live.fanmingming.com/tv/m3u/global.m3u"},
     {"key":"爱奇异","name":"🥝爱奇艺(官)","type":3,"api":"https://gitee.com/robor/tvbox/raw/main/js/lib/drpy2.min.js","ext":"https://gitee.com/robor/tvbox/raw/main/js/aiqiyi.js"},
     {"key":"优酷","name":"👑优酷(官)","type":3,"api":"https://gitee.com/robor/tvbox/raw/main/js/lib/drpy2.min.js","ext":"https://raw.gitmirror.com/52670576/tvbox/main/js/youku.js"},
     {"key":"腾讯","name":"🐧腾讯(官)","type":3,"api":"https://gitee.com/robor/tvbox/raw/main/js/lib/drpy2.min.js","ext":"https://gitee.com/robor/tvbox/raw/main/js/tengxun.js"},
