@@ -9,7 +9,7 @@
       "type": 0,
       "url": "https://gitee.com/robor/set/raw/main/live.txt",
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png",
+      "logo":"https://epg.112114.xyz/logo/{name}.png",
       "playerType": 1,
       "boot": false
     }
@@ -84,7 +84,7 @@
     {"key":"达达龟","name":"🐢达达龟","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/robor/tvbox/raw/main/sub/dadagui.json"},
     {"key":"厂长","name":"🏭厂长","type":3,"api":"https://gitee.com/robor/tvbox/raw/main/js/lib/drpy2.min.js","ext":"https://gitee.com/robor/tvbox/raw/main/js/changzhang.js"},
     {"key":"lzi","name":"🏭量子资源","type":1,"api":"https://cj.lziapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":0,"categories":["动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","香港剧","韩国剧","欧美剧","记录片","台湾剧","日本剧","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫","伦理片"]},
-    {"key":"非凡资源","name":"🏭非凡资源","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/robor/tvbox/raw/main/sub/ffzy.json"},
+    {"key":"ffzy","name":"🏭非凡资源","type":1,"api":"http://cj.ffzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":0,"categories":["电影片","连续剧","综艺片","动漫片","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","香港剧","韩国剧","欧美剧","记录片","台湾剧","日本剧","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫","伦理片"]},
     {"key":"喜马拉雅","name":"👂喜马拉雅","type":3,"api":"https://gitee.com/robor/tvbox/raw/main/js/lib/drpy2.min.js","ext":"https://gitee.com/robor/tvbox/raw/main/js/ximalaya.js"},
     {"key":"有声小说吧","name":"👂有声小说吧","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/robor/tvbox/raw/main/sub/youshengxiaoshuoba.json"},
     {"key":"海洋听书","name":"👂海洋听书","type":3,"api":"https://gitee.com/robor/tvbox/raw/main/js/lib/drpy2.min.js","ext":"https://gitee.com/robor/tvbox/raw/main/js/haiyangtingshu.js"},
@@ -108,7 +108,7 @@
     {"key":"软件教程","name":"📚软件教程","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/robor/tvbox/raw/main/sub/jiaocheng.json"},
     {"key":"哔哩哔哩","name":"🅱️哔哩哔哩","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/robor/tvbox/raw/main/sub/Bili.json"},
     {"key":"相声小品","name":"🏮相声小品","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/robor/tvbox/raw/main/sub/Blixs.json"},
-    {"key":"戏 曲" ,"name": "🎈国粹戏曲","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/robor/tvbox/raw/main/sub/Blixq.json"},
+    {"key":"戏曲","name": "🎈国粹戏曲","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/robor/tvbox/raw/main/sub/Blixq.json"},
     {"key":"歌曲MV","name":"📺歌曲MV","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1, "ext":"https://gitee.com/robor/tvbox/raw/main/sub/gequ.txt"},
     {"key":"女团热舞","name":"💃女团热舞","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://gitee.com/robor/tvbox/raw/main/sub/nvtuanrewu.json"},
     {"key":"演唱会","name":"🎸演唱会","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/robor/tvbox/raw/main/sub/yanchanghui.txt"},
@@ -123,6 +123,7 @@
     {"key":"csp_xpath_A33","name":"🎸MTV","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/robor/tvbox/raw/main/sub/mtv.json"}
   ],
   "parses":[
+    {"name":"解析聚合","type":3,"url":"Demo"},
     {"name":"Web聚合","type":3,"url":"Web"},
     {"name":"Json并发","type":2,"url":"Parallel"},
     {"name":"Json轮询","type":2,"url":"Sequence"},
