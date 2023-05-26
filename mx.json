@@ -25,7 +25,7 @@
     {"key":"360影视","name":"💘360影视(官)","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
     {"key":"py_xigua","name": "🔥西瓜视频","type": 3,"api": "py_xigua","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://gitee.com/robor/tvbox/raw/main/py/py_xigua.py"},
     {"key":"py_cctv","name": "🔥CCTV","type": 3,"api": "py_cctv","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://gitee.com/robor/tvbox/raw/main/py/py_cctv.py"},
-    {"key":"玩偶哥哥","name":"💧玩偶┃4K","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext": "https://pan.shangui.cc/f/YeQiy/自行扫码观看.txt"},
+    {"key":"csp_WoGG","name":"💧玩偶┃4K","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext": "https://pan.shangui.cc/f/YeQiy/自行扫码观看.txt"},
     {"key":"阿里云盘网","name":"💧云盘网┃4K","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/robor/tvbox/raw/main/sub/aliyunpan.json"},
     {"key":"4KHDR","name":"💧4KHDR","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/robor/tvbox/raw/main/sub/4KHDR.json"},
     {"key":"布雷蓝光","name":"⚡布雷┃4K","type":3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://gitee.com/robor/tvbox/raw/main/sub/bulei.json"},
