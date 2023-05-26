@@ -1,6 +1,6 @@
 //以下内容来源于互联网，只为自用，如有冒犯，请联系删除。特别感谢52670576@github
 {
-  "spider": "http://ftp6284928.host108.abeiyun.cn/jar/tvbox.txt;md5;a4bf71ea71185b7815d3e94d591a7c51",
+  "spider": "https://raw.gitmirror.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;b33ab66a0bc515720d7e9083fb52fbfc",
   "wallpaper": "https://epg.112114.xyz/bingimg",
   "flags": ["qq","腾讯","企鹅","iQiYi","qiyi","爱奇艺","奇艺","youku","YouKu","优酷","sohu","SoHu","搜狐","letv","LeShi","乐视","imgo","mgtv","MangGuo","芒果","SLYS4k","BYGA","luanzi","AliS","dxzy","bilibili","QEYSS","xigua","西瓜视频","腾讯视频","奇艺视频","优酷视频","芒果视频","乐视视频"],
   "lives": [
@@ -100,6 +100,7 @@
     {"key":"网盘搜索","name": "🖥网盘搜索","type": 3,"api": "csp_PanSearch","searchable": 1,"filterable": 1,"changeable": 0,"ext": "http://ftp6284928.host108.abeiyun.cn/json/token.txt"},
     {"key":"push_agent","name":"🍭推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"filterable":0,"ext": "http://ftp6284928.host108.abeiyun.cn/json/token.txt"},
     {"key":"土狗","name":"🖥土狗搜索","type":3,"api":"csp_TuGou","searchable":1,"changeable":0,"ext": "http://ftp6284928.host108.abeiyun.cn/json/token.txt"},
+    {"key":"土拨鼠","name":"🖥土拨鼠搜索","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/robor/tvbox/raw/main/sub/tuboshu.json"},
     {"key":"csp_NiNi","name":"👑泥巴(墙外)","type":3,"api":"csp_NiNi","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"兔小贝","name":"🐰兔小贝","type":3,"api":"https://gitee.com/robor/tvbox/raw/main/js/lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/robor/tvbox/raw/main/js/tuxiaobei.js"},
     {"key":"高中教育","name":"📚学习园地","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/robor/tvbox/raw/main/sub/Blixt.json"},
@@ -162,7 +163,7 @@
     {"host":"www.djuu.com","rule":["mp4.djuu.com","m4a"]},
     {"host":"m.ysxs8.vip","rule":["ysting.ysxs8.vip:81","xmcdn.com"],"filter":[]},
     {"host":"hdmoli.com","rule":[".m3u8"]},
-    {"host":"https://api.live.bilibili.com","rule":["bilivideo.com","/index.m3u8"],"filter":["data.bilibili.com/log/web","i0.hdslb.com/bfs/live/"]},
+    {"host":"api.live.bilibili.com","rule":["bilivideo.com","/index.m3u8"],"filter":["data.bilibili.com/log/web","i0.hdslb.com/bfs/live/"]},
     {"host":"www.fun4k.com","rule":["https://hd.ijycnd.com/play","index.m3u8"]},
     {"host":"zjmiao.com","rule":["play.videomiao.vip/API.php","time=","key=","path="]},
     {"host":"dyxs20.com","rule":[".m3u8"]},
