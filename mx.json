@@ -5,11 +5,11 @@
   "flags": ["qq","腾讯","企鹅","iQiYi","qiyi","爱奇艺","奇艺","youku","YouKu","优酷","sohu","SoHu","搜狐","letv","LeShi","乐视","imgo","mgtv","MangGuo","芒果","SLYS4k","BYGA","luanzi","AliS","dxzy","bilibili","QEYSS","xigua","西瓜视频","腾讯视频","奇艺视频","优酷视频","芒果视频","乐视视频"],
   "lives": [
     {
-      "name": "TV_Live",
+      "name": "Live",
       "type": 0,
       "url": "https://gitee.com/robor/set/raw/main/live.txt",
-      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png",
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+      "logo":"https://epg.112114.xyz/logo/{name}.png",
       "playerType": 1,
       "boot": false
     }
@@ -28,6 +28,7 @@
     {"key":"三六零","name":"三六零","type":3,"api":"csp_SP360","filterable":1,"quickSearch":1,"searchable":1},
     {"key":"看看剧","name":"看看剧","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.gitmirror.com/PizazzGY/TVBox/main/XYQHiker/看看剧.json"},
     {"key":"五五五","name":"五五五","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.gitmirror.com/PizazzGY/TVBox/main/XYQHiker/五五五.json"},
+    {"key":"csp_WoGG","name":"玩偶哥","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ftp6284928.host108.abeiyun.cn/json/token.txt"},
     {"key":"一三九","name":"一三九","type":3,"api":"https://raw.gitmirror.com/PizazzGY/TVBox/main/JS/drpy.min.js","ext":"https://raw.gitmirror.com/PizazzGY/TVBox/main/JS/一三九.js"},
     {"key":"影渣渣","name":"影渣渣","type":3,"api":"https://raw.gitmirror.com/PizazzGY/TVBox/main/JS/drpy.min.js","ext":"https://raw.gitmirror.com/PizazzGY/TVBox/main/JS/影渣渣.js"},
     {"key":"柒之社","name":"柒之社","type":3,"api":"https://raw.gitmirror.com/PizazzGY/TVBox/main/JS/drpy.min.js","ext":"https://raw.gitmirror.com/PizazzGY/TVBox/main/JS/柒之社.js"},
