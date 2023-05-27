@@ -73,8 +73,8 @@ CETV4,http://txycsbl.centv.cn/zb/0822cetv4.m3u8
 TVB财经体育资讯台,http://120.84.96.103:808/hls/86/index.m3u8
 TVB翡翠台,http://r.jdshipin.com/62WM7#http://r.jdshipin.com/qClQf#http://flv.mp4cdn.live/gt-key=00569874.php?id=2
 TVB明珠台,http://r.jdshipin.com/ZQ4kN#http://flv.mp4cdn.live/gt-key=00569874.php?id=3
-TVB华丽台,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=571187&extension=ts&play_token=uWRW1HvPSb
-TVB星河台,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=153506&extension=ts&play_token=miEIuxsBcN
+TVB华丽台,http://r.jdshipin.com/thuYX#http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=571187&extension=ts&play_token=uWRW1HvPSb
+TVB星河台,http://r.jdshipin.com/sXuuD#http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=153506&extension=ts&play_token=miEIuxsBcN
 TVB,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=153396&extension=ts&play_token=ICdnbP1fWe
 TVB J1,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=153395&extension=ts&play_token=Pd3SDU2VSy
 TVB J2,http://r.jdshipin.com/Nr5jq#http://flv.mp4cdn.live/gt-key=00569874.php?id=5
@@ -87,12 +87,12 @@ TVB J2,http://r.jdshipin.com/Nr5jq#http://flv.mp4cdn.live/gt-key=00569874.php?id
 Viu,http://r.jdshipin.com/vSJvl
 Viu6,https://cdn.hklive.tv/xxxx/96/index.m3u8
 澳门莲花,http://107.151.203.111:2209/dl/lotustv2021.php
-卫视中文台,http://flv.mp4cdn.live/gt-key=00569874.php?id=109
-卫视电影台,http://flv.mp4cdn.live/gt-key=00569874.php?id=114
+
 大爱,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 大爱2,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 东风卫视,http://123.51.230.108:18560/.m3u8
 好莱坞电影,http://120.84.96.109:808/hls/24/index.m3u8
+东森財经新闻,http://123.51.230.108:18515/.m3u8
 东森电影,http://120.84.96.109:808/hls/32/index.m3u8
 东森洋片,http://120.84.96.109:808/hls/33/index.m3u8
 民視HD,http://120.84.96.109:808/hls/34/index.m3u8
@@ -101,6 +101,12 @@ Viu6,https://cdn.hklive.tv/xxxx/96/index.m3u8
 84频道,http://120.84.96.109:808/hls/84/index.m3u8
 CCM,http://120.84.96.109:808/hls/85/index.m3u8
 东森戏剧,http://162.19.247.76:22222/live/dsxj/index.m3u8
+唯心電视,http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8#http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/playlist.m3u8
+香港佛陀,http://js1.amtb.cn/liveedge/_definst_/livetv/chunklist.m3u8#https://js1.amtb.cn/liveedge/_definst_/livetv/playlist.m3u8
+金馬影院,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+八大第一台,http://123.51.230.108:18539/.m3u8
+卫视中文台,http://flv.mp4cdn.live/gt-key=00569874.php?id=109
+卫视电影台,http://flv.mp4cdn.live/gt-key=00569874.php?id=114
 TVBS新闻台,http://38.64.72.148/hls/modn/list/4006/chunklist1.m3u8
 TVBS亚洲台,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
 ELEVEN1,http://61.221.81.93:8078/hls/25/80/esport.m3u8
@@ -382,6 +388,7 @@ FTV,https://fashiontv-fashiontv-4-de.samsung.wurl.com/manifest/playlist_1920x108
 FashionTV,http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
 FashionTV,http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8
 FashionTV,http://lb.streaming.sk/fashiontv/stream/chunklist_w1402273512.m3u8
+FashionTV,http://80.94.54.42/fashiontv/stream/playlist.m3u8
 HBO,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=56057&extension=ts&play_token=pqlvbiUAPq
 HBO2,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=56105&extension=ts&play_token=TYYmi0O3a2
 HBO3,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=56104&extension=ts&play_token=HqqAESBfCa
