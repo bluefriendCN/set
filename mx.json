@@ -1,6 +1,6 @@
 //以下内容来源于互联网，只为自用，如有冒犯，请联系删除。特别感谢52670576@github
 {
-  "spider": "https://raw.gitmirror.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;b33ab66a0bc515720d7e9083fb52fbfc",
+  "spider": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;EBB1F03776FE4CB56896B10B7834739C",
   "wallpaper": "https://epg.112114.xyz/bingimg",
   "flags": ["qq","腾讯","企鹅","iQiYi","qiyi","爱奇艺","奇艺","youku","YouKu","优酷","sohu","SoHu","搜狐","letv","LeShi","乐视","imgo","mgtv","MangGuo","芒果","SLYS4k","BYGA","luanzi","AliS","dxzy","bilibili","QEYSS","xigua","西瓜视频","腾讯视频","奇艺视频","优酷视频","芒果视频","乐视视频"],
   "lives": [
@@ -278,44 +278,10 @@
     {"name":"解析33","type":1,"url":"https://api.qianqi.net/vip/?url="}
   ],
   "rules":[
-    {
-      "name": "量子廣告",
-      "hosts": [
-        "vip.lz",
-        "hd.lz"
-      ],
-      "regex": [
-        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY"
-      ]
-    },
-    {
-      "name": "非凡廣告",
-      "hosts": [
-        "vip.ffzy",
-        "hd.ffzy"
-      ],
-      "regex": [
-        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY"
-      ]
-    },
-    {
-      "name": "火山嗅探",
-      "hosts": [
-        "huoshan.com"
-      ],
-      "regex": [
-        "item_id="
-      ]
-    },
-    {
-      "name": "抖音嗅探",
-      "hosts": [
-        "douyin.com"
-      ],
-      "regex": [
-        "is_play_url="
-      ]
-    },
+    {"name": "量子廣告","hosts": ["vip.lz","hd.lz"],"regex": ["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY"]},
+    {"name": "非凡廣告","hosts": ["vip.ffzy","hd.ffzy"],"regex": ["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY"]},
+    {"name": "火山嗅探","hosts": ["huoshan.com"],"regex": ["item_id="]},
+    {"name": "抖音嗅探","hosts": ["douyin.com"],"regex": ["is_play_url="]},
     {"host":"www.iesdouyin.com","rule":["playwm/?video_id="]},
     {"host":"v.douyin.com","rule":["playwm/?video_id="]},
     {"host":"www.djuu.com","rule":["mp4.djuu.com","m4a"]},
