@@ -278,10 +278,6 @@
     {"name":"解析33","type":1,"url":"https://api.qianqi.net/vip/?url="}
   ],
   "rules":[
-    {"name": "量子廣告","hosts": ["vip.lz","hd.lz"],"regex": ["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY"]},
-    {"name": "非凡廣告","hosts": ["vip.ffzy","hd.ffzy"],"regex": ["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY"]},
-    {"name": "火山嗅探","hosts": ["huoshan.com"],"regex": ["item_id="]},
-    {"name": "抖音嗅探","hosts": ["douyin.com"],"regex": ["is_play_url="]},
     {"host":"www.iesdouyin.com","rule":["playwm/?video_id="]},
     {"host":"v.douyin.com","rule":["playwm/?video_id="]},
     {"host":"www.djuu.com","rule":["mp4.djuu.com","m4a"]},
