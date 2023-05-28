@@ -89,20 +89,20 @@ Viu6,https://cdn.hklive.tv/xxxx/96/index.m3u8
 澳门莲花,http://107.151.203.111:2209/dl/lotustv2021.php
 大爱,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 大爱2,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
-ELEVEN1,http://61.221.81.93:8078/hls/25/80/esport.m3u8
-ELEVEN2,http://61.221.81.93:8078/hls/26/80/esport2.m3u8
 民视,rtmp://9sv2.mine.nu/sat/tv051
 台视,rtmp://9sv2.mine.nu/sat/tv071
 中视,rtmp://9sv2.mine.nu/sat/tv091
 华视,rtmp://9sv2.mine.nu/sat/tv111
-TVBS欢乐,rtmp://9sv2.mine.nu/sat/tv421
 TVBS新闻,rtmp://9sv2.mine.nu/sat/tv551
+TVBS欢乐,rtmp://9sv2.mine.nu/sat/tv421
 纬来体育,rtmp://9sv2.mine.nu/sat/tv721
 纬来育乐,rtmp://9sv2.mine.nu/sat/tv701
 纬来日本,rtmp://9sv2.mine.nu/sat/tv771
 东森超视,rtmp://9sv2.mine.nu/sat/tv331
 东森财经,rtmp://9sv2.mine.nu/sat/tv571
 MoMo综合,rtmp://9sv2.mine.nu/sat/tv761
+ELEVEN1,http://61.221.81.93:8078/hls/25/80/esport.m3u8
+ELEVEN2,http://61.221.81.93:8078/hls/26/80/esport2.m3u8
 
 卫视,#genre#
 北京卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227179/index.m3u8
