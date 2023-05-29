@@ -1,6 +1,6 @@
 //以下内容均来源于互联网，只为自用和学习，如有冒犯，请联系删除。
 {
-  "spider": "https://gitee.com/robor/need/raw/main/spider.jar;md5;ab51ef309aa98603e4b5750a35b04179",
+  "spider": "https://gitee.com/robor/need/raw/main/spider.jar;md5;98c90302337a4016e39430821e359af4",
   "wallpaper": "https://epg.112114.xyz/bingimg",
   "flags": ["qq","腾讯","企鹅","iQiYi","qiyi","爱奇艺","奇艺","youku","YouKu","优酷","sohu","SoHu","搜狐","letv","LeShi","乐视","imgo","mgtv","MangGuo","芒果","SLYS4k","BYGA","luanzi","AliS","dxzy","bilibili","QEYSS","xigua","西瓜视频","腾讯视频","奇艺视频","优酷视频","芒果视频","乐视视频"],
   "lives": [
@@ -18,10 +18,6 @@
   "sites": [
     {"key":"豆瓣","name":"豆瓣","type":3,"api":"https://gitee.com/robor/need/raw/main/JS/drpy.min.js","ext":"https://gitee.com/robor/need/raw/main/JS/豆瓣.js","searchable":0,"quickSearch":0,"filterable":1},
     {"key":"直播","name":"💻电视直播","type":3,"api":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/lib/直播转点播.js","searchable":1,"ext":"南风$https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt#范明明$https://live.fanmingming.com/tv/m3u/global.m3u"},
-    {"key":"小苹果","name":"小苹果","type":3,"api":"csp_LiteApple","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
-    {"key":"网飞TV","name":"网飞TV","type":3,"api":"https://gitee.com/robor/need/raw/main/JS/drpy.min.js","ext":"https://gitee.com/robor/need/raw/main/JS/网飞TV.js"},
-    {"key":"酷云七七","name":"酷云七七","type":3,"api":"https://gitee.com/robor/need/raw/main/JS/drpy.min.js","ext":"https://gitee.com/robor/need/raw/main/JS/酷云七七.js"},
-    {"key":"农民影视","name":"农民影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/robor/need/raw/main/XBPQ/农民影视.json"},
     {"key":"布蕾蓝光","name":"布蕾蓝光","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/robor/need/raw/main/XYQHiker/布蕾蓝光.json"},
     {"key":"厂长影视","name":"厂长影视","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/robor/need/raw/main/XYQHiker/厂长影视.json"},
     {"key":"多米蓝光","name":"多米蓝光","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://vod.dmdh.top:5680//api.php/app/"},
@@ -31,19 +27,23 @@
     {"key":"量子资源","name":"量子资源","type":"0","api":"https://cj.lziapi.com/api.php/provide/vod/at/xml/","searchable":"1","changeable":"1","categories":["国产动漫","日韩动漫","国产剧","韩国剧","日本剧","电影片","连续剧","综艺片","动漫片","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","台湾剧","香港剧","欧美剧","记录片","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","欧美动漫","港台动漫","海外动漫","伦理片"]},
     {"key":"非凡资源","name":"非凡资源","type":"0","api":"http://cj.ffzyapi.com/api.php/provide/vod/at/xml/","searchable":"1","changeable":"1","categories":["国产动漫","日韩动漫","国产剧","韩国剧","日本剧","电影片","连续剧","综艺片","动漫片","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","香港剧","欧美剧","记录片","台湾剧","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","欧美动漫","港台动漫","海外动漫","伦理片"]},
     {"key":"动漫巴士","name":"动漫巴士","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/robor/need/raw/main/XBPQ/动漫巴士.json"},
+    {"key":"小苹果","name":"小苹果","type":3,"api":"csp_LiteApple","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
+    {"key":"网飞TV","name":"网飞TV","type":3,"api":"https://gitee.com/robor/need/raw/main/JS/drpy.min.js","ext":"https://gitee.com/robor/need/raw/main/JS/网飞TV.js"},
+    {"key":"酷云七七","name":"酷云七七","type":3,"api":"https://gitee.com/robor/need/raw/main/JS/drpy.min.js","ext":"https://gitee.com/robor/need/raw/main/JS/酷云七七.js"},
+    {"key":"农民影视","name":"农民影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/robor/need/raw/main/XBPQ/农民影视.json"},
     {"key":"玩偶哥哥","name":"云盘｜玩偶","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/robor/need/raw/main/XYQHiker/玩偶哥哥.json"},
+    {"key":"我的小站","name":"云盘｜小站","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/robor/need/raw/main/XYQHiker/我的小站.json"},
+    {"key":"云盘资源分享","name":"云盘｜分享","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/robor/need/raw/main/XYQHiker/云盘资源分享.json"},
+    {"key":"土拨鼠搜索","name":"云盘｜土拨鼠","type":3,"api":"csp_XYQHiker","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/robor/need/raw/main/XYQHiker/土拨鼠搜索.json"},
+    {"key":"阿里云盘网","name":"云盘｜云盘网","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/robor/need/raw/main/XYQHiker/阿里云盘网.json"},
+    {"key":"云盘分享社","name":"云盘｜分享社","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/robor/need/raw/main/XYQBiu/云盘分享社.json"},
     {"key":"PanSearch","name":"云盘｜搜索","type":3,"api":"csp_PanSearch","ext":"http://127.0.0.1:9978/file/TVBox/token.txt"},
     {"key":"Dovx","name":"云盘｜七夜","type":3,"api":"csp_Dovx","ext":"http://127.0.0.1:9978/file/TVBox/token.txt"},
     {"key":"Paper","name":"云盘｜纸条","type":3,"api":"csp_Paper","ext":"http://127.0.0.1:9978/file/TVBox/token.txt"},
     {"key":"YiSo","name":"云盘｜易搜","type":3,"api":"csp_YiSo","ext":"http://127.0.0.1:9978/file/TVBox/token.txt"},
     {"key":"UpYun","name":"云盘｜云搜","type":3,"api":"csp_UpYun","ext":"http://127.0.0.1:9978/file/TVBox/token.txt"},
     {"key":"PanSou","name":"云盘｜盘搜","type":3,"api":"csp_PanSou","ext":"http://127.0.0.1:9978/file/TVBox/token.txt"},
-    {"key":"TuGou","name":"云盘｜土狗","type":3,"api":"csp_TuGou","ext":"http://127.0.0.1:9978/file/TVBox/token.txt"},
-    {"key":"我的小站","name":"云盘｜小站","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/robor/need/raw/main/XYQHiker/我的小站.json"},
-    {"key":"云盘资源分享","name":"云盘｜分享","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/robor/need/raw/main/XYQHiker/云盘资源分享.json"},
-    {"key":"土拨鼠搜索","name":"云盘｜土拨鼠","type":3,"api":"csp_XYQHiker","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/robor/need/raw/main/XYQHiker/土拨鼠搜索.json"},
-    {"key":"阿里云盘网","name":"云盘｜云盘网","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/robor/need/raw/main/XYQHiker/阿里云盘网.json"},
-    {"key":"云盘分享社","name":"云盘｜分享社","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/robor/need/raw/main/XYQBiu/云盘分享社.json"}
+    {"key":"TuGou","name":"云盘｜土狗","type":3,"api":"csp_TuGou","ext":"http://127.0.0.1:9978/file/TVBox/token.txt"}
   ],
   "doh": [
     {"name": "Google","url": "https://dns.google/dns-query","ips": ["8.8.4.4","8.8.8.8"]},

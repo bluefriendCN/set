@@ -69,16 +69,14 @@ CETV4,http://txycsbl.centv.cn/zb/0822cetv4.m3u8
 凤凰香港,https://cntv.sbs/fs?id=fhhk
 凤凰中文,https://live.goodiptv.club/api/sxg.php?id=test1_4000
 凤凰资讯,https://live.goodiptv.club/api/sxg.php?id=test2_4000
-凤凰中文,http://playtimeshift-live.ifeng.com:80/timeshift/live/06OLEGEGM4G/timeshift.m3u8?txKbps=702&delay=300
-凤凰资讯,http://playtimeshift-live.ifeng.com:80/timeshift/live/06OLEEWQKN4/timeshift.m3u8?txKbps=702&delay=300
 TVB财经体育资讯台,http://120.84.96.103:808/hls/86/index.m3u8
-TVB翡翠台,http://r.jdshipin.com/62WM7#http://r.jdshipin.com/qClQf#http://flv.mp4cdn.live/gt-key=00569874.php?id=2
-TVB明珠台,http://r.jdshipin.com/ZQ4kN#http://flv.mp4cdn.live/gt-key=00569874.php?id=3
+TVB翡翠台,http://r.jdshipin.com/62WM7#http://r.jdshipin.com/qClQf
+TVB明珠台,http://r.jdshipin.com/ZQ4kN
 TVB华丽台,http://r.jdshipin.com/thuYX#http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=571187&extension=ts&play_token=uWRW1HvPSb
 TVB星河台,http://r.jdshipin.com/sXuuD#http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=153506&extension=ts&play_token=miEIuxsBcN
 TVB,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=153396&extension=ts&play_token=ICdnbP1fWe
 TVB J1,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=153395&extension=ts&play_token=Pd3SDU2VSy
-TVB J2,http://r.jdshipin.com/Nr5jq#http://flv.mp4cdn.live/gt-key=00569874.php?id=5
+TVB J2,http://r.jdshipin.com/Nr5jq
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 有线新闻台,http://61.10.2.141/live_freedirect/freehd209_h.live/playlist.m3u
 有线财经资讯台,https://api.leonardpark.dev/live/icable/108
@@ -132,7 +130,7 @@ MoMo综合,rtmp://9sv2.mine.nu/sat/tv761
 黑龙江卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227207/index.m3u8
 内蒙古卫视,http://v2.91kds.cn/b9/hoge.m3u8?ip=nmtv&id=92&auth=rinimabi
 宁夏卫视,https://hls.ningxiahuangheyun.com/tv/nxws.m3u8
-陕西卫视,http://120.204.20.48/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225498/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225821/index.m3u8
+陕西卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225821/index.m3u8
 甘肃卫视,http://[2409:8087:2001:20:2800:0:df6e:eb1a]/ott.mobaibox.com/PLTV/4/224/3221227568/index.m3u8
 青海卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226414/index.m3u8
 新疆卫视,http://livehyw5.chinamcache.com/hyw/zb01.m3u8?txSecret=58347f72aece2c25c685b8dc4da74652&txTime=95A66658#http://[2409:8087:2001:20:2800:0:df6e:eb0b]/ott.mobaibox.com/PLTV/3/224/3221228290/index.m3u8
@@ -317,7 +315,7 @@ SiTV3法治天地,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/322122634
 SiTV4劲爆体育,https://live.goodiptv.club/api/bestv.php?id=jbtyhd8m/8000000
 SiTV5魅力足球,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226558/index.m3u8
 SiTV6金色学堂,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226332/index.m3u8
-SiTV7欢笑剧场,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226323/index.m3u8
+SiTV7欢笑剧场,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001193/index.m3u8
 SiTV8七彩戏剧,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001308/index.m3u8
 SiTV9生活时尚,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226570/index.m3u8
 SiTV10乐游,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226335/index.m3u8
