@@ -16,6 +16,8 @@
     {"key": "本地","name": "本地","type": 3,"api": "csp_Local","searchable": 0,"changeable": 0},
     {"key": "量子","name": "量子","type": 0,"api": "https://cj.lziapi.com/api.php/provide/vod/at/xml/","searchable": 1,"changeable": 1,"categories": ["伦理片"]},
     {"key": "非凡","name": "非凡","type": 0,"api": "http://cj.ffzyapi.com/api.php/provide/vod/at/xml/","searchable": 1,"changeable": 1,"categories": ["伦理片"]},
+    {"key": "非","name": "️非凡┃去广告","type": 1,"api": "https://www.ah121.com/api.php/provide/vod/from/ffm3u8/?at/xml/","playUrl": "json:https://www.itvbox.cc/fflz.php?url=","searchable": 1,"quickSearch": 1,"filterable": 1,"categories": ["伦理片"]},
+    {"key": "量","name": "量子┃去广告","type": 1,"api": "https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8/?ac=list","searchable": 1,"quickSearch": 1,"filterable": 1,"playUrl": "json:https://www.itvbox.cc/fflz.php?url=","categories": ["伦理片"]},    
     {"key": "91麻豆","name": "91麻豆源","type": 1,"api": "https://91md.me/api.php/provide/vod/","searchable": 0,"quickSearch": 0,"filterable": 0},
     {"key": "玩偶","name": "玩偶","type": 3,"api": "csp_Doll","searchable": 1},
     {"key": "18AV","name": "18AV","type": 3,"api": "csp_Eighteen","searchable": 1},
@@ -507,6 +509,10 @@
     ],
 
     "rules":[
+      {"hosts":["vip.lz","hd.lz"],"rule":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY"]},
+      {"hosts":["vip.ffzy"],"rule":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY"]},
+      {"host":["huoshan.com"],"rule":["item_id="]},
+      {"host":["douyin.com"],"rule":["is_play_url="]},      
       {"host":"www.iesdouyin.com","rule":["playwm/?video_id="]},
       {"host":"v.douyin.com","rule":["playwm/?video_id="]},
       {"host":"www.djuu.com","rule":["mp4.djuu.com","m4a"]},
