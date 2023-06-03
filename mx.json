@@ -94,10 +94,10 @@
     {"name":"解析33","type":1,"url":"https://api.qianqi.net/vip/?url="}
   ],
   "rules":[
-    {"name":"量子广告","hosts":["vip.lz","hd.lz"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY"]},
-    {"name":"非凡广告","hosts":["vip.ffzy"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY"]},
-    {"name":"火山嗅探","host":["huoshan.com"],"regex":["item_id="]},
-    {"name":"抖音嗅探","host":["douyin.com"],"regex":["is_play_url="]},
+    {"hosts":["vip.lz","hd.lz"],"rule":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY"]},
+    {"hosts":["vip.ffzy"],"rule":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY"]},
+    {"host":["huoshan.com"],"rule":["item_id="]},
+    {"host":["douyin.com"],"rule":["is_play_url="]},
     {"host":"www.iesdouyin.com","rule":["playwm/?video_id="]},
     {"host":"v.douyin.com","rule":["playwm/?video_id="]},
     {"host":"www.djuu.com","rule":["mp4.djuu.com","m4a"]},
