@@ -1,6 +1,6 @@
 //以下内容均来源于互联网，只为自用和学习，如有冒犯，请联系删除。
 {
-  "spider": "https://gitee.com/robor/set/raw/main/Yoursmile.jar;md5;07099EA7D907106BE7990AD9DB491F2A",
+  "spider": "https://gitee.com/robor/xc/raw/main/Yoursmile.jar;md5;07099EA7D907106BE7990AD9DB491F2A",
   "wallpaper": "https://epg.112114.xyz/bingimg",
   "flags": ["qq","腾讯","企鹅","iQiYi","qiyi","爱奇艺","奇艺","youku","YouKu","优酷","sohu","SoHu","搜狐","letv","LeShi","乐视","imgo","mgtv","MangGuo","芒果","SLYS4k","BYGA","luanzi","AliS","dxzy","bilibili","QEYSS","xigua","西瓜视频","腾讯视频","奇艺视频","优酷视频","芒果视频","乐视视频"],
   "lives": [
@@ -16,16 +16,16 @@
     }
   ],
   "sites": [
-    {"key":"豆瓣","name":"豆瓣荐片","type":3,"api":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/lib/drpy2.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/豆瓣.js"},
-    {"key":"直播","name":"电视直播","type":3,"api":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/lib/直播转点播.js","searchable":1,"ext":"南风$https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt#范明明$https://live.fanmingming.com/tv/m3u/global.m3u"},
+    {"key":"豆瓣","name":"豆瓣荐片","type":3,"api":"https://gitee.com/robor/xc/raw/master/js/lib/drpy2.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"https://gitee.com/robor/xc/raw/master/js/豆瓣.js"},
+    {"key":"直播","name":"电视直播","type":3,"api":"https://gitee.com/robor/xc/raw/master/js/lib/直播转点播.js","searchable":1,"ext":"南风$https://gitee.com/robor/xc/raw/master/live.txt#范明明$https://live.fanmingming.com/tv/m3u/global.m3u"},
     
     {"key":"csp_Kunyu77","name":"推荐┃酷云七七","type":3,"api":"csp_Kunyu77","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_Ddrk","name":"秒播┃欧美日韩","type":3,"api":"csp_Ddrk","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
       
-    {"key":"csp_JRSKan","name":"体育┃赛事直播","type":3,"api":"csp_XPathFilter","searchable":0,"quickSearch":0,"changeable":0,"ext":"https://agit.ai/00700/vvebo/raw/branch/main/XPathFilter/JRSKan.json"},
-    {"key":"csp_Bili","name":"哔哩┃相声小品","type":3,"api":"csp_Bili","playerType":1,"searchable":0,"quickSearch":0,"changeable":0,"ext":"https://agit.ai/00700/vvebo/raw/branch/main/Bilibili/%e7%9b%b8%e5%a3%b0%e5%b0%8f%e5%93%81.json"},
-    {"key":"dr_Douyu","name":"斗鱼┃斗鱼直播","type":3,"api":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/lib/drpy2.min.js","playerType":1,"searchable":0,"quickSearch":0,"changeable":0,"ext":"https://agit.ai/00700/vvebo/raw/branch/main/DRJS/douyu.js"},
-    {"key":"dr_Huya","name":"虎牙┃虎牙直播","type":3,"api":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/lib/drpy2.min.js","playerType":1,"searchable":0,"quickSearch":0,"changeable":0,"ext":"https://agit.ai/00700/vvebo/raw/branch/main/DRJS/huya.js"},
+    {"key":"csp_JRSKan","name":"体育┃赛事直播","type":3,"api":"csp_XPathFilter","searchable":0,"quickSearch":0,"changeable":0,"ext":"https://gitee.com/robor/xc/raw/master/js/JRKAN%E7%9B%B4%E6%92%AD.js"},
+    {"key":"csp_Bili","name":"哔哩┃BiliBili","type":3,"api":"csp_Bili","playerType":1,"searchable":0,"quickSearch":0,"changeable":0,"ext":"https://gitee.com/robor/xc/raw/master/sub/Bili.json"},
+    {"key":"dr_Douyu","name":"斗鱼┃斗鱼直播","type":3,"api":"https://gitee.com/robor/xc/raw/master/js/lib/drpy2.min.js","playerType":1,"searchable":0,"quickSearch":0,"changeable":0,"ext":"https://agit.ai/00700/vvebo/raw/branch/main/DRJS/douyu.js"},
+    {"key":"dr_Huya","name":"虎牙┃虎牙直播","type":3,"api":"https://gitee.com/robor/xc/raw/master/js/lib/drpy2.min.js","playerType":1,"searchable":0,"quickSearch":0,"changeable":0,"ext":"https://agit.ai/00700/vvebo/raw/branch/main/DRJS/huya.js"},
     
     {"key":"csp_Ole","name":"秒播┃欧乐影视","type":4,"api":"https://php.dovxs.repl.co/vod/ole.php","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_Kuying","name":"秒播┃酷影影视","type":3,"api":"csp_AppYsV2","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://cms.wbsys.top:9835/api.php/app/"},
@@ -33,17 +33,18 @@
     {"key":"csp_3412","name":"秒播┃水果影视","type":1,"api":"https://v.3412.net.cn/macapi.php/provide/vod/","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"playUrl":"https://player.3412.net.cn/?url="},
 
     {"key":"csp_Aidi","name":"秒播┃爱迪影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://aidiapp.xyz/xgapp.php/v2/"},
+    {"key":"csp_Dmdh","name":"秒播┃多米蓝光","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://vod.dmdh.top:5680/api.php/app/"},
 
     {"key":"csp_Czsapp","name":"秒播┃厂长影视","type":3,"api":"csp_Czsapp","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_Kuaikan","name":"秒播┃快看影视","type":3,"api":"csp_Kuaikan","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
-    {"key":"dr_Nmys","name":"秒播┃农民影视","type":3,"api":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/lib/drpy2.min.js","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/00700/vvebo/raw/branch/main/DRJS/%e5%86%9c%e6%b0%91%e5%bd%b1%e8%a7%86.js"},
+    {"key":"dr_Nmys","name":"秒播┃农民影视","type":3,"api":"https://gitee.com/robor/xc/raw/master/js/lib/drpy2.min.js","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/00700/vvebo/raw/branch/main/DRJS/%e5%86%9c%e6%b0%91%e5%bd%b1%e8%a7%86.js"},
     {"key":"csp_Apple","name":"秒播┃小苹果源","type":3,"api":"csp_LiteApple","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
     
     {"key": "非凡","name": "️非凡┃去广告","type": 1,"api": "https://cj.ffzyapi.com/api.php/provide/vod/from/ffm3u8/?at/xml/","searchable": 1,"quickSearch": 1,"filterable": 1,"playUrl": "json:https://www.itvbox.cc/fflz.php?url="},
     {"key": "量子","name": "量子┃去广告","type": 1,"api": "https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8/?ac=list","searchable": 1,"quickSearch": 1,"filterable": 1,"playUrl": "json:https://www.itvbox.cc/fflz.php?url="},
     
     {"key":"csp_WoGG","name":"云盘┃玩偶","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"330ddefbea364b22ac6508c32c0ed0ca"},
-    {"key":"csp_AList","name":"云盘┃阿里","type":3,"api":"csp_AList","searchable":1,"quickSearch":0,"filterable":1,"changeable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/Alist.json"}
+    {"key":"csp_AList","name":"云盘┃阿里","type":3,"api":"csp_AList","searchable":1,"quickSearch":0,"filterable":1,"changeable":0,"ext":"https://gitee.com/robor/xc/raw/master/sub/Alist.json"}
   ],
   "doh": [
     {"name": "Google","url": "https://dns.google/dns-query","ips": ["8.8.4.4","8.8.8.8"]},
