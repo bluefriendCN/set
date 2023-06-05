@@ -64,16 +64,16 @@ CETV3,http://txycsbl.centv.cn/zb/0822cetv3.m3u8
 CETV4,http://txycsbl.centv.cn/zb/0822cetv4.m3u8
 
 港澳台,#genre#
-凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb24]/ott.mobaibox.com/PLTV/4/224/3221228527/index.m3u8
-凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb27]/ott.mobaibox.com/PLTV/4/224/3221228524/index.m3u8
-凤凰香港,https://cntv.sbs/fs?id=fhhk
-凤凰中文,https://live.goodiptv.club/api/sxg.php?id=test1_4000
-凤凰资讯,https://live.goodiptv.club/api/sxg.php?id=test2_4000
-财经体育资讯台,http://120.84.96.103:808/hls/86/index.m3u8
+凤凰中文台,http://[2409:8087:2001:20:2800:0:df6e:eb24]/ott.mobaibox.com/PLTV/4/224/3221228527/index.m3u8
+凤凰资讯台,http://[2409:8087:2001:20:2800:0:df6e:eb27]/ott.mobaibox.com/PLTV/4/224/3221228524/index.m3u8
+凤凰香港台,https://cntv.sbs/fs?id=fhhk
+凤凰香港台,mitv://generationnexxxt.com:19806/b70e94e7ac144bf585ad3bb140833c64
+凤凰电影台,mitv://generationnexxxt.com:19806/2df8c6787b0a4f08bee3dcccd49aef8b
 翡翠台,http://www.namewee.xyz/gudou.php?id=364&id=1350_4500#http://r.jdshipin.com/qClQf#http://r.jdshipin.com/62WM7
 明珠台,http://www.namewee.xyz/gudou.php?id=364&id=1351_4500#http://r.jdshipin.com/ZQ4kN
-华丽台,http://r.jdshipin.com/thuYX#http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=571187&extension=ts&play_token=uWRW1HvPSb
-星河台,http://r.jdshipin.com/sXuuD#http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=153506&extension=ts&play_token=miEIuxsBcN
+翡翠华丽台,http://r.jdshipin.com/thuYX#http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=571187&extension=ts&play_token=uWRW1HvPSb
+TVB财经体育资讯台,http://120.84.96.103:808/hls/86/index.m3u8
+TVB星河台,http://r.jdshipin.com/sXuuD#http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=153506&extension=ts&play_token=miEIuxsBcN
 TVB,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=153396&extension=ts&play_token=ICdnbP1fWe
 J1,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=153395&extension=ts&play_token=Pd3SDU2VSy
 J2,http://r.jdshipin.com/Nr5jq
@@ -85,16 +85,12 @@ J2,http://r.jdshipin.com/Nr5jq
 耀才财经,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
 Viu,http://r.jdshipin.com/vSJvl
 Viu6,https://cdn.hklive.tv/xxxx/96/index.m3u8
-翡翠台,http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxA5oJl8b5Icz-0MXK7POxcc/ts
-明珠台,http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxEzv3SLBhKEUmYG73triGDY/ts
-星河台,http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxKhNUGBfO_GdATzBMAV6h6g/ts
-J2,http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxHxPuwYBkq3c9qPtWNUkGtg/ts
-无线财经体育,http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxNR4FqM3EgPoN7yqNVDCIzY/ts
 澳门莲花,http://107.151.203.111:2209/dl/lotustv2021.php
 大爱,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 大爱2,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 ELEVEN1,http://61.221.81.93:8078/hls/25/80/esport.m3u8
 ELEVEN2,http://61.221.81.93:8078/hls/26/80/esport2.m3u8
+
 民视,rtmp://9sv2.mine.nu/sat/tv051
 台视,rtmp://9sv2.mine.nu/sat/tv071
 中视,rtmp://9sv2.mine.nu/sat/tv091
@@ -169,18 +165,6 @@ MoMo综合,rtmp://9sv2.mine.nu/sat/tv761
 青海卫视,http://[2409:8087:2001:20:2800:0:df6e:eb1b]/ott.mobaibox.com/PLTV/3/224/3221227554/index.m3u8
 
 重庆,#genre#
-重庆新闻,http://cntv.sbs/cbn?id=CQTVNewsHD
-重庆影视,http://cntv.sbs/cbn?id=cqyingshiHD
-重庆社会与法,http://cntv.sbs/cbn?id=CQTVTrendyHD
-重庆时尚生活,http://cntv.sbs/cbn?id=cqssgwHD
-重庆文体娱乐,http://cntv.sbs/cbn?id=cqwtylHD
-重庆新农村,http://cntv.sbs/cbn?id=cqggncHD
-重庆少儿,http://cntv.sbs/cbn?id=cqseHD
-重庆科教,http://cntv.sbs/cbn?id=CQTVkejiaoHD
-爱看导视,http://cntv.sbs/cbn?id=aikanHD
-重庆汽摩,http://cntv.sbs/cbn?id=cqcarSD
-重广融媒,http://cntv.sbs/cbn?id=cqrongmei
-
 重庆新闻,http://113.207.84.195:8090/__cl/cg:live/__c/CQTVNewsHD/__op/default/__f//index.m3u8
 重庆影视,http://113.207.84.195:8090/__cl/cg:live/__c/cqyingshiHD/__op/default/__f//index.m3u8
 重庆社会与法,http://113.207.84.195:8090/__cl/cg:live/__c/CQTVTrendyHD/__op/default/__f//index.m3u8
@@ -192,6 +176,18 @@ MoMo综合,rtmp://9sv2.mine.nu/sat/tv761
 重庆汽摩,http://113.207.84.195:8090/__cl/cg:live/__c/cqcarSD/__op/default/__f//index.m3u8
 爱看导视,http://113.207.84.195:8090/__cl/cg:live/__c/aikanHD/__op/default/__f//index.m3u8
 重广融媒,http://113.207.84.195:8090/__cl/cg:live/__c/cqrongmei/__op/default/__f//index.m3u8
+
+重庆新闻,http://cntv.sbs/cbn?id=CQTVNewsHD
+重庆影视,http://cntv.sbs/cbn?id=cqyingshiHD
+重庆社会与法,http://cntv.sbs/cbn?id=CQTVTrendyHD
+重庆时尚生活,http://cntv.sbs/cbn?id=cqssgwHD
+重庆文体娱乐,http://cntv.sbs/cbn?id=cqwtylHD
+重庆新农村,http://cntv.sbs/cbn?id=cqggncHD
+重庆少儿,http://cntv.sbs/cbn?id=cqseHD
+重庆科教,http://cntv.sbs/cbn?id=CQTVkejiaoHD
+爱看导视,http://cntv.sbs/cbn?id=aikanHD
+重庆汽摩,http://cntv.sbs/cbn?id=cqcarSD
+重广融媒,http://cntv.sbs/cbn?id=cqrongmei
 
 体育,#genre#
 CCTV16,http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaibox.com/PLTV/3/224/3221228127/index.m3u8
@@ -338,7 +334,7 @@ SiTV13新视觉,https://live.goodiptv.club/api/sxg.php?id=ycxsjH265_4000
 金鹰卡通,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226624/index.m3u8
 金鹰纪实,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226668/index.m3u8
 快乐垂钓,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226326/index.m3u8
-茶 频 道, http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226647/index.m3u8
+茶频道, http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226647/index.m3u8
 百姓调解,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226581/index.m3u8
 中华特产,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226585/index.m3u8
 国学频道,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226629/index.m3u8
