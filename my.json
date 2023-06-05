@@ -41,11 +41,11 @@
     {"key":"dr_Nmys","name":"秒播┃农民影视","type":3,"api":"https://gitee.com/robor/bin/raw/master/js/lib/drpy2.min.js","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/robor/bin/raw/master/js/%E5%86%9C%E6%B0%91%E5%BD%B1%E8%A7%86.js"},
     
     {"key":"csp_Apple","name":"秒播┃小苹果源","type":3,"api":"csp_LiteApple","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
-    {"key": "非凡","name": "️非凡┃去广告","type": 1,"api": "https://cj.ffzyapi.com/api.php/provide/vod/","searchable": 0,"quickSearch": 0,"filterable": 1},
-    {"key": "量子","name": "量子┃去广告","type": 1,"api": "https://cj.lziapi.com/api.php/provide/vod/","searchable": 0,"quickSearch": 0,"filterable": 1},
+    {"key": "非凡","name": "️非凡┃去广告","type": 1,"api": "https://cj.ffzyapi.com/api.php/provide/vod/at/xml/","searchable": 0,"quickSearch": 0,"filterable": 1},
+    {"key": "量子","name": "量子┃去广告","type": 1,"api": "https://cj.lziapi.com/api.php/provide/vod/at/xml/","searchable": 0,"quickSearch": 0,"filterable": 1},
     
-    {"key":"csp_WoGG","name":"秒播┃玩偶哥哥","type":3,"api":"csp_WoGG","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"330ddefbea364b22ac6508c32c0ed0ca"},
-    {"key":"csp_Paper","name":"秒播┃小纸条源","type":3,"api":"csp_Paper","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"330ddefbea364b22ac6508c32c0ed0ca"}
+    {"key":"csp_WoGG","name":"网盘┃玩偶哥哥","type":3,"api":"csp_WoGG","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"http://127.0.0.1:9978/tvbox/token.txt$$$http://tvfan.xxooo.cf/"},
+    {"key":"csp_AList","name":"网盘┃AList","type":3,"api":"csp_AList","searchable":1,"quickSearch":0,"filterable":1,"changeable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/Alist.json"}
   ],
   "doh": [
     {"name": "Google","url": "https://dns.google/dns-query","ips": ["8.8.4.4","8.8.8.8"]},
