@@ -1,6 +1,6 @@
 //以下内容均来源于互联网，只为自用和学习，如有冒犯，请联系删除。
 {
-  "spider": "https://agit.ai/00700/vvebo/raw/branch/main/Spider/T00700.jar;md5;6C038BCBD6E2AC08637B5F80E6739E1C",
+  "spider": "https://gitee.com/robor/bin/raw/master/Yoursmile.jar;md5;07099EA7D907106BE7990AD9DB491F2A",
   "wallpaper": "https://epg.112114.xyz/bingimg",
   "flags": ["qq","腾讯","企鹅","iQiYi","qiyi","爱奇艺","奇艺","youku","YouKu","优酷","sohu","SoHu","搜狐","letv","LeShi","乐视","imgo","mgtv","MangGuo","芒果","SLYS4k","BYGA","luanzi","AliS","dxzy","bilibili","QEYSS","xigua","西瓜视频","腾讯视频","奇艺视频","优酷视频","芒果视频","乐视视频"],
   "lives": [
@@ -95,10 +95,6 @@
     {"name":"解析34","type":0,"url":"https://jxjson.cf/?url="}
   ],
   "rules":[
-    {"hosts":["vip.lz","hd.lz"],"rule":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY"]},
-    {"hosts":["vip.ffzy"],"rule":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY"]},
-    {"host":["huoshan.com"],"rule":["item_id="]},
-    {"host":["douyin.com"],"rule":["is_play_url="]},
     {"host":"www.iesdouyin.com","rule":["playwm/?video_id="]},
     {"host":"v.douyin.com","rule":["playwm/?video_id="]},
     {"host":"www.djuu.com","rule":["mp4.djuu.com","m4a"]},
