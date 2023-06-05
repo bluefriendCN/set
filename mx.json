@@ -10,7 +10,6 @@
       "url": "https://gitee.com/robor/set/raw/main/live.txt",
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
       "logo":"https://epg.112114.xyz/logo/{name}.png",
-      "ua" : "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",
       "playerType": 1,
       "boot": false
     }
