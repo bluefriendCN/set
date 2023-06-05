@@ -24,8 +24,8 @@
       
     {"key":"csp_JRSKan","name":"体育┃赛事直播","type":3,"api":"csp_XPathFilter","searchable":0,"quickSearch":0,"changeable":0,"ext":"https://gitee.com/robor/bin/raw/master/sub/JRSKan.json"},
     {"key":"csp_Bili","name":"哔哩┃BiliBili","type":3,"api":"csp_Bili","playerType":1,"searchable":0,"quickSearch":0,"changeable":0,"ext":"https://gitee.com/robor/bin/raw/master/sub/Bili.json"},
-    {"key":"dr_Douyu","name":"斗鱼┃斗鱼直播","type":3,"api":"https://gitee.com/robor/bin/raw/master/js/lib/drpy2.min.js","playerType":1,"searchable":0,"quickSearch":0,"changeable":0,"ext":"https://gitee.com/robor/bin/raw/master/js/douyu.js"},
-    {"key":"dr_Huya","name":"虎牙┃虎牙直播","type":3,"api":"https://gitee.com/robor/bin/raw/master/js/lib/drpy2.min.js","playerType":1,"searchable":0,"quickSearch":0,"changeable":0,"ext":"https://gitee.com/robor/bin/raw/master/js/huya.js"},
+    {"key":"dr_Douyu","name":"斗鱼┃斗鱼直播","type":3,"api":"https://gitee.com/robor/bin/raw/master/js/lib/drpy2.min.js","playerType":1,"searchable":0,"quickSearch":0,"changeable":0,"ext":"https://agit.ai/00700/vvebo/raw/branch/main/DRJS/douyu.js"},
+    {"key":"dr_Huya","name":"虎牙┃虎牙直播","type":3,"api":"https://gitee.com/robor/bin/raw/master/js/lib/drpy2.min.js","playerType":1,"searchable":0,"quickSearch":0,"changeable":0,"ext":"https://agit.ai/00700/vvebo/raw/branch/main/DRJS/huya.js"},
     
     {"key":"csp_Ole","name":"秒播┃欧乐影视","type":4,"api":"https://php.dovxs.repl.co/vod/ole.php","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_Kuying","name":"秒播┃酷影影视","type":3,"api":"csp_AppYsV2","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://cms.wbsys.top:9835/api.php/app/"},
@@ -41,11 +41,11 @@
     {"key":"dr_Nmys","name":"秒播┃农民影视","type":3,"api":"https://gitee.com/robor/bin/raw/master/js/lib/drpy2.min.js","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/robor/bin/raw/master/js/%E5%86%9C%E6%B0%91%E5%BD%B1%E8%A7%86.js"},
     
     {"key":"csp_Apple","name":"秒播┃小苹果源","type":3,"api":"csp_LiteApple","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
-    {"key": "非凡","name": "️非凡┃去广告","type": 0,"api": "https://cj.ffzyapi.com/api.php/provide/vod/at/xml/","searchable": 0,"quickSearch": 0,"filterable": 1},
-    {"key": "量子","name": "量子┃去广告","type": 0,"api": "https://cj.lziapi.com/api.php/provide/vod/at/xml/","searchable": 0,"quickSearch": 0,"filterable": 1},
+    {"key": "非凡","name": "️非凡┃去广告","type": 0,"api": "https://cj.ffzyapi.com/api.php/provide/vod/at/xml/","searchable": 1,"quickSearch": 1,"filterable": 1},
+    {"key": "量子","name": "量子┃去广告","type": 0,"api": "https://cj.lziapi.com/api.php/provide/vod/at/xml/","searchable": 1,"quickSearch": 1,"filterable": 1},
     
     {"key":"csp_WoGG","name":"网盘┃玩偶哥哥","type":3,"api":"csp_WoGG","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"http://127.0.0.1:9978/tvbox/token.txt$$$http://tvfan.xxooo.cf/"},
-    {"key":"csp_AList","name":"网盘┃AList","type":3,"api":"csp_AList","searchable":1,"quickSearch":0,"filterable":1,"changeable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/Alist.json"}
+    {"key":"csp_AList","name":"网盘┃AList","type":3,"api":"csp_AList","searchable":1,"quickSearch":0,"filterable":1,"changeable":0,"ext":"https://gitee.com/robor/bin/raw/master/sub/Alist.json"}
   ],
   "doh": [
     {"name": "Google","url": "https://dns.google/dns-query","ips": ["8.8.4.4","8.8.8.8"]},
