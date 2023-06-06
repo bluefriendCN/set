@@ -23,9 +23,9 @@
     {"key":"csp_Ddrk","name":"秒播┃欧美日韩","type":3,"api":"csp_Ddrk","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
       
     {"key":"csp_JRSKan","name":"体育┃赛事直播","type":3,"api":"csp_XPathFilter","searchable":0,"quickSearch":0,"changeable":0,"ext":"https://gitee.com/robor/bin/raw/master/sub/JRSKan.json"},
-    {"key":"csp_Bili","name":"哔哩┃BiliBili","type":3,"api":"csp_Bili","playerType":1,"searchable":0,"quickSearch":0,"changeable":0,"ext":"https://gitee.com/robor/bin/raw/master/sub/Bili.json"},
-    {"key":"dr_Douyu","name":"斗鱼┃斗鱼直播","type":3,"api":"https://gitee.com/robor/bin/raw/master/js/lib/drpy2.min.js","playerType":1,"searchable":0,"quickSearch":0,"changeable":0,"ext":"https://agit.ai/00700/vvebo/raw/branch/main/DRJS/douyu.js"},
-    {"key":"dr_Huya","name":"虎牙┃虎牙直播","type":3,"api":"https://gitee.com/robor/bin/raw/master/js/lib/drpy2.min.js","playerType":1,"searchable":0,"quickSearch":0,"changeable":0,"ext":"https://agit.ai/00700/vvebo/raw/branch/main/DRJS/huya.js"},
+    {"key":"csp_Bili","name":"哔哩┃BiliBili","type":3,"api":"csp_Bili","playerType":1,"searchable":0,"quickSearch":0,"changeable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/Bili.json"},
+    {"key":"dr_Douyu","name":"斗鱼┃斗鱼直播","type":3,"api":"csp_XYQBiu","playerType":1,"searchable":0,"quickSearch":0,"changeable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/斗鱼.json"},
+    {"key":"dr_Huya","name":"虎牙┃虎牙直播","type":3,"api":"https://gitee.com/robor/bin/raw/master/js/lib/drpy2.min.js","playerType":1,"searchable":0,"quickSearch":0,"changeable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/虎牙直播.js"},
     
     {"key":"csp_Ole","name":"秒播┃欧乐影视","type":4,"api":"https://php.dovxs.repl.co/vod/ole.php","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_Kuying","name":"秒播┃酷影影视","type":3,"api":"csp_AppYsV2","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://cms.wbsys.top:9835/api.php/app/"},
