@@ -5,8 +5,8 @@
   "lives": [
     {
     "name": "18live",
-		"type": 0,
-		"url": "https://raw.gitmirror.com/mengzehe/TVBox/main/18/18live.txt",
+    "type": 0,
+    "url": "https://raw.gitmirror.com/mengzehe/TVBox/main/18/18live.txt",
     "playerType": 1,
     "boot": false
     }
