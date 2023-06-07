@@ -1,12 +1,12 @@
 //以下全部来自网络，如有冒犯请联系删除。[所有内容仅供学习使用，请勿用于违法用途]
 {
-  "spider": "https://gitee.com/robor/bin/raw/master/custom_spider.jar;md5;a954689c65dff0bf8728a895798bb68a",
+  "spider": "https://gitee.com/robor/bin/raw/master/custom_spider.jar;md5;7871d4d3a51b5b0aa46b079b8104c2be",
   "wallpaper": "https://epg.112114.xyz/bingimg",
   "lives": [
     {
     "name": "18live",
-    "type": 0,
-    "url": "https://raw.gitmirror.com/mengzehe/TVBox/main/18/18live.txt",
+		"type": 0,
+		"url": "https://raw.gitmirror.com/mengzehe/TVBox/main/18/18live.txt",
     "playerType": 1,
     "boot": false
     }
