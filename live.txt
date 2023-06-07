@@ -183,7 +183,7 @@ CCTV16,http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaibox.com/PLTV/3/224/3
 足球频道,https://nmglive.imfc.cn/5n1r1c/182396.m3u8
 北京体育休闲,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001329/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 上海五星体育,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001018/index.m3u8
-广东体育,http://157.122.177.10:9901/tsfile/live/1001_1.m3u8
+广东体育,http://r.jdshipin.com/LiYdg
 咪咕音乐1,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225904/index.m3u8
 咪咕音乐2,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225906/index.m3u8
 咪咕体育1,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225737/index.m3u8
@@ -329,6 +329,7 @@ SiTV13新视觉,https://live.goodiptv.club/api/sxg.php?id=ycxsjH265_4000
 中华特产,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226585/index.m3u8
 国学频道,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226629/index.m3u8
 书画频道,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226343/index.m3u8
+时尚频道,http://player2.juyun.tv/camera/80238159.m3u8
 生活资讯,http://[2409:8087:2001:20:2800:0:df6e:eb12]/ott.mobaibox.com/PLTV/3/224/3221228039/index.m3u8
 百姓生活,http://[2409:8087:2001:20:2800:0:df6e:eb24]/ott.mobaibox.com/PLTV/4/224/3221228466/index.m3u8
 
