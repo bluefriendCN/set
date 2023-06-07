@@ -16,7 +16,7 @@
     }
   ],
   "sites": [
-    {"key":"T4荐片","name":"T4荐片","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token={{ali_token}}&timeout=10","searchable":1,"quickSearch":1,"filterable":0},
+    {"key":"豆瓣","name":"豆瓣┃推荐","type": 3,"api": "https://gitee.com/robor/bin/raw/master/js/lib/drpy2.min.js","ext": "https://gitee.com/robor/bin/raw/master/js/drpy.js","searchable": 0,"quickSearch": 0,"filterable": 0},
     {"key":"直播","name":"电视直播","type":3,"api":"https://gitee.com/robor/bin/raw/master/js/lib/live2vod.js","ext":"范明明$https://live.fanmingming.com/tv/m3u/global.m3u"},
     
     {"key":"csp_Kunyu77","name":"推荐┃酷云七七","type":3,"api":"csp_Kunyu77","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
