@@ -193,7 +193,7 @@ CCTV16,http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaibox.com/PLTV/3/224/3
 咪咕足球,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225895/index.m3u8
 咪咕综合,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225897/index.m3u8
 咪咕体育6,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225901/index.m3u8
-咪咕直播7,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225903/index.m3u8
+咪咕体育7,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225903/index.m3u8
 咪咕体育8,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225905/index.m3u8
 咪咕体育9,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225912/index.m3u8
 咪咕体育10,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225914/index.m3u8
@@ -205,7 +205,7 @@ CCTV16,http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaibox.com/PLTV/3/224/3
 咪咕体育16,http://[2409:8087:2001:20:2800:0:df6e:eb12]/ott.mobaibox.com/PLTV/3/224/3221228234/index.m3u8
 咪咕体育17,http://[2409:8087:2001:20:2800:0:df6e:eb13]/ott.mobaibox.com/PLTV/3/224/3221228234/index.m3u8
 咪咕足球,http://[2409:8087:2001:20:2800:0:df6e:eb14]/ott.mobaibox.com/PLTV/3/224/3221228129/index.m3u8
-咪咕全民热练,http://[2409:8087:2001:20:2800:0:df6e:eb27]/ott.mobaibox.com/PLTV/4/224/3221228427/index.m3u8
+全民热练,http://[2409:8087:2001:20:2800:0:df6e:eb27]/ott.mobaibox.com/PLTV/4/224/3221228427/index.m3u8
 
 天翼BesTV,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001148/index.m3u8
 BesTVlive,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001150/index.m3u8
@@ -221,10 +221,10 @@ BesTV,http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/000000010000000600000000000002
 BesTV,http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000340/index.m3u8?IAS
 
 数字,#genre#
-求索纪录,http://[2409:8087:4402:20:1:1216:401:38]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226114/index.m3u8
-求索科学,http://[2409:8087:4402:20:1:1216:401:46]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226115/index.m3u8
-求索生活,http://[2409:8087:4402:20:1:1216:401:43]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226116/index.m3u8
-求索动物,http://[2409:8087:4402:20:1:1216:401:41]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226118/index.m3u8
+求索纪录,http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000032052/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032052&livemode=1&stbId=3
+求索科学,http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000032344/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032344&livemode=1&stbId=3
+求索生活,http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000003382/index.m3u8?channel-id=wasusyt&Contentid=6000000002000003382&livemode=1&stbId=3
+求索动物,http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000010046/index.m3u8?channel-id=wasusyt&Contentid=6000000002000010046&livemode=1&stbId=3
 
 黑莓电影,http://[2409:8087:2001:20:2800:0:df6e:eb04]/ott.mobaibox.com/PLTV/3/224/3221225567/index.m3u8
 黑莓动画,http://[2409:8087:2001:20:2800:0:df6e:eb06]/ott.mobaibox.com/PLTV/3/224/3221227523/index.m3u8
@@ -330,7 +330,8 @@ CGTN西语,https://livees.cgtn.com/1000e/prog_index.m3u8
 CGTN阿语,https://livear.cgtn.com/1000a/prog_index.m3u8
 半岛新闻,http://live-hls-web-aje.getaj.net/AJE/01.m3u8#http://live-hls-web-aja.getaj.net/AJA/02.m3u8
 亚洲新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-金砖中文,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
+金砖中文，http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
+金砖英文，http://brics.bonus-tv.ru/cdn/brics/english/tracks-v1a1/index.m3u8
 美国中文,https://jpts.sinovision.net/livestream.m3u8
 时尚频道,https://fashiontv-fashiontv-4-de.samsung.wurl.com/manifest/playlist_1920x1080_4200k.m3u8
 FashionTV,http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
@@ -368,12 +369,12 @@ OAN,http://oneamericanews-roku-us.amagi.tv/playlist.m3u8
 韩NBS Korea Agricultural Broadc,https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
 
 UHD,#genre#
-欢笑剧场4K,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226582/index.m3u8
 纯享4K,http://[2409:8087:2001:20:2800:0:df6e:eb11]/ott.mobaibox.com/PLTV/3/224/3221228242/index.m3u8
 超高清电影4K,http://r.jdshipin.com/5DWJk#https://live.goodiptv.club/api/sxg.php?id=emdy4k_8000
 测试4K,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
 真4K,http://[2409:8087:2001:20:2800:0:df6e:eb14]/ott.mobaibox.com/PLTV/3/224/3221228141/index.m3u8
 影视4K,http://zteres.sn.chinamobile.com:6060/000000001000/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=3
+欢笑剧场4K,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226582/index.m3u8
 广东4K,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=18581519202&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=004bfc8f56cd2797&cid=364&id=GDZYHD4K_38000
 南国都市4K,http://player.521fanli.cn/1691/gd/gztvm3u8.php?id=gzngds
 河南4K,http://[2409:8087:4400:20:1:a0f:12:33]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226526/index.m3u8
