@@ -16,6 +16,7 @@
     }
   ],
   "sites": [
+    {"key":"dr_豆瓣","name":"豆瓣荐片","type":3,"api":"https://gitee.com/robor/bin/raw/master/js/lib/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/豆瓣.js"},
     {"key":"T4荐片","name":"T4荐片","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token={{ali_token}}&timeout=10","searchable":1,"quickSearch":1,"filterable":0},
     {"key":"直播","name":"电视直播","type":3,"api":"https://gitee.com/robor/bin/raw/master/js/lib/live2vod.js","ext":"范明明$https://live.fanmingming.com/tv/m3u/global.m3u"},
     
@@ -41,7 +42,6 @@
     {"key":"dr_Nmys","name":"秒播┃农民影视","type":3,"api":"https://gitee.com/robor/bin/raw/master/js/lib/drpy2.min.js","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/robor/bin/raw/master/js/%E5%86%9C%E6%B0%91%E5%BD%B1%E8%A7%86.js"},
     
     {"key":"csp_Apple","name":"秒播┃小苹果源","type":3,"api":"csp_LiteApple","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
-    {"key":"csp_Miaobo","name":"秒播","type":3,"api":"csp_Miaobo","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_Ffzyapi","name":"采集┃非凡资源","type":1,"api":"http://cj.ffzyapi.com/api.php/provide/vod/","searchable": 1,"quickSearch": 1,"filterable": 1},
     {"key":"csp_Lziapi","name":"采集┃量子资源","type":1,"api":"https://cj.lziapi.com/api.php/provide/vod/","searchable": 1,"quickSearch": 1,"filterable": 1},
     
