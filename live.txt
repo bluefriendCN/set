@@ -54,6 +54,8 @@ CHC高清电影,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch0000009099000
 央视台球,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226956/index.m3u8
 高尔夫网球,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226978/index.m3u8
 央视文化精品,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226981/index.m3u8
+发现之旅,http://[2409:8087:2001:20:2800:0:df6e:eb03]:80/wh7f454c46tw338944903_50949023/ott.mobaibox.com/PLTV/3/224/3221227030/index.m3u8?icpid=3&RTS=1674380454&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3
+老故事,http://[2409:8087:2001:20:2800:0:df6e:eb09]:80/wh7f454c46tw1759202888_-56516583/ott.mobaibox.com/PLTV/3/224/3221227043/index.m3u8?icpid=3&RTS=1674386169&from=40&popid=40&hms_devid=2037&prioritypopid=40&vqe=3
 CETV1,http://txycetvbl.centv.cn/cetv1/ypd.m3u8
 CETV2,http://txycetvbl.centv.cn/cetv2/2020tsytk.m3u8
 CETV3,http://txycetvbl.centv.cn/cetv3/bjdm.m3u8
@@ -117,7 +119,7 @@ MoMo综合,rtmp://9sv2.mine.nu/sat/tv761
 广东卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225803/index.m3u8
 广西卫视,http://[2409:8087:1e04:21::102]:6060/cms001/ch00000090990000001224/index.m3u8
 山东卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226209/index.m3u8
-山西卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225763/index.m3u8
+山西卫视,http://111.59.63.32:9901/tsfile/live/1046_1.m3u8?key=txiptv&playlive=1&authid=0
 河南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226480/index.m3u8
 河北卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226406/index.m3u8
 安徽卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226391/index.m3u8
@@ -164,6 +166,7 @@ MoMo综合,rtmp://9sv2.mine.nu/sat/tv761
 重庆卫视,http://[2409:8087:1e04:21::102]:6060/cms001/ch00000090990000001129/1.m3u8
 内蒙古卫视,http://www.lu1.cc/itv/nmtv/nmxl.php?id=nmws
 青海卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225628/index.m3u8
+山西卫视,http://liveflash.sxrtv.com/live/sxwshd.m3u8?sub_m3u8=true&edge_slice=true
 
 重庆,#genre#
 重庆新闻,http://113.207.84.195:8090/__cl/cg:live/__c/CQTVNewsHD/__op/default/__f//index.m3u8
@@ -298,7 +301,7 @@ SiTV1动漫秀场,http://[2409:8087:1e03:21::2]:6060/cms001/ch000000909900000011
 SiTV2游戏风云,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001192/index.m3u8
 SiTV3法治天地,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001195/index.m3u8
 SiTV4劲爆体育,https://live.goodiptv.club/api/sxg.php?id=lqhxjcHDH265_4000
-SiTV5魅力足球,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226558/index.m3u8
+SiTV5魅力足球,http://[2409:8087:4400:20:1:a0f:12:2e]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226558/index.m3u8
 SiTV6金色学堂,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001194/index.m3u8
 SiTV7欢笑剧场,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001193/index.m3u8
 SiTV8七彩戏剧,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001308/index.m3u8
@@ -307,14 +310,13 @@ SiTV10乐游,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001200/in
 SiTV11都市剧场,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001203/index.m3u8
 SiTV12东方财经,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001318/index.m3u8
 SiTV13新视觉,https://live.goodiptv.club/api/sxg.php?id=ycxsjH265_4000
-金鹰卡通,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226624/index.m3u8
+金鹰卡通,http://223.151.51.27:85/tsfile/live/1016_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
 金鹰纪实,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001230/index.m3u8
 快乐垂钓,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001235/index.m3u8
 茶频道, http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001234/index.m3u8
-百姓调解,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226581/index.m3u8
-中华特产,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226585/index.m3u8
-国学频道,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226629/index.m3u8
+财富天下,http://[2409:8087:5e01:34::38]:6610/ZTE_CMS/00000001000000060000000000000163/index.m3u8?
 书画频道,http://211.103.180.178:8234/live_hls/hdmi.m3u8
+熊猫频道,http://[2409:8087:5e01:34::38]:6610/ZTE_CMS/00000001000000060000000000000446/index.m3u8?
 生活资讯,http://[2409:8087:2001:20:2800:0:df6e:eb12]/ott.mobaibox.com/PLTV/3/224/3221228039/index.m3u8
 百姓生活,http://[2409:8087:2001:20:2800:0:df6e:eb24]/ott.mobaibox.com/PLTV/4/224/3221228466/index.m3u8
 
