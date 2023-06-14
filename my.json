@@ -1,6 +1,6 @@
 //以下内容均来源于互联网，只为自用和学习，如有冒犯，请联系删除。
 {
-  "spider": "https://gitee.com/robor/bin/raw/master/Yoursmile.jar;md5;FD6A2CF8F31C7112731C5F90DAB94847",
+  "spider": "https://gitee.com/robor/bin/raw/master/Yoursmile.jar;md5;09A472702BEFAECF58154F50533395FD",
   "wallpaper": "https://epg.112114.xyz/bingimg",
   "flags": ["qq","腾讯","企鹅","iQiYi","qiyi","爱奇艺","奇艺","youku","YouKu","优酷","sohu","SoHu","搜狐","letv","LeShi","乐视","imgo","mgtv","MangGuo","芒果","SLYS4k","BYGA","luanzi","AliS","dxzy","bilibili","QEYSS","xigua","西瓜视频","腾讯视频","奇艺视频","优酷视频","芒果视频","乐视视频"],
   "lives": [
@@ -32,10 +32,9 @@
     {"key":"csp_Dmdh","name":"秒播┃多米蓝光","type":3,"api":"csp_AppYsV2","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://v.dmdh.top/api.php/app/"},
     {"key":"csp_Ruyi","name":"秒播┃如意影视","type":3,"api":"csp_AppYsV2","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://cms.maoyingshi.cc/api.php/app/"},
     {"key":"csp_Yeta","name":"秒播┃小小米源","type":3,"api":"csp_AppYsV2","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://xn--yeta099v.online:66/api.php/app/"},
+    
     {"key":"影探","name":"秒播┃影探","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.lfytyl.com/api.php/app/"},
-    {"key":"啊班","name":"秒播┃啊班","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://a.banwl.com/api.php/app/"},
     {"key":"鸭鸭","name":"秒播┃鸭鸭","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://yayayaaapp.ynf.icu/api.php/app/"},
-
     {"key":"csp_Aidi","name":"秒播┃爱迪影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://aidiapp.xyz/xgapp.php/v2/"},
 
     {"key":"csp_Czsapp","name":"秒播┃厂长影视","type":3,"api":"csp_Czsapp","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
