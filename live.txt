@@ -54,7 +54,7 @@ CHC高清电影,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch0000009099000
 央视台球,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226956/index.m3u8
 高尔夫网球,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226978/index.m3u8
 央视文化精品,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226981/index.m3u8
-CCTV移动传媒,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/649e19038fa74514ab3f00febbcd6de0/1200.m3u8
+移动传媒,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/649e19038fa74514ab3f00febbcd6de0/1200.m3u8
 发现之旅,http://[2409:8087:2001:20:2800:0:df6e:eb03]/ott.mobaibox.com/PLTV/3/224/3221227030/index.m3u8
 老故事,http://[2409:8087:2001:20:2800:0:df6e:eb09]/ott.mobaibox.com/PLTV/3/224/3221227043/index.m3u8
 CETV1,http://txycetvbl.centv.cn/cetv1/ypd.m3u8
@@ -297,6 +297,18 @@ IHOT爱幼教,http://zteres.sn.chinamobile.com:6060/000000001000/600000000600018
 IHOT爱娱乐,http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000130630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000130630&livemode=1&stbId=3
 IHOT爱院线,http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000030630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000030630&livemode=1&stbId=3
 
+BesTV戏曲精选,https://live.goodiptv.club/api/bestv.php?id=xqjx8m/8000000
+BesTV热门综艺,https://live.goodiptv.club/api/bestv.php?id=rmzy8m/8000000
+BesTV百变课堂,https://live.goodiptv.club/api/bestv.php?id=bbkt8m/8000000
+BesTV看天下精选,https://live.goodiptv.club/api/bestv.php?id=ktxjx8m/8000000
+BesTV华语影院,https://live.goodiptv.club/api/bestv.php?id=hyyy8m/8000000
+BesTV青春动漫,https://live.goodiptv.club/api/bestv.php?id=qcdm8m/8000000
+BesTV宝宝动画,https://live.goodiptv.club/api/bestv.php?id=bbdh8m/8000000
+BesTV星光影院,https://live.goodiptv.club/api/bestv.php?id=xgyy8m/8000000
+BesTV谍战剧场,https://live.goodiptv.club/api/bestv.php?id=dzjc8m/8000000
+BesTV全球大片,https://live.goodiptv.club/api/bestv.php?id=qqdp8m/8000000
+BesTV热门剧场,https://live.goodiptv.club/api/bestv.php?id=rmjc8m/8000000
+
 特色,#genre#
 北京纪实科教,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001231/index.m3u8
 北京卡酷少儿,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001245/index.m3u8
@@ -377,6 +389,7 @@ Nostalgia,http://51.210.199.20/hls/stream.m3u8
 UHD,#genre#
 欢笑剧场4K,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226582/index.m3u8
 纯享4K,http://[2409:8087:2001:20:2800:0:df6e:eb11]/ott.mobaibox.com/PLTV/3/224/3221228242/index.m3u8
+纯享4K,http://[2409:8087:2001:20:2800:0:df6e:eb12]/ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8
 超高清电影,http://r.jdshipin.com/5DWJk#https://live.goodiptv.club/api/sxg.php?id=emdy4k_8000
 爱上4K,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
 真4K,http://[2409:8087:2001:20:2800:0:df6e:eb14]/ott.mobaibox.com/PLTV/3/224/3221228141/index.m3u8
