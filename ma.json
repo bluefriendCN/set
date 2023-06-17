@@ -506,10 +506,10 @@
     ],
 
     "rules":[
-      {"hosts":["vip.lz","hd.lz"],"rule":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY"]},
-      {"hosts":["vip.ffzy"],"rule":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY"]},
-      {"host":["huoshan.com"],"rule":["item_id="]},
-      {"host":["douyin.com"],"rule":["is_play_url="]},      
+      {"name": "量子廣告","hosts": ["vip.lz","hd.lz"],"regex": ["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]},
+      {"name": "非凡廣告","hosts": ["vip.ffzy","hd.ffzy"],"regex": ["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]},
+      {"name": "火山嗅探","hosts": ["huoshan.com"],"regex": ["item_id="]},
+      {"name": "抖音嗅探","hosts": ["douyin.com"],"regex": ["is_play_url="]},
       {"host":"www.iesdouyin.com","rule":["playwm/?video_id="]},
       {"host":"v.douyin.com","rule":["playwm/?video_id="]},
       {"host":"www.djuu.com","rule":["mp4.djuu.com","m4a"]},
