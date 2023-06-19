@@ -30,7 +30,7 @@
     
     {"key":"csp_Kuying","name":"秒播┃酷影影视","type":3,"api":"csp_AppYsV2","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://cms.wbsys.top:9835/api.php/app/"},
     {"key":"csp_Dmdh","name":"秒播┃多米蓝光","type":3,"api":"csp_AppYsV2","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://v.dmdh.top/api.php/app/"},
-    {"key":"csp_Ruyi","name":"秒播┃如意影视","type":3,"api":"csp_AppYsV2","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://cms.maoyingshi.cc/api.php/app/","playUrl":"json:https://jx.4kdv.com/?url="},
+    {"key":"csp_Ruyi","name":"秒播┃如意影视","type":3,"api":"csp_AppYsV2","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://cms.maoyingshi.cc/api.php/app/"},
     {"key":"csp_Yeta","name":"秒播┃小小米源","type":3,"api":"csp_AppYsV2","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://xn--yeta099v.online:66/api.php/app/"},
     {"key":"csp_Aidi","name":"秒播┃爱迪影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://aidiapp.xyz/xgapp.php/v2/"},
 
@@ -44,8 +44,6 @@
     {"key":"csp_Czsapp","name":"秒播┃厂长影视","type":3,"api":"csp_Czsapp","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_Kuaikan","name":"秒播┃快看影视","type":3,"api":"csp_Kuaikan","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_Apple","name":"秒播┃小苹果源","type":3,"api":"csp_LiteApple","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
-    {"key":"csp_Lib","name":"LibVio","type":3,"api":"csp_Libvio","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://tv.libvio.cc/"},
-    {"key":"csp_Voflix","name":"Voflix","type":3,"api":"csp_Voflix","searchable":1,"quickSearch":1,"filterable":1},
 
     {"key":"csp_Ffzyapi","name":"采集┃非凡资源","type":1,"api":"http://cj.ffzyapi.com/api.php/provide/vod/","searchable": 1,"quickSearch": 1,"filterable": 1},
     {"key":"csp_Lziapi","name":"采集┃量子资源","type":1,"api":"https://cj.lziapi.com/api.php/provide/vod/","searchable": 1,"quickSearch": 1,"filterable": 1},
