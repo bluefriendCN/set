@@ -35,6 +35,13 @@
     {"key":"csp_Yeta","name":"秒播┃小小米源","type":3,"api":"csp_AppYsV2","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://xn--yeta099v.online:66/api.php/app/"},
     {"key":"csp_Aidi","name":"秒播┃爱迪影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://aidiapp.xyz/xgapp.php/v2/"},
 
+    {"key":"六九美剧","name":"六九美剧","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.69mj.com/xgapp.php/v2/"},
+    {"key":"九九六","name":"九九六","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://dytt996.com/api.php/app/"},
+    {"key":"北极狐","name":"北极狐","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.kuin.one/api.php/app/"},
+    {"key":"迷你库","name":"迷你库","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.miniku.cc/xgapp.php/v1/"},
+    {"key":"萌蛋蛋","name":"萌蛋蛋","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://app.mengdandan.com/xgapp.php/v1/"},
+    {"key":"平头哥","name":"平头哥","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.pingtouge.top/ruifenglb_api.php/v1.vod"},
+
     {"key":"影探","name":"秒播┃影探蓝光","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://get.lfytyl.com/api.php/app/"},
     {"key":"鸭鸭","name":"秒播┃鸭鸭影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://yayayaaapp.ynf.icu/api.php/app/"},
     {"key":"多线","name":"秒播┃多线资源","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://117.175.212.198:8088/api.php/app/"},
