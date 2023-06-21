@@ -17,8 +17,9 @@
   ],
   "sites": [
     {"key":"豆瓣","name":"豆瓣荐片","type":3,"api":"https://gitee.com/robor/bin/raw/master/js/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gitee.com/robor/bin/raw/master/js/drpy.js"},
-    {"key":"csp_Yj1211","name":"在线直播","type":3,"api":"csp_Yj1211","searchable":1,"quickSearch":1,"filterable":1},
-    {"key":"直播","name":"电视直播","type":3,"api":"https://gitee.com/robor/bin/raw/master/js/live2vod.js","ext":"南风$https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt"},
+    {"key":"Yj1211","name":"在线直播","type":3,"api":"csp_Yj1211","searchable":1,"quickSearch":1,"filterable":1},
+    {"key":"Live2Vod","name":"电视直播","type":3,"api":"csp_Live2Vod","ext":"南风$https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt"},
+    {"key":"MV_vod","name":"卡拉OK","type":1,"api":"https://tvbox-mv--leosam2048.repl.co/mv/vod","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
     
     {"key":"csp_Kunyu77","name":"推荐┃酷云七七","type":3,"api":"csp_Kunyu77","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_Ddrk","name":"影视┃欧美日韩","type":3,"api":"csp_Ddrk","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
