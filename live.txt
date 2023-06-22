@@ -177,16 +177,17 @@ MoMo综合,rtmp://9sv2.mine.nu/sat/tv761
 陕西卫视,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001067/index.m3u8?
 
 重庆,#genre#
-重庆新闻,http://113.207.84.195:8090/__cl/cg:live/__c/CQTVNewsHD/__op/default/__f//index.m3u8
-重庆影视,http://113.207.84.195:8090/__cl/cg:live/__c/cqyingshiHD/__op/default/__f//index.m3u8
-重庆社会与法,http://113.207.84.195:8090/__cl/cg:live/__c/CQTVTrendyHD/__op/default/__f//index.m3u8
-重庆时尚生活,http://113.207.84.195:8090/__cl/cg:live/__c/cqssgwHD/__op/default/__f//index.m3u8
-重庆文体娱乐,http://113.207.84.195:8090/__cl/cg:live/__c/cqwtylHD/__op/default/__f//index.m3u8
-重庆新农村,http://113.207.84.195:8090/__cl/cg:live/__c/cqggncHD/__op/default/__f//index.m3u8
-重庆少儿,http://113.207.84.195:8090/__cl/cg:live/__c/cqseHD/__op/default/__f//index.m3u8
-重庆科教,http://113.207.84.195:8090/__cl/cg:live/__c/CQTVkejiaoHD/__op/default/__f//index.m3u8
-重庆汽摩,http://113.207.84.195:8090/__cl/cg:live/__c/cqcarSD/__op/default/__f//index.m3u8
-重广融媒,http://113.207.84.195:8090/__cl/cg:live/__c/cqrongmei/__op/default/__f//index.m3u8
+重庆新闻,https://live.goodiptv.club/api/cqyx.php?id=CQTVNewsHD
+重庆影视,https://live.goodiptv.club/api/cqyx.php?id=cqyingshiHD
+重庆社会与法,https://live.goodiptv.club/api/cqyx.php?id=CQTVTrendyHD
+重庆时尚生活,https://live.goodiptv.club/api/cqyx.php?id=cqssgwHD
+重庆文体娱乐,https://live.goodiptv.club/api/cqyx.php?id=cqwtylHD
+重庆新农村,https://live.goodiptv.club/api/cqyx.php?id=cqggncHD
+重庆少儿,https://live.goodiptv.club/api/cqyx.php?id=cqseHD
+重庆科教,https://live.goodiptv.club/api/cqyx.php?id=CQTVkejiaoHD
+重庆汽摩,https://live.goodiptv.club/api/cqyx.php?id=cqcarSD
+重庆移动,https://live.goodiptv.club/api/cqyx.php?id=mryyHD
+重广融媒,https://live.goodiptv.club/api/cqyx.php?id=cqrongmei
 爱看导视,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226337/index.m3u8
 爱看导视,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226338/index.m3u8
 
