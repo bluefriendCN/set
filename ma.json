@@ -29,7 +29,7 @@
     {"key":"jcspcj8.com","name":"爱看02","type":0,"api":"http://jcspcj8.com/api?ac=videolist","searchable":1,"filterable":1},
     {"key":"wmcj8.com","name":"爱看03","type":0,"api":"http://wmcj8.com/inc/sapi.php","searchable":1,"filterable":1},
     {"key":"secj8.com","name":"爱看04","type":0,"api":"http://secj8.com/inc/sapi.php?ac=videolist","searchable":1,"filterable":1},
-    {"key":"91md.me","name":"爱看05","type":1,"api":"http://91md.me/api.php/provide/vod/","searchable":1,"filterable":1},
+    {"key":"91md.me","name":"爱看05","type":1,"api":"https://91md.me/api.php/provide/vod/","searchable":1,"filterable":1},
     {"key":"zmcj88.com","name":"爱看06","type":0,"api":"http://zmcj88.com/sapi?ac=videolist","searchable":1,"filterable":1},
     {"key":"cjmygzy.com","name":"爱看07","type":0,"api":"http://cjmygzy.com/inc/sapi.php?ac=videolist","searchable":1,"filterable":1},
     {"key":"bttcj.com","name":"爱看08","type":0,"api":"http://bttcj.com/inc/sapi.php","searchable":1,"filterable":1},
@@ -121,7 +121,7 @@
     {"key":"94","name":"爱看94","type":0,"api":"http://www.010aizy.com/API/macs.php","searchable":1,"quickSearch":1},
     {"key":"95","name":"爱看95","type":1,"api":"https://javcaptain.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
     {"key":"96","name":"爱看96","type":1,"api":"https://madouse.la/api.php/provide/vod/","searchable":1,"quickSearch":1},
-    {"key":"97","name":"爱看97","type":1,"api":"https://91md.me/api.php/provide/vod/","searchable":1,"quickSearch":1},
+
     {"key":"98","name":"爱看98","type":1,"api":"https://aicaozy.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
     {"key":"99","name":"爱看99","type":1,"api":"http://langchaozy6.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
     {"key":"100","name":"爱看100","type":1,"api":"https://api.suboapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
@@ -151,8 +151,8 @@
     {"key":"124","name":"爱看124","type":1,"api":"http://langchaozy11.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
     {"key":"125","name":"爱看125","type":1,"api":"https://laoyatv.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
     {"key":"126","name":"爱看126","type":1,"api":"https://61783.xyz/api.php/provide/art/","searchable":1,"quickSearch":1},
-    {"key":"127","name":"爱看127","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://breadmyth.github.io/tv/MeowXP/2024xxj.json"},
-    {"key":"128","name":"爱看128","type":1,"api":"https://91md.me/api.php/provide/vod/from/mdm3u8/","tag":"qb,tj,rm"},
+    {"key":"127","name":"爱看127","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.gitmirror.com/tv/MeowXP/2024xxj.json"},
+
     {"key":"129","name":"爱看129","type":1,"api":"https://api.ykapi.net/api.php/provide/vod/from/ykm3u8/","tag":"qb,tj"},
     {"key":"130","name":"爱看130","type":1,"api":"https://api.apilyzy.com/api.php/provide/vod/?ac=list","playUrl":"json:https://player.77lehuo.com/aliplayer/?url=","searchable":1,"quickSearch":1,"filterable":0},
     {"key":"131","name":"爱看131","type":0,"api":"https://xx55zyapi.com/home/cjapi/ascf/mc/vod/xml","searchable":1,"quickSearch":1,"filterable":0},
@@ -161,14 +161,11 @@
     {"key":"134","name":"爱看134","type":0,"api":"http://caiji26.com/home/cjapi/p0g8/mc/vod/xml","searchable":1,"quickSearch":1,"filterable":0},
     {"key":"135","name":"爱看135","type":0,"api":"http://www.caiji25.com/home/cjapi/p0as/mc/vod/xml","searchable":1,"quickSearch":1,"filterable":0},
     {"key":"136","name":"爱看136","type":0,"api":"https://www.caiji05.com/home/cjapi/cfda/mc/vod/xml","searchable":1,"quickSearch":1,"filterable":0},
-    {"key":"137","name":"爱看13","type":0,"api":"https://caiji.523zyw.com/inc/seacmsapi.php","playUrl":"https://api.523zyw.com/?url=","searchable":1,"quickSearch":1,"filterable":0},
+    {"key":"137","name":"爱看137","type":0,"api":"https://caiji.523zyw.com/inc/seacmsapi.php","playUrl":"https://api.523zyw.com/?url=","searchable":1,"quickSearch":1,"filterable":0},
     {"key":"138","name":"爱看138","type":1,"api":"https://apittzy.com/api.php/provide/vod/?ac=list","playUrl":"https://jiexi.ttbfp1.com/m3u8/?url=","searchable":1,"quickSearch":1,"filterable":0},
     {"key":"139","name":"爱看139","type":0,"api":"https://www.leyuzyapi.com/inc/zyapimac.php","playUrl":"https://player.leyuzy.net/?url=","searchable":1,"quickSearch":1,"filterable":0},
     {"key":"140","name":"爱看140","type":0,"api":"https://www.dmmapi.com/home/cjapi/asd2c7/mc/vod/xml","searchable":1,"quickSearch":1,"filterable":0},
     {"key":"141","name":"爱看141","type":0,"api":"http://fhapi9.com/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1,"filterable":0},
-    {"key":"142","name":"爱看142","type":0,"api":"http://mygzycj.com/sapi.php?ac=videolist"},
-    {"key":"143","name":"爱看143","type":0,"api":"http://4000zy.com/inc/api.php"},
-        
     {"key":"push_agent","name":"推送","type":3,"api":"csp_Push","searchable":1,"filterable":1,"changeable":0}
   ],
     "parses": [
@@ -199,7 +196,7 @@
       {"name":"解析21","type":0,"url":"https://vip.bljiex.com/?v=","ext": {"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}},
       {"name":"解析22","type":0,"url":"https://jx.xmflv.com/?url=","ext": {"flag":["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}},
       {"name":"解析23","type":0,"url":"https://www.yemu.xyz/?url=","ext": {"flag":["qq","腾讯","企鹅","IQiYi","qiyi","爱奇艺","奇艺","youku","YouKu","优酷","sohu","SoHu","搜狐","letv","LeShi","乐视","imgo","mgtv","MangGuo","芒果","SLYS4k","BYGA","luanzi","AliS","dxzy","bilibili","QEYSS","xigua","西瓜视频","腾讯视频","奇艺视频","优酷视频","芒果视频","乐视视频"]}},
-      {"name":"解析24","type":1,"url":"http://xiaoxin.1080p.me/home/api?type=ys&uid=2922388&key=afhmnrsuzEHNOP0378&url="},
+      {"name":"解析24","type":1,"url":"http://xiaoxin.1080p.me/home/api?type=ys&uid=2922388&key=afhjmtxyBDFHLQRV39&url="},
       {"name":"解析25","type":1,"url":"https://b.umkan.cc/API.php?url"}, 
       {"name":"解析26","type":1,"url":"http://jx.fuqizhishi.com:63/API.php?appkey=feimao&url="}, 
       {"name":"解析27","type":1,"url":"http://www.pandown.pro/app/tkys/tkysjx.php?url="},
@@ -212,7 +209,6 @@
       {"name":"解析34","type":1,"url":"https://www.m3u8.tv.cache.janan.net:4433/json2020.php?uid=M3U8.TV&token=88888888&url=","ext": {"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}}, 
       {"name":"解析35","type":1,"url":"https://api.json.icu/api/?key=da5e816ee2b93d2b7b8d2f966940aa92&url="}
     ],
-
     "rules":[
       {"name": "量子廣告","hosts": ["vip.lz","hd.lz"],"regex": ["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]},
       {"name": "非凡廣告","hosts": ["vip.ffzy","hd.ffzy"],"regex": ["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]},
