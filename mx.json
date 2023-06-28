@@ -1,6 +1,6 @@
 //以下内容均来源于互联网，只为自用和学习，如有冒犯，请联系删除。
 {
-  "spider": "https://gitee.com/robor/bin/raw/master/Yoursmile.jar;md5;532527E8F0BCFA6FED5C6799846D3AD3",
+  "spider": "https://gitee.com/robor/bin/raw/master/custom_spider.jar;md5;493c8d428897bd6133ffd22eb1cb0495",
   "wallpaper": "https://epg.112114.xyz/bingimg",
   "flags": ["qq","腾讯","企鹅","iQiYi","qiyi","爱奇艺","奇艺","youku","YouKu","优酷","sohu","SoHu","搜狐","letv","LeShi","乐视","imgo","mgtv","MangGuo","芒果","SLYS4k","BYGA","luanzi","AliS","dxzy","bilibili","QEYSS","xigua","西瓜视频","腾讯视频","奇艺视频","优酷视频","芒果视频","乐视视频"],
   "lives": [
@@ -16,19 +16,17 @@
   ],
   "sites": [
     {"key":"T4","name":"豆瓣荐片","type":4,"api":"https://t4.secan.icu/vod?sites=all&timeout=10","searchable":0,"quickSearch":0,"filterable":1},
+    {"key":"csp_Kunyu77","name":"推荐┃酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
+    {"key":"MV_vod","name":"卡拉OK","type":1,"api":"https://tvbox-mv--leosam2048.repl.co/mv/vod","searchable":0,"quickSearch":0,"filterable":1,"changeable":0},
+
     {"key":"Yj1211","name":"网络直播","type":3,"api":"csp_Yj1211","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"Live2Vod","name":"电视直播","type":3,"api":"https://gitee.com/robor/bin/raw/master/js/live2vod.js","ext":"南风$https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt"},
-    {"key":"MV_vod","name":"卡拉OK","type":1,"api":"https://tvbox-mv--leosam2048.repl.co/mv/vod","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
-
-    {"key":"csp_Kunyu77","name":"推荐┃酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
-    {"key":"csp_Ddys","name":"影视┃欧美日韩","type":3,"api":"csp_Ddys","searchable":1,"quickSearch":1,"filterable":1},
-
     {"key":"csp_JRSKan","name":"赛事直播","type":3,"api":"csp_XPathFilter","searchable":0,"quickSearch":0,"changeable":0,"ext":"https://gitee.com/robor/bin/raw/master/sub/JRSKan.json"},
     {"key":"csp_Bili","name":"bili哔哩","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"changeable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/Bili.json"},
     {"key":"dr_Douyu","name":"斗鱼直播","type":3,"api":"https://gitee.com/robor/bin/raw/master/js/drpy2.min.js","searchable":0,"quickSearch":0,"changeable":0,"ext":"https://agit.ai/00700/vvebo/raw/branch/main/DRJS/douyu.js"},
     {"key":"dr_Huya","name":"虎牙直播","type":3,"api":"https://gitee.com/robor/bin/raw/master/js/drpy2.min.js","searchable":0,"quickSearch":0,"changeable":0,"ext":"https://agit.ai/00700/vvebo/raw/branch/main/DRJS/huya.js"},
-    
-    {"key":"影探","name":"秒播┃影探","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://liling.lfytyl.com/api.php/app/"},
+
+    {"key":"影探","name":"秒播┃影探","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.lfytv.cn/api.php/app/"},
     {"key":"酷影","name":"秒播┃酷影","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ys.realdou.cn/api.php/app/"},
     {"key":"明帝","name":"秒播┃明帝","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ys.md214.cn/api.php/app/"},
     {"key":"看看","name":"秒播┃看看","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://kankanju.cc/api.php/app/"},
@@ -38,8 +36,8 @@
     {"key":"如意","name":"如意","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://cms.maoyingshi.cc/api.php/app/"},
     {"key":"迷库","name":"迷库","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.miniku.cc/xgapp.php/v1/"},
     {"key":"米库","name":"米库","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.miniku.cc/xgapp.php/v2/"},
-    {"key":"爱迪","name":"爱迪V2","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://aidiapp.xyz/xgapp.php/v2/"},
-    {"key":"爱迪","name":"爱迪V3","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://api123.adys.app/xgapp.php/v3/"},
+    {"key":"爱迪V2","name":"爱迪V2","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://aidiapp.xyz/xgapp.php/v2/"},
+    {"key":"爱迪V3","name":"爱迪V3","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://api123.adys.app/xgapp.php/v3/"},
     {"key":"鸭奈飞","name":"鸭奈飞","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://yanetflix.me/api.php/app/"},
     {"key":"好看剧","name":"好看剧","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.f7hkj.cc/api.php/app/"},
     {"key":"北极狐","name":"北极狐","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.kuin.one/api.php/app/"},
@@ -57,12 +55,12 @@
     {"key":"csp_DiDuan","name":"低端","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":0},
     {"key":"csp_AppMr","name":"明明影视","type":3,"api":"csp_AppMr","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_Auete","name":"奥特","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
-    {"key":"dr_Nmys","name":"农民影视","type":3,"api":"https://agit.ai/00700/vvebo/raw/branch/main/DRJS/Lib/drpy2.diy.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/00700/vvebo/raw/branch/main/DRJS/%e5%86%9c%e6%b0%91%e5%bd%b1%e8%a7%86.js"},
 
+    {"key":"dr_Nmys","name":"秒播┃农民影视","type":3,"api":"https://agit.ai/00700/vvebo/raw/branch/main/DRJS/Lib/drpy2.diy.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/00700/vvebo/raw/branch/main/DRJS/%e5%86%9c%e6%b0%91%e5%bd%b1%e8%a7%86.js"},
     {"key":"csp_Ahailove","name":"影视┃轻简影视","type":1,"api":"http://1.ahailove.cn:23456/cj/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_8kvod","name":"影视┃初雨影视","type":1,"api":"http://tvappjsonapi.8kvod.com/8kvodapilgxcsssss.php/provide/vod/from/chuyu/","searchable":1,"quickSearch":1,"filterable":1},
-    {"key":"csp_Lziapi","name":"采集┃量子资源","type":0,"api":"https://cj.lziapi.com/api.php/provide/vod/at/xml/","searchable": 1,"quickSearch": 1,"filterable": 1},
-    {"key":"csp_Ffzyapi","name":"采集┃非凡资源","type":1,"api":"http://cj.ffzyapi.com/api.php/provide/vod/","searchable": 1,"quickSearch": 1,"filterable": 1},
+    {"key":"csp_Lziapi","name":"采集┃量子","type":1,"api":"https://cj.lziapi.com/api.php/provide/vod/","searchable": 1,"quickSearch": 1,"filterable": 1},
+    {"key":"csp_Ffzyapi","name":"采集┃非凡","type":1,"api":"http://cj.ffzyapi.com/api.php/provide/vod/","searchable": 1,"quickSearch": 1,"filterable": 1},
     
     {"key":"csp_WoGG","name":"阿里┃玩偶哥哥","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"http://127.0.0.1:9978/tvbox/token.txt+4k|fhd|auto+4k|fhd|auto$$$http://tvfan.xxooo.cf/"},
     {"key":"csp_Paper","name":"阿里┃小纸条","type":3,"api":"csp_Paper","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"edfb4f235ee24f688f4f57e7a340fa0f"},
