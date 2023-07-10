@@ -16,10 +16,11 @@
   ],
   "sites": [
     {"key":"T4","name":"豆瓣荐片","type":4,"api":"https://t4.secan.icu/vod?sites=all&timeout=10","searchable":0,"quickSearch":0,"filterable":1,"changeable":0},
+    {"key":"dr豆瓣","name":"豆瓣","type":3,"api":"https://gitee.com/robor/bin/raw/master/js/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gitee.com/robor/bin/raw/master/js/drpy.js"},
     {"key":"csp_Kunyu77","name":"推荐┃酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"MV_vod","name":"卡拉OK","type":1,"api":"https://tvbox-mv--leosam2048.repl.co/mv/vod","searchable":0,"quickSearch":0,"filterable":1,"changeable":0},
 
-    {"key":"Yj1211","name":"网络直播","type":3,"api":"csp_Yj1211","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
+    {"key":"Yj1211","name":"网络直播","type":3,"api":"csp_Yj1211","searchable":0,"quickSearch":0,"filterable":0,"changeable":0},
     {"key":"Live2Vod","name":"电视转点播","type":3,"api":"https://gitee.com/robor/bin/raw/master/js/live2vod.js","changeable":0,"ext":"南风$https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt"},
     {"key":"csp_JRSKan","name":"赛事直播","type":3,"api":"csp_XPathFilter","searchable":0,"quickSearch":0,"changeable":0,"ext":"https://gitee.com/robor/bin/raw/master/sub/JRSKan.json"},
     {"key":"csp_Bili","name":"bili哔哩","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"changeable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/Bili.json"},
@@ -114,15 +115,16 @@
     {"name":"解析30","type":1,"url":"https://www.ckplayer.vip/jiexi/?url="},
     {"name":"解析31","type":1,"url":"https://www.1717yun.com/jx/ty.php?url="},
     {"name":"解析32","type":1,"url":"https://www.m3u8.tv.cache.janan.net:4433/json2020.php?uid=M3U8.TV&token=88888888&url=","ext": {"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}}, 
-    {"name":"解析33","type":1,"url":"https://api.qianqi.net/vip/?url="},
-    {"name":"解析34","type":1,"url":"https://api.json.icu/api/?key=da5e816ee2b93d2b7b8d2f966940aa92&url="}
+    {"name":"解析33","type":1,"url":"http://json.g9.pub:66/?url=","ext": {"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}},
+    {"name":"解析34","type":1,"url":"https://api.qianqi.net/vip/?url="},
+    {"name":"解析35","type":1,"url":"https://api.json.icu/api/?key=da5e816ee2b93d2b7b8d2f966940aa92&url="}
   ],
   "rules":[
-    {"name": "星星","hosts": ["aws.ulivetv.net"],"regex": ["#EXT-X-DISCONTINUITY[\\s\\S]*?#EXT-X-DISCONTINUITY"]},
-    {"name": "量子廣告","hosts": ["vip.lz","hd.lz"],"regex": ["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]},
-    {"name": "非凡廣告","hosts": ["vip.ffzy","hd.ffzy"],"regex": ["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]},
-    {"name": "火山嗅探","hosts": ["huoshan.com"],"regex": ["item_id="]},
-    {"name": "抖音嗅探","hosts": ["douyin.com"],"regex": ["is_play_url="]},
+    {"name":"星星","hosts": ["aws.ulivetv.net"],"regex": ["#EXT-X-DISCONTINUITY[\\s\\S]*?#EXT-X-DISCONTINUITY"]},
+    {"name":"量子廣告","hosts": ["vip.lz","hd.lz"],"regex": ["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]},
+    {"name":"非凡廣告","hosts": ["vip.ffzy","hd.ffzy"],"regex": ["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]},
+    {"name":"火山嗅探","hosts": ["huoshan.com"],"regex": ["item_id="]},
+    {"name":"抖音嗅探","hosts": ["douyin.com"],"regex": ["is_play_url="]},
     {"host":"api.live.bilibili.com","rule":["bilivideo.com","/index.m3u8"],"filter":["data.bilibili.com/log/web","i0.hdslb.com/bfs/live/"]}
   ],
   "ijk":[
