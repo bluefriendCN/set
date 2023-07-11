@@ -19,7 +19,7 @@
     {"key":"dr_douban","name":"豆瓣","type":3,"api":"https://gitee.com/robor/bin/raw/master/js/drpy.min.js","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://gitee.com/robor/bin/raw/master/js/drpy.js"},
     {"key":"csp_Kunyu77","name":"推荐┃酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"MV_vod","name":"卡拉OK","type":1,"api":"https://tvbox-mv--leosam2048.repl.co/mv/vod","searchable":0,"quickSearch":0,"filterable":1,"changeable":0},
-    {"key":"Live2cms","name":"电视直播","type":3,"api":"https://gitee.com/robor/bin/raw/master/js/live2cms.js","changeable":0,"ext":"南风$https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt"},
+    {"key":"Live2cms","name":"电视直播","type":3,"api":"https://gitee.com/robor/bin/raw/master/js/live2mv.js","changeable":0,"ext":"南风$https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt"},
     {"key":"csp_JRSKan","name":"赛事直播","type":3,"api":"csp_XPathFilter","searchable":0,"quickSearch":0,"changeable":0,"ext":"https://gitee.com/robor/bin/raw/master/sub/JRSKan.json"},
     {"key":"Yj1211","name":"网络直播","type":3,"api":"csp_Yj1211","searchable":0,"quickSearch":0,"filterable":0,"changeable":0},
     {"key":"csp_Bili","name":"bili哔哩","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"changeable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/Bili.json"},
