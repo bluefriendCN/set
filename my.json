@@ -25,10 +25,11 @@
     {"key":"dr_Huya","name":"虎牙直播","type":3,"api":"https://gitee.com/robor/bin/raw/master/js/drpy2.min.js","searchable":0,"quickSearch":0,"changeable":0,"ext":"https://agit.ai/00700/vvebo/raw/branch/main/DRJS/huya.js"},
 
     {"key":"csp_Kunyu77","name":"推荐┃酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
-    {"key":"飞速","name":"APP┃飞速","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ytcms.lfytyl.com/api.php/app/"},  
-    {"key":"伊人","name":"APP┃伊人","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://1cms.redpors.cn/api.php/app/"},
+    {"key":"影探","name":"APP┃影探","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ytcms.lfytyl.com/api.php/app/"},
+    {"key":"酷影","name":"APP┃酷影","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://cms.realdou.cn:27953/api.php/app/"}, 
     {"key":"米库","name":"APP┃米库","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.miniku.cc/xgapp.php/v2/"},
     {"key":"狐狸","name":"APP┃狐狸","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.kuin.one/api.php/app/"},
+    {"key":"伊人","name":"APP┃伊人","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://1cms.redpors.cn/api.php/app/"},
 
     {"key":"不开心","name":"不开心","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://one2.emofun.top/mogai_api.php/v1.vod"},
     {"key":"明帝","name":"明帝","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ys.md214.cn/api.php/app/"},
