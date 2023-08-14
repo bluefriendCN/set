@@ -69,9 +69,10 @@ CETV4,http://txycsbl.centv.cn/zb/0822cetv4.m3u8
 港澳台,#genre#
 凤凰中文台,http://[2409:8087:2001:20:2800:0:df6e:eb24]/ott.mobaibox.com/PLTV/4/224/3221228527/index.m3u8
 凤凰资讯台,http://[2409:8087:2001:20:2800:0:df6e:eb27]/ott.mobaibox.com/PLTV/4/224/3221228524/index.m3u8
-凤凰香港台,http://113.117.74.20:8081/hls/38/index.m3u8
-翡翠台,http://r.jdshipin.com/qClQf#http://r.jdshipin.com/62WM7
+凤凰香港台,http://[2409:8087:2001:20:2800:0:df6e:eb1d]/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
+翡翠台,http://r.jdshipin.com/qClQf#http://r.jdshipin.com/n90gt
 明珠台,http://r.jdshipin.com/ZQ4kN
+TVB星河,http://r.jdshipin.com/Voac4#http://r.jdshipin.com/sXuuD
 澳门莲花,http://107.151.203.111:2209/dl/lotustv2021.php
 大爱,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 大爱2,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
@@ -175,6 +176,8 @@ CCTV5,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001187/index.m3u
 CCTV5+,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001008/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 五星体育,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001018/index.m3u8
 广东体育,http://r.jdshipin.com/LiYdg
+咪咕英超,http://[2409:8087:2001:20:2800:0:df6e:eb1b]:80/PLTV/1/224/3221230952/1.m3u8
+咪咕西甲,http://[2409:8087:2001:20:2800:0:df6e:eb18]:80/PLTV/1/224/3221230975/1.m3u8
 咪咕体育1,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225737/index.m3u8
 咪咕体育2,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225758/index.m3u8
 咪咕体育3,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225782/index.m3u8
