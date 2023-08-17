@@ -12,6 +12,13 @@
       "logo":"https://epg.112114.xyz/logo/{name}.png",
       "ua":"okhttp/3.12.13",
       "boot": false
+    },
+    {
+      "name":"Global",
+      "type":0,
+      "url":"https://ghproxy.com/github.com/fanmingming/live/raw/main/tv/m3u/global.m3u",
+      "epg":"https://live.fanmingming.com/e.xml",
+      "logo":"https://live.fanmingming.com/tv/{name}.png"
     }
   ],
   "sites": [
