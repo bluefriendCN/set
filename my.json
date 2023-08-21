@@ -14,10 +14,10 @@
       "boot": false
     },
     {
-      "name":"Smile",
+      "name":"Global",
       "type":0,
-      "url":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt",
-      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+      "url":"https://ghproxy.com/github.com/fanmingming/live/raw/main/tv/m3u/global.m3u",
+      "epg": "http://epg.51zmt.top:8000/api/i/?ch={name}&date={date}",
       "logo":"https://epg.112114.xyz/logo/{name}.png"
     }
   ],
