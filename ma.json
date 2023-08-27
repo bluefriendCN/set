@@ -24,6 +24,15 @@
     {"key":"U酷资源","name":"U酷资源","type":1,"api":"https://api.ukuapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"categories": ["伦理片"]},
     {"key":"红牛资源","name":"红牛资源","type":1,"api":"https://www.hongniuzy2.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"categories": ["伦理片"]},
     {
+      "key":"91md",
+      "name":"91麻豆",
+      "type":1,
+      "api":"https://91md.me/api.php/provide/vod/from/mdm3u8/",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":0
+    },
+    {
       "key": "玩偶",
       "name": "玩偶",
       "type": 3,
