@@ -1,6 +1,6 @@
 //以下全部来自网络，如有冒犯请联系删除。[所有内容仅供学习使用，请勿用于违法用途]
 {
-  "spider": "https://gitee.com/robor/bin/raw/master/custom_spider.jar;md5;9a8ad560e957f4016cf6553605039491",
+  "spider": "https://gitee.com/robor/bin/raw/master/custom_spider.jar;md5;dede7a67d11523b79d649c152910fd6a",
   "wallpaper": "https://epg.112114.xyz/bingimg",
   "lives": [
     {
@@ -23,15 +23,6 @@
     {"key":"卧龙资源","name":"卧龙资源","type":1,"api":"https://collect.wolongzyw.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"categories": ["伦理片"]},
     {"key":"U酷资源","name":"U酷资源","type":1,"api":"https://api.ukuapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"categories": ["伦理片"]},
     {"key":"红牛资源","name":"红牛资源","type":1,"api":"https://www.hongniuzy2.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"categories": ["伦理片"]},
-    {
-      "key":"91md",
-      "name":"91麻豆",
-      "type":1,
-      "api":"https://91md.me/api.php/provide/vod/from/mdm3u8/",
-      "searchable":1,
-      "quickSearch":1,
-      "filterable":0
-    },
     {
       "key": "玩偶",
       "name": "玩偶",
