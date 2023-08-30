@@ -37,6 +37,7 @@
     {"key":"狐狸","name":"狐狸","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.kuin.one/api.php/app/"},
     {"key":"伊人","name":"伊人","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://1cms.redpors.cn/api.php/app/"},
     {"key":"陌陌","name":"陌陌","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"changeable":1,"ext":"http://wushutvcms.byzz.top/api.php/app/"},
+    {"key":"奇奇","name":"奇奇","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://ttsp.live/api.php/app/"},
     {"key":"明帝","name":"明帝","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ys.md214.cn/api.php/app/"},
     {"key":"如意","name":"如意","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://cms.maoyingshi.cc/api.php/app/"},
     {"key":"路人甲","name":"路人甲","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://dytt996.com/api.php/app/"},
@@ -45,6 +46,7 @@
     {"key":"光影猫","name":"光影猫","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://gymcms.xn--654a.cc/api.php/app/"},
     {"key":"不开心","name":"不开心","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://one2.emofun.top/mogai_api.php/v1.vod"},
     {"key":"阿里萝卜","name":"阿里萝卜","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://aliys.cn:90/api.php/v1.vod"},
+    {"key":"探探","name":"影探VIP","type":3,"playerType":"1","api":"csp_YTVIP","searchable":1,"quickSearch":1,"changeable":1,"ext":"vip.lyyytv.cn"},
 
     {"key":"360","name":"360","type":3,"api":"csp_SP33","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"快看","name":"快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
