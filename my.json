@@ -1,6 +1,6 @@
 //以下内容均来源于互联网，只为自用和学习，如有冒犯，请联系删除。
 {
-  "spider": "https://gitee.com/robor/bin/raw/master/Yoursmile.jar;md5;CB79A023D795989F42EBF76D64FD7AFA",
+  "spider": "https://gitee.com/robor/bin/raw/master/Yoursmile.jar;md5;54C10560F16EE36885DF2AF75EBD12BB",
   "wallpaper": "https://epg.112114.xyz/bingimg",
   "flags": ["qq","腾讯","企鹅","iQiYi","qiyi","爱奇艺","奇艺","youku","YouKu","优酷","sohu","SoHu","搜狐","letv","LeShi","乐视","imgo","mgtv","MangGuo","芒果","SLYS4k","BYGA","luanzi","AliS","dxzy","bilibili","QEYSS","xigua","西瓜视频","腾讯视频","奇艺视频","优酷视频","芒果视频","乐视视频"],
   "lives": [
@@ -17,7 +17,7 @@
       "name":"Global",
       "type":0,
       "url":"https://ghproxy.com/github.com/fanmingming/live/raw/main/tv/m3u/global.m3u",
-      "epg": "http://epg.51zmt.top:8000/api/i/?ch={name}&date={date}"
+      "epg":"http://epg.51zmt.top:8000/api/i/?ch={name}&date={date}"
     }
   ],
   "sites": [
@@ -40,6 +40,7 @@
     {"key":"奇奇","name":"奇奇","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://ttsp.live/api.php/app/"},
     {"key":"明帝","name":"明帝","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ys.md214.cn/api.php/app/"},
     {"key":"如意","name":"如意","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://cms.maoyingshi.cc/api.php/app/"},
+    {"key":"蘑菇","name":"蘑菇","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://11111111.moguys.xyz/api.php/app/"},
     {"key":"路人甲","name":"路人甲","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://dytt996.com/api.php/app/"},
     {"key":"看看剧","name":"看看剧","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://kankanju.cc/api.php/app/"},
     {"key":"极速播","name":"极速播","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.gsjtlxy.top/xgapp.php/v3/"},
