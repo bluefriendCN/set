@@ -821,9 +821,8 @@
       {"name":"解析33","type":1,"url":"https://api.json.icu/api/?key=da5e816ee2b93d2b7b8d2f966940aa92&url="}
     ],
     "rules":[
-      {"name": "海外看","hosts": ["m3u.haiwaikan"],"regex": ["#EXTINF:[0-3]\\W(?!000000)\\d{6}[\\s\\S]+?.ts\\r*\\n*","#EXTINF:8\\W(?!000000)\\d{6}[\\s\\S]+?.ts\\r*\\n*"]},
       {"name": "暴风","hosts": ["bfzy"],"regex": ["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:3,[\\s\\S]*?#EXT-X-DISCONTINUITY"]},
-      {"name": "星星","hosts": ["aws.ulivetv.net"],"regex": ["#EXT-X-DISCONTINUITY[\\s\\S]*?#EXT-X-DISCONTINUITY"]},
+      {"name": "星星","hosts": ["aws.ulivetv.net"],"regex": ["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:8,[\\s\\S]*?#EXT-X-DISCONTINUITY"]},
       {"name": "量子","hosts": ["vip.lz","hd.lz","v.cdnlz"],"regex": ["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]},
       {"name": "非凡","hosts": ["vip.ffzy","hd.ffzy"],"regex": ["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]},
       {"name": "火山嗅探","hosts": ["huoshan.com"],"regex": ["item_id="]},
