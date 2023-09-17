@@ -24,7 +24,7 @@
     {"key":"T4","name":"豆瓣荐片","type":4,"api":"https://t4.secan.icu/vod?sites=all&timeout=10","searchable":0,"quickSearch":0,"filterable":1,"changeable":0},
     {"key":"MV_vod","name":"明星MV","type":1,"api":"https://mv.wogg.link/mv/vod","searchable":0,"quickSearch":0,"filterable":1,"changeable":0},
     {"key":"Live2cms","name":"电视直播","type":3,"api":"https://ghproxy.com/github.com/bluefriendCN/bin/raw/main/js/live2mv.js","changeable":0,"ext":"南风$https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt"},
-    {"key":"csp_JRSKan","name":"赛事直播","type":3,"api":"csp_XPathFilter","searchable":0,"quickSearch":0,"changeable":0,"ext":"https://ghproxy.com/github.com/bluefriendCN/bin/raw/main/sub/JRSKan.json"},
+    {"key":"csp_JRS","name":"赛事直播","type":3,"api":"https://ghproxy.com/github.com/bluefriendCN/bin/raw/main/js/drpy.min.js","changeable":0,"ext":"https://ghproxy.com/github.com/bluefriendCN/bin/raw/main/js/JRKAN直播.js"},
     {"key":"Yj1211","name":"网络直播","type":3,"api":"csp_Yj1211","searchable":0,"quickSearch":0,"filterable":0,"changeable":0},
     {"key":"csp_Bili","name":"Bili哔哩","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"changeable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/Bili.json"},
     {"key":"虎牙","name":"虎牙","type":3,"api":"csp_XYQHiker","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/虎牙.json"},
