@@ -4,7 +4,7 @@
 
 <https://raw.gitmirror.com/bluefriendCN/set/main/live.txt>
 
-<https://raw.fgit.cf/FongMi/CatVodSpider/main/json/config.json>
+<https://raw.fgit.cf/bluefriendCN/set/main/live.m3u>
 
 <https://ghproxy.com/github.com/bluefriendCN/bin/raw/main/Yoursmile.jar>
 
@@ -12,7 +12,7 @@
 
 <https://gh.cyao.tk/raw.githubusercontent.com/mengzehe/TVBox/main/自用源>
 
-<https://ghcy.eu.org/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/adult.json>
+<https://ghcy.eu.org/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json>
 
 # EGP源
 
