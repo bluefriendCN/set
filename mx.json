@@ -1,6 +1,6 @@
 //以下内容均来源于互联网，只为自用和学习，如有冒犯，请联系删除。
 {
-  "spider": "https://ghproxy.com/raw.githubusercontent.com/bluefriendCN/bin/main/Yoursmile.jar;md5;F30CC31F1C228F74B3DD50025EA064FA",
+  "spider": "https://ghproxy.com/raw.githubusercontent.com/bluefriendCN/bin/main/Yoursmile.jar;md5;BCBFBCDB4A9C78A9CB0972ADFC68CB0D",
   "wallpaper": "https://epg.112114.xyz/bingimg",
   "flags": ["qq","腾讯","企鹅","iQiYi","qiyi","爱奇艺","奇艺","youku","YouKu","优酷","sohu","SoHu","搜狐","letv","LeShi","乐视","imgo","mgtv","MangGuo","芒果","SLYS4k","BYGA","luanzi","AliS","dxzy","bilibili","QEYSS","xigua","西瓜视频","腾讯视频","奇艺视频","优酷视频","芒果视频","乐视视频"],
   "lives": [
@@ -16,6 +16,7 @@
   ],
   "sites": [
     {"key":"T4","name":"豆瓣荐片","type":4,"api":"https://t4.secan.icu/vod?sites=all&timeout=10","searchable":0,"quickSearch":0,"filterable":1,"changeable":0},
+    {"key":"csp_WoGG","name":"玩偶哥哥","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"http://127.0.0.1:9978/tvbox/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/"},
     {"key":"MV_vod","name":"明星MV","type":1,"api":"https://mv.wogg.link/mv/vod","searchable":0,"quickSearch":0,"filterable":1,"changeable":0},
     {"key":"Live2cms","name":"电视直播","type":3,"api":"https://raw.fgit.cf/bluefriendCN/bin/main/js/live2mv.js","changeable":0,"ext":"南风$https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt"},
     {"key":"csp_JRS","name":"赛事直播","type":3,"api":"https://raw.fgit.cf/bluefriendCN/bin/main/js/drpy.min.js","changeable":0,"ext":"https://raw.fgit.cf/bluefriendCN/bin/main/js/JRKAN直播.js"},
@@ -62,12 +63,11 @@
     {"key":"电影港","name":"电影港","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/电影港磁力.json"},
     {"key":"臭蛋蛋","name":"臭蛋蛋","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/臭蛋蛋.json"},
 
-    {"key":"爱酷","name":"爱酷","type":0,"api":"https://ikunzyapi.com/api.php/provide/vod/at/xml/","searchable":1,"changeable": 1,"filterable": 1},
-    {"key":"暴风","name":"暴风","type":0,"api":"https://bfzyapi.com/api.php/provide/vod/at/xml/","searchable": 1,"changeable": 1,"filterable": 1},
+    {"key":"爱酷","name":"爱酷","type":0,"api":"https://ikunzyapi.com/api.php/provide/vod/at/xml/","searchable":1,"quickSearch": 1,"filterable": 1},
+    {"key":"暴风","name":"暴风","type":0,"api":"https://bfzyapi.com/api.php/provide/vod/at/xml/","searchable": 1,"quickSearch": 1,"filterable": 1},
     {"key":"量子","name":"量子","type":1,"api":"https://cj.lziapi.com/api.php/provide/vod/","searchable": 1,"quickSearch": 1,"filterable": 1},
     {"key":"非凡","name":"非凡","type":1,"api":"http://cj.ffzyapi.com/api.php/provide/vod/","searchable": 1,"quickSearch": 1,"filterable": 1},
     
-    {"key":"csp_WoGG","name":"玩偶哥哥","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"http://127.0.0.1:9978/tvbox/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/"},
     {"key":"csp_AList","name":"AList","type":3,"api":"csp_AList","searchable":1,"quickSearch":0,"filterable":1,"changeable":0,"ext":"https://raw.fgit.cf/bluefriendCN/bin/main/sub/Alist.json"},
     {"key":"push_agent","name":"推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"filterable":0,"changeable":0,"ext": "http://127.0.0.1:9978/tvbox/token.txt+4k|auto|fhd"}
   ],
@@ -83,11 +83,11 @@
     {"name":"Web聚合","type":3,"url":"Web"},
     {"name":"Json并发","type":2,"url":"Parallel"},
     {"name":"Json轮询","type":2,"url":"Sequence"},
-    {"name":"解析1", "type":0,"url":"https://jx.zhanlangbu.com/?url="},
+    {"name":"解析1", "type":0,"url":"https://jx.xmflv.cc/?url="},
     {"name":"解析2", "type":0,"url":"https://jx.777jiexi.com/player/?url="},
     {"name":"解析3", "type":0,"url":"https://jx.zui.cm/?url="},
-    {"name":"解析4", "type":0,"url":"https://jx.m3u8.pw/?url="},
-    {"name":"解析5", "type":0,"url":"https://jx.2s0.cn/player/?url="},
+    {"name":"解析4", "type":0,"url":"https://jx.2s0.cn/player/?url="},
+    {"name":"解析5", "type":0,"url":"https://jx.jsonplayer.com/player/?url="},
     {"name":"解析6", "type":0,"url":"https://www.8090g.cn/?url="},
     {"name":"解析7", "type":0,"url":"https://api.jiexi.la/?url="},
     {"name":"解析8", "type":0,"url":"https://vip.lianfaka.com/vip/?url="},
@@ -104,8 +104,8 @@
     {"name":"解析19","type":0,"url":"https://www.yemu.xyz/?url="},
     {"name":"解析20","type":0,"url":"https://jsjiexi.com/play/?url=","ext": {"header":{"User-Agent":"okhttp/4.1.0"}}},
     {"name":"解析21","type":0,"url":"https://vip.bljiex.com/?v=","ext": {"header":{"User-Agent":"okhttp/4.1.0"}}},
-    {"name":"解析22","type":0,"url":"https://jx.jsonplayer.com/player/?url=","ext": {"header":{"User-Agent":"okhttp/4.1.0"}}},
-    {"name":"解析23","type":0,"url":"https://jx.xmflv.com/?url=","ext": {"header":{"User-Agent":"okhttp/4.1.0"}}},
+    {"name":"解析22","type":0,"url":"http://www.qmjx.vip/?url="},
+    {"name":"解析23","type":0,"url":"https://jx.playerjy.com/?url="},    
     {"name":"解析24","type":1,"url":"http://42.157.128.109:2323/CH/zy/Yumi.php?url="},
     {"name":"解析25","type":1,"url":"https://b.umkan.cc/API.php?url"}, 
     {"name":"解析26","type":1,"url":"https://jx.m3u8.tv/jiexi/?url="},
