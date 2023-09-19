@@ -5,13 +5,16 @@
   "flags": ["qq","腾讯","企鹅","iQiYi","qiyi","爱奇艺","奇艺","youku","YouKu","优酷","sohu","SoHu","搜狐","letv","LeShi","乐视","imgo","mgtv","MangGuo","芒果","SLYS4k","BYGA","luanzi","AliS","dxzy","bilibili","QEYSS","xigua","西瓜视频","腾讯视频","奇艺视频","优酷视频","芒果视频","乐视视频"],
   "lives": [
     {
-      "name": "Live",
-      "type": 0,
+      "name":"Live",
+      "type":0,
       "url": "https://raw.gitmirror.com/bluefriendCN/set/main/live.txt",
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
-      "logo":"https://epg.112114.xyz/logo/{name}.png",
-      "ua":"okhttp/3.12.13",
-      "boot": false
+      "logo":"https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name":"YanG-1989",
+      "type":0,
+      "url":"https://raw.fgit.cf/YanG-1989/m3u/main/Adult.m3u"
     }
   ],
   "sites": [
@@ -25,7 +28,7 @@
     {"key":"虎牙","name":"虎牙","type":3,"api":"csp_XYQHiker","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/虎牙.json"},
     {"key":"斗鱼","name":"斗鱼","type":3,"api":"csp_XYQHiker","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/斗鱼.json"},
 
-    {"key":"csp_77","name":"推荐┃酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
+    {"key":"csp_77","name":"酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"米库","name":"APP┃米库","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.miniku.cc/xgapp.php/v2/"},
     {"key":"爱迪","name":"爱迪","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://api123.adys.app/xgapp.php/v2/"},
     {"key":"狐狸","name":"狐狸","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.kuin.one/api.php/app/"},
@@ -57,6 +60,7 @@
     {"key":"csp_Zxzj","name":"在线之家","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.zxzj.pro/"},
     {"key":"csp_Ysgc","name":"影视工厂","type":3,"api":"csp_Ysgc","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.ysgc.fun"},
     {"key":"csp_AppMr","name":"明明影视","type":3,"api":"csp_AppMr","searchable":1,"quickSearch":1,"filterable":1},
+    {"key":"csp_YGP","name":"新片速递","type":3,"api":"csp_YGP","searchable":0,"quickSearch":0,"filterable":1,"changeable":0},
     {"key":"农民","name":"农民","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/农民影视.json"},
     {"key":"奇优","name":"️奇优","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/奇优.json"},
     {"key":"乐猪","name":"乐猪","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/乐猪.json"},
