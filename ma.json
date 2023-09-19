@@ -4,6 +4,11 @@
   "wallpaper": "https://epg.112114.xyz/bingimg",
   "lives": [
     {
+      "name":"YanG-1989",
+      "url": "https://raw.fgit.cf/YanG-1989/m3u/main/Adult.m3u",
+      "type": 0
+    },
+    {
       "name":"18live",
       "url": "https://raw.gitmirror.com/mengzehe/TVBox/main/18/18live.txt",
       "type": 0
