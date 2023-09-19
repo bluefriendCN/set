@@ -1,6 +1,6 @@
 //以下全部来自网络，如有冒犯请联系删除。[所有内容仅供学习使用，请勿用于违法用途]
 {
-  "spider": "https://ghproxy.com/raw.githubusercontent.com/bluefriendCN/bin/main/custom_spider.jar;md5;805e97263746889cf1405e74ec9d0824",
+  "spider": "https://ghproxy.com/raw.githubusercontent.com/bluefriendCN/bin/main/custom_spider.jar;md5;c5b10629e8a887e330888d5907eaa800",
   "wallpaper": "https://epg.112114.xyz/bingimg",
   "lives": [
     {
@@ -16,7 +16,6 @@
   ],
   "flags": ["qq","腾讯","企鹅","iQiYi","qiyi","爱奇艺","奇艺","youku","YouKu","优酷","sohu","SoHu","搜狐","letv","LeShi","乐视","imgo","mgtv","MangGuo","芒果","SLYS4k","BYGA","luanzi","AliS","dxzy","bilibili","QEYSS","xigua","西瓜视频","腾讯视频","奇艺视频","优酷视频","芒果视频","乐视视频"],
 	"sites": [
-    {"key":"爱酷","name":"爱酷","type":0,"api":"https://ikunzyapi.com/api.php/provide/vod/at/xml/","searchable":1,"categories":["伦理片"]},
     {"key":"暴风","name":"暴风","type":0,"api":"https://bfzyapi.com/api.php/provide/vod/at/xml/","searchable": 1,"changeable": 1,"categories": ["理论片"]},
     {"key":"量子","name":"量子","type":1,"api":"https://cj.lziapi.com/api.php/provide/vod/","searchable": 1,"changeable": 1,"categories": ["伦理片"]},
     {"key":"非凡","name":"非凡","type":1,"api":"http://cj.ffzyapi.com/api.php/provide/vod/","searchable": 1,"changeable": 1,"categories": ["伦理片"]},
@@ -790,11 +789,11 @@
     {"name":"Web聚合","type":3,"url":"Web"},
     {"name":"Json并发","type":2,"url":"Parallel"},
     {"name":"Json轮询","type":2,"url":"Sequence"},
-    {"name":"解析1", "type":0,"url":"https://jx.zhanlangbu.com/?url="},
+    {"name":"解析1", "type":0,"url":"https://jx.xmflv.cc/?url="},
     {"name":"解析2", "type":0,"url":"https://jx.777jiexi.com/player/?url="},
     {"name":"解析3", "type":0,"url":"https://jx.zui.cm/?url="},
-    {"name":"解析4", "type":0,"url":"https://jx.m3u8.pw/?url="},
-    {"name":"解析5", "type":0,"url":"https://jx.2s0.cn/player/?url="},
+    {"name":"解析4", "type":0,"url":"https://jx.2s0.cn/player/?url="},
+    {"name":"解析5", "type":0,"url":"https://jx.jsonplayer.com/player/?url="},
     {"name":"解析6", "type":0,"url":"https://www.8090g.cn/?url="},
     {"name":"解析7", "type":0,"url":"https://api.jiexi.la/?url="},
     {"name":"解析8", "type":0,"url":"https://vip.lianfaka.com/vip/?url="},
@@ -811,8 +810,8 @@
     {"name":"解析19","type":0,"url":"https://www.yemu.xyz/?url="},
     {"name":"解析20","type":0,"url":"https://jsjiexi.com/play/?url=","ext": {"header":{"User-Agent":"okhttp/4.1.0"}}},
     {"name":"解析21","type":0,"url":"https://vip.bljiex.com/?v=","ext": {"header":{"User-Agent":"okhttp/4.1.0"}}},
-    {"name":"解析22","type":0,"url":"https://jx.jsonplayer.com/player/?url=","ext": {"header":{"User-Agent":"okhttp/4.1.0"}}},
-    {"name":"解析23","type":0,"url":"https://jx.xmflv.com/?url=","ext": {"header":{"User-Agent":"okhttp/4.1.0"}}},
+    {"name":"解析22","type":0,"url":"http://www.qmjx.vip/?url="},
+    {"name":"解析23","type":0,"url":"https://jx.playerjy.com/?url="},    
     {"name":"解析24","type":1,"url":"http://42.157.128.109:2323/CH/zy/Yumi.php?url="},
     {"name":"解析25","type":1,"url":"https://b.umkan.cc/API.php?url"}, 
     {"name":"解析26","type":1,"url":"https://jx.m3u8.tv/jiexi/?url="},
