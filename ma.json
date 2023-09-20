@@ -782,13 +782,6 @@
     {"key":"141","name":"爱看141","type":0,"api":"http://fhapi9.com/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1,"filterable":0},
     {"key":"push_agent","name":"推送","type":3,"api":"csp_Push","searchable":1,"changeable":0}
   ],
-  "doh": [
-    {"name": "Google","url": "https://dns.google/dns-query","ips": ["8.8.4.4","8.8.8.8"]},
-    {"name": "Cloudflare","url": "https://cloudflare-dns.com/dns-query","ips": ["1.1.1.1","1.0.0.1","2606:4700:4700::1111","2606:4700:4700::1001"]},
-    {"name": "AdGuard","url": "https://dns.adguard.com/dns-query","ips": ["94.140.14.140","94.140.14.141"]},
-    {"name": "DNSWatch","url": "https://resolver2.dns.watch/dns-query","ips": ["84.200.69.80","84.200.70.40"]},
-    {"name": "Quad9","url": "https://dns.quad9.net/dns-quer","ips": ["9.9.9.9","149.112.112.112"]}
-  ],
   "parses": [
     {"name":"解析聚合","type":3,"url":"Demo"},
     {"name":"Web聚合","type":3,"url":"Web"},
@@ -806,7 +799,7 @@
     {"name":"解析10","type":0,"url":"https://tool.bitefu.net/video/?url="},
     {"name":"解析11","type":0,"url":"https://open.wn231.com/?url="},
     {"name":"解析12","type":0,"url":"https://www.ikdmjx.com/?url="},
-    {"name":"解析13","type":0,"url":"https://play.hongxiuzybofang.com/index/analysis?"},
+    {"name":"解析13","type":0,"url":"https://play.hongxiuzybofang.com/index/analysis?url="},
     {"name":"解析14","type":0,"url":"https://www.ckplayer.vip/jiexi/?url="},
     {"name":"解析15","type":0,"url":"https://www.xinlangjiexi.com/m3u8/?url="},
     {"name":"解析16","type":0,"url":"https://www.bmm3u8.com/?url="},
@@ -829,6 +822,13 @@
     {"name":"解析33","type":1,"url":"http://27.124.4.42:4567/jhjson/ceshi.php?url="},
     {"name":"解析34","type":1,"url":"https://jx.51flv.cc/play.php?url="},
     {"name":"解析35","type":1,"url":"https://jx.blbo.cc:4433/?url="}
+  ],
+  "doh": [
+    {"name": "Google","url": "https://dns.google/dns-query","ips": ["8.8.4.4","8.8.8.8"]},
+    {"name": "Cloudflare","url": "https://cloudflare-dns.com/dns-query","ips": ["1.1.1.1","1.0.0.1","2606:4700:4700::1111","2606:4700:4700::1001"]},
+    {"name": "AdGuard","url": "https://dns.adguard.com/dns-query","ips": ["94.140.14.140","94.140.14.141"]},
+    {"name": "DNSWatch","url": "https://resolver2.dns.watch/dns-query","ips": ["84.200.69.80","84.200.70.40"]},
+    {"name": "Quad9","url": "https://dns.quad9.net/dns-quer","ips": ["9.9.9.9","149.112.112.112"]}
   ],
   "rules":[
     {"name": "海外看","hosts": ["haiwaikan"],"regex": ["8.1748","10.0099","10.3333"]},
