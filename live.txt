@@ -75,7 +75,7 @@ CETV4,http://111.40.196.27:443/0000000000001000/5000000011000031126/index.m3u8?l
 TVB星河,http://r.jdshipin.com/Voac4#http://r.jdshipin.com/sXuuD
 澳门莲花,http://107.151.203.111:2209/dl/lotustv2021.php
 大爱,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
-大爱2,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
+DaAi2,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 
 民视,rtmp://9sv2.mine.nu/sat/tv051
 台视,rtmp://9sv2.mine.nu/sat/tv071
@@ -89,6 +89,11 @@ TVBS欢乐,rtmp://9sv2.mine.nu/sat/tv421
 东森超视,rtmp://9sv2.mine.nu/sat/tv331
 东森财经,rtmp://9sv2.mine.nu/sat/tv571
 MoMo综合,rtmp://9sv2.mine.nu/sat/tv761
+T+W,https://raw.fgit.cf/ChiSheng9/iptv/master/TV78.m3u8
+ELEVEN1,rtmp://218.32.29.20/sat/tv731
+ELEVEN2,rtmp://218.32.29.20/sat/tv741
+ELTA2,rtmp://218.32.29.20/sat/md041
+ELTA3,rtmp://218.32.29.20/sat/md051
 
 卫视,#genre#
 北京卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225796/index.m3u8
@@ -149,13 +154,15 @@ MoMo综合,rtmp://9sv2.mine.nu/sat/tv761
 重庆卫视,http://[2409:8087:1e04:21::102]:6060/cms001/ch00000090990000001129/1.m3u8
 新疆卫视,http://[2409:8087:2001:20:2800:0:df6e:eb0b]/ott.mobaibox.com/PLTV/3/224/3221228290/index.m3u8
 内蒙古卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225786/index.m3u8
-青海卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225628/index.m3u8
+青海卫视,http://222.85.207.79:9901/hls/43/index.m3u8
 甘肃卫视,http://221.213.43.82:8888/newlive/live/hls/36/live.m3u8
 宁夏卫视,http://221.213.43.82:8888/newlive/live/hls/40/live.m3u8
-山西卫视,http://liveflash.sxrtv.com/live/sxwshd.m3u8?sub_m3u8=true&edge_slice=true
-陕西卫视,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001067/index.m3u8?
+山西卫视,http://live.cooltv.top/tv/tide.php?id=sxiws2
+陕西卫视,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=freeuser&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=004bfc8f56cd2797&cid=1332&id=1452_4500
+西藏卫视,http://zgntv.icu/live/xztv.php?id=0
 
 重庆,#genre#
+巴南综合,https://live.cqbntv.com/bnmc/bn14.m3u8
 重庆新闻,https://live.goodiptv.club/api/cqyx.php?id=CQTVNewsHD
 重庆影视,https://live.goodiptv.club/api/cqyx.php?id=cqyingshiHD
 重庆社会与法,https://live.goodiptv.club/api/cqyx.php?id=CQTVTrendyHD
@@ -171,6 +178,7 @@ MoMo综合,rtmp://9sv2.mine.nu/sat/tv761
 爱看导视,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226338/index.m3u8
 
 体育,#genre#
+CCTV16,http://106.39.160.148/live.aishang.ctlcdn.com/00000110240389_1/encoder/0/playlist.m3u8?CONTENTID=00000110240389_1
 CCTV16,http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaibox.com/PLTV/3/224/3221228127/index.m3u8
 CCTV5,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001187/index.m3u8
 CCTV5+,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001008/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
@@ -338,7 +346,7 @@ CGTN西班牙语,https://livees.cgtn.com/1000e/prog_index.m3u8
 CGTN阿拉伯语,https://livear.cgtn.com/1000a/prog_index.m3u8
 CNC英文,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225693/2/index.m3u8
 CNC中文,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225694/2/index.m3u8
-半岛新闻,http://live-hls-web-aje.getaj.net/AJE/01.m3u8#http://live-hls-web-aja.getaj.net/AJA/02.m3u8
+半岛新闻,http://live-hls-web-aja.getaj.net/AJA/index.m3u8#http://live-hls-web-aja.getaj.net/AJA/01.m3u8#http://live-hls-web-aja.getaj.net/AJA/02.m3u8
 亚洲新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 金砖中文,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
 金砖英文,http://brics.bonus-tv.ru/cdn/brics/english/tracks-v1a1/index.m3u8
@@ -348,39 +356,45 @@ FashionTV,http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
 FashionTV,http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8
 FashionTV,http://lb.streaming.sk/fashiontv/stream/chunklist_w1402273512.m3u8
 FashionTV,http://80.94.54.42/fashiontv/stream/playlist.m3u8
+HBO,http://208.115.225.174:14136
+HBO Mundi,http://208.115.225.174:14148
+HBO signature,http://208.115.225.174:14160
+HBO2,http://208.115.225.174:14140
 HBO,http://41.205.93.154/HBO/index.m3u8
 HBO2,http://185.188.188.235/live/hbo2/playlist.m3u8
 HBO3,http://94.156.33.91/Cinemax/mono.m3u8
 HBO Family,http://198.16.100.90:8278/fyi_twn/playlist.m3u8?tid=m99b80124e3b4&ct=18337&tsum=73f6f540497de9a5615b9bd55bec8853
-AXN,http://flv.mp4cdn.live/gt-key=00569874.php?id=102
 CINEMAX,http://94.156.33.91/Cinemax/mono.m3u8
+AXN,http://flv.mp4cdn.live/gt-key=00569874.php?id=102
 CNN,https://cnn-cnninternational-1-eu.rakuten.wurl.tv/206849c7acd1570962df1ad525fa8688.m3u8?blog.ntnas.top
 FOX NEWS,https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 ABC News,https://content.uplynk.com/channel/9deaf22aaa33461f9cac22e030ed00ec.m3u8
-DW News,https://ghproxy.com/github.com/ChiSheng9/iptv/master/TV08.m3u8
+DW News,https://raw.fgit.cf/ChiSheng9/iptv/master/TV08.m3u8
 Comedy,http://51.210.199.27/hls/stream.m3u8
 Documentary,http://51.210.199.23/hls/stream.m3u8
 Family,http://51.210.199.19/hls/stream.m3u8
 Iranian,http://51.210.199.22/hls/stream.m3u8
 Music,http://51.210.199.24/hls/stream.m3u8
 Nostalgia,http://51.210.199.20/hls/stream.m3u8
-美NASA Public Channel,https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
+美·NASA Public Channel,https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 俄IGITV,http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 日NHK-WORLD,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
 日NHK,http://123.51.230.108:18525/.m3u8
 韩KCTV_HV2,http://119.77.96.184:1935/chn05/chn05/chunklist_w1306745753.m3u8
 
 UHD,#genre#
-CCTV1_4k,http://[2409:8087:2001:20:2800:0:df6e:eb02]/ott.mobaibox.com/PLTV/4/224/3221227896/index.m3u8
+CCTV1,http://[2409:8087:2001:20:2800:0:df6e:eb02]/ott.mobaibox.com/PLTV/4/224/3221227896/index.m3u8
+CCTV16,http://106.39.160.148/live.aishang.ctlcdn.com/00000110240349_1/encoder/0/playlist.m3u8?CONTENTID=00000110240349_1
 欢笑剧场4K,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226582/index.m3u8
 纯享4K,http://[2409:8087:2001:20:2800:0:df6e:eb11]/ott.mobaibox.com/PLTV/3/224/3221228242/index.m3u8
 纯享4K,http://[2409:8087:2001:20:2800:0:df6e:eb12]/ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8
 超高清电影,http://r.jdshipin.com/5DWJk#https://live.goodiptv.club/api/sxg.php?id=emdy4k_8000
 爱上4K,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
 真4K,http://[2409:8087:2001:20:2800:0:df6e:eb14]/ott.mobaibox.com/PLTV/3/224/3221228141/index.m3u8
+斗鱼4K,http://mmitv.top/test/douyu.php?id=9249162
 华数4K,http://zteres.sn.chinamobile.com:6060/000000001000/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=3
 苏州4K,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
-BesTV4K,http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000196/index.m3u8?IAS
-BesTV4KHDR,http://[2409:8087:5e01:34::30]:6610/ZTE_CMS/00000001000000060000000000000202/index.m3u8?IAS
+百事通4K儿童,http://58.32.40.25:8000/udp/239.45.1.1:5140
+百事通4K纪实,http://58.32.40.25:8000/udp/239.45.1.10:5140
 北京纪实科教8K,http://159.75.85.63:6798
 江苏8K测试,http://[2409:8087:2001:20:2800:0:df6e:eb04]/ott.mobaibox.com/PLTV/3/224/3221228132/index.m3u8
