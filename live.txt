@@ -57,10 +57,6 @@ CHC高清电影,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch0000009099000
 移动传媒,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/649e19038fa74514ab3f00febbcd6de0/1200.m3u8
 发现之旅,http://[2409:8087:2001:20:2800:0:df6e:eb03]/ott.mobaibox.com/PLTV/3/224/3221227030/index.m3u8
 老故事,http://[2409:8087:2001:20:2800:0:df6e:eb09]/ott.mobaibox.com/PLTV/3/224/3221227043/index.m3u8
-CETV1,http://txycetvbl.centv.cn/cetv1/ypd.m3u8
-CETV2,http://txycetvbl.centv.cn/cetv2/2020tsytk.m3u8
-CETV3,http://txycetvbl.centv.cn/cetv3/bjdm.m3u8
-CETV4,http://txycetvbl.centv.cn/cetv4/zjpd.m3u8
 CETV1,http://111.40.196.27:443/0000000000001000/5000000002000002652/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000002000002652
 CETV2,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225756/index.m3u8
 CETV3,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226226/index.m3u8
@@ -161,6 +157,17 @@ ELTA3,rtmp://218.32.29.20/sat/md051
 
 重庆,#genre#
 巴南综合,https://live.cqbntv.com/bnmc/bn14.m3u8
+重庆新闻,https://tv.youshijiea.cn/uploads/itvbox/cqgd.php?id=CQTVNewsHD
+重庆影视,https://tv.youshijiea.cn/uploads/itvbox/cqgd.php?id=cqyingshiHD
+重庆社会与法,https://tv.youshijiea.cn/uploads/itvbox/cqgd.php?id=CQTVTrendyHD
+重庆时尚生活,https://tv.youshijiea.cn/uploads/itvbox/cqgd.php?id=cqssgwHD
+重庆文体娱乐,https://tv.youshijiea.cn/uploads/itvbox/cqgd.php?id=cqwtylHD
+重庆新农村,https://tv.youshijiea.cn/uploads/itvbox/cqgd.php?id=cqggncHD
+重庆少儿,https://tv.youshijiea.cn/uploads/itvbox/cqgd.php?id=cqseHD
+重庆科教,https://tv.youshijiea.cn/uploads/itvbox/cqgd.php?id=CQTVkejiaoHD
+重庆汽摩,https://tv.youshijiea.cn/uploads/itvbox/cqgd.php?id=cqcarSD
+重庆移动,https://tv.youshijiea.cn/uploads/itvbox/cqgd.php?id=mryyHD
+重广融媒,https://tv.youshijiea.cn/uploads/itvbox/cqgd.php?id=cqrongmei
 重庆新闻,https://live.goodiptv.club/api/cqyx.php?id=CQTVNewsHD
 重庆影视,https://live.goodiptv.club/api/cqyx.php?id=cqyingshiHD
 重庆社会与法,https://live.goodiptv.club/api/cqyx.php?id=CQTVTrendyHD
@@ -253,7 +260,7 @@ BesTV,http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/000000010000000600000000000003
 军事评论,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/index.m3u8
 军旅剧场,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225676/index.m3u8
 农业致富,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225683/index.m3u8
-动作电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8
+NewTV动作电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8
 家庭剧场,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225677/index.m3u8
 怡伴健康,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225673/index.m3u8
 惊悚悬疑,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8
@@ -331,8 +338,6 @@ BesTV,http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/000000010000000600000000000003
 财富天下,http://[2409:8087:5e01:34::38]:6610/ZTE_CMS/00000001000000060000000000000163/index.m3u8?
 书画频道,http://211.103.180.178:8234/live_hls/hdmi.m3u8
 熊猫频道,https://gcwbndks.v.kcdnvip.com/gcwbnd/xiongmao01_2/index.m3u8
-生活资讯,http://[2409:8087:2001:20:2800:0:df6e:eb12]/ott.mobaibox.com/PLTV/3/224/3221228039/index.m3u8
-百姓生活,http://[2409:8087:2001:20:2800:0:df6e:eb24]/ott.mobaibox.com/PLTV/4/224/3221228466/index.m3u8
 
 国际,#genre#
 CGTN,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001024/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
