@@ -60,11 +60,11 @@
     {"key":"电影港","name":"电影港","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/电影港磁力.json"},
     {"key":"臭蛋蛋","name":"臭蛋蛋","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/臭蛋蛋.json"},
 
-    {"key":"量子","name":"量子","type":1,"api":"https://cj.lziapi.com/api.php/provide/vod/","searchable":1,"categories":["电影片","连续剧","综艺片","动漫片","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","香港剧","韩国剧","欧美剧","记录片","台湾剧","日本剧","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫"]},
-    {"key":"非凡","name":"非凡","type":1,"api":"http://cj.ffzyapi.com/api.php/provide/vod/","searchable":1,"categories":["电影片","连续剧","综艺片","动漫片","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","香港剧","韩国剧","欧美剧","记录片","台湾剧","日本剧","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫"]},    
-    {"key":"暴风","name":"暴风","type":0,"api":"https://bfzyapi.com/api.php/provide/vod/at/xml/","searchable":1,"categories":["电影片","连续剧","综艺片","动漫片","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","香港剧","韩国剧","欧美剧","记录片","台湾剧","日本剧","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫"]},
-    {"key":"索尼","name":"索尼","type":0,"api":"https://suoniapi.com/api.php/provide/vod/at/xml/","searchable":1,"changeable":1,"categories":["电影","电视剧","综艺","动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","香港剧","韩国剧","欧美剧","记录片","台湾剧","日本剧","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫","影视解说"]},
-    {"key":"快帆","name":"快帆","type":0,"api":"https://api.kuaifan.tv/api.php/provide/vod/at/xml/","searchable":1,"changeable":1,"categories":["电影","连续剧","综艺","动漫","解说专区"]},
+    {"key":"量子","name":"量子","type":1,"api":"https://cj.lziapi.com/api.php/provide/vod/","searchable":1,"categories":["动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","香港剧","韩国剧","欧美剧","记录片","台湾剧","日本剧","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫"]},
+    {"key":"非凡","name":"非凡","type":1,"api":"http://cj.ffzyapi.com/api.php/provide/vod/","searchable":1,"categories":["动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","香港剧","韩国剧","欧美剧","记录片","台湾剧","日本剧","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫"]},    
+    {"key":"暴风","name":"暴风","type":0,"api":"https://bfzyapi.com/api.php/provide/vod/at/xml/","searchable":1,"categories":["动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","香港剧","韩国剧","欧美剧","记录片","台湾剧","日本剧","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫"]},
+    {"key":"索尼","name":"索尼","type":0,"api":"https://suoniapi.com/api.php/provide/vod/at/xml/","searchable":1,"changeable":1,"categories":["动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","欧美剧","港剧","台剧","韩剧","日剧","泰剧","纪录片","海外剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫","影视解说"]},
+    {"key":"快帆","name":"快帆","type":0,"api":"https://api.kuaifan.tv/api.php/provide/vod/at/xml/","searchable":1,"changeable":1,"categories":["国产剧","香港剧","韩国剧","欧美剧","台湾剧","日本剧","海外剧","电影解说","剧集解说"]},
 
     {"key":"csp_AList","name":"AList","type":3,"api":"csp_AList","searchable":1,"quickSearch":0,"filterable":1,"changeable":0,"ext":"https://raw.fgit.cf/bluefriendCN/bin/main/sub/Alist.json"},
     {"key":"push_agent","name":"推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"filterable":0,"changeable":0,"ext": "http://127.0.0.1:9978/tvbox/token.txt+4k|auto|fhd"}
@@ -93,7 +93,7 @@
     {"name":"解析17","type":0,"url":"https://bfzyplayer.com/player/?url="},
     {"name":"解析18","type":0,"url":"https://www.nxflv.com/?url="},
     {"name":"解析19","type":0,"url":"https://www.yemu.xyz/?url="},
-    {"name":"解析20","type":0,"url":"https://jsjiexi.com/play/?url=","ext": {"header":{"User-Agent":"okhttp/4.1.0"}}},
+    {"name":"解析20","type":0,"url":"https://jsjiexi.com/play/?url=","ext": {"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}},
     {"name":"解析21","type":0,"url":"https://vip.bljiex.com/?v=","ext": {"header":{"User-Agent":"okhttp/4.1.0"}}},
     {"name":"解析22","type":0,"url":"http://www.qmjx.vip/?url="},
     {"name":"解析23","type":0,"url":"https://jx.playerjy.com/?url="},    
