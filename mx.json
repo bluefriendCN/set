@@ -116,7 +116,22 @@
     {"name": "Quad9","url": "https://dns.quad9.net/dns-quer","ips": ["9.9.9.9","149.112.112.112"]}
   ],
   "rules":[
-    {"name": "海外看","hosts": ["haiwaikan"],"regex": ["8.1748","10.0099","10.3333"]},
+    {"name": "proxy","hosts": [
+      "raw.githubusercontent.com",
+      "googlevideo.com",
+      "cdn.v82u1l.com",
+      "cdn.iz8qkg.com",
+      "c.biggggg.com",
+      "c.olddddd.com",
+      "haiwaikan.com",
+      "www.histar.tv",
+      "youtube.com",
+      "uhibo.com",
+      ".*boku.*",
+      ".*nivod.*",
+      ".*ulivetv.*"
+    ]},
+    {"name": "海外看","hosts": ["haiwaikan"],"regex": ["8.1748","10.0099","10.3333","16.0599"]},
     {"name": "暴风","hosts": ["bfzy"],"regex": ["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:3,[\\s\\S]*?#EXT-X-DISCONTINUITY"]},
     {"name": "星星","hosts": ["aws.ulivetv.net"],"regex": ["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:8,[\\s\\S]*?#EXT-X-DISCONTINUITY"]},
     {"name": "量子","hosts": ["vip.lz","hd.lz","v.cdnlz"],"regex": ["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]},
