@@ -27,14 +27,14 @@ CCTV7,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/322122619
 CCTV8,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226391/index.m3u8
 CCTV9,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8
 CCTV10,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/index.m3u8
-CCTV11,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226240/index.m3u8
+CCTV11,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226714/1.m3u8?
 CCTV12,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226190/index.m3u8
 CCTV13,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8
-CCTV14,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226193/index.m3u8
+CCTV14,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226193/index.m3u8
 CCTV15,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8
 CCTV16,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8
 CCTV17,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226198/index.m3u8
-CCTV5+,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226221/index.m3u8
+CCTV5+,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8
 CCTV4欧洲,http://hms304nc1972679586.live.aikan.miguvideo.com/wh7f454c46tw1798072077_1881739463/migu/kailu/20200324/cctv4ouhd/57/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=125.65.42.193&timestamp=20230426160611&ContentId=265667313&timezone=UTC&mtv_session=a1f0d3ea23dedcfb57026533e0f9fba7&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=205e99763af1a2e155df364630a7b05a
 CCTV4美洲,http://hms344nc1972679590.live.aikan.miguvideo.com/wh7f454c46tw2087320283_-876815993/migu/kailu/20200324/cctv4meihd/57/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=125.65.42.193&timestamp=20230426161100&ContentId=265667335&timezone=UTC&mtv_session=9de016f966bff8e72afcd5fccab460fe&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=79b8d51a3105d0beb31ae1f6db95827e
 CCTV4K,http://159.75.85.63:5679/cctv4k.php#http://r.jdshipin.com/krMB5
@@ -66,10 +66,14 @@ CETV4,http://111.40.196.27:443/0000000000001000/5000000011000031126/index.m3u8?l
 凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb24]/ott.mobaibox.com/PLTV/4/224/3221228527/index.m3u8
 凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb27]/ott.mobaibox.com/PLTV/4/224/3221228524/index.m3u8
 凤凰香港,http://[2409:8087:2001:20:2800:0:df6e:eb1d]/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
+凤凰中文,http://r.jdshipin.com/cCCzW
+凤凰资讯,http://r.jdshipin.com/0Rp07
 翡翠台,http://r.jdshipin.com/qClQf#http://r.jdshipin.com/n90gt
+翡翠台,http://r.jdshipin.com/qrfbg
 明珠台,http://r.jdshipin.com/ZQ4kN
 TVB星河,http://r.jdshipin.com/Voac4#http://r.jdshipin.com/sXuuD
 澳门莲花,http://107.151.203.111:2209/dl/lotustv2021.php
+澳门莲花,https://p.ggiptv.com/v/macaulotustv.php
 大爱,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 大爱2,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 
@@ -385,6 +389,7 @@ Nostalgia,http://51.210.199.20/hls/stream.m3u8
 韩KCTV_HV2,http://119.77.96.184:1935/chn05/chn05/chunklist_w1306745753.m3u8
 
 UHD,#genre#
+CCTV4K,https://live.goodiptv.club/api/cqyx.php?id=CCTV4K
 CCTV16,http://[2409:8087:1e04:21::102]:6060/cms001/ch00000090990000001258/1.m3u8
 CCTV16,http://106.39.160.148/live.aishang.ctlcdn.com/00000110240349_1/encoder/0/playlist.m3u8?CONTENTID=00000110240349_1
 欢笑剧场4K,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226582/index.m3u8
