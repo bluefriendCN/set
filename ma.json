@@ -1,6 +1,6 @@
 //以下全部来自网络，如有冒犯请联系删除。[所有内容仅供学习使用，请勿用于违法用途]
 {
-  "spider": "https://ghproxy.com/raw.githubusercontent.com/bluefriendCN/bin/main/custom_spider.jar;md5;f5c681312ac1e3ccac064a72d92544e2",
+  "spider": "https://ghproxy.com/raw.githubusercontent.com/bluefriendCN/bin/main/custom_spider.jar;md5;badfd75846df45e8cf06b53654312ccf",
   "wallpaper": "https://epg.112114.xyz/bingimg",
   "lives": [
     {
@@ -41,6 +41,17 @@
       "name": "18AV",
       "type": 3,
       "api": "csp_Eighteen",
+      "searchable": 1,
+      "style": {
+        "type": "rect",
+        "ratio": 1.485
+      }
+    },
+    {
+      "key": "18A貓",
+      "name": "18A貓",
+      "type": 3,
+      "api": "https://fongmi.cachefly.net/FongMi/CatVodOpen/main/open/18a_open.js",
       "searchable": 1,
       "style": {
         "type": "rect",
