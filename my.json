@@ -145,6 +145,7 @@
     {"name": "非凡","hosts": ["vip.ffzy","hd.ffzy"],"regex": ["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]},
     {"name": "火山嗅探","hosts": ["huoshan.com"],"regex": ["item_id="]},
     {"name": "抖音嗅探","hosts": ["douyin.com"],"regex": ["is_play_url="]},
+    {"name": "農民嗅探","hosts": ["toutiaovod.com"],"regex": ["video/tos/cn"]},
     {"host":"api.live.bilibili.com","rule":["bilivideo.com","/index.m3u8"],"filter":["data.bilibili.com/log/web","i0.hdslb.com/bfs/live/"]}
   ],
   "ijk":[
