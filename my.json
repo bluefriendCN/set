@@ -1,6 +1,6 @@
 //以下内容均来源于互联网，只为自用和学习，如有冒犯，请联系删除。
 {
-  "spider": "https://ghproxy.com/raw.githubusercontent.com/bluefriendCN/bin/main/Yoursmile.jar;md5;C21BD45F0616FE65123D4C67C97C7380",
+  "spider": "https://ghproxy.com/raw.githubusercontent.com/bluefriendCN/bin/main/Yoursmile.jar;md5;1B57B3716B1903D431727421A72DA096",
   "wallpaper": "https://epg.112114.xyz/bingimg",
   "flags": ["qq","腾讯","企鹅","iQiYi","qiyi","爱奇艺","奇艺","youku","YouKu","优酷","sohu","SoHu","搜狐","letv","LeShi","乐视","imgo","mgtv","MangGuo","芒果","SLYS4k","BYGA","luanzi","AliS","dxzy","bilibili","QEYSS","xigua","西瓜视频","腾讯视频","奇艺视频","优酷视频","芒果视频","乐视视频"],
   "lives": [
@@ -29,7 +29,7 @@
     {"key":"csp_Bili","name":"Bili哔哩","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"changeable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/Bili.json"},
     {"key":"虎牙","name":"虎牙","type":3,"api":"csp_XYQHiker","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/虎牙.json"},
     {"key":"斗鱼","name":"斗鱼","type":3,"api":"csp_XYQHiker","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/斗鱼.json"},
-
+    
     {"key":"csp_77","name":"酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"米库","name":"米库","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.miniku.cc/xgapp.php/v2/"},
     {"key":"爱迪","name":"爱迪","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://api123.adys.app/xgapp.php/v2/"},
