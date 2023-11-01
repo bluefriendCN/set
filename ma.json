@@ -1,6 +1,6 @@
 //以下全部来自网络，如有冒犯请联系删除。[所有内容仅供学习使用，请勿用于违法用途]
 {
-  "spider": "https://ghproxy.com/raw.githubusercontent.com/bluefriendCN/bin/main/custom_spider.jar;md5;d0ae5fa6fb705a6c020f930a73f44714",
+  "spider": "https://ghproxy.com/raw.githubusercontent.com/bluefriendCN/bin/main/custom_spider.jar;md5;8aa91b90065d8517ba322655bdd2127b",
   "wallpaper": "https://epg.112114.xyz/bingimg",
   "lives": [
     {
@@ -24,7 +24,15 @@
     {"key":"量子","name":"量子","type":1,"api":"https://cj.lziapi.com/api.php/provide/vod/","searchable": 1,"changeable": 1,"categories": ["伦理片"]},
     {"key":"非凡","name":"非凡","type":1,"api":"http://cj.ffzyapi.com/api.php/provide/vod/","searchable": 1,"changeable": 1,"categories": ["伦理片"]},
     {"key":"暴风","name":"暴风","type":0,"api":"https://bfzyapi.com/api.php/provide/vod/at/xml/","searchable": 1,"changeable": 1,"categories": ["理论片"]},
-    {"key":"索尼","name":"索尼","type":0,"api":"https://suoniapi.com/api.php/provide/vod/at/xml/","searchable":1,"changeable":1,"categories":["伦理片"]},
+    {"key":"索尼","name":"索尼","type":0,"api":"https://suoniapi.com/api.php/provide/vod/at/xml/","searchable":1,"changeable":1,"categories":["伦理","港台三级","韩国伦理","西方伦理","日本伦理","两性课堂","写真热舞"]},
+    {
+      "key": "泥巴",
+      "name": "泥巴",
+      "type": 3,
+      "api": "csp_NiNi",
+      "searchable": 1,
+      "ext": "1"
+    },
     {
       "key": "玩偶",
       "name": "玩偶",
