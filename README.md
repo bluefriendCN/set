@@ -1,3 +1,9 @@
+# Github镜像站
+
+<https://hub.fgit.cf>
+
+<https://githubfast.com>
+
 # Github加速服务
 
 <https://raw.gitmirror.com/bluefriendCN/set/main/my.json>
@@ -12,7 +18,7 @@
 
 <https://gh.cyao.tk/raw.githubusercontent.com/mengzehe/TVBox/main/自用源>
 
-<https://ghcy.eu.org/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json>
+<https://ghcy.eu.org/https://usercontent.githubfast.com/raw/FongMi/CatVodSpider/main/json/config.json>
 
 # EGP源
 
