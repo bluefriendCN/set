@@ -1,6 +1,6 @@
 //以下全部来自网络，如有冒犯请联系删除。[所有内容仅供学习使用，请勿用于违法用途]
 {
-  "spider": "https://raw.fgit.cf/bluefriendCN/bin/main/custom_spider.jar;md5;18d6103e01c3865caeb7a23e627adb3c",
+  "spider": "https://raw.fgit.cf/bluefriendCN/bin/main/custom_spider.jar;md5;a71b8fa729618f6a1f11fb1b96b5278f",
   "wallpaper": "https://epg.112114.xyz/bingimg",
   "lives": [
     {
@@ -61,7 +61,7 @@
       "key": "18A貓",
       "name": "18A貓",
       "type": 3,
-      "api": "https://gh-proxy.com/https://usercontent.githubfast.com/raw/FongMi/CatVodOpen/main/open/18a_open.js",
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodOpen/main/open/18a_open.js",
       "searchable": 1,
       "recordable": 0,
       "style": {
