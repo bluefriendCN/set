@@ -29,7 +29,7 @@
     {"key":"斗鱼","name":"斗鱼","type":3,"api":"csp_XYQHiker","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/斗鱼.json"},
     {"key":"csp_WoGG","name":"玩偶哥哥","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"http://127.0.0.1:9978/tvbox/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/"},
 
-    {"key":"csp_Czsapp","name":"厂长","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.czzy88.com/"},
+    {"key":"csp_Czsapp","name":"厂长","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.czzy33.com/"},
     {"key":"csp_Kunyu77","name":"酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_YQKan","name":"一起看","type":3,"api":"csp_YQKan","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_NanGua","name":"南瓜","type":3,"api":"csp_NanGua","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
@@ -44,6 +44,8 @@
     {"key":"csp_Auete","name":"奥特","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://haozhansou.com/"},
     {"key":"csp_MYYS","name":"蚂蚁","type":3,"api":"csp_MYYS","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://rzys.xyz"},
     {"key":"csp_MLYS","name":"毛驴","type":3,"api":"csp_MLYS","searchable":1,"quickSearch":1,"filterable":0,"changeable":1,"ext":"https://www.maolvys.com/"},
+    {"key":"爱迪","name":"爱迪","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://api123.adys.app/xgapp.php/v3/"},
+    {"key":"迷你库","name":"迷你库","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.miniku.cc/xgapp.php/v1/"},
     {"key":"csp_Xinsj","name":"新视觉","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.hdmyy.com/"},
     {"key":"csp_Cokemv","name":"可乐","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_Bttwoo","name":"比特","type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"filterable":1},
@@ -59,6 +61,9 @@
     {"key":"骚火","name":"骚火","type":3,"api":"csp_XBPQ","playerType":"2","searchable":1,"quickSearch":1,"filterable":1,"ext":{"嗅探词":".m3u8#.mp4#.m3u8?#freeok.mp4","分类url":"https://shdy2.com/list/{cateId}-{catePg}.html;;r1dau0","分类":"电影$1#电视剧$2#韩剧$22#美剧$23#动漫$4","数组二次截取":"class=\"v_list\">&&</ul>","数组":"\"v_img\"&&/div>","标题":"title=\"&&\"","副标题":"v_note\"&&</div","跳转播放链接":"<iframe*src=\"&&\"","二次跳转播放链接":"https://hkjx.hhplayer.com/api.php;post;url=+var url*\"&&\"+&t=+var t*\"&&\"+&key=+var key*\"&&\"+&act=0+&play=1","三次跳转播放链接":"\"url\"*\"&&\""}},
     {"key":"乐猪","name":"乐猪","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/乐猪.json"},
     {"key":"奇优","name":"️奇优","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/奇优.json"},
+    {"key":"云播","name":"云播","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":{"影片类型":"分类：&&主演","导演":"导演：</span>&&</p>","主演":"主演：</span>&&</p>","简介":"class=\"sketch content\">&&</span>","数组":"myui-vodlist__thumb&&</a>","标题":"title=\"&&\"","副标题":"pic-tag pic-tag-top\">&&</span>","图片":"data-original=\"&&\"","链接":"href=\"&&\"","搜索模式":"1","搜索url":"http://www.tvyb03.com/index.php/ajax/suggest?mid=1&wd={wd}&limit=500","搜索二次截取":"\"list\":[&&]","搜索数组":"{&&}","搜索标题":"\"name\":\"&&\"","搜索图片":"\"pic\":\"&&\"","搜索链接":"http://www.tvyb03.com/vod/detail/id/+\"id\":&&,+html","嗅探词":".m3u8#mp4","线路数组":"</a><h3&&/h3>","线路标题":"title\">&&<","播放数组":"<ul class=\"myui-content__list scrollbar&&</ul>","播放标题":">&&<","播放列表":"<a&&/a>","分类url":"http://www.tvyb03.com/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html;;a","分类":"电影$1#电视剧$2#综艺$3#动漫$4"}},
+    {"key":"龟龟","name":"龟龟","type":3,"api":"csp_XBPQ","playerType":"2","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":{"主页url":"https://www.jugege.cc/","副标题":"pic-text text-right\">&&</b>","搜索模式":"1","搜索url":"https://www.jugege.cc/vodsearch/{wd}-------------.html","图片":"data-original=\"&&\"","嗅探词":"huoshanvod.com#.mp4#m3u8#.m3u8#/tos/","影片类型":"<div class=\"module-info-tag\">&&立即播放","导演":"导演：&&</div>","主演":"主演：&&</div>","分类":"电影$1#连续剧$2#综艺$3#动漫$4","分类url":"https://www.jugege.cc/vodshow/{cateId}-{area}-{by}--{lang}----{catePg}---{year}.html"}},
+    {"key":"Freeok","name":"Freeok","type":3,"api":"csp_XBPQ","playerType":"1","searchable":1,"quickSearch":1,"filterable":1,"ext":{"分类url":"https://www.freeok.vip/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html","分类":"最新热榜&今日更新&FREE电影&FREE剧集&FREE动漫&FREE综艺","分类值":"hot&new&1&2&3&4","播放请求头":"User-Agent$Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36","嗅探词":"m3u8#.m3u8#.mp4#freeok.mp4#/obj/","线路数组":"data-dropdown-value=&&</div>[不包含:夸克]","线路标题":"<span>&&</small>","导演":"导演：&&</div>","主演":"主演：&&</div>","简介":"<p>&&</p>"}},
 
     {"key":"米库","name":"米库","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.miniku.cc/xgapp.php/v2/"},
     {"key":"爱迪","name":"爱迪","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://api123.adys.app/xgapp.php/v2/"},
