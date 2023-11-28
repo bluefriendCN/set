@@ -21,7 +21,7 @@
   ],
   "sites": [
     {"key":"csp_DouDou","name":"豆瓣荐片","type":3,"api":"csp_DouDou","searchable":0,"quickSearch":0,"filterable":1},
-    {"key":"T4_wogg","name":"玩偶T4","type":4,"api":"http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清&token=9dc3ed1d1fc04e17a69d196a5aaeb16e","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"style":{"type":"rect","ratio":0.75}},
+    {"key":"T4_wogg","name":"玩偶T4","type":4,"api":"http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清&token=d6a1e4f89ffa44d59971480fffbf4fb4","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"style":{"type":"rect","ratio":0.75}},
     {"key":"MV_vod","name":"明星MV","type":1,"api":"https://mv.wogg.link/mv/vod","searchable":0,"quickSearch":0,"filterable":1,"changeable":0},
     {"key":"Live2cms","name":"电视直播","type":3,"api":"https://raw.gitmirror.com/bluefriendCN/bin/main/js/live2mv.js","changeable":0,"ext":"南风$https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt"},
     {"key":"csp_JRS","name":"赛事直播","type":3,"api":"https://raw.gitmirror.com/bluefriendCN/bin/main/js/drpy.min.js","changeable":0,"ext":"https://raw.gitmirror.com/bluefriendCN/bin/main/js/JRKAN直播.js"},
@@ -73,7 +73,6 @@
     {"key":"索尼","name":"索尼","type":0,"api":"https://suoniapi.com/api.php/provide/vod/at/xml/","searchable":1,"categories":["动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","欧美剧","港剧","台剧","韩剧","日剧","泰剧","纪录片","海外剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫","影视解说"]},
     {"key":"快帆","name":"快帆","type":0,"api":"https://api.kuaifan.tv/api.php/provide/vod/at/xml/","searchable":1,"categories":["国产剧","香港剧","韩国剧","国产动漫","欧美动漫","日本动漫"]},
 
-    {"key":"商店","name":"商店","type": 3,"api": "csp_Market","searchable":0,"changeable":0,"ext": "https://fm.t4tv.hz.cz/json/market.json"},
     {"key":"AList","name":"AList","type":3,"api":"csp_AList","searchable":1,"changeable":0,"ext": "https://fm.t4tv.hz.cz/json/alist.json"},
     {"key":"WebDAV","name":"WebDAV","type":3,"api":"csp_WebDAV","searchable":1,"changeable":0,"ext": "https://fm.t4tv.hz.cz/json/webdav.json"},
     {"key":"push_agent","name":"推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"filterable":0,"changeable":0,"ext": "http://127.0.0.1:9978/tvbox/token.txt+4k|auto|fhd"}
