@@ -57,6 +57,10 @@ CHC高清电影,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch0000009099000
 移动传媒,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/649e19038fa74514ab3f00febbcd6de0/1200.m3u8
 发现之旅,http://[2409:8087:2001:20:2800:0:df6e:eb03]/ott.mobaibox.com/PLTV/3/224/3221227030/index.m3u8
 老故事,http://[2409:8087:2001:20:2800:0:df6e:eb09]/ott.mobaibox.com/PLTV/3/224/3221227043/index.m3u8
+CEC国际汉语文化,http://play.cec-tv.com.cn/channel/cec-tv1.m3u8
+CEC国际旅游,http://play.cec-tv.com.cn/channel/cec-tv2.m3u8
+CEC国际教育,http://play.cec-tv.com.cn/channel/cec-tv3.m3u8
+CEC国际健康,http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
 CETV1,http://111.40.196.27:443/0000000000001000/5000000002000002652/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000002000002652
 CETV2,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225756/index.m3u8
 CETV3,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226226/index.m3u8
@@ -160,17 +164,23 @@ ELTA3,rtmp://218.32.29.20/sat/md051
 西藏卫视,http://zgntv.icu/live/xztv.php?id=0
 
 重庆,#genre#
-重庆新闻,https://live.goodiptv.club/api/cqyx.php?id=CQTVNewsHD
-重庆影视,https://live.goodiptv.club/api/cqyx.php?id=cqyingshiHD
-重庆社会与法,https://live.goodiptv.club/api/cqyx.php?id=CQTVTrendyHD
-重庆时尚生活,https://live.goodiptv.club/api/cqyx.php?id=cqssgwHD
-重庆文体娱乐,https://live.goodiptv.club/api/cqyx.php?id=cqwtylHD
-重庆新农村,https://live.goodiptv.club/api/cqyx.php?id=cqggncHD
-重庆少儿,https://live.goodiptv.club/api/cqyx.php?id=cqseHD
-重庆科教,https://live.goodiptv.club/api/cqyx.php?id=CQTVkejiaoHD
-重庆汽摩,https://live.goodiptv.club/api/cqyx.php?id=cqcarSD
-重庆移动,https://live.goodiptv.club/api/cqyx.php?id=mryyHD
-重广融媒,https://live.goodiptv.club/api/cqyx.php?id=cqrongmei
+重庆新闻,http://live.cbncdn.cn/__cl/cg:live/__c/CQTVNewsHD/__op/default/__f/index.m3u8?sig=46843586ed54f422e5620f8f84aee564&ext_start_limit=1702814867&int_start_limit=1702814867&expires=1702814867&c=null
+重庆影视,http://live.cbncdn.cn/__cl/cg:live/__c/cqyingshiHD/__op/default/__f/index.m3u8?sig=edb3cc7271fe43122c483185296108cf&ext_start_limit=1702811247&int_start_limit=1702811247&expires=1702811247&c=null
+重庆社会与法,http://live.cbncdn.cn/__cl/cg:live/__c/CQTVTrendyHD/__op/default/__f/index.m3u8?sig=910804a37943cf96894f88c57a7e98ec&ext_start_limit=1702814772&int_start_limit=1702814772&expires=1702814772&c=null
+重庆时尚生活,http://live.cbncdn.cn/__cl/cg:live/__c/cqssgwHD/__op/default/__f/index.m3u8?sig=bc4ac18c12dc1983f75efd833a927623&ext_start_limit=1702814875&int_start_limit=1702814875&expires=1702814875&c=null
+重庆文体娱乐,http://live.cbncdn.cn/__cl/cg:live/__c/cqwtylHD/__op/default/__f/index.m3u8?sig=c5f493598ff64f93a467698c604ee11f&ext_start_limit=1702811343&int_start_limit=1702811343&expires=1702811343&c=null
+重庆新农村,http://live.cbncdn.cn/__cl/cg:live/__c/cqggncHD/__op/default/__f/index.m3u8?sig=c3c2ca749c511b22245afb0f70bb4570&ext_start_limit=1702814906&int_start_limit=1702814906&expires=1702814906&c=null
+重庆少儿,http://live.cbncdn.cn/__cl/cg:live/__c/cqseHD/__op/default/__f/index.m3u8?sig=d5a57b05eaef6240c49ebc577e45b8c1&ext_start_limit=1702809247&int_start_limit=1702809247&expires=1702809247&c=null
+重庆科教,http://live.cbncdn.cn/__cl/cg:live/__c/CQTVkejiaoHD/__op/default/__f/index.m3u8?sig=bbfe09cb31237572ac14f2afaf6bde74&ext_start_limit=1702811241&int_start_limit=1702811241&expires=1702811241&c=null
+
+重庆新闻,http://113.207.84.200/session/a35e5338-9c0e-11ee-a895-525400dfb345$h1.0$live.cbncdn.cn/pj9p9p/__cl/cg:live/__c/CQTVNewsHD/__op/default/__f/index.m3u8?token=076a7e2ab93d0450ea17eae56eed27ae_1702814867_1702814867
+重庆影视,http://113.207.84.197/session/b5588dc4-9c0e-11ee-bcbe-5254006225bb$h1.0$live.cbncdn.cn/pj9p9p/__cl/cg:live/__c/cqyingshiHD/__op/default/__f/index.m3u8?token=9404960c651bacf9d573b66e60dcaa83_1702811247_1702811247
+重庆社会与法,http://113.207.84.197/session/c94404b2-9c0e-11ee-83eb-5254006225bb$h1.0$live.cbncdn.cn/pj9p9p/__cl/cg:live/__c/CQTVTrendyHD/__op/default/__f/index.m3u8?token=c93afb571ca0269b53189fe8f432e938_1702814772_1702814772
+重庆时尚生活,http://113.207.84.196/session/f238b7d2-9c0e-11ee-9016-525400dfb345$h1.0$live.cbncdn.cn/pj9p9p/__cl/cg:live/__c/cqssgwHD/__op/default/__f/index.m3u8?token=40ffe0aa8a9f59529fe4161be6b31d6c_1702814875_1702814875
+重庆文体娱乐,http://113.207.84.197/session/024bd7a8-9c0f-11ee-a895-525400dfb345$h1.0$live.cbncdn.cn/pj9p9p/__cl/cg:live/__c/cqwtylHD/__op/default/__f/index.m3u8?token=0fc8a816195b855e6e242d0a7021db35_1702811343_1702811343
+重庆新农村,http://113.207.84.199/session/0ed9df2e-9c0f-11ee-a8a7-5254003e6f6f$h1.0$live.cbncdn.cn/pj9p9p/__cl/cg:live/__c/cqggncHD/__op/default/__f/index.m3u8?token=33c87426df15d5aa2dbb78c55a572781_1702814906_1702814906
+重庆少儿,http://113.207.84.200/session/1ba2dd5a-9c0f-11ee-a895-525400dfb345$h1.0$live.cbncdn.cn/pj9p9p/__cl/cg:live/__c/cqseHD/__op/default/__f/index.m3u8?token=0b0e0dc152a2596ce1df72915e8c9422_1702809247_1702809247
+重庆科教,http://113.207.84.199/session/2e0757b4-9c0f-11ee-ba5f-5254004d191c$h1.0$live.cbncdn.cn/pj9p9p/__cl/cg:live/__c/CQTVkejiaoHD/__op/default/__f/index.m3u8?token=9baf777a03302d34295a5030eea66ba3_1702811241_1702811241
 
 重庆新闻,https://tv.iill.top/cqyx/CQTVNewsHD
 重庆影视,https://tv.iill.top/cqyx/cqyingshiHD
@@ -186,6 +196,9 @@ ELTA3,rtmp://218.32.29.20/sat/md051
 巴南综合,https://live.cqbntv.com/bnmc/bn14.m3u8
 璧山综合,http://222.179.42.129:8181/hls1.m3u8?zzhongqd
 大足综合,http://218.201.85.71:3170/m3u8?zzhongqd
+江津综合,http://222.179.155.21:1935/ch1.m3u8?zzhongqd
+武隆综合,https://qxlmlive9.cbg.cn/applive/wltvzh/playlist.m3u8?zzhongqd
+万州综合,http://live.wanyuannews.com/wytv/hd/live.m3u8
 垫江综合,http://125.62.24.185:80/1.m3u8?zzhongqd
 
 爱看导视,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226337/index.m3u8
