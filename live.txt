@@ -173,15 +173,6 @@ ELTA3,rtmp://218.32.29.20/sat/md051
 重庆少儿,http://live.cbncdn.cn/__cl/cg:live/__c/cqseHD/__op/default/__f/index.m3u8?sig=d5a57b05eaef6240c49ebc577e45b8c1&ext_start_limit=1702809247&int_start_limit=1702809247&expires=1702809247&c=null
 重庆科教,http://live.cbncdn.cn/__cl/cg:live/__c/CQTVkejiaoHD/__op/default/__f/index.m3u8?sig=bbfe09cb31237572ac14f2afaf6bde74&ext_start_limit=1702811241&int_start_limit=1702811241&expires=1702811241&c=null
 
-重庆新闻,http://113.207.84.200/session/a35e5338-9c0e-11ee-a895-525400dfb345$h1.0$live.cbncdn.cn/pj9p9p/__cl/cg:live/__c/CQTVNewsHD/__op/default/__f/index.m3u8?token=076a7e2ab93d0450ea17eae56eed27ae_1702814867_1702814867
-重庆影视,http://113.207.84.197/session/b5588dc4-9c0e-11ee-bcbe-5254006225bb$h1.0$live.cbncdn.cn/pj9p9p/__cl/cg:live/__c/cqyingshiHD/__op/default/__f/index.m3u8?token=9404960c651bacf9d573b66e60dcaa83_1702811247_1702811247
-重庆社会与法,http://113.207.84.197/session/c94404b2-9c0e-11ee-83eb-5254006225bb$h1.0$live.cbncdn.cn/pj9p9p/__cl/cg:live/__c/CQTVTrendyHD/__op/default/__f/index.m3u8?token=c93afb571ca0269b53189fe8f432e938_1702814772_1702814772
-重庆时尚生活,http://113.207.84.196/session/f238b7d2-9c0e-11ee-9016-525400dfb345$h1.0$live.cbncdn.cn/pj9p9p/__cl/cg:live/__c/cqssgwHD/__op/default/__f/index.m3u8?token=40ffe0aa8a9f59529fe4161be6b31d6c_1702814875_1702814875
-重庆文体娱乐,http://113.207.84.197/session/024bd7a8-9c0f-11ee-a895-525400dfb345$h1.0$live.cbncdn.cn/pj9p9p/__cl/cg:live/__c/cqwtylHD/__op/default/__f/index.m3u8?token=0fc8a816195b855e6e242d0a7021db35_1702811343_1702811343
-重庆新农村,http://113.207.84.199/session/0ed9df2e-9c0f-11ee-a8a7-5254003e6f6f$h1.0$live.cbncdn.cn/pj9p9p/__cl/cg:live/__c/cqggncHD/__op/default/__f/index.m3u8?token=33c87426df15d5aa2dbb78c55a572781_1702814906_1702814906
-重庆少儿,http://113.207.84.200/session/1ba2dd5a-9c0f-11ee-a895-525400dfb345$h1.0$live.cbncdn.cn/pj9p9p/__cl/cg:live/__c/cqseHD/__op/default/__f/index.m3u8?token=0b0e0dc152a2596ce1df72915e8c9422_1702809247_1702809247
-重庆科教,http://113.207.84.199/session/2e0757b4-9c0f-11ee-ba5f-5254004d191c$h1.0$live.cbncdn.cn/pj9p9p/__cl/cg:live/__c/CQTVkejiaoHD/__op/default/__f/index.m3u8?token=9baf777a03302d34295a5030eea66ba3_1702811241_1702811241
-
 重庆新闻,https://tv.iill.top/cqyx/CQTVNewsHD
 重庆影视,https://tv.iill.top/cqyx/cqyingshiHD
 重庆社会与法,https://tv.iill.top/cqyx/CQTVTrendyHD
