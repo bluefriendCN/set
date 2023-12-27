@@ -57,21 +57,20 @@ CHC高清电影,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch0000009099000
 移动传媒,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/649e19038fa74514ab3f00febbcd6de0/1200.m3u8
 发现之旅,http://[2409:8087:2001:20:2800:0:df6e:eb03]/ott.mobaibox.com/PLTV/3/224/3221227030/index.m3u8
 老故事,http://[2409:8087:2001:20:2800:0:df6e:eb09]/ott.mobaibox.com/PLTV/3/224/3221227043/index.m3u8
-CETV1,http://111.40.196.27:443/0000000000001000/5000000002000002652/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000002000002652
+CETV1,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001020/index.m3u8
 CETV2,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225756/index.m3u8
 CETV3,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226226/index.m3u8
-CETV4,http://111.40.196.27:443/0000000000001000/5000000011000031126/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000011000031126
+CETV4,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001348/index.m3u8
 
 港澳台,#genre#
 凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb24]/ott.mobaibox.com/PLTV/4/224/3221228527/index.m3u8
 凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb27]/ott.mobaibox.com/PLTV/4/224/3221228524/index.m3u8
 凤凰香港,http://[2409:8087:2001:20:2800:0:df6e:eb1d]/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
-凤凰中文,http://r.jdshipin.com/cCCzW
-凤凰资讯,http://r.jdshipin.com/0Rp07
 翡翠台,http://r.jdshipin.com/qClQf#http://r.jdshipin.com/n90gt
 翡翠台,http://r.jdshipin.com/qrfbg
 明珠台,http://r.jdshipin.com/ZQ4kN
 TVB星河,http://r.jdshipin.com/Voac4#http://r.jdshipin.com/sXuuD
+J2,http://r.jdshipin.com/ndGgS
 澳门莲花,http://107.151.203.111:2209/dl/lotustv2021.php
 澳门莲花,https://p.ggiptv.com/v/macaulotustv.php
 大爱,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
@@ -160,15 +159,6 @@ ELTA3,rtmp://218.32.29.20/sat/md051
 西藏卫视,http://zgntv.icu/live/xztv.php?id=0
 
 重庆,#genre#
-重庆新闻,http://live.cbncdn.cn/__cl/cg:live/__c/CQTVNewsHD/__op/default/__f/index.m3u8?sig=46843586ed54f422e5620f8f84aee564&ext_start_limit=1702814867&int_start_limit=1702814867&expires=1702814867&c=null
-重庆影视,http://live.cbncdn.cn/__cl/cg:live/__c/cqyingshiHD/__op/default/__f/index.m3u8?sig=edb3cc7271fe43122c483185296108cf&ext_start_limit=1702811247&int_start_limit=1702811247&expires=1702811247&c=null
-重庆社会与法,http://live.cbncdn.cn/__cl/cg:live/__c/CQTVTrendyHD/__op/default/__f/index.m3u8?sig=910804a37943cf96894f88c57a7e98ec&ext_start_limit=1702814772&int_start_limit=1702814772&expires=1702814772&c=null
-重庆时尚生活,http://live.cbncdn.cn/__cl/cg:live/__c/cqssgwHD/__op/default/__f/index.m3u8?sig=bc4ac18c12dc1983f75efd833a927623&ext_start_limit=1702814875&int_start_limit=1702814875&expires=1702814875&c=null
-重庆文体娱乐,http://live.cbncdn.cn/__cl/cg:live/__c/cqwtylHD/__op/default/__f/index.m3u8?sig=c5f493598ff64f93a467698c604ee11f&ext_start_limit=1702811343&int_start_limit=1702811343&expires=1702811343&c=null
-重庆新农村,http://live.cbncdn.cn/__cl/cg:live/__c/cqggncHD/__op/default/__f/index.m3u8?sig=c3c2ca749c511b22245afb0f70bb4570&ext_start_limit=1702814906&int_start_limit=1702814906&expires=1702814906&c=null
-重庆少儿,http://live.cbncdn.cn/__cl/cg:live/__c/cqseHD/__op/default/__f/index.m3u8?sig=d5a57b05eaef6240c49ebc577e45b8c1&ext_start_limit=1702809247&int_start_limit=1702809247&expires=1702809247&c=null
-重庆科教,http://live.cbncdn.cn/__cl/cg:live/__c/CQTVkejiaoHD/__op/default/__f/index.m3u8?sig=bbfe09cb31237572ac14f2afaf6bde74&ext_start_limit=1702811241&int_start_limit=1702811241&expires=1702811241&c=null
-
 重庆新闻,https://tv.iill.top/cqyx/CQTVNewsHD
 重庆影视,https://tv.iill.top/cqyx/cqyingshiHD
 重庆社会与法,https://tv.iill.top/cqyx/CQTVTrendyHD
@@ -196,6 +186,7 @@ CCTV16,http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaibox.com/PLTV/3/224/3
 CCTV16,http://106.39.160.148/live.aishang.ctlcdn.com/00000110240389_1/encoder/0/playlist.m3u8?CONTENTID=00000110240389_1
 CCTV5,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001187/index.m3u8
 CCTV5+,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001008/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+体育休闲,http://iptv.8t.cx:8180/udp/239.3.1.243:8000
 五星体育,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001018/index.m3u8
 广东体育,http://r.jdshipin.com/LiYdg
 咪咕综合,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225897/index.m3u8
