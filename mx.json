@@ -1,6 +1,6 @@
 //以下内容均来源于互联网，只为自用和学习，如有冒犯，请联系删除。
 {
-  "spider": "https://raw.fgit.cf/bluefriendCN/bin/main/Yoursmile.jar;md5;A0C72C940A5E8E19E425F437D48942F2",
+  "spider": "https://raw.fgit.cf/bluefriendCN/bin/main/custom_spider.jar;md5;ca7cf8ac2302fa00985a57e4e58124ab",
   "wallpaper": "https://epg.112114.xyz/bingimg",
   "flags": ["qq","腾讯","企鹅","iQiYi","qiyi","爱奇艺","奇艺","youku","YouKu","优酷","sohu","SoHu","搜狐","letv","LeShi","乐视","imgo","mgtv","MangGuo","芒果","SLYS4k","BYGA","luanzi","AliS","dxzy","bilibili","QEYSS","xigua","西瓜视频","腾讯视频","奇艺视频","优酷视频","芒果视频","乐视视频"],
   "lives": [
@@ -12,14 +12,15 @@
       "logo":"https://epg.112114.xyz/logo/{name}.png"
     },
     {
-      "name":"YanG-1989",
+      "name":"Global",
       "type":0,
-      "url":"https://raw.fgit.cf/YanG-1989/m3u/main/Adult.m3u"
+      "url":"https://agit.ai/fantaiying/0/raw/branch/main/tvlive.txt",
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+      "logo":"https://epg.112114.xyz/logo/{name}.png"
     }
   ],
   "sites": [
-    {"key":"csp_DouDou","name":"豆瓣荐片","type":3,"api":"csp_DouDou","searchable":0,"quickSearch":0,"filterable":1},
-    {"key":"T4_wogg","name":"玩偶T4","type":4,"api":"http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清&token=d6a1e4f89ffa44d59971480fffbf4fb4","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"style":{"type":"rect","ratio":0.75}},
+    {"key":"csp_Douban","name":"豆瓣荐片","type":3,"api":"csp_Douban","searchable":0,"quickSearch":0,"filterable":1,"ext": "https://fm.t4tv.hz.cz/json/douban.json"},
     {"key":"MV_vod","name":"明星MV","type":1,"api":"https://mv.wogg.link/mv/vod","searchable":0,"quickSearch":0,"filterable":1,"changeable":0},
     {"key":"Live2cms","name":"电视直播","type":3,"api":"https://raw.gitmirror.com/bluefriendCN/bin/main/js/live2mv.js","changeable":0,"ext":"南风$https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt"},
     {"key":"csp_JRS","name":"赛事直播","type":3,"api":"https://raw.gitmirror.com/bluefriendCN/bin/main/js/drpy.min.js","changeable":0,"ext":"https://raw.gitmirror.com/bluefriendCN/bin/main/js/JRKAN直播.js"},
