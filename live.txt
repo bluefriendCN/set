@@ -64,8 +64,11 @@ CETV4,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001348/index.m3u
 
 港澳台,#genre#
 凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb24]/ott.mobaibox.com/PLTV/4/224/3221228527/index.m3u8
+凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
 凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb27]/ott.mobaibox.com/PLTV/4/224/3221228524/index.m3u8
+凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
 凤凰香港,http://[2409:8087:2001:20:2800:0:df6e:eb1d]/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
+凤凰香港,http://[2409:8087:2001:20:2800:0:df6e:eb23]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
 翡翠台,http://r.jdshipin.com/qClQf#http://r.jdshipin.com/n90gt
 翡翠台,http://r.jdshipin.com/qrfbg
 明珠台,http://r.jdshipin.com/ZQ4kN
@@ -160,6 +163,19 @@ ELTA3,rtmp://218.32.29.20/sat/md051
 西藏卫视,http://zgntv.icu/live/xztv.php?id=0
 
 重庆,#genre#
+
+重庆新闻,https://live.imxd.top/live.php?id=CQTVNewsHD
+重庆影视,https://live.imxd.top/live.php?id=cqyingshiHD
+重庆社会与法,https://live.imxd.top/live.php?id=CQTVTrendyHD
+重庆时尚生活,https://live.imxd.top/live.php?id=cqssgwHD
+重庆文体娱乐,https://live.imxd.top/live.php?id=cqwtylHD
+重庆新农村,https://live.imxd.top/live.php?id=cqggncHD
+重庆少儿,https://live.imxd.top/live.php?id=cqseHD
+重庆科教,https://live.imxd.top/live.php?id=CQTVkejiaoHD
+重庆汽摩,https://live.imxd.top/live.php?id=cqcarSD
+重庆移动,https://live.imxd.top/live.php?id=mryyHD
+重广融媒,https://live.imxd.top/live.php?id=cqrongmei
+
 重庆新闻,https://tv.iill.top/cqyx/CQTVNewsHD
 重庆影视,https://tv.iill.top/cqyx/cqyingshiHD
 重庆社会与法,https://tv.iill.top/cqyx/CQTVTrendyHD
@@ -198,6 +214,26 @@ CCTV5+,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001008/i
 咪咕音乐1,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225904/index.m3u8
 咪咕音乐2,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225906/index.m3u8
 
+百视,#genre#
+百视TV1,https://bp-caster.bestv.com.cn/943/3/video.m3u8
+百视TV2,https://bp-caster.bestv.com.cn/926/3/video.m3u8
+百视TV3,https://bp-caster.bestv.com.cn/945/3/video.m3u8
+百视TV4,https://bp-caster.bestv.com.cn/900/3/video.m3u8
+百视TV5,https://bp-caster.bestv.com.cn/956/3/video.m3u8
+百视TV6,https://bp-caster.bestv.com.cn/947/3/video.m3u8
+百视TV7,https://bp-caster.bestv.com.cn/941/3/video.m3u8
+百视TV8,https://bp-caster.bestv.com.cn/953/3/video.m3u8
+百视TV9,https://bp-caster.bestv.com.cn/939/3/video.m3u8
+百视TV10,https://bp-caster.bestv.com.cn/938/3/video.m3u8
+百视TV11,https://bp-caster.bestv.com.cn/937/3/video.m3u8
+百视TV12,https://bp-caster.bestv.com.cn/954/3/video.m3u8
+百视TV14,https://bp-caster.bestv.com.cn/934/3/video.m3u8
+百视独播1,https://bp-caster.bestv.com.cn/946/3/video.m3u8
+百视独播2,https://bp-caster.bestv.com.cn/955/3/video.m3u8
+百视独播3,https://bp-caster.bestv.com.cn/940/3/video.m3u8
+百视独播4,https://bp-caster.bestv.com.cn/944/3/video.m3u8
+百视自制,https://bp-caster.bestv.com.cn/723/3/video.m3u8
+独家直播,https://bp-caster.bestv.com.cn/936/3/video.m3u8
 BesTV-1,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001148/index.m3u8?
 BesTV-2,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001149/index.m3u8?
 BesTV-3,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001150/index.m3u8?
