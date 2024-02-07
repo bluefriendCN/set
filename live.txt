@@ -311,33 +311,27 @@ CGTN俄语,https://liveru.cgtn.com/1000r/prog_index.m3u8
 CGTN法语,https://livefr.cgtn.com/1000f/prog_index.m3u8
 CGTN西语,https://livees.cgtn.com/1000e/prog_index.m3u8
 CGTN阿语,https://livear.cgtn.com/1000a/prog_index.m3u8
-CNC英文,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225693/2/index.m3u8
+CNC英文,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225694/index.m3u8
 CNC中文,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225694/2/index.m3u8
-ALJAZEERA,http://live-hls-web-aja.getaj.net/AJA/index.m3u8#http://live-hls-web-aja.getaj.net/AJA/01.m3u8#http://live-hls-web-aja.getaj.net/AJA/02.m3u8
+AIjazeera,http://live-hls-web-aja.getaj.net/AJA/index.m3u8#http://live-hls-web-aja.getaj.net/AJA/01.m3u8#http://live-hls-web-aja.getaj.net/AJA/02.m3u8
 亚洲新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 金砖中文,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
 金砖英文,http://brics.bonus-tv.ru/cdn/brics/english/tracks-v1a1/index.m3u8
-美国中文,https://jpts.sinovision.net/livestream.m3u8
-时尚频道,https://fashiontv-fashiontv-4-de.samsung.wurl.com/manifest/playlist_1920x1080_4200k.m3u8
 FashionTV,http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
 FashionTV,http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8
-FashionTV,http://lb.streaming.sk/fashiontv/stream/chunklist_w1402273512.m3u8
-FashionTV,http://80.94.54.42/fashiontv/stream/playlist.m3u8
 HBO,http://208.115.225.174:14136
 HBO Mundi,http://208.115.225.174:14148
-HBO signature,http://208.115.225.174:14160
+HBO Signature,http://208.115.225.174:14160
+HBO Family,http://208.115.225.174:14144
+HBO Xtreme,http://208.115.225.174:14165
+HBO Pop,http://208.115.225.174:14156
 HBO2,http://208.115.225.174:14140
-HBO,http://41.205.93.154/HBO/index.m3u8
-HBO2,http://185.188.188.235/live/hbo2/playlist.m3u8
-HBO Family,http://198.16.100.90:8278/fyi_twn/playlist.m3u8?tid=m99b80124e3b4&ct=18337&tsum=73f6f540497de9a5615b9bd55bec8853
-CINEMAX,http://94.156.33.91/Cinemax/mono.m3u8
-AXN,http://flv.mp4cdn.live/gt-key=00569874.php?id=102
-NHK World,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
-CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-AlJazeera,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
-Arirang TV,https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
-RT News,https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
-RT Documentary,https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
+HBO+,http://208.115.225.174:14152
+HBO4,http://208.115.225.174:14136
+WB,http://208.115.225.174:14132
+CINEMAX,http://50.7.238.114:8278/cinemax_twn/playlist.m3u8?tid=MCEC1614519816145198&ct=19193&tsum=e635ddeeb683b5cbcda1319d0cc18f84
+AXN,http://198.16.100.90:8278/axn_twn/playlist.m3u8?tid=MA1A8358225083582250&ct=19193&tsum=105511aaad1c3ff86d7489e83e18b209
+NHK World,http://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
 
 UHD,#genre#
 CCTV3,http://[2409:8087:2001:20:2800:0:df6e:eb20]/ott.mobaibox.com/PLTV/4/224/3221228499/index.m3u8
@@ -347,7 +341,7 @@ CCTV8K,http://[2409:8087:2001:20:2800:0:df6e:eb02]/ott.mobaibox.com/PLTV/3/224/3
 欢笑剧场4K,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002156/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 纯享4K,http://[2409:8087:2001:20:2800:0:df6e:eb11]/ott.mobaibox.com/PLTV/3/224/3221228242/index.m3u8
 纯享4K,http://[2409:8087:2001:20:2800:0:df6e:eb12]/ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8
-4K超高清电影,http://49.235.110.121:9090/daili/小果.php?id=emdy4k_8000&Cf.m3u8
+4K超高清电影,
 爱上4K,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
 修复4K,http://[2409:8087:2001:20:2800:0:df6e:eb14]/ott.mobaibox.com/PLTV/3/224/3221228141/index.m3u8
 斗鱼4K,http://mmitv.top/test/douyu.php?id=9249162
