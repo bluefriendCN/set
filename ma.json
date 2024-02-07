@@ -5,7 +5,7 @@
   "lives": [
     {
       "name":"YanG-1989",
-      "url": "https://gh.cyao.tk/raw.githubusercontent.com/YanG-1989/m3u/main/Adult.m3u",
+      "url": "https://ghproxy.net/raw.githubusercontent.com/YanG-1989/m3u/main/Adult.m3u",
       "type": 0
     },
     {
@@ -15,7 +15,7 @@
     },
     {
       "name":"18m3u",
-      "url": "https://gh.cyao.tk/raw.githubusercontent.com/mengzehe/TVBox/main/18/18live-1.m3u",
+      "url": "https://ghproxy.net/raw.githubusercontent.com/mengzehe/TVBox/main/18/18live-1.m3u",
       "type": 0
     }
   ],
