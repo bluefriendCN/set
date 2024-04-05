@@ -15,7 +15,7 @@
       "name":"Global",
       "type":0,
       "url":"https://agit.ai/fantaiying/0/raw/branch/main/tvlive.txt",
-      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+      "epg": "https://epg.erw.cc/api/diyp/?ch={name}&date={date}",
       "logo":"https://epg.112114.xyz/logo/{name}.png"
     }
   ],
