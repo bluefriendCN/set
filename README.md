@@ -8,7 +8,7 @@
 
 <https://raw.gitmirror.com/bluefriendCN/set/main/my.json>
 
-<https://raw.gitmirror.com/bluefriendCN/set/main/live.txt>
+<https://mirror.ghproxy.com/raw.githubusercontent.com/bluefriendCN/set/main/live.txt>
 
 <https://raw.fgit.cf/bluefriendCN/set/main/live.m3u>
 
@@ -21,6 +21,7 @@
 <https://ghcy.eu.org/https://usercontent.githubfast.com/raw/FongMi/CatVodSpider/main/json/config.json>
 
 # EGP源
+<https://epg.erw.cc/>
 
 <http://epg.51zmt.top:8000/e.xml>
 
