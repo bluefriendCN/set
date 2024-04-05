@@ -1,13 +1,13 @@
 //以下内容均来源于互联网，只为自用和学习，如有冒犯，请联系删除。
 {
-  "spider": "https://ghproxy.net/raw.githubusercontent.com/bluefriendCN/bin/main/Yoursmile.jar;md5;6B6A8129F2B7C49A67167575FF1933BE",
+  "spider": "https://github.moeyy.xyz/raw.githubusercontent.com/bluefriendCN/bin/main/Yoursmile.jar;md5;6B6A8129F2B7C49A67167575FF1933BE",
   "wallpaper": "https://epg.112114.xyz/bingimg",
   "flags": ["qq","腾讯","企鹅","iQiYi","qiyi","爱奇艺","奇艺","youku","YouKu","优酷","sohu","SoHu","搜狐","letv","LeShi","乐视","imgo","mgtv","MangGuo","芒果","SLYS4k","BYGA","luanzi","AliS","dxzy","bilibili","QEYSS","xigua","西瓜视频","腾讯视频","奇艺视频","优酷视频","芒果视频","乐视视频"],
   "lives": [
     {
       "name":"Live",
       "type":0,
-      "url": "https://ghproxy.net/raw.githubusercontent.com/bluefriendCN/set/main/live.txt",
+      "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/bluefriendCN/set/main/live.txt",
       "epg": "https://epg.erw.cc/api/diyp/?ch={name}&date={date}",
       "logo":"https://epg.112114.xyz/logo/{name}.png"
     },
