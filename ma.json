@@ -1,21 +1,21 @@
 //以下全部来自网络，如有冒犯请联系删除。[所有内容仅供学习使用，请勿用于违法用途]
 {
-  "spider": "https://github.moeyy.xyz/raw.githubusercontent.com/bluefriendCN/bin/main/custom_spider.jar;md5;eb9ef1e338ee3b01ef1c1c388841d7bb",
+  "spider": "https://mirror.ghproxy.com/raw.githubusercontent.com/bluefriendCN/bin/main/custom_spider.jar;md5;eb9ef1e338ee3b01ef1c1c388841d7bb",
   "wallpaper": "https://epg.112114.xyz/bingimg",
   "lives": [
     {
       "name":"YanG-1989",
-      "url": "https://github.moeyy.xyz/raw.githubusercontent.com/YanG-1989/m3u/main/Adult.m3u",
+      "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/YanG-1989/m3u/main/Adult.m3u",
       "type": 0
     },
     {
       "name":"18live",
-      "url": "https://github.moeyy.xyz/raw.githubusercontent.com/mengzehe/TVBox/main/18/18live.txt",
+      "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/mengzehe/TVBox/main/18/18live.txt",
       "type": 0
     },
     {
       "name":"18m3u",
-      "url": "https://github.moeyy.xyz/raw.githubusercontent.com/mengzehe/TVBox/main/18/18live-1.m3u",
+      "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/mengzehe/TVBox/main/18/18live-1.m3u",
       "type": 0
     }
   ],
