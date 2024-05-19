@@ -1,6 +1,6 @@
 //以下全部来自网络，如有冒犯请联系删除。[所有内容仅供学习使用，请勿用于违法用途]
 {
-  "spider": "https://mirror.ghproxy.com/raw.githubusercontent.com/bluefriendCN/bin/main/custom_spider.jar;md5;ab9462dae7ab186527c41a163641cf14",
+  "spider": "https://raw.githubusercontent.com/bluefriendCN/bin/main/custom_spider.jar;md5;883df69d6854363bcb610b44946ed374",
   "wallpaper": "https://epg.112114.xyz/bingimg",
   "lives": [
     {
@@ -15,7 +15,7 @@
     },
     {
       "name":"18live",
-      "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/mengzehe/TVBox/main/18/18live.txt",
+      "url": "https://raw.githubusercontent.com/mengzehe/TVBox/main/18/18live.txt",
       "type": 0
     }
   ],
@@ -50,18 +50,6 @@
       "name": "18AV",
       "type": 3,
       "api": "csp_Eighteen",
-      "searchable": 1,
-      "recordable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1.485
-      }
-    },
-    {
-      "key": "18A貓",
-      "name": "18A貓",
-      "type": 3,
-      "api": "https://mirror.ghproxy.com/https://usercontent.githubfast.com/raw/FongMi/CatVodOpen/main/open/18a_open.js",
       "searchable": 1,
       "recordable": 0,
       "style": {
