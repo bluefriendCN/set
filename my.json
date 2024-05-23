@@ -26,6 +26,7 @@
     {"key":"csp_WoGG","name":"玩偶哥哥","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":{"aliToken":"http://127.0.0.1:9978/tvbox/token.txt","from":"4k|auto|fhd","siteUrl":"https://www.wogg.net/","danMu":"弹"}},
     
     {"key":"csp_NewCz","name":"厂长","type":3,"api":"csp_NewCz","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://czzy.top/"},
+    {"key":"csp_Nmys","name":"农民","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://152.32.170.60/Yoursmile7/TVBox/raw/branch/master/sub/nmys.json"},
     {"key":"csp_AppTT","name":"萌米","type":3,"api":"csp_AppTT","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"AO7TcBkd8Jqf5UgA7xXA6dVlLcc="},
     {"key":"csp_NanGua","name":"南瓜","type":3,"api":"csp_NanGua","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
     {"key":"csp_Kkys","name":"酷看","type":3,"api":"csp_Kkys","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
