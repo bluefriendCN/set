@@ -18,6 +18,7 @@ CCTV16,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/
 CCTV17,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 CCTV5+,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
 CCTV-4K,http://159.75.85.63:5679/cctv4k.php
+CCTV-4K,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010006/1.m3u8
 CCTV-8K,https://tv.cry33.com/ys4k.php?id=8k
 
 CHC影迷电影,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380764b172c9/index.m3u8?m3u8_level=2
@@ -100,7 +101,7 @@ TVB翡翠,http://111.230.195.119:80/香蕉哥/tvb/hls.m3u8
 西藏卫视,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000317/index.m3u8?IAS
 
 宁夏卫视,https://hls.ningxiahuangheyun.com/tv/nxws.m3u8
-山西卫视,http://live.cooltv.top/tv/tide.php?id=sxiws2
+山西卫视,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/00000001000000060000000000000318/index.m3u8?IAS
 
 重庆,#genre#
 重庆新闻,https://live.imxd.top/live.php?id=CQTVNewsHD
@@ -133,7 +134,6 @@ CCTV5+,
 咪咕直播1,http://[2409:8087:1a01:df::4033]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226398/index.m3u8
 咪咕直播2,http://[2409:8087:1a01:df::4046]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8
 咪咕善跑,http://[2409:8087:1a01:df::4041]/PLTV/88888888/224/3221226053/index.m3u8
-百视通,http://[2409:8087:5e01:34::38]:6610/ZTE_CMS/00000001000000060000000000000196/index.m3u8?IAS
 
 咪咕,#genre#
 咪咕直播4K-1,http://[2409:8087:1a01:df::4001]/PLTV/88888888/224/3221225655/index.m3u8
@@ -180,11 +180,11 @@ CCTV5+,
 求索科学,http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221225728/index.m3u8
 求索生活,http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221225715/index.m3u8
 求索动物,http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221225730/index.m3u8
-
 黑莓电影,http://[2409:8087:1a0b:df::4014]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
 黑莓动画,http://[2409:8087:1a0b:df::4006]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
 哒啵赛事,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225675/index.m3u8
 哒啵电竞,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000003000000066/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000003000000066&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
+百视通,http://[2409:8087:5e01:34::38]:6610/ZTE_CMS/00000001000000060000000000000196/index.m3u8?IAS
 
 NewTV东北热剧,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8
 NewTV中国功夫,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/index.m3u8
@@ -257,6 +257,7 @@ iHOT爱动漫,http://[2409:8087:5e08:24::12]:6610/000000001000/20000000040000000
 书画频道,
 文物宝库,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638078a346161/index.m3u8?m3u8_level=2
 武术世界,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638078be5d654/index.m3u8?m3u8_level=2
+梨园频道,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380788ba7bed/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQI5%2BK6T7j%2FlRm%2BvbM9VO7bA0q1S1k1f36SqqriM0FZoFSAJRfCt8SS7X6sTRmXb81a8O4H%2FdroDKjLoDeaMQdyJQ
 熊猫频道,https://gcwbndks.v.kcdnvip.com/gcwbnd/ipanda1000_2/index.m3u8
 
 国际,#genre#
@@ -282,11 +283,11 @@ FashionTV,http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8
 HBO,http://41.205.93.154/HBO/index.m3u8
 HBO Mundi,http://208.115.225.174:14148
 HBO Signature,http://208.115.225.174:14160
-HBO Family,http://208.115.225.174:14144
-HBO Xtreme,http://208.115.225.174:14165
+HBO Family,http://170.254.18.106/HBO_FAMILY/index.m3u8
+HBO Xtreme,http://170.254.18.106/HBO_XTREME/index.m3u8
 HBO Pop,http://208.115.225.174:14156
-HBO2,http://208.115.225.174:14140
-HBO+,http://208.115.225.174:14152
+HBO2,http://170.254.18.106/HBO2/index.m3u8
+HBO+,http://170.254.18.106/HBO_PLUS/index.m3u8
 HBO4,http://208.115.225.174:14136
 WB,http://208.115.225.174:14132
 CINEMAX,http://50.7.238.114:8278/cinemax_twn/playlist.m3u8?tid=MCEC1614519816145198&ct=19193&tsum=e635ddeeb683b5cbcda1319d0cc18f84
@@ -294,20 +295,13 @@ AXN,http://198.16.100.90:8278/axn_twn/playlist.m3u8?tid=MA1A8358225083582250&ct=
 NHK World,http://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
 
 UHD,#genre#
+CCTV4K,http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
 CCTV4K,https://tv.cry33.com/ys4k.php?id=4k
-CCTV8K,https://tv.cry33.com/ys4k.php?id=8k
-欢笑剧场4K,https://itv.lat/tv/live.php?&line=1&id=hxjc4k
+欢笑剧场4K,
 纯享4K,
-4K超高清电影,
-爱上4K,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
-修复4K,
-斗鱼4K,
 华数4K,http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
-苏州4K,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
-BesTV4K,
-LoveNaTURe 4K,
-咪咕4K,http://[2409:8087:1a01:df::4001]/PLTV/88888888/224/3221225655/index.m3u8
-咪咕4K,http://[2409:8087:1a01:df::4006]/PLTV/88888888/224/3221225651/index.m3u8
+华数4K,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
+华数4K,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
 苏州4K,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 北京纪实8K,http://49.7.69.235/downflv.brtvcloud.com/8klive/8kliveok.m3u8
 江苏8K测试,
