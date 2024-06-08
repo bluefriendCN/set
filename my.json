@@ -1,6 +1,6 @@
 //以下内容均来源于互联网，只为自用和学习，如有冒犯，请联系删除。
 {
-  "spider": "https://mirror.ghproxy.com/raw.githubusercontent.com/bluefriendCN/bin/main/Yoursmile.jar;md5;B620FBBCBC193A9039DEECB45DFE7253",
+  "spider": "https://mirror.ghproxy.com/raw.githubusercontent.com/bluefriendCN/bin/main/Yoursmile.jar;md5;2909B88C5B5E9EA6DE3EAF3A1B644522",
   "wallpaper": "https://epg.112114.xyz/bingimg",
   "flags": ["qq","腾讯","企鹅","iQiYi","qiyi","爱奇艺","奇艺","youku","YouKu","优酷","sohu","SoHu","搜狐","letv","LeShi","乐视","imgo","mgtv","MangGuo","芒果","SLYS4k","BYGA","luanzi","AliS","dxzy","bilibili","QEYSS","xigua","西瓜视频","腾讯视频","奇艺视频","优酷视频","芒果视频","乐视视频"],
   "lives": [
@@ -26,18 +26,19 @@
     {"key":"csp_WoGG","name":"玩偶哥哥","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":{"aliToken":"http://127.0.0.1:9978/tvbox/token.txt","from":"4k|auto|fhd","siteUrl":"https://www.wogg.net/","danMu":"弹"}},
     
     {"key":"csp_NewCz","name":"厂长","type":3,"api":"csp_NewCz","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.czzy.top"},
-    {"key":"csp_Nmys","name":"农民","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.net/https://raw.githubusercontent.com/yoursmile66/TVBox/main/sub/nmys.json"},
+    {"key":"农民","name":"农民","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"数组":"<li>&&</li>","图片":"src=\"&&\"","分类url":"https://www.wwgz.cn/vod-list-id-{cateId}-pg-{catePg}-order--by--class-0-year-{year}-letter--area-{area}-lang-.html","分类":"短剧$26#电视剧$2#电影$1#动漫$4#综艺$3"}},
     {"key":"csp_TianTian","name":"天天","type":3,"api":"csp_TianTian","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"热播","name":"热播","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1,"ext":"AO7TcBkd8I/B5wQc4Qma+pU="},
     {"key":"萌米","name":"萌米","type":3,"api":"csp_AppTT","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"AO7TcBkd8Jqf5UgA7xXA6dVlLcc="},
     {"key":"csp_NanGua","name":"南瓜","type":3,"api":"csp_NanGua","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
     {"key":"csp_Kkys","name":"酷看","type":3,"api":"csp_Kkys","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
     {"key":"csp_YCyz","name":"原创","type":3,"api":"csp_YCyz","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
+    {"key":"csp_Xdys","name":"兄弟","type":3,"api":"csp_Xdys","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
     {"key":"csp_Jianpian","name":"荐片","type":3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://api2.rinhome.com"},
     {"key":"csp_Xinsj","name":"新视觉","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.80yy3.com/"},
     {"key":"csp_DiDuan","name":"低端","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":0},
+    {"key":"csp_Cddys","name":"蛋蛋","type":3,"api":"csp_Cddys","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
     {"key":"csp_Auete","name":"奥特","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://auete.pro/"},
-    {"key":"csp_MLYS","name":"毛驴","type":3,"api":"csp_MLYS","searchable":1,"quickSearch":1,"filterable":0,"changeable":1,"ext":"https://www.maolvys.com/"},
     {"key":"csp_Bttwoo","name":"比特","type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_Kekys","name":"可可","type":3,"api":"csp_Kekys","searchable":1,"quickSearch":1,"changeable":1},
     {"key":"csp_Lib","name":"LibVio","type":3,"api":"csp_Libvio","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.libvio.pw/"},
