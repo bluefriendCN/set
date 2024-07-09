@@ -1,6 +1,6 @@
 //以下内容均来源于互联网，只为自用和学习，如有冒犯，请联系删除。
 {
-  "spider": "https://mirror.ghproxy.com/raw.githubusercontent.com/bluefriendCN/bin/main/Yoursmile.jar;md5;3813C8D3B7CF27A7E7005FA551DE7B47",
+  "spider": "https://mirror.ghproxy.com/raw.githubusercontent.com/bluefriendCN/bin/main/Yoursmile.jar;md5;2AF9C2C95BF862E8D0AA204F7D2E8FEE",
   "wallpaper": "https://epg.112114.xyz/bingimg",
   "flags": ["qq","腾讯","企鹅","iQiYi","qiyi","爱奇艺","奇艺","youku","YouKu","优酷","sohu","SoHu","搜狐","letv","LeShi","乐视","imgo","mgtv","MangGuo","芒果","SLYS4k","BYGA","luanzi","AliS","dxzy","bilibili","QEYSS","xigua","西瓜视频","腾讯视频","奇艺视频","优酷视频","芒果视频","乐视视频"],
   "lives": [
@@ -25,7 +25,7 @@
     {"key":"Live2cms","name":"电视直播","type":3,"api":"https://raw.gitmirror.com/bluefriendCN/bin/main/js/live2mv.js","changeable":0,"ext":"YueChan$https://mirror.ghproxy.com/raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u"},
     {"key":"csp_WoGG","name":"玩偶哥哥","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":{"aliToken":"http://127.0.0.1:9978/tvbox/token.txt","from":"4k|auto|fhd","siteUrl":"https://www.wogg.net/","danMu":"弹"}},
     
-    {"key":"csp_NewCz","name":"🏭厂长","type":3,"api":"csp_NewCz","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.czzy.top"},
+    {"key":"csp_NewCz","name":"🏭厂长","type":3,"api":"csp_NewCz","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://czzy.top/"},
     {"key":"农民","name":"🥝农民","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"数组":"<li>&&</li>","图片":"src=\"&&\"","分类url":"https://www.wwgz.cn/vod-list-id-{cateId}-pg-{catePg}-order--by--class-0-year-{year}-letter--area-{area}-lang-.html","分类":"短剧$26#电视剧$2#电影$1#动漫$4#综艺$3"}},
     {"key":"csp_TianTian","name":"🦉天天","type":3,"api":"csp_TianTian","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_Ikanbot","name":"❤️Ikanbot","type":3,"api":"csp_Ikanbot","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://v.aikanbot.com"},
