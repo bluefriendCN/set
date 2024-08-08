@@ -1,6 +1,6 @@
 //以下内容均来源于互联网，只为自用和学习，如有冒犯，请联系删除。
 {
-  "spider": "https://mirror.ghproxy.com/raw.githubusercontent.com/bluefriendCN/bin/main/Yoursmile.jar;md5;572E454C2BAA2052233A5C8D79086275",
+  "spider": "https://mirror.ghproxy.com/raw.githubusercontent.com/bluefriendCN/bin/main/Yoursmile.jar;md5;DB232003C81DF3BE30BEACFE2589CF82",
   "wallpaper": "https://epg.112114.xyz/bingimg",
   "flags": ["qq","腾讯","企鹅","iQiYi","qiyi","爱奇艺","奇艺","youku","YouKu","优酷","sohu","SoHu","搜狐","letv","LeShi","乐视","imgo","mgtv","MangGuo","芒果","SLYS4k","BYGA","luanzi","AliS","dxzy","bilibili","QEYSS","xigua","西瓜视频","腾讯视频","奇艺视频","优酷视频","芒果视频","乐视视频"],
   "lives": [
@@ -36,10 +36,8 @@
     {"key":"csp_Qiyou","name":"🦌奇优","type":3,"api":"csp_Qiyou","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_Ikan","name":"💖爱看","type":3,"api":"csp_Ikan","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_SuBaiBai","name":"⛅️素白白","type":3,"api":"csp_SuBaiBai","searchable":1,"quickSearch":1,"filterable":1},
-    {"key":"csp_Kanke","name":"🕵看客","type":3,"api":"csp_Kanke","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_Tvyb","name":"☁️TVB云播","type":3,"api":"csp_Tvyb","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_Dyxs","name":"🎬电影先生","type":3,"api":"csp_Dyxs","searchable":1,"quickSearch":1,"filterable":1},
-    {"key":"csp_Pptv","name":"🐸皮皮","type":3,"api":"csp_Pptv","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.myd04.com"},
     {"key":"csp_MaoLv","name":"🐴毛驴","type":3,"api":"csp_MaoLv","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_FengGo","name":"🐶疯狗","type":3,"api":"csp_FengGo","searchable":1,"quickSearch":1,"filterable":1},	
     {"key":"csp_Jiaozi","name":"🥣饺子","type":3,"api":"csp_Jiaozi","searchable":1,"quickSearch":1,"filterable":1},
@@ -77,7 +75,6 @@
     {"key":"csp_WoGG","name":"👽玩偶哥哥","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":{"Cloud-drive":"http://127.0.0.1:9978/file/TVBox/Cloud-drive.txt","from":"4k|auto","siteUrl":"https://www.wogg.net/","danMu":"弹"}},
     {"key":"csp_Yisou","name":"🆎XYQ易搜","type":3,"api":"csp_Yisou","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/TVBox/token.txt"},
     {"key":"csp_Gitcafe","name":"📜小纸条","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/TVBox/token.txt"},
-    {"key":"csp_XYQHikerAL__影搜","name":"😈影搜","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.net/https://raw.githubusercontent.com/yoursmile66/TVBox/main/sub/影搜.json"},
     {"key":"csp_XYQHikerAL__ED3000","name":"0️⃣ED3000","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.net/https://raw.githubusercontent.com/yoursmile66/TVBox/main/sub/ED3000.json"},
     {"key":"csp_YiSo","name":"🆎易搜","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"changeable":0,"ext":{"Cloud-drive":"http://127.0.0.1:9978/file/TVBox/Cloud-drive.txt","from":"4k|auto"}},
     {"key":"csp_PanSou","name":"📀盘搜","type":3,"api":"csp_PanSou","searchable":1,"quickSearch":1,"changeable":0,"ext":{"Cloud-drive":"http://127.0.0.1:9978/file/TVBox/Cloud-drive.txt","from":"4k|auto"}},
