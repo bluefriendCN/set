@@ -1,6 +1,6 @@
 # Github镜像站
 
-<https://hub.fgit.cf>
+<https://gh.llkk.cc/>
 
 <https://githubfast.com>
 
