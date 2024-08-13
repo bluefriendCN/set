@@ -1,6 +1,6 @@
 # Github镜像站
 
-<https://gh.llkk.cc/>
+<https://github.akams.cn/>
 
 <https://githubfast.com>
 
