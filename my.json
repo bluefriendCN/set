@@ -20,7 +20,7 @@
     }
   ],
   "sites": [
-    {"key":"csp_DouDou","name":"豆瓣荐片","type":3,"api":"csp_DouDou","searchable":0,"quickSearch":0,"filterable":1},
+    {"key":"豆豆","name":"叨观荐影","type":3,"api":"csp_DouDou","searchable":0,"quickSearch":0,"filterable":1},
     {"key":"YGP","name":"预告片","type":3,"api":"csp_YGP","searchable":0,"quickSearch":0,"changeable":0},
     {"key":"Live2cms","name":"电视直播","type":3,"api":"https://raw.gitmirror.com/bluefriendCN/bin/main/js/live2mv.js","changeable":0,"ext":"YueChan$https://ghproxy.net/raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u"},
 
