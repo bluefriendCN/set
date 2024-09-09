@@ -1,6 +1,6 @@
 //以下内容均来源于互联网，只为自用和学习，如有冒犯，请联系删除。
 {
-  "spider": "https://gh.llkk.cc/raw.githubusercontent.com/bluefriendCN/bin/main/Yoursmile.jar;md5;C300EEE68A09BA6B8B5940BCAB864B80",
+  "spider": "https://gh.llkk.cc/raw.githubusercontent.com/bluefriendCN/bin/main/Yoursmile.jar;md5;73D04EE8BAFAF24C7A16B1555BCDBC0",
   "wallpaper": "https://epg.112114.xyz/bingimg",
   "flags": ["qq","腾讯","企鹅","iQiYi","qiyi","爱奇艺","奇艺","youku","YouKu","优酷","sohu","SoHu","搜狐","letv","LeShi","乐视","imgo","mgtv","MangGuo","芒果","SLYS4k","BYGA","luanzi","AliS","dxzy","bilibili","QEYSS","xigua","西瓜视频","腾讯视频","奇艺视频","优酷视频","芒果视频","乐视视频"],
   "lives": [
@@ -29,10 +29,9 @@
     {"key":"csp_TianTian","name":"🦉天天","type":3,"api":"csp_TianTian","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_YCyz","name":"☀原创","type":3,"api":"csp_YCyz","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
     {"key":"csp_LiteApple","name":"🍎小苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
-    {"key":"csp_Jpys","name":"💮金牌","type":3,"api":"csp_Jpys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
     {"key":"csp_Qiyou","name":"🦌奇优","type":3,"api":"csp_Qiyou","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_SuBaiBai","name":"⛅️素白白","type":3,"api":"csp_SuBaiBai","searchable":1,"quickSearch":1,"filterable":1},
-    {"key":"csp_Tvyb","name":"☁️TVB云播","type":3,"api":"csp_Tvyb","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
+    {"key":"csp_Tvyb","name":"☁️TVB云播","type":3,"api":"csp_Tvyb","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.tvyun01.com/"},
     {"key":"csp_Dyxs","name":"🎬电影先生","type":3,"api":"csp_Dyxs","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_FengGo","name":"🐶疯狗","type":3,"api":"csp_FengGo","searchable":1,"quickSearch":1,"filterable":1},	
     {"key":"csp_Jiaozi","name":"🥣饺子","type":3,"api":"csp_Jiaozi","searchable":1,"quickSearch":1,"filterable":1},
