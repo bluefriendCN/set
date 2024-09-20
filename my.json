@@ -1,13 +1,13 @@
 //以下内容均来源于互联网，只为自用和学习，如有冒犯，请联系删除。
 {
-  "spider": "https://gh.llkk.cc/raw.githubusercontent.com/bluefriendCN/bin/main/Yoursmile.jar;md5;F25A81AB3BED12055AFD36B301F3511E",
+  "spider": "https://gitdl.cn/raw.githubusercontent.com/bluefriendCN/bin/main/Yoursmile.jar;md5;F25A81AB3BED12055AFD36B301F3511E",
   "wallpaper": "https://epg.112114.xyz/bingimg",
   "flags": ["qq","腾讯","企鹅","iQiYi","qiyi","爱奇艺","奇艺","youku","YouKu","优酷","sohu","SoHu","搜狐","letv","LeShi","乐视","imgo","mgtv","MangGuo","芒果","SLYS4k","BYGA","luanzi","AliS","dxzy","bilibili","QEYSS","xigua","西瓜视频","腾讯视频","奇艺视频","优酷视频","芒果视频","乐视视频"],
   "lives": [
     {
       "name":"Live",
       "type":0,
-      "url": "https://gh.llkk.cc/raw.githubusercontent.com/bluefriendCN/set/main/live.txt",
+      "url": "https://gitdl.cn/raw.githubusercontent.com/bluefriendCN/set/main/live.txt",
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
       "logo":"https://epg.112114.xyz/logo/{name}.png"
     },
@@ -22,7 +22,7 @@
   "sites": [
     {"key":"豆豆","name":"叨观荐影","type":3,"api":"csp_DouDou","searchable":0,"quickSearch":0,"filterable":1},
     {"key":"YGP","name":"预告片","type":3,"api":"csp_YGP","searchable":0,"quickSearch":0,"changeable":0},
-    {"key":"Live2cms","name":"电视直播","type":3,"api":"https://gh.llkk.cc/raw.githubusercontent.com/bluefriendCN/bin/main/js/live2mv.js","changeable":0,"ext":"YueChan$https://gh.llkk.cc/raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u"},
+    {"key":"Live2cms","name":"电视直播","type":3,"api":"https://gitdl.cn/raw.githubusercontent.com/bluefriendCN/bin/main/js/live2mv.js","changeable":0,"ext":"YueChan$https://gitdl.cn/raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u"},
 
     {"key":"ConfigCenter","name":"🅿网盘配置中心","type":3,"api":"csp_ConfigCenter","searchable":0,"changeable":0,"ext":{"commonConfig":"http://127.0.0.1:9978/file/TVBox/peizhi.json"}},
     {"key":"csp_TianTian","name":"🦉天天","type":3,"api":"csp_TianTian","searchable":1,"quickSearch":1,"filterable":1},
