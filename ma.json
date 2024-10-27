@@ -11,6 +11,24 @@
   ],
   "flags": ["qq","腾讯","企鹅","iQiYi","qiyi","爱奇艺","奇艺","youku","YouKu","优酷","sohu","SoHu","搜狐","letv","LeShi","乐视","imgo","mgtv","MangGuo","芒果","SLYS4k","BYGA","luanzi","AliS","dxzy","bilibili","QEYSS","xigua","西瓜视频","腾讯视频","奇艺视频","优酷视频","芒果视频","乐视视频"],
 	"sites": [
+    {
+      "key": "麻豆",
+      "name": "91麻豆",
+      "type": 1,
+      "api": "https://md91.cc/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },    
+    {
+      "key": "www.caoliuzyw.com",
+      "name": "草榴",
+      "type": 1,
+      "api": "https://www.caoliuzyw.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },    
     {"key":"花都影视","name":"花都影视","type":1,"api":"https://hdys2.com/api.php/provide/vod/","searchable":1,"quickSearch":0},
     {"key":"富二代","name":"富二代","type":0,"api":"http://f2dcj6.com/sapi?ac=list&pg=1","searchable":1,"quickSearch":0,"filterable":0},
     {"key":"gdlsp","name":"老色胚","type":0,"api":"https://www.gdlsp.com/api/xml.php","searchable":1,"quickSearch":0},
