@@ -1,6 +1,6 @@
 //以下内容均来源于互联网，只为自用和学习，如有冒犯，请联系删除。
 {
-  "spider": "https://gitdl.cn/raw.githubusercontent.com/bluefriendCN/bin/main/fan.txt;md5;8851819289f80deae32319080028db3b",
+  "spider": "https://gitdl.cn/raw.githubusercontent.com/bluefriendCN/bin/main/fan.txt;md5;6b677bfdb3bb51c5bf8f868791e3cf5a",
   "wallpaper": "https://epg.112114.xyz/bingimg",
   "flags": ["qq","腾讯","企鹅","iQiYi","qiyi","爱奇艺","奇艺","youku","YouKu","优酷","sohu","SoHu","搜狐","letv","LeShi","乐视","imgo","mgtv","MangGuo","芒果","SLYS4k","BYGA","luanzi","AliS","dxzy","bilibili","QEYSS","xigua","西瓜视频","腾讯视频","奇艺视频","优酷视频","芒果视频","乐视视频"],
   "lives": [
@@ -54,12 +54,9 @@
     {"key":"88js","name":"⚽ 88┃看球","type":3,"api":"https://notabug.org/fantaiying/ext/raw/main/drpy2.min.js","ext":"https://notabug.org/fantaiying/ext/raw/main/88看球.js","style":{"type":"list"},"searchable": 0,"quickSearch": 0,"changeable":0},
     {"key":"310js","name":"⚽ 310┃看球","type":3,"api":"https://notabug.org/fantaiying/ext/raw/main/drpy2.min.js","ext":"https://notabug.org/fantaiying/ext/raw/main/310直播.js","style":{"type":"list"},"searchable": 0,"quickSearch": 0,"changeable":0},
     {"key":"Jrsjs","name":"⚽ Jrs┃球迷","type": 3,"api":"https://notabug.org/fantaiying/ext/raw/main/drpy2.min.js","ext":"https://notabug.org/fantaiying/ext/raw/main/jrk.js","style":{"type":"list"},"searchable": 0,"quickSearch": 0,"changeable":0},
-    
-    {"key":"企鹅xp","name":"🐧鹅鹅┃体育","type":3,"api":"csp_XPath","style":{"type":"list"},"searchable":0,"quickSearch":0,"changeable":0,"ext":"https://notabug.org/fantaiying/ext/raw/main/企鹅直播.json"},
     {"key":"酷奇","name":"🎤酷奇┃MV","type": 3,"api":"https://notabug.org/fantaiying/ext/raw/main/drpy2.min.js","ext":"https://notabug.org/fantaiying/ext/raw/main/酷奇MV.js","style":{"type":"rect","ratio":1.597},"searchable": 0,"quickSearch": 0,"changeable":0},
     {"key":"MTV","name":"🎧明星┃MV","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":"https://notabug.org/fantaiying/ext/raw/main/MTV.json"},
-    
-    
+        
     {"key":"虎牙直播js","name":"🐯虎牙┃直播","type":3,"api":"https://notabug.org/fantaiying/ext/raw/main/drpy2.js","ext":"https://notabug.org/fantaiying/ext/raw/main/huya2.js","style":{"type":"rect","ratio":1.755},"playerType":"2","searchable": 0,"quickSearch": 0,"changeable":0},
     {"key":"斗鱼js","name":"🐟斗鱼┃直播","type":3,"api":"https://notabug.org/fantaiying/ext/raw/main/drpy2.min.js","ext":"https://notabug.org/fantaiying/ext/raw/main/斗鱼直播.js","style":{"type":"rect","ratio":1.755},"playerType":"2","searchable": 0,"quickSearch": 0,"changeable":0},
     {"key":"有声小说js","name":"🎧有声┃小说","type":3,"api":"https://notabug.org/fantaiying/ext/raw/main/drpy2.min.js","ext":"https://notabug.org/fantaiying/ext/raw/main/有声小说吧.js","style":{"type":"rect","ratio":1},"searchable": 0,"quickSearch": 0,"changeable":0},
@@ -71,11 +68,11 @@
     {"key":"PanSearch","name":"🙀盘Se┃阿狸","type":3,"api":"csp_PanSearch","searchable":1,"quickSearch":1,"changeable":0,"ext": {"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
     {"key":"push_agent","name":"🛴手机┃推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"ext": {"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
     
-    {"key":"dr_兔小贝","name":"📚儿童┃启蒙","type":3,"api":"https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js","ext":"https://notabug.org/fantaiying/ext/raw/main/%E5%85%94%E5%B0%8F%E8%B4%9D.js","style":{"type":"rect","ratio":1.597},"searchable": 0,"quickSearch": 0,"changeable":0},
-    {"key":"少儿教育","name":"📚少儿┃教育","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":"https://notabug.org/fantaiying/ext/raw/main/少儿教育.json"},
-    {"key":"小学课堂","name":"📚小学┃课堂","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":"https://notabug.org/fantaiying/ext/raw/main/小学课堂.json"},
-    {"key":"初中课堂","name":"📚初中┃课堂","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":"https://notabug.org/fantaiying/ext/raw/main/初中课堂.json"},
-    {"key":"高中教育","name":"📚高中┃课堂","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":"https://notabug.org/fantaiying/ext/raw/main/高中课堂.json"},
+    {"key":"dr_兔小贝","name":"📚儿童┃启蒙","type":3,"api":"https://notabug.org/fantaiying/ext/raw/main/drpy2.min.js","ext":"https://notabug.org/fantaiying/ext/raw/main/%E5%85%94%E5%B0%8F%E8%B4%9D.js","style":{"type":"rect","ratio":1.597},"searchable": 0,"quickSearch": 0,"changeable":0},
+    {"key":"少儿教育","name":"📚少儿┃教育","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":{"json":"https://notabug.org/fantaiying/ext/raw/main/少儿教育.json"}},
+    {"key":"小学课堂","name":"📚小学┃课堂","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":{"json":"https://notabug.org/fantaiying/ext/raw/main/小学课堂.json"}},
+    {"key":"初中课堂","name":"📚初中┃课堂","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":{"json":"https://notabug.org/fantaiying/ext/raw/main/初中课堂.json"}},
+    {"key":"高中教育","name":"📚高中┃课堂","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":{"json":"https://notabug.org/fantaiying/ext/raw/main/高中课堂.json"}},
     {"key":"fan","name":"导航 www.饭太硬.com","type":3,"api":"csp_XPath","searchable":1,"quickSearch":0,"changeable":0},
     {"key":"cc","name":"请勿相信视频中广告","type":3,"api":"csp_XPath","searchable":1,"quickSearch":0,"changeable":0}
   ],
