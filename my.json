@@ -1,6 +1,6 @@
 //以下内容均来源于互联网，只为自用和学习，如有冒犯，请联系删除。
 {
-  "spider": "https://gitdl.cn/raw.githubusercontent.com/bluefriendCN/bin/main/fan.txt;md5;a889982d5efe39d65ff9f81559fa2f87",
+  "spider": "https://gitdl.cn/raw.githubusercontent.com/bluefriendCN/bin/main/fan.txt;md5;0f1d73221352f4e6b049b3291f96d75d",
   "wallpaper": "https://epg.112114.xyz/bingimg",
   "flags": ["qq","腾讯","企鹅","iQiYi","qiyi","爱奇艺","奇艺","youku","YouKu","优酷","sohu","SoHu","搜狐","letv","LeShi","乐视","imgo","mgtv","MangGuo","芒果","SLYS4k","BYGA","luanzi","AliS","dxzy","bilibili","QEYSS","xigua","西瓜视频","腾讯视频","奇艺视频","优酷视频","芒果视频","乐视视频"],
   "lives": [
@@ -33,8 +33,8 @@
     {"key":"糯米","name":"🍓糯米┃秒播","type":3,"api":"csp_Nmyswv","searchable":1,"quickSearch":1,"changeable":1},
     {"key":"比特","name":"🍄比特┃秒播","type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"changeable":1},
     {"key":"苹果","name":"🍎苹果┃不卡","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"changeable":1},
-    {"key":"原创","name":"☀原创┃不卡","type":3,"api":"csp_YCyz","playerType":1,"searchable":1,"quickSearch":1,"changeable":1},
     {"key":"厂长","name":"📔厂长┃不卡","type":3,"api":"csp_NewCz","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext": "https://www.czzy77.com/"},
+    {"key":"木星","name":"🌞木星┃多线","type":3,"api":"csp_AppSx","searchable":1,"quickSearch":1,"changeable":1,"ext":"FbjDcUxPqpfNr0QF4QvEpcoxZIYRQNwQCG8Otba0yUlXQMqbvyrYj1rF/ef6Syy5Zj/ZkmAqgHsuU3lxEs8zPFZMXNqLxA+MbSlPxmlA1/58U/OgZ2I7cEW5ZHV6hg=="},
     {"key":"热播","name":"📺热播┃多线","type":3,"api":"csp_AppTT","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"AO7TcBkd8I/B5wQc4Qma+pU="},
     {"key":"南瓜","name":"🎃南瓜┃多线","type":3,"api":"csp_NanGua","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
     {"key":"萌米","name":"👀萌米┃多线","type":3,"api":"csp_AppTT","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"AO7TcBkd8Iifux0Y8Qze6tVlMg=="},
@@ -56,7 +56,8 @@
     {"key":"Jrsjs","name":"⚽ Jrs┃球迷","type": 3,"api":"https://notabug.org/fantaiying/ext/raw/main/drpy2.min.js","ext":"https://notabug.org/fantaiying/ext/raw/main/jrk.js","style":{"type":"list"},"searchable": 0,"quickSearch": 0,"changeable":0},
     {"key":"酷奇","name":"🎤酷奇┃MV","type": 3,"api":"https://notabug.org/fantaiying/ext/raw/main/drpy2.min.js","ext":"https://notabug.org/fantaiying/ext/raw/main/酷奇MV.js","style":{"type":"rect","ratio":1.597},"searchable": 0,"quickSearch": 0,"changeable":0},
     {"key":"MTV","name":"🎧明星┃MV","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":{"json":"https://notabug.org/fantaiying/ext/raw/main/MTV.json"}},
-        
+    
+    
     {"key":"虎牙直播js","name":"🐯虎牙┃直播","type":3,"api":"https://notabug.org/fantaiying/ext/raw/main/drpy2.js","ext":"https://notabug.org/fantaiying/ext/raw/main/huya2.js","style":{"type":"rect","ratio":1.755},"playerType":"2","searchable": 0,"quickSearch": 0,"changeable":0},
     {"key":"斗鱼js","name":"🐟斗鱼┃直播","type":3,"api":"https://notabug.org/fantaiying/ext/raw/main/drpy2.min.js","ext":"https://notabug.org/fantaiying/ext/raw/main/斗鱼直播.js","style":{"type":"rect","ratio":1.755},"playerType":"2","searchable": 0,"quickSearch": 0,"changeable":0},
     {"key":"有声小说js","name":"🎧有声┃小说","type":3,"api":"https://notabug.org/fantaiying/ext/raw/main/drpy2.min.js","ext":"https://notabug.org/fantaiying/ext/raw/main/有声小说吧.js","style":{"type":"rect","ratio":1},"searchable": 0,"quickSearch": 0,"changeable":0},
