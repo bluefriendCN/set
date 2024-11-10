@@ -1,6 +1,6 @@
 //以下内容均来源于互联网，只为自用和学习，如有冒犯，请联系删除。
 {
-  "spider": "https://gitdl.cn/raw.githubusercontent.com/bluefriendCN/bin/main/fan.txt;md5;4fedd98faf90e84f8cccf2e447e1f41f",
+  "spider": "https://gitdl.cn/raw.githubusercontent.com/bluefriendCN/bin/main/fan.txt;md5;118bca13418f13c45c5c237ac93c2f07",
   "wallpaper": "https://epg.112114.xyz/bingimg",
   "flags": ["qq","腾讯","企鹅","iQiYi","qiyi","爱奇艺","奇艺","youku","YouKu","优酷","sohu","SoHu","搜狐","letv","LeShi","乐视","imgo","mgtv","MangGuo","芒果","SLYS4k","BYGA","luanzi","AliS","dxzy","bilibili","QEYSS","xigua","西瓜视频","腾讯视频","奇艺视频","优酷视频","芒果视频","乐视视频"],
   "lives": [
@@ -25,12 +25,12 @@
     {"key":"Live2cms","name":"电视直播","type":3,"api":"https://gitdl.cn/raw.githubusercontent.com/bluefriendCN/bin/main/js/live2mv.js","changeable":0,"ext":"1989$https://tv.iill.top/m3u/Gather"},
 
     {"key":"玩偶","name":"👽玩偶哥哥┃4K弹幕","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0, "ext": {"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto","siteUrl":"https://www.wogg.net/","danMu":"弹"}},
+    {"key":"YGP","name":"🚀叨观荐影┃新片","type":3,"api":"csp_YGP","searchable":0,"quickSearch":0,"changeable":0},
     {"key":"alllive","name":"📽️一直播┃直播","type":3,"api":"csp_Alllive","playerType":2,"searchable":0,"quickSearch":0,"changeable":0},
     {"key":"米搜","name":"🦋米盘┃搜搜","type":3,"api":"csp_MIPanSo","searchable":1,"quickSearch":1,"changeable":0,"ext": {"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
     {"key":"抠搜","name":"🍄抠抠┃搜搜","type":3,"api":"csp_KkSs","searchable":1,"quickSearch":1,"changeable":0,"ext": {"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
     {"key":"Lib","name": "🌟立播┃秒播","type": 3,"api": "csp_Libvio","searchable": 1,"quickSearch": 1,"changeable":1,"ext": {"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
     {"key":"文采","name":"💮文采┃秒播","type":3,"api":"csp_Jpys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
-    {"key":"糯米","name":"🍓糯米┃秒播","type":3,"api":"csp_Nmyswv","searchable":1,"quickSearch":1,"changeable":1},
     {"key":"zxzj","name":"🍊在线┃秒播","type":3,"api":"csp_Zxzj","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.zxzjhd.com/"},
     {"key":"比特","name":"🍄比特┃秒播","type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"changeable":1},
     {"key":"苹果","name":"🍎苹果┃不卡","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"changeable":1},
@@ -57,7 +57,8 @@
     {"key":"酷奇","name":"🎤酷奇┃MV","type": 3,"api":"https://notabug.org/fantaiying/ext/raw/main/drpy2.min.js","ext":"https://notabug.org/fantaiying/ext/raw/main/酷奇MV.js","style":{"type":"rect","ratio":1.597},"searchable": 0,"quickSearch": 0,"changeable":0},
     {"key":"MTV","name":"🎧明星┃MV","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":{"json":"https://notabug.org/fantaiying/ext/raw/main/MTV.json"}},
     
-        {"key":"虎牙直播js","name":"🐯虎牙┃直播","type":3,"api":"https://notabug.org/fantaiying/ext/raw/main/drpy2.js","ext":"https://notabug.org/fantaiying/ext/raw/main/huya2.js","style":{"type":"rect","ratio":1.755},"playerType":"2","searchable": 0,"quickSearch": 0,"changeable":0},
+    
+    {"key":"虎牙直播js","name":"🐯虎牙┃直播","type":3,"api":"https://notabug.org/fantaiying/ext/raw/main/drpy2.js","ext":"https://notabug.org/fantaiying/ext/raw/main/huya2.js","style":{"type":"rect","ratio":1.755},"playerType":"2","searchable": 0,"quickSearch": 0,"changeable":0},
     {"key":"斗鱼js","name":"🐟斗鱼┃直播","type":3,"api":"https://notabug.org/fantaiying/ext/raw/main/drpy2.min.js","ext":"https://notabug.org/fantaiying/ext/raw/main/斗鱼直播.js","style":{"type":"rect","ratio":1.755},"playerType":"2","searchable": 0,"quickSearch": 0,"changeable":0},
     {"key":"有声小说js","name":"🎧有声┃小说","type":3,"api":"https://notabug.org/fantaiying/ext/raw/main/drpy2.min.js","ext":"https://notabug.org/fantaiying/ext/raw/main/有声小说吧.js","style":{"type":"rect","ratio":1},"searchable": 0,"quickSearch": 0,"changeable":0},
     {"key":"Aid","name":"🚑急救┃教学","type":3,"api":"csp_FirstAid","searchable":0,"quickSearch":0,"changeable":0,"style": { "type": "rect", "ratio":3.8}},
