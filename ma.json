@@ -1,12 +1,12 @@
 //以下全部来自网络，如有冒犯请联系删除。[所有内容仅供学习使用，请勿用于违法用途]
 {
-  "spider": "https://ghp.ci/raw.githubusercontent.com/bluefriendCN/bin/refs/heads/main/custom_spider.jar;md5;707f0db5d14e50ee046fc2c8a7a11383",
+  "spider": "https://ghproxy.net/raw.githubusercontent.com/bluefriendCN/bin/refs/heads/main/custom_spider.jar;md5;707f0db5d14e50ee046fc2c8a7a11383",
   "wallpaper": "https://epg.112114.xyz/bingimg",
   "lives": [
     {
       "name":"qist",
       "type":0,
-      "url": "https://fastgit.cc/raw.githubusercontent.com/qist/tvbox/refs/heads/master/listx.txt"
+      "url": "https://ghproxy.net/raw.githubusercontent.com/qist/tvbox/refs/heads/master/listx.txt"
     },
     {
       "name":"YanG-1989",
