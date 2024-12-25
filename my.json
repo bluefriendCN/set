@@ -20,7 +20,7 @@
     }
   ],
   "sites": [
-    {"key":"csp_Dou","name":"叨观荐影","type":3,"api":"csp_DouDou","searchable":0,"quickSearch":0,"filterable":1},
+    {"key":"csp_Dou","name":"叨观荐影","type":3,"api":"csp_DouDou","indexs":1,"searchable":0,"quickSearch":0,"filterable":1},
     {"key":"csp_YGP","name":"叨观新片","type":3,"api":"csp_YGP","searchable":0,"quickSearch":0,"changeable":0},
     {"key":"Live2cms","name":"电视直播","type":3,"api":"https://ghproxy.net/raw.githubusercontent.com/bluefriendCN/bin/refs/heads/main/js/live2mv.js","changeable":0,"ext":"1989$https://tv.iill.top/m3u/Gather"},
 
