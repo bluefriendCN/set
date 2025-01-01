@@ -4,9 +4,14 @@
   "wallpaper": "https://epg.112114.xyz/bingimg",
   "lives": [
     {
-      "name":"qist",
+      "name":"List",
       "type":0,
-      "url": "https://ghproxy.net/raw.githubusercontent.com/qist/tvbox/refs/heads/master/listx.txt"
+      "url": "https://g.blfrp.cn/raw.githubusercontent.com/qist/tvbox/refs/heads/master/listx.m3u"
+    },
+    {
+      "name":"Live",
+      "type":0,
+      "url": "https://g.blfrp.cn/raw.githubusercontent.com/qist/tvbox/refs/heads/master/livex.m3u"
     },
     {
       "name":"YanG-1989",
