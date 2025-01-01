@@ -7,14 +7,14 @@
     {
       "name":"Live",
       "type":0,
-      "url": "https://ghproxy.net/raw.githubusercontent.com/bluefriendCN/set/refs/heads/main/live.txt",
+      "url": "https://g.blfrp.cn/raw.githubusercontent.com/bluefriendCN/set/refs/heads/main/live.txt",
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
       "logo":"https://live.fanmingming.com/tv/{name}.png"
     },
     {
       "name":"Fan",
       "type":0,
-      "url": "https://ghproxy.net/raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/m3u/ipv6.m3u",
+      "url": "https://g.blfrp.cn/raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/m3u/ipv6.m3u",
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
       "logo":"https://live.fanmingming.com/tv/{name}.png"
     }
