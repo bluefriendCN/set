@@ -1,25 +1,4 @@
 央视,#genre#
-CCTV1,http://www.clmy.cc:35455/gaoma/cctv1.m3u8
-CCTV2,http://www.clmy.cc:35455/gaoma/cctv2.m3u8
-CCTV3,http://www.clmy.cc:35455/gaoma/cctv3.m3u8
-CCTV4,http://www.clmy.cc:35455/gaoma/cctv4.m3u8
-CCTV5,http://www.clmy.cc:35455/gaoma/cctv5.m3u8
-CCTV6,http://www.clmy.cc:35455/gaoma/cctv6.m3u8
-CCTV7,http://www.clmy.cc:35455/gaoma/cctv7.m3u8
-CCTV8,http://www.clmy.cc:35455/gaoma/cctv8.m3u8
-CCTV9,http://www.clmy.cc:35455/gaoma/cctv9.m3u8
-CCTV10,http://www.clmy.cc:35455/gaoma/cctv10.m3u8
-CCTV11,http://www.clmy.cc:35455/gaoma/cctv11.m3u8
-CCTV12,http://www.clmy.cc:35455/gaoma/cctv12.m3u8
-CCTV13,http://www.clmy.cc:35455/gaoma/cctv13.m3u8
-CCTV14,http://www.clmy.cc:35455/gaoma/cctv14.m3u8
-CCTV15,http://www.clmy.cc:35455/gaoma/cctv15.m3u8
-CCTV16,http://www.clmy.cc:35455/gaoma/cctv16.m3u8
-CCTV17,http://www.clmy.cc:35455/gaoma/cctv17.m3u8
-CCTV5+,http://www.clmy.cc:35455/gaoma/cctv5p.m3u8
-CCTV4K,http://www.clmy.cc:35455/gaoma/cctv4k_10m.m3u8
-CCTV8K,http://www.clmy.cc:35455/gaoma/cctv8k_36m.m3u8
-
 CCTV1,http://183.203.182.117:9616/hls/1/index.m3u8
 CCTV2,http://183.203.182.117:9616/hls/2/index.m3u8
 CCTV3,http://183.203.182.117:9616/hls/3/index.m3u8
@@ -41,15 +20,15 @@ CCTV5+,http://183.203.182.117:9616/hls/5/index.m3u8
 CCTV欧洲,
 CCTV美洲,
 
-兵器科技,
-怀旧剧场,
-世界地理,http://nas.zyylover.homes:35455/rptv/G_SHIJIEDL-CQ.m3u8?license=gitv
+兵器科技,http://111.61.236.247:9081/hls/61/index.m3u8
+怀旧剧场,http://111.61.236.247:9081/hls/67/index.m3u8
+世界地理,http://111.61.236.247:9081/hls/62/index.m3u8
 文化精品,
-央视台球,http://nas.zyylover.homes:35455/rptv/G_TAIQIU-CQ.m3u8?license=gitv
+央视台球,
 高尔夫网球,
 风云剧场,
 风云音乐,
-风云足球,http://nas.zyylover.homes:35455/rptv/G_FENGSHANGZQ-CQ.m3u8?license=gitv
+风云足球,http://111.61.236.247:9081/hls/58/index.m3u8
 第一剧场,
 女性时尚,
 电视指南,
@@ -66,10 +45,6 @@ CETV3教育服务,
 CETV4职业教育,
 
 港澳台,#genre#
-凤凰中文,http://ali.hlspull.yximgs.com/live/diyp_fh2.flv
-凤凰资讯,http://ali.hlspull.yximgs.com/live/diyp_fh1.flv
-凤凰香港,http://ali.hlspull.yximgs.com/live/diyp_fh3.flv
-
 凤凰中文,http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
 凤凰资讯,http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
 凤凰香港,http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
@@ -194,10 +169,10 @@ CCTV5+,http://150.158.112.123/%E5%85%AC%E4%BC%97%E5%8F%B7~%E7%8E%89%E7%8E%89%E8%
 咪咕直播4K,http://nas.zyylover.homes:35455/itv/3000000010000005180.m3u8?cdn=FifastbLive
 咪咕直播1,http://nas.zyylover.homes:35455/itv/3000000001000005308.m3u8?cdn=FifastbLive
 咪咕直播2,http://nas.zyylover.homes:35455/itv/3000000001000005969.m3u8?cdn=FifastbLive
-睛彩竞技,http://111.226.102.103:50001/1000000006000270001/ystenlive/index.m3u8
-睛彩篮球,http://111.226.102.103:50001/1000000006000270006/ystenlive/index.m3u8
-睛彩青少,http://111.226.102.103:50001/3000000020000031315/FifastbLive/index.m3u8
-睛彩广场舞,http://111.226.102.103:50001/1000000006000270005/ystenlive/index.m3u8
+睛彩竞技,
+睛彩篮球,
+睛彩青少,
+睛彩广场舞,
 
 地方台,#genre#
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
