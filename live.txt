@@ -36,8 +36,8 @@ CCTV15,http://183.203.182.117:9616/hls/15/index.m3u8
 CCTV16,http://223.145.224.60:8000/rtp/239.76.253.98:9000
 CCTV17,https://stream1.freetv.fun/cctv-17mi-gu-1.m3u8
 CCTV5+,http://183.203.182.117:9616/hls/5/index.m3u8
-CCTV欧洲,
-CCTV美洲,
+CCTV欧洲,https://tvpull.careryun.com/tv/cctv4o.m3u8
+CCTV美洲,https://tvpull.careryun.com/tv/cctv4m.m3u8
 
 兵器科技,http://111.61.236.247:9081/hls/61/index.m3u8
 怀旧剧场,http://111.61.236.247:9081/hls/67/index.m3u8
@@ -49,7 +49,7 @@ CCTV美洲,
 风云音乐,
 风云足球,http://111.61.236.247:9081/hls/58/index.m3u8
 第一剧场,
-女性时尚,
+女性时尚,http://111.61.236.247:9081/hls/59/index.m3u8
 电视指南,
 中国天气,http://nas.zyylover.homes:35455/itv/5000000005000031974.m3u8?cdn=bestzb
 直播中国,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
@@ -59,9 +59,9 @@ CHC动作电影,http://58.19.38.162:9901/tsfile/live/1005_1.m3u8?key=txiptv&play
 CHC家庭影院,http://58.19.38.162:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
 
 CETV1综合教育,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227021/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ELlgU9sgTT7iMtFgKHFa-dA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
-CETV2空中课堂,
-CETV3教育服务,
-CETV4职业教育,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226997/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EAw_OvjRgJVjtlaOa0dcgzg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+CETV2空中课堂,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226537/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E7AxXs4eTU2oiWrhopr9sHw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNxsM0Bor098BJglrhfEQTl%2CEND
+CETV3教育服务,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226577/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EhE2Z89HKgsQOlN9opVn1iw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNN03yUnk4zBVk1bynPPL3hZ%2CEND
+CETV4职业教育,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226557/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EBzZToIaOOoaa_jAUfhUQHQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNOD9BEmVSNbqSQpqXZxnxbk%2CEND
 
 港澳台,#genre#
 凤凰中文,http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
@@ -204,11 +204,12 @@ CETV4职业教育,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226997/1
 重庆新农村,http://27.10.215.127:8009/udp/225.0.4.189:7980
 重庆少儿,http://27.10.79.119:8001/udp/225.0.4.191:7980
 重庆科教,http://211.158.155.27:8001/udp/225.0.4.193:7980
-重庆汽摩,http://123.146.242.32:8003/rtp/225.0.4.195:7980
+重庆汽摩,http://120.76.248.139/live/bfgd/4200000168.m3u8
 重庆移动,
 重广融媒,
 
 巴南综合,
+璧山综合,http://222.179.42.129:8181/hls1.m3u8
 大足综合,
 荣昌综合,http://183.64.181.25:40023/rongchang01.m3u8
 江津综合,http://222.179.155.21:1935/ch1.m3u8?zzhongqd
@@ -268,6 +269,21 @@ CCTV5+,http://150.158.112.123/%E5%85%AC%E4%BC%97%E5%8F%B7~%E7%8E%89%E7%8E%89%E8%
 求索科学,http://nas.zyylover.homes:35455/itv/2000000004000000011.m3u8?cdn=hnbblive
 求索生活,http://nas.zyylover.homes:35455/itv/2000000004000000008.m3u8?cdn=hnbblive
 求索动物,http://nas.zyylover.homes:35455/itv/2000000004000000009.m3u8?cdn=hnbblive
+iHOT 爱喜剧,http://nas.zyylover.homes:35455/itv/2000000004000000032.m3u8?cdn=hnbblive
+iHOT 爱科幻,http://nas.zyylover.homes:35455/itv/2000000004000000033.m3u8?cdn=hnbblive
+iHOT 爱院线,http://nas.zyylover.homes:35455/itv/2000000004000000034.m3u8?cdn=hnbblive
+NewTV 哒啵电竞,http://nas.zyylover.homes:35455/itv/1000000006000032327.m3u8?cdn=ystenlive
+NewTV 哒啵赛事,http://nas.zyylover.homes:35455/itv/1000000001000003775.m3u8?cdn=ystenlive
+NewTV 黑莓动画,http://nas.zyylover.homes:35455/itv/1000000004000021734.m3u8?cdn=ystenlive
+NewTV 黑莓电影,http://nas.zyylover.homes:35455/itv/1000000004000019624.m3u8?cdn=ystenlive
+NewTV 爱情喜剧,http://nas.zyylover.homes:35455/itv/2000000003000000010.m3u8?cdn=hnbblive
+五星体育,http://61.173.144.157:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
+法治天地,http://61.173.144.157:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
+都市剧场,http://61.173.144.157:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
+东方影视,http://61.173.144.157:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
+上海都市,http://61.173.144.157:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+上海新闻,http://61.173.144.157:9901/tsfile/live/1000_1.m3u8
+上海教育,http://61.173.144.157:9901/tsfile/live/1007_1.m3u8
 
 卡酷少儿,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227024/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EjvuDD-WqVkjs3cnfSInf6A%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 
