@@ -11,7 +11,6 @@
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
       "logo":"https://live.fanmingming.com/tv/{name}.png"
     },
-    {"name":"咪咕","type":0,"url":"https://www.freetv.top/migu.m3u","playerType":1},
     {
       "name":"范明明",
       "type":0,
