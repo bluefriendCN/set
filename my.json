@@ -12,6 +12,13 @@
       "logo":"https://live.fanmingming.com/tv/{name}.png"
     },
     {
+      "name":"Gather",
+      "type":0,
+      "url": "https://tv.iill.top/m3u/Gather",
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+      "logo":"https://live.fanmingming.com/tv/{name}.png"
+    },
+    {
       "name":"范明明",
       "type":0,
       "url": "https://g.blfrp.cn/raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/m3u/ipv6.m3u",
