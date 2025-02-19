@@ -218,6 +218,15 @@ CCTV16,http://175.6.162.5:35455/itv/1000000006000233002.m3u8?cdn=ystenlive
 
 
 地方台,#genre#
+北京卫视,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s1/index.m3u8?time=1739975402&sign=2c05f4fc7e530a5e6edc645d8c2d1f72
+北京新闻,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s9/index.m3u8?time=1739975405&sign=9b3f1dc50b5feb65b6524988dec9fb23
+北京影视,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s4/index.m3u8?time=1739975404&sign=550758ead9c88e8aac44e4de17e8f4ad
+北京生活,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s7/index.m3u8?time=1739975405&sign=f1a4a93727b9f89e40384f15ead052a7
+北京文艺,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s2/index.m3u8?time=1739975403&sign=82b6315b483245727229af4380f2cdc8
+北京财经,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s5/index.m3u8?time=1739975405&sign=6b94eb9724c0c92fa9d655c10464e093
+北京纪实科教,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s3/index.m3u8?time=1739975404&sign=430e5f67171d93b1aeefbe44273cd0f0
+北京卡酷少儿,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s10/index.m3u8?time=1739975406&sign=81d5ab1a3fec7cabf2ce9705ecfc0879
+
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 浙江钱江都市,http://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 浙江经济生活,http://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
