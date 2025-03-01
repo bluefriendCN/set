@@ -1,6 +1,6 @@
 //以下内容均来源于互联网，只为自用和学习，如有冒犯，请联系删除。
 {
-  "spider": "https://ghproxy.net/raw.githubusercontent.com/bluefriendCN/bin/refs/heads/main/fan.txt;md5;d120ab9d895e9b465616b544ea5a3878",
+  "spider": "https://ghproxy.net/raw.githubusercontent.com/bluefriendCN/bin/refs/heads/main/fan.txt;md5;22109ed61cf9f1b5ded4a1e9112fcdff",
   "wallpaper": "https://深色壁纸.xxooo.cf/",
   "flags": ["qq","腾讯","企鹅","iQiYi","qiyi","爱奇艺","奇艺","youku","YouKu","优酷","sohu","SoHu","搜狐","letv","LeShi","乐视","imgo","mgtv","MangGuo","芒果","SLYS4k","BYGA","luanzi","AliS","dxzy","bilibili","QEYSS","xigua","西瓜视频","腾讯视频","奇艺视频","优酷视频","芒果视频","乐视视频"],
   "lives": [
@@ -34,7 +34,7 @@
     {"key":"YGP","name":"🚀叨观荐影┃预告片","type":3,"api":"csp_YGPGuard","searchable":0,"quickSearch":0,"changeable":0},
     {"key":"alllive","name":"📽️一直播┃直播","type":3,"api":"csp_AllliveGuard","playerType":2,"searchable":0,"quickSearch":0,"changeable":0},
     {"key":"抠搜","name":"🍄抠抠┃搜搜","type":3,"api":"csp_KkSsGuard","searchable":1,"quickSearch":1,"changeable":0,"ext": {"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
-    {"key":"UC","name":"🌈优汐┃搜搜","type":3,"api":"csp_UuSsGuard","searchable":1,"quickSearch":1,"changeable":0,"ext": {"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto","pturl":"http://mo.muouso.fun/|http://149.88.87.72:5666/|http://54271.fun/"}},
+    {"key":"UC","name":"🌈优汐┃搜搜","type":3,"api":"csp_UuSsGuard","searchable":1,"quickSearch":1,"changeable":0,"ext": {"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto","pturl":"http://mo.91muou.icu/|http://54271.fun/|http://mo.666291.xyz/"}},
     {"key":"原创","name":"☀原创┃不卡","type":3,"api":"csp_YCyzGuard","timeout":15,"playerType":1,"searchable":1,"quickSearch":1,"changeable":1},
     {"key":"苹果","name":"🍎苹果┃不卡","type":3,"api":"csp_LiteAppleGuard","searchable":1,"quickSearch":1,"changeable":1},
     {"key":"厂长","name":"📔厂长┃不卡","type":3,"api":"csp_NewCzGuard","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext": "https://www.czzyvideo.com/"},
