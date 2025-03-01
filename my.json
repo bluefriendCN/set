@@ -1,6 +1,6 @@
 //以下内容均来源于互联网，只为自用和学习，如有冒犯，请联系删除。
 {
-  "spider": "https://ghproxy.net/raw.githubusercontent.com/bluefriendCN/bin/refs/heads/main/fan.txt;md5;ef40bb1ca5748055513a7a7cdebc2c24",
+  "spider": "https://ghproxy.net/raw.githubusercontent.com/bluefriendCN/bin/refs/heads/main/fan.txt;md5;d120ab9d895e9b465616b544ea5a3878",
   "wallpaper": "https://深色壁纸.xxooo.cf/",
   "flags": ["qq","腾讯","企鹅","iQiYi","qiyi","爱奇艺","奇艺","youku","YouKu","优酷","sohu","SoHu","搜狐","letv","LeShi","乐视","imgo","mgtv","MangGuo","芒果","SLYS4k","BYGA","luanzi","AliS","dxzy","bilibili","QEYSS","xigua","西瓜视频","腾讯视频","奇艺视频","优酷视频","芒果视频","乐视视频"],
   "lives": [
@@ -27,7 +27,7 @@
     }
   ],
   "sites": [
-    {"key":"csp_Dou","name":"叨观荐影","type":3,"api":"csp_DouDou","indexs":1,"searchable":0,"quickSearch":0,"filterable":1},
+    {"key":"csp_Dou","name":"叨观荐影","type":3,"api":"csp_DouDouGuard","indexs":1,"searchable":0,"quickSearch":0,"filterable":1},
     {"key":"Live2cms","name":"电视直播","type":3,"api":"https://ghproxy.net/raw.githubusercontent.com/bluefriendCN/bin/refs/heads/main/js/live2mv.js","changeable":0,"ext":"1989$https://tv.iill.top/m3u/Gather"},
 
     {"key":"玩偶","name":"👽玩偶哥哥┃4K弹幕","type":3,"api":"csp_WoGGGuard","searchable":1,"quickSearch":1,"changeable":0, "ext": {"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto","siteUrl":"https://www.wogg.net/","danMu":"弹"}},
