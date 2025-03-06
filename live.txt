@@ -3,8 +3,6 @@ CCTV1,http://xiaoya.crccxw.top:35455/gaoma/cctv1.m3u8
 CCTV2,http://xiaoya.crccxw.top:35455/gaoma/cctv2.m3u8
 CCTV3,http://xiaoya.crccxw.top:35455/gaoma/cctv3.m3u8
 CCTV4,http://xiaoya.crccxw.top:35455/gaoma/cctv4.m3u8
-CCTV4欧洲,http://drive.mxmy.net:8888/udp/239.3.1.213:4220
-CCTV4美洲,http://drive.mxmy.net:8888/udp/239.3.1.214:4220
 CCTV5,http://xiaoya.crccxw.top:35455/gaoma/cctv5.m3u8
 CCTV5+,http://xiaoya.crccxw.top:35455/gaoma/cctv5p.m3u8
 CCTV6,http://www.xzbn.site:35455/itv/1000000005000265006.m3u8?cdn=ystenlive
@@ -40,8 +38,11 @@ CCTV14,http://148.135.93.213:81/live.php?id=CCTV14
 CCTV15,http://148.135.93.213:81/live.php?id=CCTV15
 CCTV16,http://148.135.93.213:81/live.php?id=CCTV16
 CCTV17,http://148.135.93.213:81/live.php?id=CCTV17
+CCTV 4K,http://xiaoya.crccxw.top:35455/gaoma/cctv4k.m3u8
 CCTV 8K,http://xiaoya.crccxw.top:35455/gaoma/cctv8k_36m.m3u8
 
+CCTV4欧洲,http://drive.mxmy.net:8888/udp/239.3.1.213:4220
+CCTV4美洲,http://drive.mxmy.net:8888/udp/239.3.1.214:4220
 CCTV4欧洲,http://z.b.bkpcp.top/m.php?id=cctv4o
 CCTV4美洲,http://z.b.bkpcp.top/m.php?id=cctv4m
 中国天气,http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
