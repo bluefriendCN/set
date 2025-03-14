@@ -33,7 +33,6 @@
     {"key":"Biliych","name":"演唱会","type": 3,"api": "csp_BiliGuard","style":{"type":"rect","ratio":1.597},"searchable":1,"quickSearch":0,"changeable":0,"ext":{"json":"https://im.feelec.com.cn/res/file.html?id=2c9a91099293dce40194194f4eb2747e"}},    {"key":"csp_Ikanbot","name":"Ikanbot","type":3,"api":"csp_Ikanbot","jar": "https://ghproxy.net/raw.githubusercontent.com/bluefriendCN/bin/refs/heads/main/Yoursmile.jar;md5;a860de706e4bcac71d328bdb75eb37e3","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_Ikanbot","name":"Ikanbot","type":3,"api":"csp_Ikanbot","jar":"https://ghproxy.net/raw.githubusercontent.com/bluefriendCN/bin/refs/heads/main/Yoursmile.jar;md5;a860de706e4bcac71d328bdb75eb37e3","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_MeijuTT","name":"美剧天堂","type":3,"api":"csp_MeijuTT","jar":"https://ghproxy.net/raw.githubusercontent.com/bluefriendCN/bin/refs/heads/main/Yoursmile.jar;md5;a860de706e4bcac71d328bdb75eb37e3","searchable":1,"quickSearch":1,"filterable":1},
-    {"key":"量子","name":"量子直连","type":1,"api":"https://cj.lziapi.com/api.php/provide/vod","searchable":1,"changeable":1},
 
     {"key":"玩偶","name":"👽玩偶哥哥┃4K弹幕","type":3,"api":"csp_WoGGGuard","searchable":1,"quickSearch":1,"changeable":0, "ext": {"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto","siteUrl":"https://www.wogg.net/","danMu":"弹"}},
     {"key":"YGP","name":"🚀叨观荐影┃预告片","type":3,"api":"csp_YGPGuard","searchable":0,"quickSearch":0,"changeable":0},
