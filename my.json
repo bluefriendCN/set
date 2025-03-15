@@ -1,6 +1,6 @@
 //以下内容均来源于互联网，只为自用和学习，如有冒犯，请联系删除。
 {
-  "spider": "https://ghproxy.net/raw.githubusercontent.com/bluefriendCN/bin/refs/heads/main/fan.txt;md5;8ad692765d808a238dce3ed344c24116",
+  "spider": "https://ghproxy.net/raw.githubusercontent.com/bluefriendCN/bin/refs/heads/main/fan.txt;md5;92a4933113be29d94549f5bd3f03cd6b",
   "wallpaper": "https://qist.cc/api/api.php",
   "flags": ["qq","腾讯","企鹅","iQiYi","qiyi","爱奇艺","奇艺","youku","YouKu","优酷","sohu","SoHu","搜狐","letv","LeShi","乐视","imgo","mgtv","MangGuo","芒果","SLYS4k","BYGA","luanzi","AliS","dxzy","bilibili","QEYSS","xigua","西瓜视频","腾讯视频","奇艺视频","优酷视频","芒果视频","乐视视频"],
   "lives": [
@@ -30,7 +30,7 @@
     {"key":"csp_Dou","name":"叨观荐影","type":3,"api":"csp_DouDouGuard","indexs":1,"searchable":0,"quickSearch":0,"filterable":1},
     {"key":"Live2cms","name":"电视直播","type":3,"api":"https://ghproxy.net/raw.githubusercontent.com/bluefriendCN/bin/refs/heads/main/js/live2mv.js","changeable":0,"ext":"1989$https://tv.iill.top/m3u/Gather"},
     {"key":"Bili","name":"哔哩哔哩","type": 3,"api": "csp_BiliGuard","style":{"type":"rect","ratio":1.597},"searchable":1,"quickSearch":0,"changeable":0,"ext":{"json":"https://im.feelec.com.cn/res/file.html?id=2c9a91099293dce40194194e5a5f7474"}},
-    {"key":"Biliych","name":"演唱会","type": 3,"api": "csp_BiliGuard","style":{"type":"rect","ratio":1.597},"searchable":1,"quickSearch":0,"changeable":0,"ext":{"json":"https://im.feelec.com.cn/res/file.html?id=2c9a91099293dce40194194f4eb2747e"}},    {"key":"csp_Ikanbot","name":"Ikanbot","type":3,"api":"csp_Ikanbot","jar": "https://ghproxy.net/raw.githubusercontent.com/bluefriendCN/bin/refs/heads/main/Yoursmile.jar;md5;a860de706e4bcac71d328bdb75eb37e3","searchable":1,"quickSearch":1,"filterable":1},
+    {"key":"Biliych","name":"演唱会","type": 3,"api": "csp_BiliGuard","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":{"json":"https://im.feelec.com.cn/res/file.html?id=2c9a91099293dce40194194f4eb2747e"}},
     {"key":"csp_Ikanbot","name":"Ikanbot","type":3,"api":"csp_Ikanbot","jar":"https://ghproxy.net/raw.githubusercontent.com/bluefriendCN/bin/refs/heads/main/Yoursmile.jar;md5;a860de706e4bcac71d328bdb75eb37e3","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_MeijuTT","name":"美剧天堂","type":3,"api":"csp_MeijuTT","jar":"https://ghproxy.net/raw.githubusercontent.com/bluefriendCN/bin/refs/heads/main/Yoursmile.jar;md5;a860de706e4bcac71d328bdb75eb37e3","searchable":1,"quickSearch":1,"filterable":1},
 
