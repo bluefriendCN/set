@@ -1,13 +1,13 @@
 //以下内容均来源于互联网，只为自用和学习，如有冒犯，请联系删除。
 {
-  "spider": "https://ghproxy.net/raw.githubusercontent.com/bluefriendCN/bin/refs/heads/main/fan.txt;md5;a0e22e79a8fed34ecb3b1f09399f4f50",
+  "spider": "https://ghproxy.net/raw.githubusercontent.com/bluefriendCN/bin/refs/heads/main/fan.txt;md5;dda5ab42b722f13761900308a6caff89",
   "wallpaper": "https://qist.cc/api/api.php",
   "flags": ["qq","腾讯","企鹅","iQiYi","qiyi","爱奇艺","奇艺","youku","YouKu","优酷","sohu","SoHu","搜狐","letv","LeShi","乐视","imgo","mgtv","MangGuo","芒果","SLYS4k","BYGA","luanzi","AliS","dxzy","bilibili","QEYSS","xigua","西瓜视频","腾讯视频","奇艺视频","优酷视频","芒果视频","乐视视频"],
   "lives": [
     {
       "name":"Live",
       "type":0,
-      "url": "https://g.blfrp.cn/raw.githubusercontent.com/bluefriendCN/set/refs/heads/main/live.txt",
+      "url": "https://ghproxy.net/raw.githubusercontent.com/bluefriendCN/set/refs/heads/main/live.txt",
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
       "logo":"https://live.fanmingming.com/tv/{name}.png"
     },
@@ -21,7 +21,7 @@
     {
       "name":"范明明",
       "type":0,
-      "url": "https://g.blfrp.cn/raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/m3u/ipv6.m3u",
+      "url": "https://ghproxy.net/raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/m3u/ipv6.m3u",
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
       "logo":"https://live.fanmingming.com/tv/{name}.png"
     }
