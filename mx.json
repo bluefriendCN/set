@@ -7,21 +7,7 @@
     {
       "name":"Live",
       "type":0,
-      "url": "https://g.blfrp.cn/raw.githubusercontent.com/bluefriendCN/set/refs/heads/main/live.txt",
-      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
-      "logo":"https://live.fanmingming.com/tv/{name}.png"
-    },
-    {
-      "name":"Gather",
-      "type":0,
-      "url": "https://tv.iill.top/m3u/Gather",
-      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
-      "logo":"https://live.fanmingming.com/tv/{name}.png"
-    },
-    {
-      "name":"范明明",
-      "type":0,
-      "url": "https://g.blfrp.cn/raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/m3u/ipv6.m3u",
+      "url": "https://ghproxy.net/raw.githubusercontent.com/bluefriendCN/set/refs/heads/main/live.txt",
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
       "logo":"https://live.fanmingming.com/tv/{name}.png"
     }
