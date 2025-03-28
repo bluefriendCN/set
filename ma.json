@@ -1,6 +1,6 @@
 //以下全部来自网络，如有冒犯请联系删除。[所有内容仅供学习使用，请勿用于违法用途]
 {
-  "spider": "https://ghproxy.net/raw.githubusercontent.com/bluefriendCN/bin/refs/heads/main/custom_spider.jar;md5;5e53c8f9ddd4ede5359c16bee091db93",
+  "spider": "https://ghproxy.net/raw.githubusercontent.com/bluefriendCN/bin/refs/heads/main/custom_spider.jar;md5;2f4edf2bed2c6bfc906049428f875e5b",
   "wallpaper": "https://qist.cc/api/api.php",
   "lives": [
     {
@@ -28,9 +28,9 @@
 	"sites": [
     {"key":"量子","name":"量子","type":1,"api":"https://cj.lziapi.com/api.php/provide/vod","searchable":1,"changeable":1},
     {"key":"非凡","name":"非凡","type":1,"api":"http://cj.ffzyapi.com/api.php/provide/vod","searchable":1,"changeable":1},
-    {"key":"率率","name":"率率[直连]","type":1,"api":"https://suoniapi.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"changeable":1},
+    {"key":"率率","name":"率率","type":1,"api":"https://suoniapi.com/api.php/provide/vod","searchable":1,"quickSearch":1,"changeable":1},
     {"key":"麻豆","name": "91麻豆","type": 1,"api": "https://md91.cc/api.php/provide/vod/","searchable": 1,"quickSearch": 1,"filterable": 1},
-    {"key":"www.caoliuzyw.com","name": "草榴","type": 1,"api": "https://www.caoliuzyw.com/api.php/provide/vod/?ac=list","searchable": 1,"quickSearch": 1,"filterable": 1},
+    {"key":"www.caoliuzyw.com","name": "草榴","type": 1,"api": "https://www.caoliuzyw.com/api.php/provide/vod","searchable": 1,"quickSearch": 1,"filterable": 1},
     {"key":"花都影视","name":"花都影视","type":1,"api":"https://hdys2.com/api.php/provide/vod/","searchable":1,"quickSearch":0},
     {"key":"富二代","name":"富二代","type":0,"api":"http://f2dcj6.com/sapi?ac=list&pg=1","searchable":1,"quickSearch":0,"filterable":0},
     {"key":"gdlsp","name":"老色胚","type":0,"api":"https://www.gdlsp.com/api/xml.php","searchable":1,"quickSearch":0},
