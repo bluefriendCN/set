@@ -1,4 +1,23 @@
 央视,#genre#
+CCTV1,http://xiaoya.crccxw.top:35455/gaoma/cctv1.m3u8
+CCTV2,http://xiaoya.crccxw.top:35455/gaoma/cctv2.m3u8
+CCTV3,http://xiaoya.crccxw.top:35455/gaoma/cctv3.m3u8
+CCTV4,http://xiaoya.crccxw.top:35455/gaoma/cctv4.m3u8
+CCTV5,http://xiaoya.crccxw.top:35455/gaoma/cctv5.m3u8
+CCTV5,http://xiaoya.crccxw.top:35455/gaoma/cctv5p.m3u8
+CCTV6,http://www.xzbn.site:35455/itv/1000000005000265006.m3u8?cdn=ystenlive
+CCTV7,http://xiaoya.crccxw.top:35455/gaoma/cctv7.m3u8
+CCTV8,http://xiaoya.crccxw.top:35455/gaoma/cctv8.m3u8
+CCTV9,http://xiaoya.crccxw.top:35455/gaoma/cctv9.m3u8
+CCTV10,http://xiaoya.crccxw.top:35455/gaoma/cctv10.m3u8
+CCTV11,http://xiaoya.crccxw.top:35455/gaoma/cctv11.m3u8
+CCTV12,http://xiaoya.crccxw.top:35455/gaoma/cctv12.m3u8
+CCTV13,http://xiaoya.crccxw.top:35455/gaoma/cctv13.m3u8
+CCTV14,http://xiaoya.crccxw.top:35455/gaoma/cctv14.m3u8
+CCTV15,http://xiaoya.crccxw.top:35455/gaoma/cctv15.m3u8
+CCTV16,http://xiaoya.crccxw.top:35455/gaoma/cctv16.m3u8
+CCTV17,http://xiaoya.crccxw.top:35455/gaoma/cctv17.m3u8
+
 CCTV1,http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226895/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EI0Rkc6neBYgfpoJ1yud8Fw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPpqgHe3PQ5GNQoO-yUgA8C%2CEND
 CCTV3,http://[2409:8087:1:20:20::29]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226456/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E_6GNVcVOz9Xub8CclyMRUg%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNOIR_8g_qYRqpV5wTQqRILi%2CEND
 CCTV4,http://[2409:8087:1:20:20::29]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226470/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E0wP1dRMt9qCzHdvA65wh1w%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNMcuN2HH7RLPyPHWOUWhSMk%2CEND
@@ -17,25 +36,6 @@ CCTV14,http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224
 CCTV15,http://[2409:8087:1:20:20::29]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226444/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EFQ8BWVFffGkwLTLNv7CwFQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNM7I2coCeiP5K0pSIMZqcUB%2CEND
 CCTV16,http://[2409:8087:1:20:20::2a]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227002/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EX9goLRw26BM_r54des2PAw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPt5W7-RovMDpE-7B-0PhHw%2CEND
 CCTV17,http://[2409:8087:1:20:20::29]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226442/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EtihRNVe_x2y1Lgi_XWYeNw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNOl8OnsD1vPD0mhNmo98J3J%2CEND
-
-CCTV1,http://xiaoya.crccxw.top:35455/gaoma/cctv1.m3u8
-CCTV2,http://xiaoya.crccxw.top:35455/gaoma/cctv2.m3u8
-CCTV3,http://xiaoya.crccxw.top:35455/gaoma/cctv3.m3u8
-CCTV4,http://xiaoya.crccxw.top:35455/gaoma/cctv4.m3u8
-CCTV5,http://xiaoya.crccxw.top:35455/gaoma/cctv5.m3u8
-CCTV5+,http://xiaoya.crccxw.top:35455/gaoma/cctv5p.m3u8
-CCTV6,http://www.xzbn.site:35455/itv/1000000005000265006.m3u8?cdn=ystenlive
-CCTV7,http://xiaoya.crccxw.top:35455/gaoma/cctv7.m3u8
-CCTV8,http://xiaoya.crccxw.top:35455/gaoma/cctv8.m3u8
-CCTV9,http://xiaoya.crccxw.top:35455/gaoma/cctv9.m3u8
-CCTV10,http://xiaoya.crccxw.top:35455/gaoma/cctv10.m3u8
-CCTV11,http://xiaoya.crccxw.top:35455/gaoma/cctv11.m3u8
-CCTV12,http://xiaoya.crccxw.top:35455/gaoma/cctv12.m3u8
-CCTV13,http://xiaoya.crccxw.top:35455/gaoma/cctv13.m3u8
-CCTV14,http://xiaoya.crccxw.top:35455/gaoma/cctv14.m3u8
-CCTV15,http://xiaoya.crccxw.top:35455/gaoma/cctv15.m3u8
-CCTV16,http://xiaoya.crccxw.top:35455/gaoma/cctv16.m3u8
-CCTV17,http://xiaoya.crccxw.top:35455/gaoma/cctv17.m3u8
 
 CCTV 4K,http://www.lizhinas.top:1009/rtp/239.252.220.244:5140
 CCTV 8K,http://998969.xyz:35455/gaoma/cctv8k_36m.m3u8
