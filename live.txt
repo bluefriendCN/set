@@ -1,22 +1,22 @@
 央视,#genre#
-CCTV1,http://xiaoya.crccxw.top:35455/gaoma/cctv1.m3u8
-CCTV2,http://xiaoya.crccxw.top:35455/gaoma/cctv2.m3u8
-CCTV3,http://xiaoya.crccxw.top:35455/gaoma/cctv3.m3u8
-CCTV4,http://xiaoya.crccxw.top:35455/gaoma/cctv4.m3u8
-CCTV5,http://xiaoya.crccxw.top:35455/gaoma/cctv5.m3u8
-CCTV5,http://xiaoya.crccxw.top:35455/gaoma/cctv5p.m3u8
-CCTV6,http://www.xzbn.site:35455/itv/1000000005000265006.m3u8?cdn=ystenlive
-CCTV7,http://xiaoya.crccxw.top:35455/gaoma/cctv7.m3u8
-CCTV8,http://xiaoya.crccxw.top:35455/gaoma/cctv8.m3u8
-CCTV9,http://xiaoya.crccxw.top:35455/gaoma/cctv9.m3u8
-CCTV10,http://xiaoya.crccxw.top:35455/gaoma/cctv10.m3u8
-CCTV11,http://xiaoya.crccxw.top:35455/gaoma/cctv11.m3u8
-CCTV12,http://xiaoya.crccxw.top:35455/gaoma/cctv12.m3u8
-CCTV13,http://xiaoya.crccxw.top:35455/gaoma/cctv13.m3u8
-CCTV14,http://xiaoya.crccxw.top:35455/gaoma/cctv14.m3u8
-CCTV15,http://xiaoya.crccxw.top:35455/gaoma/cctv15.m3u8
-CCTV16,http://xiaoya.crccxw.top:35455/gaoma/cctv16.m3u8
-CCTV17,http://xiaoya.crccxw.top:35455/gaoma/cctv17.m3u8
+CCTV1,https://live.mxdyeah.top/live.php?id=cctv1HD
+CCTV2,https://live.mxdyeah.top/live.php?id=cctv2HD
+CCTV3,https://live.mxdyeah.top/live.php?id=cctv3HD
+CCTV4,https://live.mxdyeah.top/live.php?id=cctv4HD
+CCTV5,https://live.mxdyeah.top/live.php?id=cctv5HD
+CCTV5+,https://live.mxdyeah.top/live.php?id=cctv5SportHD
+CCTV6,https://live.mxdyeah.top/live.php?id=cctv6HD
+CCTV7,https://live.mxdyeah.top/live.php?id=cctv7HD
+CCTV8,https://live.mxdyeah.top/live.php?id=cctv8HD
+CCTV9,https://live.mxdyeah.top/live.php?id=cctv9HD
+CCTV10,https://live.mxdyeah.top/live.php?id=cctv10HD
+CCTV11,https://live.mxdyeah.top/live.php?id=cctv11HD
+CCTV12,https://live.mxdyeah.top/live.php?id=cctv12HD
+CCTV13,https://live.mxdyeah.top/live.php?id=CCTVNewsHD
+CCTV14,https://live.mxdyeah.top/live.php?id=cctvseHD
+CCTV15,https://live.mxdyeah.top/live.php?id=cctv15HD
+CCTV16,https://live.mxdyeah.top/live.php?id=cctv16HD
+CCTV17,https://live.mxdyeah.top/live.php?id=cctv17HD
 
 CCTV1,http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226895/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EI0Rkc6neBYgfpoJ1yud8Fw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPpqgHe3PQ5GNQoO-yUgA8C%2CEND
 CCTV3,http://[2409:8087:1:20:20::29]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226456/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E_6GNVcVOz9Xub8CclyMRUg%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNOIR_8g_qYRqpV5wTQqRILi%2CEND
@@ -37,23 +37,24 @@ CCTV15,http://[2409:8087:1:20:20::29]/otttv.bj.chinamobile.com/PLTV/88888888/224
 CCTV16,http://[2409:8087:1:20:20::2a]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227002/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EX9goLRw26BM_r54des2PAw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPt5W7-RovMDpE-7B-0PhHw%2CEND
 CCTV17,http://[2409:8087:1:20:20::29]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226442/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EtihRNVe_x2y1Lgi_XWYeNw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNOl8OnsD1vPD0mhNmo98J3J%2CEND
 
-CCTV 4K,http://www.lizhinas.top:1009/rtp/239.252.220.244:5140
-CCTV 8K,http://998969.xyz:35455/gaoma/cctv8k_36m.m3u8
-
-CCTV4欧洲,http://tv.20191209.xyz:37377/migu/608807419.m3u8?migutoken=f623911f12100eda47f646cc2a14f2c4563e5d65f3e99dd30284493de9b5ff8389ee51ba62d51bb0a92235ccb1109e54ab6b1b5fe401fe4f60d18b1ccc51f92aa29b70fba7a400ff9058fdf8
-CCTV4美洲,http://tv.20191209.xyz:37377/migu/608807416.m3u8?migutoken=3e58d508ab4bf069dc535fdfc6330dfccfc52c3bb391b5b5602cff12f0acbb883fa9280c7422a00e84eba6fd1e2ddb27dc888d6e63e914595ce9fb917d9462307140d2558dac1fb322c2a85b
-CCTV4欧洲,http://drive.mxmy.net:8888/udp/239.3.1.213:4220
-CCTV4美洲,http://drive.mxmy.net:8888/udp/239.3.1.214:4220
 CCTV4欧洲,http://z.b.bkpcp.top/m.php?id=cctv4o
 CCTV4美洲,http://z.b.bkpcp.top/m.php?id=cctv4m
 中国天气,http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
 
+第一剧场,https://live.mxdyeah.top/live.php?id=diyijuchangHD
+风云剧场,https://live.mxdyeah.top/live.php?id=fyjcHD
+兵器科技,https://live.mxdyeah.top/live.php?id=bqkjHD
+怀旧剧场,https://live.mxdyeah.top/live.php?id=hjjcHD
+风云音乐,https://live.mxdyeah.top/live.php?id=fyyyHD
+央视台球,https://live.mxdyeah.top/live.php?id=ystqHD
+风云足球,https://live.mxdyeah.top/live.php?id=fyzqHD
+
+CHC动作电影,https://live.mxdyeah.top/live.php?id=chcdzdyHD
+CHC家庭影院,https://live.mxdyeah.top/live.php?id=chcjtyyHD
+CHC影迷电影,https://live.mxdyeah.top/live.php?id=chcgqdyHD
 CHC影迷电影,http://z.b.bkpcp.top/m.php?id=ymdy
 CHC动作电影,http://z.b.bkpcp.top/m.php?id=dzdy
 CHC家庭影院,http://z.b.bkpcp.top/m.php?id=jtyy
-CHC影迷电影,http://58.19.38.162:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
-CHC动作电影,http://58.19.38.162:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
-CHC家庭影院,http://58.19.38.162:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
 
 CETV1综合教育,http://[2409:8087:1:20:20::2a]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226494/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EB8MrpAzJ_Bw12HHVBcZO6g%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNONWWecbSKZXNjh_5hExtTC%2CEND
 CETV2空中课堂,http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226537/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E7AxXs4eTU2oiWrhopr9sHw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNxsM0Bor098BJglrhfEQTl%2CEND
@@ -191,19 +192,15 @@ amc电影台,http://61.221.215.25:8800/hls/43/index.m3u8
 山东教育,https://test1.live.sdetv.com.cn/live/dianshizhibo/playlist.m3u8
 
 重庆,#genre#
-重庆新闻,http://183.66.15.146:60901/tsfile/live/0019_1.m3u8?key=txiptv
-重庆影视,
-重庆社会与法,http://183.66.15.146:60901/tsfile/live/1001_1.m3u8?key=txiptv
-重庆时尚生活,
-重庆文体娱乐,http://183.66.15.146:60901/tsfile/live/1003_1.m3u8?key=txiptv
-重庆新农村,http://183.66.15.146:60901/tsfile/live/1005_1.m3u8?key=txiptv
-重庆少儿,http://183.66.15.146:60901/tsfile/live/1000_1.m3u8?key=txiptv
-重庆科教,
-重庆红叶,http://183.66.15.146:60901/tsfile/live/0016_1.m3u8?key=txiptv
-重庆红岩文化,http://183.66.15.146:60901/tsfile/live/1002_1.m3u8?key=txiptv
-重庆汽摩,http://171.213.193.255:8096/udp/239.93.0.62:5140
-重庆移动,
-重广融媒,http://183.66.15.146:60901/tsfile/live/0001_1.m3u8
+重庆卫视,https://live.mxdyeah.top/live.php?id=chongqingHD
+重庆新闻,https://live.mxdyeah.top/live.php?id=CQTVNewsHD
+重庆影视,https://live.mxdyeah.top/live.php?id=cqyingshiHD
+重庆社会与法,https://live.mxdyeah.top/live.php?id=CQTVTrendyHD
+重庆时尚生活,https://live.mxdyeah.top/live.php?id=cqssgwHD
+重庆文体娱乐,https://live.mxdyeah.top/live.php?id=cqwtylHD
+重庆新农村,https://live.mxdyeah.top/live.php?id=cqggncHD
+重庆少儿,https://live.mxdyeah.top/live.php?id=cqseHD
+重庆科教,https://live.mxdyeah.top/live.php?id=CQTVkejiaoHD
 
 巴南综合,
 璧山综合,http://222.179.42.129:8181/hls1.m3u8
