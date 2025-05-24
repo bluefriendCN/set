@@ -14,24 +14,24 @@ CCTV12,http://iptv.huuc.edu.cn/hls/cctv12hd.m3u8
 CCTV13,http://iptv.huuc.edu.cn/hls/cctv13hd.m3u8
 CCTV14,http://iptv.huuc.edu.cn/hls/cctv14hd.m3u8
 
-CCTV1,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226895/1.m3u8?
-CCTV2,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226893/1.m3u8?
-CCTV3,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226471/1.m3u8?
-CCTV4,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226335/1.m3u8?
-CCTV5,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226469/1.m3u8?
-CCTV5+,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226894/1.m3u8?
-CCTV6,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226468/1.m3u8?
-CCTV7,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226946/1.m3u8?
-CCTV8,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226485/1.m3u8?
-CCTV9,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226944/1.m3u8?
-CCTV10,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226937/1.m3u8?
-CCTV11,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226334/1.m3u8?
-CCTV12,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226942/1.m3u8?
-CCTV13,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226316/1.m3u8?
-CCTV14,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226947/1.m3u8?
-CCTV15,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226333/1.m3u8?
-CCTV16,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227002/1.m3u8?
-CCTV17,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8?
+CCTV1,http://slb.5gtv.hbcatv.cn:8060/live/OP001/IP-CCTV-1HD/index.m3u8
+CCTV2,http://slb.5gtv.hbcatv.cn:8060/live/OP001/IP-CCTV-2HD/index.m3u8
+CCTV3,http://slb.5gtv.hbcatv.cn:8060/live/OP001/IP-CCTV-3HD/index.m3u8
+CCTV4,http://slb.5gtv.hbcatv.cn:8060/live/OP001/IP-CCTV-4HD/index.m3u8
+CCTV5,http://slb.5gtv.hbcatv.cn:8060/live/OP001/IP-CCTV-5HD/index.m3u8
+CCTV5+,http://slb.5gtv.hbcatv.cn:8060/live/OP001/IP-CCTV-5TYSSHD/index.m3u8
+CCTV6,http://slb.5gtv.hbcatv.cn:8060/live/OP001/IP-CCTV-6HD/index.m3u8
+CCTV7,http://slb.5gtv.hbcatv.cn:8060/live/OP001/IP-CCTV-7HD/index.m3u8
+CCTV8,http://slb.5gtv.hbcatv.cn:8060/live/OP001/IP-CCTV-8HD/index.m3u8
+CCTV9,http://slb.5gtv.hbcatv.cn:8060/live/OP001/IP-CCTV-9HD/index.m3u8
+CCTV10,http://slb.5gtv.hbcatv.cn:8060/live/OP001/IP-CCTV-10HD/index.m3u8
+CCTV11,http://slb.5gtv.hbcatv.cn:8060/live/OP001/IP-CCTV-11HD/index.m3u8
+CCTV12,http://slb.5gtv.hbcatv.cn:8060/live/OP001/IP-CCTV-12HD/index.m3u8
+CCTV13,http://slb.5gtv.hbcatv.cn:8060/live/OP001/IP-CCTV-13HD/index.m3u8
+CCTV14,http://slb.5gtv.hbcatv.cn:8060/live/OP001/IP-CCTV-14HD/index.m3u8
+CCTV15,http://slb.5gtv.hbcatv.cn:8060/live/OP001/IP-CCTV-15HD/index.m3u8
+CCTV16,http://slb.5gtv.hbcatv.cn:8060/live/OP001/IP-CCTV-16HD/index.m3u8
+CCTV17,http://slb.5gtv.hbcatv.cn:8060/live/OP001/IP-CCTV-17HD/index.m3u8
 
 CCTV4欧洲,http://z.b.bkpcp.top/m.php?id=cctv4o
 CCTV4美洲,http://z.b.bkpcp.top/m.php?id=cctv4m
@@ -39,23 +39,26 @@ CCTV4美洲,http://z.b.bkpcp.top/m.php?id=cctv4m
 
 CHC动作电影,http://iptv.huuc.edu.cn/hls/chcatv.m3u8
 CHC家庭影院,http://iptv.huuc.edu.cn/hls/chctv.m3u8
-CHC影迷电影,http://z.b.bkpcp.top/m.php?id=ymdy
-CHC动作电影,http://z.b.bkpcp.top/m.php?id=dzdy
-CHC家庭影院,http://z.b.bkpcp.top/m.php?id=jtyy
+CHC影迷电影,
+CHC动作电影,http://slb.5gtv.hbcatv.cn:8060/live/OP001/IP-DZDY-HD/index.m3u8
+CHC家庭影院,http://slb.5gtv.hbcatv.cn:8060/live/OP001/IP-JTYY-HD/index.m3u8
 
-CETV1综合教育,http://[2409:8087:1:20:20::2a]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226494/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EB8MrpAzJ_Bw12HHVBcZO6g%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNONWWecbSKZXNjh_5hExtTC%2CEND
-CETV2空中课堂,http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226537/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E7AxXs4eTU2oiWrhopr9sHw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNxsM0Bor098BJglrhfEQTl%2CEND
+CETV1综合教育,http://slb.5gtv.hbcatv.cn:8060/live/OP001/IP-CETV1-HD/index.m3u8
+CETV2空中课堂,
 CETV3教育服务,
-CETV4职业教育,http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226557/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EBzZToIaOOoaa_jAUfhUQHQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNOD9BEmVSNbqSQpqXZxnxbk%2CEND
+CETV4职业教育,http://slb.5gtv.hbcatv.cn:8060/live/OP001/IP-CETV4-HD/index.m3u8
+
+央视高网,http://slb.5gtv.hbcatv.cn:8060/live/OP001/IP-GEFWQ-HD/index.m3u8
+央视台球,http://slb.5gtv.hbcatv.cn:8060/live/OP001/IP-YSTQ-HD/index.m3u8
 
 港澳台,#genre#
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 
-凤凰中文,http://148.135.93.213:81/phenix.php?id=fhzw
-凤凰资讯,http://148.135.93.213:81/phenix.php?id=fhzx
-凤凰香港,http://148.135.93.213:81/phenix.php?id=fhhk
+凤凰中文,http://171.213.203.206:55555/udp/239.93.1.9:2192
+凤凰资讯,http://171.213.203.206:55555/udp/239.93.0.118:2191
+凤凰香港,http://ali.hlspull.yximgs.com/live/qwt_fhhk.flv
 
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 香港卫视,http://anren.live/HK/BSJDUFpB.m3u8
@@ -198,8 +201,6 @@ CGTN法语,https://0472.org/hls/cgtnf.m3u8
 CGTN俄语,https://0472.org/hls/cgtne.m3u8
 CGTN西语,https://0472.org/hls/cgtnx.m3u8
 CGTN阿语,https://0472.org/hls/cgtna.m3u8
-AIjazeera,
-亚洲新闻,
 金砖中文,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
 金砖英文,http://brics.bonus-tv.ru/cdn/brics/english/tracks-v1a1/index.m3u8
 FashionTV,http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
@@ -215,9 +216,15 @@ HBO4,
 WB,
 CINEMAX,http://170.254.18.106/CINEMAX/index.m3u8
 AXN,http://aktv.top/AKTV/live/aktv2/axn/AKTV.m3u8
-NHK东京综合,http://aktv.top/AKTV/live/aktv3/nhk/AKTV.m3u8
-NHK World,
-KBS World,
+
+BBC,https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
+CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+CNBC,http://fl5.moveonjoy.com/CNBC/index.m3u8
+NHK World,https://nhkworld-tv.akamaized.net/hls/live/2115640/nhkworld-tv/index_1M.m3u8
+WeTV,http://fl1.moveonjoy.com/WE_TV/index.m3u8
+Cooking Channel,http://fl3.moveonjoy.com/COOKING_CHANNEL/index.m3u8
+Much,http://fl1.moveonjoy.com/MUCH/index.m3u8
+Bridezillas,https://run-br-uk.otteravision.com/run/br_uk/br_uk_720.m3u8
 
 UHD,#genre#
 CCTV4K,
