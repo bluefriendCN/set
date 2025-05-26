@@ -33,8 +33,8 @@ CCTV12,http://iptv.huuc.edu.cn/hls/cctv12hd.m3u8
 CCTV13,http://iptv.huuc.edu.cn/hls/cctv13hd.m3u8
 CCTV14,http://iptv.huuc.edu.cn/hls/cctv14hd.m3u8
 
-CCTV4欧洲,http://z.b.bkpcp.top/m.php?id=cctv4o
-CCTV4美洲,http://z.b.bkpcp.top/m.php?id=cctv4m
+CCTV4欧洲,http://goo.bkpcp.top/mg/cctv4o
+CCTV4美洲,http://goo.bkpcp.top/mg/cctv4m
 中国天气,http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
 
 CHC动作电影,http://iptv.huuc.edu.cn/hls/chcatv.m3u8
@@ -169,6 +169,19 @@ CCTV5+,http://218.89.240.144:59901/tsfile/live/0016_1.m3u8?key=txiptv
 杭州余杭综合,http://l.cztvcloud.com/channels/lantian/SXyuhang1/720p.m3u8
 杭州余杭平安,http://l.cztvcloud.com/channels/lantian/SXyuhang2/720p.m3u8
 杭州余杭未来,http://l.cztvcloud.com/channels/lantian/SXyuhang3/720p.m3u8
+武义新闻综合,http://l.cztvcloud.com/channels/lantian/SXwuyi1/720p.m3u8?zzhed
+平湖新闻综合,http://l.cztvcloud.com/channels/lantian/SXpinghu1/720p.m3u8?zzhed
+平湖民生休闲,http://l.cztvcloud.com/channels/lantian/SXpinghu2/720p.m3u8?zzhed
+萧山新闻综合,http://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8?zzhed
+萧山生活频道,http://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8?zzhed
+余姚新闻综合,http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8?zzhed
+余姚姚江文化,http://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8?zzhed
+嵊州新闻综合,http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8?zzhed
+诸暨新闻综合,http://l.cztvcloud.com/channels/lantian/SXzhuji3/720p.m3u8?zzhed
+上虞新闻综合,http://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8?zzhed
+上虞文化影院,http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8?zzhed
+上虞新商都,http://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8?zzhed
+兰溪新闻综合,http://l.cztvcloud.com/channels/lantian/SXlanxi1/720p.m3u8?zzhed
 
 广州综合频道,https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=dce137597806f62ae6fdfc40328a336e&txTime=191b5fc1c86
 广州新闻频道,https://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=520177bc9dd6916a7d6fa86bdb3f8830&txTime=191b5f5b230
