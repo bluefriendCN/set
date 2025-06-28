@@ -12,6 +12,13 @@
       "logo":"https://live.fanmingming.com/tv/{name}.png"
     },
     {
+      "name":"WebView",
+      "type":0,
+      "url": "https://ghproxy.net/raw.githubusercontent.com/bluefriendCN/set/refs/heads/main/webview.m3u",
+      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+      "logo":"https://live.fanmingming.com/tv/{name}.png"
+    },
+    {
       "name":"666",
       "type":0,
       "url":"https://ghproxy.net/raw.githubusercontent.com/zbym/66/refs/heads/66/cs.txt",
