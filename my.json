@@ -1,6 +1,6 @@
 //以下内容均来源于互联网，只为自用和学习，如有冒犯，请联系删除。
 {
-  "spider": "https://ghproxy.net/raw.githubusercontent.com/bluefriendCN/bin/refs/heads/main/fan.txt;md5;440eff67119a8dc4cef90f8856076a90",
+  "spider": "https://ghproxy.net/raw.githubusercontent.com/bluefriendCN/bin/refs/heads/main/fan.txt;md5;53ad14bb641d6ad5b1a76ea48f35cb7d",
   "wallpaper": "https://qist.cc/api/api.php",
   "flags": ["qq","腾讯","企鹅","iQiYi","qiyi","爱奇艺","奇艺","youku","YouKu","优酷","sohu","SoHu","搜狐","letv","LeShi","乐视","imgo","mgtv","MangGuo","芒果","SLYS4k","BYGA","luanzi","AliS","dxzy","bilibili","QEYSS","xigua","西瓜视频","腾讯视频","奇艺视频","优酷视频","芒果视频","乐视视频"],
   "lives": [
@@ -58,7 +58,7 @@
     {"key":"Ysj","name":"🎀异界┃动漫","type":3,"api":"csp_YsjGuard","timeout":15,"searchable":1,"quickSearch":1,"changeable":1},
     {"key":"Anime1","name":"🐾日本┃动漫","type": 3,"api": "csp_Anime1Guard","timeout":15,"searchable": 1,"quickSearch": 1,"changeable":1},
 
-    {"key":"926","name":"⚽926┃看球","type":3,"api":"csp_kanqiu926Guard","timeout":15,"searchable":0,"changeable":0,"style":{"type":"list"}},
+    {"key":"926","name":"⚽926┃看球","type":3,"api":"csp_kanqiu926Guard","timeout":15,"searchable":0,"changeable":0,"style":{"type":"list"},"ext":"uqGL1fpJNAUa4uUHi9iMsef1+C/R"},
     {"key":"88","name":"⚽88┃看球","type":3,"api":"csp_Sir88Guard","timeout":15,"searchable":0,"changeable":0,"style":{"type":"list"}},
     {"key":"看球","name":"⚽看球┃直播","type":3,"api":"csp_KanqiuGuard","timeout":15,"searchable":0,"changeable":0,"style":{"type":"list"}},
     {"key":"MTV","name":"🎧明星┃MV","type":3,"api":"csp_BiliGuard","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":{"json":"https://im.feelec.com.cn/res/file.html?id=2c9a91099584ed490195f7bf50ac60b9"}},
