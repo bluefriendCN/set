@@ -1,22 +1,22 @@
 央视,#genre#
-CCTV1,https://iptv.crestekk.cn/php/cqyx.php?id=cctv1HD
-CCTV2,https://iptv.crestekk.cn/php/cqyx.php?id=cctv2HD
-CCTV3,https://iptv.crestekk.cn/php/cqyx.php?id=cctv3HD
-CCTV4,https://iptv.crestekk.cn/php/cqyx.php?id=cctv4HD
-CCTV5,https://iptv.crestekk.cn/php/cqyx.php?id=cctv5HD
-CCTV5+,https://iptv.crestekk.cn/php/cqyx.php?id=cctv5SportHD
-CCTV6,https://iptv.crestekk.cn/php/cqyx.php?id=cctv6HD
-CCTV7,https://iptv.crestekk.cn/php/cqyx.php?id=cctv7HD
-CCTV8,https://iptv.crestekk.cn/php/cqyx.php?id=cctv8HD
-CCTV9,https://iptv.crestekk.cn/php/cqyx.php?id=cctv9HD
-CCTV10,https://iptv.crestekk.cn/php/cqyx.php?id=cctv10HD
-CCTV11,https://iptv.crestekk.cn/php/cqyx.php?id=cctv11HD
-CCTV12,https://iptv.crestekk.cn/php/cqyx.php?id=cctv12HD
-CCTV13,https://iptv.crestekk.cn/php/cqyx.php?id=CCTVNewsHD
-CCTV14,https://iptv.crestekk.cn/php/cqyx.php?id=cctvseHD
-CCTV15,https://iptv.crestekk.cn/php/cqyx.php?id=cctv15HD
-CCTV16,https://iptv.crestekk.cn/php/cqyx.php?id=cctv16HD
-CCTV17,https://iptv.crestekk.cn/php/cqyx.php?id=cctv17HD
+CCTV1,https://cc06.tv12.xyz/1.m3u8
+CCTV2,https://cc06.tv12.xyz/2.m3u8
+CCTV3,https://cc06.tv12.xyz/3.m3u8
+CCTV4,https://cc06.tv12.xyz/4.m3u8
+CCTV5,https://cc06.tv12.xyz/5.m3u8
+CCTV5+,https://cc06.tv12.xyz/6.m3u8
+CCTV6,https://cc06.tv12.xyz/7.m3u8
+CCTV7,https://cc06.tv12.xyz/8.m3u8
+CCTV8,https://cc06.tv12.xyz/9.m3u8
+CCTV9,https://cc06.tv12.xyz/10.m3u8
+CCTV10,https://cc06.tv12.xyz/11.m3u8
+CCTV11,https://cc06.tv12.xyz/12.m3u8
+CCTV12,https://cc06.tv12.xyz/13.m3u8
+CCTV13,https://cc06.tv12.xyz/14.m3u8
+CCTV14,https://cc06.tv12.xyz/15.m3u8
+CCTV15,https://cc06.tv12.xyz/16.m3u8
+CCTV16,rtp://239.3.1.184:8001
+CCTV17,https://cc06.tv12.xyz/17.m3u8
 
 CCTV1,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
 CCTV2,http://iptv.huuc.edu.cn/hls/cctv2hd.m3u8
@@ -33,24 +33,18 @@ CCTV12,http://iptv.huuc.edu.cn/hls/cctv12hd.m3u8
 CCTV13,http://iptv.huuc.edu.cn/hls/cctv13hd.m3u8
 CCTV14,http://iptv.huuc.edu.cn/hls/cctv14hd.m3u8
 
-CCTV4欧洲,http://fn.tmde.top:35455/mgtv/608807419.m3u8
-CCTV4美洲,http://fn.tmde.top:35455/mgtv/608807416.m3u8
+CCTV4欧洲,rtp://239.3.1.213:4220
+CCTV4美洲,rtp://239.3.1.214:4220
 中国天气,http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
 
-CHC动作电影,https://iptv.crestekk.cn/php/cqyx.php?id=chcdzdyHD
-CHC家庭影院,https://iptv.crestekk.cn/php/cqyx.php?id=chcjtyyHD
-CHC影迷电影,https://iptv.crestekk.cn/php/cqyx.php?id=chcgqdyHD
 CHC动作电影,http://iptv.huuc.edu.cn/hls/chcatv.m3u8
 CHC家庭影院,http://iptv.huuc.edu.cn/hls/chctv.m3u8
+CHC影迷电影,
 
 CETV1综合教育,
 CETV2空中课堂,
 CETV3教育服务,
 CETV4职业教育,
-
-第一剧场,https://iptv.crestekk.cn/php/cqyx.php?id=diyijuchangHD
-风云剧场,https://iptv.crestekk.cn/php/cqyx.php?id=fyjcHD
-怀旧剧场,https://iptv.crestekk.cn/php/cqyx.php?id=hjjcHD
 
 港澳台,#genre#
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
@@ -59,17 +53,18 @@ CETV4职业教育,
 
 凤凰中文,http://171.213.199.251:4000/udp/239.93.0.162:2192
 凤凰资讯,http://115.195.148.14:8888/udp/233.50.200.192:5140
-凤凰香港,
+凤凰香港,http://203.205.191.53/qctv.fengshows.cn/live/0701phk72.m3u8
 
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 香港卫视,http://anren.live/HK/BSJDUFpB.m3u8
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct
 
-澳门莲花,http://8.138.7.223/tv/lotustv.m3u8
+澳门莲花,http://live-hls.macaulotustv.com/lotustv/macaulotustv.m3u8
 澳视澳门,http://cdn.132.us.kg/live/asam/stream.m3u8
 大爱1,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 大爱2,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 
+亚洲卫视,https://pull-hsbj.vzan.com/v/slowlive_821481626725612419.flv
 Discover,http://61.221.215.25:8800/hls/1/index.m3u8
 TVBS新闻,http://61.221.215.25:8800/hls/9/index.m3u8
 八大戏剧台,http://61.221.215.25:8800/hls/39/index.m3u8
@@ -83,42 +78,7 @@ amc电影台,http://61.221.215.25:8800/hls/43/index.m3u8
 音乐台,http://61.221.215.25:8800/hls/58/index.m3u8
 
 卫视,#genre#
-浙江卫视,https://iptv.crestekk.cn/php/cqyx.php?id=zhejiangHD
-江苏卫视,https://iptv.crestekk.cn/php/cqyx.php?id=jiangsuHD
-北京卫视,https://iptv.crestekk.cn/php/cqyx.php?id=beijingHD
-东方卫视,https://iptv.crestekk.cn/php/cqyx.php?id=shanghaiHD
-安徽卫视,https://iptv.crestekk.cn/php/cqyx.php?id=anhuiSD
-广东卫视,https://iptv.crestekk.cn/php/cqyx.php?id=guangdongHD
-深圳卫视,https://iptv.crestekk.cn/php/cqyx.php?id=shenzhenHD
-辽宁卫视,https://iptv.crestekk.cn/php/cqyx.php?id=liaoningHD
-海南卫视,https://iptv.crestekk.cn/php/cqyx.php?id=hainanSD
-天津卫视,https://iptv.crestekk.cn/php/cqyx.php?id=tianjinHD
-四川卫视,https://iptv.crestekk.cn/php/cqyx.php?id=sichuanHD
-湖南卫视,https://live.mxdyeah.top/live.php?id=hunanHD
-东南卫视,https://live.mxdyeah.top/live.php?id=dongnanHD
-广西卫视,https://iptv.crestekk.cn/php/cqyx.php?id=guangxiHD
-贵州卫视,https://iptv.crestekk.cn/php/cqyx.php?id=guizhouHD
-河北卫视,https://iptv.crestekk.cn/php/cqyx.php?id=hebeiSD
-黑龙江卫视,https://iptv.crestekk.cn/php/cqyx.php?id=heilongjiangHD
-河南卫视,https://iptv.crestekk.cn/php/cqyx.php?id=henanHD
-湖北卫视,https://iptv.crestekk.cn/php/cqyx.php?id=hubeiSD
-江西卫视,https://iptv.crestekk.cn/php/cqyx.php?id=jiangxiHD
-吉林卫视,https://iptv.crestekk.cn/php/cqyx.php?id=jilinHD
-青海卫视,https://iptv.crestekk.cn/php/cqyx.php?id=qinghaiSD
-海南卫视,https://iptv.crestekk.cn/php/cqyx.php?id=hainanSD
-宁夏卫视,https://iptv.crestekk.cn/php/cqyx.php?id=ningxia
-山西卫视,https://iptv.crestekk.cn/php/cqyx.php?id=shanxiSD
-云南卫视,https://iptv.crestekk.cn/php/cqyx.php?id=yunnanSD
-新疆卫视,https://iptv.crestekk.cn/php/cqyx.php?id=xinjiangSD
-内蒙古卫视,https://iptv.crestekk.cn/php/cqyx.php?id=neimengkuSD
-西藏卫视,https://iptv.crestekk.cn/php/cqyx.php?id=xizangSD
-
 北京卫视,http://iptv.huuc.edu.cn/hls/btv1hd.m3u8
-北京文艺,http://iptv.huuc.edu.cn/hls/btv2hd.m3u8
-北京体育,http://iptv.huuc.edu.cn/hls/btv6hd.m3u8
-北京影视,http://iptv.huuc.edu.cn/hls/btv4hd.m3u8
-北京新闻,http://iptv.huuc.edu.cn/hls/btv9hd.m3u8
-北京纪实,http://iptv.huuc.edu.cn/hls/btv11hd.m3u8
 湖南卫视,http://iptv.huuc.edu.cn/hls/hunanhd.m3u8
 浙江卫视,http://iptv.huuc.edu.cn/hls/zjhd.m3u8
 江苏卫视,http://iptv.huuc.edu.cn/hls/jshd.m3u8
@@ -165,28 +125,6 @@ amc电影台,http://61.221.215.25:8800/hls/43/index.m3u8
 忠县综合,
 
 特色,#genre#
-卡酷动画,https://iptv.crestekk.cn/php/cqyx.php?id=bjkakuSD
-金鹰卡通,https://iptv.crestekk.cn/php/cqyx.php?id=jinyingSD
-快乐垂钓,https://iptv.crestekk.cn/php/cqyx.php?id=klcdHD
-都市剧场,https://iptv.crestekk.cn/php/cqyx.php?id=dsjcHD
-四海钓鱼,https://iptv.crestekk.cn/php/cqyx.php?id=diaoyu
-动漫秀场,https://iptv.crestekk.cn/php/cqyx.php?id=dmxcHD
-魅力足球,https://iptv.crestekk.cn/php/cqyx.php?id=mlzqHD
-求索纪录,https://iptv.crestekk.cn/php/cqyx.php?id=qsjlHD
-游戏风云,https://iptv.crestekk.cn/php/cqyx.php?id=yxfyHD
-书画,https://iptv.crestekk.cn/php/cqyx.php?id=shuhua
-国学频道,https://iptv.crestekk.cn/php/cqyx.php?id=guoxue
-优优宝贝,https://iptv.crestekk.cn/php/cqyx.php?id=youxi
-中华特产,https://iptv.crestekk.cn/php/cqyx.php?id=techan
-环球奇观,https://iptv.crestekk.cn/php/cqyx.php?id=car
-生态环境,https://iptv.crestekk.cn/php/cqyx.php?id=shengtai
-发现之旅,https://iptv.crestekk.cn/php/cqyx.php?id=faxian
-法治天地,https://iptv.crestekk.cn/php/cqyx.php?id=fazhi
-金色学堂,https://iptv.crestekk.cn/php/cqyx.php?id=jinse
-收藏天下,https://iptv.crestekk.cn/php/cqyx.php?id=soucang
-财富天下,https://iptv.crestekk.cn/php/cqyx.php?id=caifu
-天元围棋,https://iptv.crestekk.cn/php/cqyx.php?id=weiqi
-环球旅游,https://iptv.crestekk.cn/php/cqyx.php?id=huanqiulvyou
 1905电影,http://php.jdshipin.com/1905.php?id=1905dy
 直播中国,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
 
@@ -242,14 +180,14 @@ amc电影台,http://61.221.215.25:8800/hls/43/index.m3u8
 赤峰新闻综合,https://livestream-bt.nmtv.cn/nmtv/2351general.m3u8?txSecret=8857087aeec2cec44d178a18550fdb8a&txTime=771E8800
 乌兰察布新闻,https://livestream-bt.nmtv.cn/nmtv/2354general.m3u8?txSecret=cf5f71d0000862b18f5813607b3dfd5b&txTime=771E8800
 
-北京卫视,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s1/index.m3u8?time=1759311606&sign=1b7aa948748d12e04241d55bf304556a
+北京卫视,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s1/index.m3u8?time=1759578007&sign=a3ab1e6e78e463524c75f499db2d7a85
 北京新闻,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s9/index.m3u8?time=1759311614&sign=fca6abd93c8e81b01834e9fac623896c
-北京影视,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s4/index.m3u8?time=1759311610&sign=c4d8fa1cf571f9202c9264624642fa36
-北京生活,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s7/index.m3u8?time=1759311612&sign=c335344c8436660d754c3536d195d85a
-北京文艺,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s2/index.m3u8?time=1759311607&sign=60b25d74d2b2f6faa7397528b34462a4
-北京财经,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s5/index.m3u8?time=1759311611&sign=2a881436be666494ad968deb23ffc8ab
-纪实科教,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s3/index.m3u8?time=1759311608&sign=d06ba2210f81f52b6f47fc2ad45c9544
-卡酷少儿,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s10/index.m3u8?time=1759311615&sign=0fa23f2c6ca0fffe804792fafea9210d
+北京影视,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s9/index.m3u8?time=1759578015&sign=0920121042a4658560f0eb29509a7e4b
+北京生活,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s7/index.m3u8?time=1759578014&sign=7804b876c3724e7ac9376aed01b63be6
+北京文艺,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s2/index.m3u8?time=1759578008&sign=bf5c6cd8cea6afad0fbbad7e8540bf26
+北京财经,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s5/index.m3u8?time=1759578012&sign=06dee20c45d542f54f45db06317a2ab6
+纪实科教,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s3/index.m3u8?time=1759578009&sign=e86403d763e3121311e0612733210b01
+卡酷少儿,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s10/index.m3u8?time=1759578016&sign=b32eb6989e87a1d3fe4e406dd4129e29
 
 国际,#genre#
 CGTN英语,https://english-livebkali.cgtn.com/live/encgtn_0.m3u8
@@ -294,6 +232,6 @@ CCTV16,
 纯享4K,
 苏州4K,
 测试,https://mos-vod-drcn.dbankcdn.cn/P_VT/video_injection/3282D63676C3EAC291CFD5D891CB5D3A8C52A5B9AA8EBEF72D0BEF0A34EAEFC0134D9B0/v3/M2040549141360156160/chunjianghuayueyevivid.mp4
-北京卫视4K,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s110/index.m3u8?time=1759311616&sign=822dd5714d4907f9e9fb7fae790565f9
+北京卫视4K,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s110/index.m3u8?time=1759578017&sign=10b01d2bed04ddd237feaedc75e14c66
 北京纪实8K,http://111.31.106.140/downflv.brtvcloud.com/8klive/8kliveok.m3u8
 江苏8K测试,
