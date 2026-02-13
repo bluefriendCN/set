@@ -8,9 +8,9 @@
       "url": "https://g.blfrp.cn/raw.githubusercontent.com/qist/tvbox/refs/heads/master/listx.m3u"
     },
     {
-      "name":"直播",
+      "name":"麻豆",
       "type":0,
-      "url": "https://fongmi.cachefly.net/YanG-1989/m3u/main/XX.m3u"
+      "url": "https://down.nigx.cn/raw.githubusercontent.com/ediart/tvbox/refs/heads/main/TVBoxOSC/tvbox/madou.m3u"
     },
     {
       "name":"atsushi",
