@@ -12,9 +12,9 @@
       "logo":"https://logo.wyfc.qzz.io/{name}.png"
     },
     {
-      "name":"Yoursmile",
+      "name":"咪咕",
       "type":0,
-      "url":"https://ghfast.top/raw.githubusercontent.com/yoursmile66/TVBox/main/live.txt",
+      "url":"https://ghfast.top/raw.githubusercontent.com/ioptu/IPTV.txt2m3u.player/refs/heads/main/migu.m3u",
       "playerType":1,
       "epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
       "logo":"https://logo.wyfc.qzz.io/{name}.png"
