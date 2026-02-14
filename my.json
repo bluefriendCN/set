@@ -8,15 +8,14 @@
       "name":"Live",
       "type":0,
       "url": "https://ghproxy.net/raw.githubusercontent.com/bluefriendCN/set/refs/heads/main/live.txt",
-      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+      "epg": "https://epg.cdn.loc.cc/?ch={name}&date={date}",
       "logo":"https://logo.wyfc.qzz.io/{name}.png"
     },
     {
       "name":"咪咕",
       "type":0,
       "url":"https://ghfast.top/raw.githubusercontent.com/ioptu/IPTV.txt2m3u.player/refs/heads/main/migu.m3u",
-      "playerType":1,
-      "epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+      "epg":"https://epg.cdn.loc.cc/?ch={name}&date={date}",
       "logo":"https://logo.wyfc.qzz.io/{name}.png"
     },
     {
@@ -24,14 +23,14 @@
       "type":0,
 			"url": "https://bc.188766.xyz/?url=https://live.188766.xyz&mishitong=true&mima=bingcha1130&huikan=en&json=true",
 			"ua": "bingcha/1.1 (mianfeifenxiang) ",
-      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+      "epg": "https://epg.cdn.loc.cc/?ch={name}&date={date}",
       "logo":"https://logo.wyfc.qzz.io/{name}.png"
     }
   ],
   "sites": [
 {"key":"豆豆","name":"叨观荐影","type":3,"api":"csp_DouDouGuard","indexs":1,"searchable":0,"quickSearch":0,"filterable":1},
 {"key":"Live2cms","name":"电视直播","type":3,"api":"https://ghproxy.net/raw.githubusercontent.com/bluefriendCN/bin/refs/heads/main/js/live2mv.js","changeable":0,"ext":"1989$https://tv.iill.top/m3u/Gather"},
-{"key":"哔哩","name":"🅱️哔哩哔哩","type": 3,"api": "csp_BiliGuard","style": {"type": "rect","ratio": 1.597},"searchable": 1,"quickSearch": 0,"changeable": 0,"ext": {"json": "https://nos.netease.com/ysf/0075389dca9afadd4614e9713765ff17.txt"}},
+{"key":"哔哩","name":"🅱️哔哩哔哩","type": 3,"api": "csp_BiliGuard","style": {"type": "rect","ratio": 1.597},"searchable": 0,"quickSearch": 0,"changeable": 0,"ext": {"json": "https://nos.netease.com/ysf/0075389dca9afadd4614e9713765ff17.txt"}},
 
 {"key":"MDrive","name":"🗂我的云盘┃我配置","type":3,"api":"csp_MyDriveGuard","changeable":0,"indexs":0,"searchable":1,"style":{"type":"oval"},"ext":{"Cloud-drive":"tvfan/Cloud-drive.txt"}},
 {"key":"玩偶","name":"👽玩偶哥哥┃4K弹幕","type":3,"api":"csp_WoGGGuard","timeout":30,"searchable":1,"quickSearch":1,"changeable":0, "ext": {"Cloud-drive":"tvfan/Cloud-drive.txt"}},
