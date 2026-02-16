@@ -271,7 +271,7 @@ Bridezillas,https://run-br-uk.otteravision.com/run/br_uk/br_uk_720.m3u8
 UHD,#genre#
 CCTV4K,http://fn.tmde.top:35455/nptv/cctv4k.m3u8
 CCTV8K,http://fn.tmde.top:35455/nptv/cctv8k.m3u8
-CCTV16,
+CCTV,http://pull-hls-spe-l6.douyinliving.com/fantasy/stream-118852785363485366_uhd/index.m3u8?k=296292b41e4bcb41&t=1771319945
 欢笑剧场4K,
 华数4K,http://58.249.149.87:808/hls/56/index.m3u8
 纯享4K,
