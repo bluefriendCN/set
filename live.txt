@@ -1,21 +1,21 @@
 央视,#genre#
-CCTV1,http://58.255.200.159:808/hls/1/index.m3u8
-CCTV2,http://58.255.200.159:808/hls/2/index.m3u8
-CCTV3,http://58.255.200.159:808/hls/3/index.m3u8
-CCTV4,http://58.255.200.159:808/hls/4/index.m3u8
-CCTV5,http://58.255.200.159:808/hls/5/index.m3u8
-CCTV6,http://58.255.200.159:808/hls/6/index.m3u8
-CCTV7,http://58.255.200.159:808/hls/7/index.m3u8
-CCTV8,http://58.255.200.159:808/hls/8/index.m3u8
-CCTV9,http://58.255.200.159:808/hls/9/index.m3u8
-CCTV10,http://58.255.200.159:808/hls/10/index.m3u8
-CCTV11,http://58.255.200.159:808/hls/11/index.m3u8
-CCTV12,http://58.255.200.159:808/hls/12/index.m3u8
-CCTV13,http://58.255.200.159:808/hls/13/index.m3u8
-CCTV14,http://58.255.200.159:808/hls/14/index.m3u8
-CCTV15,http://58.255.200.159:808/hls/15/index.m3u8
-CCTV16,http://58.255.200.159:808/hls/16/index.m3u8
-CCTV17,http://58.255.200.159:808/hls/17/index.m3u8
+CCTV1,http://183.237.71.182:40000/hls/1/index.m3u8
+CCTV2,http://183.237.71.182:40000/hls/2/index.m3u8
+CCTV3,http://183.237.71.182:40000/hls/3/index.m3u8
+CCTV4,http://183.237.71.182:40000/hls/4/index.m3u8
+CCTV5,http://183.237.71.182:40000/hls/5/index.m3u8
+CCTV6,http://183.237.71.182:40000/hls/6/index.m3u8
+CCTV7,http://183.237.71.182:40000/hls/7/index.m3u8
+CCTV8,http://183.237.71.182:40000/hls/8/index.m3u8
+CCTV9,http://183.237.71.182:40000/hls/9/index.m3u8
+CCTV10,http://183.237.71.182:40000/hls/10/index.m3u8
+CCTV11,http://183.237.71.182:40000/hls/11/index.m3u8
+CCTV12,http://183.237.71.182:40000/hls/12/index.m3u8
+CCTV13,http://183.237.71.182:40000/hls/13/index.m3u8
+CCTV14,http://183.237.71.182:40000/hls/14/index.m3u8
+CCTV15,http://183.237.71.182:40000/hls/15/index.m3u8
+CCTV16,http://183.237.71.182:40000/hls/17/index.m3u8
+CCTV17,http://183.237.71.182:40000/hls/18/index.m3u8
 CCTV5+,http://183.237.71.182:40000/hls/16/index.m3u8
 
 CCTV1,http://38.75.136.137:98/gslb/dsdqpub/cctv1hd.m3u8?auth=testpub
@@ -57,9 +57,9 @@ CETV4职业教育,http://183.237.71.182:40000/hls/62/index.m3u8
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 
-凤凰中文,http://rihou.cc:555/tv/[SX]凤凰中文
-凤凰资讯,http://rihou.cc:555/tv/[PL]凤凰资讯
-凤凰香港,http://rihou.cc:555/tv/[SX]凤凰香港
+凤凰中文,http://tv.groupshare.com.cn/fhtv?id=cn
+凤凰资讯,http://tv.groupshare.com.cn/fhtv?id=info
+凤凰香港,http://tv.groupshare.com.cn/fhtv?id=hk
 
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 香港卫视,http://anren.live/HK/BSJDUFpB.m3u8
@@ -72,7 +72,7 @@ CETV4职业教育,http://183.237.71.182:40000/hls/62/index.m3u8
 大爱2,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 
 千禧經典台,http://bxtv.3a.ink/api.php?id=qxjd
-翡翠台,http://bxtv.3a.ink/api.php?id=fct
+翡翠台,http://cdn6.163189.xyz/163189/fct4k
 明珠台,http://bxtv.3a.ink/api.php?id=mz
 無線新聞台,http://bxtv.3a.ink/api.php?id=wxxw
 美亞電影台,http://bxtv.3a.ink/api.php?id=meiya
@@ -149,25 +149,31 @@ amc电影台,http://61.221.215.25:8800/hls/43/index.m3u8
 广东少儿,http://183.237.71.182:40000/hls/71/index.m3u8
 嘉佳卡通,http://183.237.71.182:40000/hls/72/index.m3u8
 
+西藏卫视,https://tv.vtibet.cn/live/h701F9MpxzPDyE.m3u8?secret=40b9c12797d44733a48b84949af4dddd&time=699499e2
+
 重庆,#genre#
-重庆卫视,https://live.mxdyeah.top/live.php?id=chongqingHD
-重庆新闻,https://live.mxdyeah.top/live.php?id=CQTVNewsHD
-重庆影视,https://live.mxdyeah.top/live.php?id=cqyingshiHD
-重庆社会与法,https://live.mxdyeah.top/live.php?id=CQTVTrendyHD
-重庆时尚生活,https://live.mxdyeah.top/live.php?id=cqssgwHD
-重庆文体娱乐,https://live.mxdyeah.top/live.php?id=cqwtylHD
-重庆新农村,https://live.mxdyeah.top/live.php?id=cqggncHD
-重庆少儿,https://live.mxdyeah.top/live.php?id=cqseHD
-重庆科教,https://live.mxdyeah.top/live.php?id=CQTVkejiaoHD
+重庆新闻,http://27.8.41.198:4022/rtp/225.0.4.188:7980
+重庆新农村,http://27.8.41.198:4022/rtp/225.0.4.189:7980
+重庆社会与法,http://27.8.41.198:4022/rtp/225.0.4.190:7980
+重庆少儿,http://27.8.41.198:4022/rtp/225.0.4.191:7980
+重庆影视剧,http://27.8.41.198:4022/rtp/225.0.4.192:7980
+重庆红叶,http://27.8.41.198:4022/rtp/225.0.4.193:7980
+重庆文体娱乐,http://27.8.41.198:4022/rtp/225.0.4.194:7980
+重庆汽摩,http://27.8.41.198:4022/rtp/225.0.4.195:7980
+重庆红岩文化,http://27.8.41.198:4022/rtp/225.0.4.196:7980
+重庆移动,http://27.8.41.198:4022/rtp/225.0.4.215:7980
+
 
 巴南综合,
+铜梁综合,http://183.64.174.171:40123/ch1.m3u8
 璧山综合,http://222.179.42.129:8181/hls1.m3u8
-大足综合,
+潼南综合,http://183.230.184.51:65500/tntv1.m3u8
+江津综合,http://222.179.155.21:1935/ch1.m3u8
 荣昌综合,http://183.64.181.25:40023/rongchang01.m3u8
-江津综合,http://222.179.155.21:1935/ch1.m3u8?zzhongqd
-武隆综合,
-万州综合,http://live.wanyuannews.com/wytv/hd/live.m3u8
-忠县综合,
+涪陵综合,http://183.64.215.48:1002/1.m3u8
+铜梁综合,https://tlpc01.cqliving.com/ch1.m3u8
+万州综合,https://wanzhoulive.cbg.cn/iTXwrGs/800/live.m3u8
+万州三峡,https://wanzhoulive.cbg.cn/c2F0hmi/1000/live.m3u8
 
 特色,#genre#
 1905电影,http://php.jdshipin.com/1905.php?id=1905dy
@@ -208,7 +214,7 @@ amc电影台,http://61.221.215.25:8800/hls/43/index.m3u8
 广州影视频道,http://tencentplay.gztv.com/live/yingshi.m3u8?txSecret=1bd3a1082ab5b89f48c1bff9a3760da4&txTime=18d57929bd4
 广州影视频道,https://tencentplay.gztv.com/live/yingshi.m3u8?txSecret=2b09d952702fe2c67ddad695faa4c27c&txTime=191b5db5ed0
 广州法治频道,https://tencentplay.gztv.com/live/fazhi.m3u8?txSecret=4400d75d2114b2db07d86eda8f8218ee&txTime=191b60ce0f6
-广州南国都市频道,https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de
+广州南国都市,https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de
 广州竞赛频道,https://tencentplay.gztv.com/live/jingsai.m3u8?txSecret=a4d04c27d0d1d8b7efef2ed7ff1c3eae&txTime=191b60cc9ca
 
 内蒙新闻,https://livestream-bt.nmtv.cn/nmtv/2316general.m3u8?txSecret=b4373417a82ed64e52b0982a66da8df2&txTime=771E8800
@@ -254,11 +260,11 @@ HBO Xtreme,http://170.254.18.106/HBO_XTREME/index.m3u8
 HBO Pop,http://170.254.18.106/HBO_POP/index.m3u8
 HBO2,http://170.254.18.106/HBO2/index.m3u8
 HBO+,http://170.254.18.106/HBO_PLUS/index.m3u8
-HBO4,
-WB,
+HBOFamily,http://iptv.fr.to/test/Fmtv.php?id=HBOFamily
+HBOHits,http://iptv.fr.to/test/Fmtv.php?id=HBOHits
 CINEMAX,http://170.254.18.106/CINEMAX/index.m3u8
 AXN,http://aktv.top/AKTV/live/aktv2/axn/AKTV.m3u8
-
+Discover asia,http://iptv.fr.to/test/Fmtv.php?id=asia
 BBC,https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 CNBC,http://fl5.moveonjoy.com/CNBC/index.m3u8
@@ -269,14 +275,15 @@ Much,http://fl1.moveonjoy.com/MUCH/index.m3u8
 Bridezillas,https://run-br-uk.otteravision.com/run/br_uk/br_uk_720.m3u8
 
 UHD,#genre#
-CCTV4K,http://fn.tmde.top:35455/nptv/cctv4k.m3u8
-CCTV8K,http://fn.tmde.top:35455/nptv/cctv8k.m3u8
-CCTV,http://pull-hls-spe-l6.douyinliving.com/fantasy/stream-118852785363485366_uhd/index.m3u8?k=296292b41e4bcb41&t=1771319945
+CCTV4K,
+CCTV8K,
+CCTV16,
 欢笑剧场4K,
-华数4K,http://58.249.149.87:808/hls/56/index.m3u8
+华数4K,
 纯享4K,
-苏州4K,
-测试,https://mos-vod-drcn.dbankcdn.cn/P_VT/video_injection/3282D63676C3EAC291CFD5D891CB5D3A8C52A5B9AA8EBEF72D0BEF0A34EAEFC0134D9B0/v3/M2040549141360156160/chunjianghuayueyevivid.mp4
-北京卫视4K,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s110/index.m3u8?time=1759578017&sign=10b01d2bed04ddd237feaedc75e14c66
-北京纪实8K,http://111.31.106.140/downflv.brtvcloud.com/8klive/8kliveok.m3u8
+河北4K,http://106.53.99.30/tv/api.php?id=hebtv4k
+苏州4K,http://106.53.99.30/tv/api.php?id=sztv4k
+测试,
+北京卫视4K,
+北京纪实8K,
 江苏8K测试,
