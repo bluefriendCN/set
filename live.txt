@@ -17,6 +17,7 @@ CCTV15,http://183.237.71.182:40000/hls/15/index.m3u8
 CCTV16,http://183.237.71.182:40000/hls/17/index.m3u8
 CCTV17,http://183.237.71.182:40000/hls/18/index.m3u8
 CCTV5+,http://183.237.71.182:40000/hls/16/index.m3u8
+CCTV4K,http://223.95.198.3:8000/hls/18/index.m3u8
 
 CCTV1,http://38.75.136.137:98/gslb/dsdqpub/cctv1hd.m3u8?auth=testpub
 CCTV2,http://38.75.136.137:98/gslb/dsdqpub/cctv2hd.m3u8?auth=testpub
@@ -39,9 +40,13 @@ CCTV17,http://38.75.136.137:98/gslb/dsdqpub/cctv17hd.m3u8?auth=testpub
 CCTV4k,http://38.75.136.137:98/gslb/dsdqpub/cctv4k.m3u8?auth=testpub
 CCTV8K,http://38.75.136.137:98/gslb/dsdqpub/cctv8k.m3u8?auth=testpub
 
-CCTV4欧洲,rtp://239.3.1.213:4220
-CCTV4美洲,rtp://239.3.1.214:4220
+CCTV4欧洲,https://iptv.gstory.cn/Cinetry/608807419
+CCTV4美洲,https://iptv.gstory.cn/Cinetry/608807416
 中国天气,http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
+
+CHC家庭影院,https://iptv.gstory.cn/Cinetry/644368373
+CHC影迷电影,https://iptv.gstory.cn/Cinetry/952383261
+CHC动作电影,https://iptv.gstory.cn/Cinetry/644368714
 
 CHC家庭影院,http://38.75.136.137:98/gslb/dsdqpub/chcjt.m3u8?auth=testpub
 CHC影迷电影,http://38.75.136.137:98/gslb/dsdqpub/chchd.m3u8?auth=testpub
@@ -53,6 +58,8 @@ CETV3教育服务,
 CETV4职业教育,http://183.237.71.182:40000/hls/62/index.m3u8
 
 港澳台,#genre#
+凤凰中文,http://223.95.198.3:8000/hls/20/index.m3u8
+
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
@@ -63,7 +70,7 @@ CETV4职业教育,http://183.237.71.182:40000/hls/62/index.m3u8
 
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 香港卫视,http://anren.live/HK/BSJDUFpB.m3u8
-翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct
+翡翠台,http://27.41.244.244:808/hls/64/index.m3u8
 
 亚洲卫视,https://pull-hsbj.vzan.com/v/slowlive_821481626725612419.flv
 澳门莲花,http://live-hls.macaulotustv.com/lotustv/macaulotustv.m3u8
@@ -129,16 +136,16 @@ amc电影台,http://61.221.215.25:8800/hls/43/index.m3u8
 新疆卫视,http://183.237.71.182:40000/hls/48/index.m3u8
 甘肃卫视,http://183.237.71.182:40000/hls/49/index.m3u8
 兵团卫视,http://183.237.71.182:40000/hls/50/index.m3u8
-厦门卫视,http://183.237.71.182:40000/hls/57/index.m3u8
-三沙卫视,http://183.237.71.182:40000/hls/59/index.m3u8
-广东卫视,http://183.237.71.182:40000/hls/63/index.m3u8
 卡酷动画,http://183.237.71.182:40000/hls/51/index.m3u8
 金鹰卡通,http://183.237.71.182:40000/hls/52/index.m3u8
 炫动卡通,http://183.237.71.182:40000/hls/53/index.m3u8
 山东教育,http://183.237.71.182:40000/hls/55/index.m3u8
 财富天下,http://183.237.71.182:40000/hls/56/index.m3u8
+厦门卫视,http://183.237.71.182:40000/hls/57/index.m3u8
 优漫卡通,http://183.237.71.182:40000/hls/58/index.m3u8
+三沙卫视,http://183.237.71.182:40000/hls/59/index.m3u8
 吉林延边卫视,http://183.237.71.182:40000/hls/60/index.m3u8
+广东卫视,http://183.237.71.182:40000/hls/63/index.m3u8
 广东珠江,http://183.237.71.182:40000/hls/64/index.m3u8
 广东新闻,http://183.237.71.182:40000/hls/65/index.m3u8
 广东民生,http://183.237.71.182:40000/hls/66/index.m3u8
@@ -148,8 +155,6 @@ amc电影台,http://61.221.215.25:8800/hls/43/index.m3u8
 广东影视,http://183.237.71.182:40000/hls/70/index.m3u8
 广东少儿,http://183.237.71.182:40000/hls/71/index.m3u8
 嘉佳卡通,http://183.237.71.182:40000/hls/72/index.m3u8
-
-西藏卫视,https://tv.vtibet.cn/live/h701F9MpxzPDyE.m3u8?secret=40b9c12797d44733a48b84949af4dddd&time=699499e2
 
 重庆,#genre#
 重庆新闻,http://27.8.41.198:4022/rtp/225.0.4.188:7980
@@ -192,6 +197,13 @@ amc电影台,http://61.221.215.25:8800/hls/43/index.m3u8
 浙江国际,http://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
 浙江好易购,http://ali-m-l.cztv.com/channels/lantian/channel011/1080p.m3u8
 浙江之江纪录,http://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
+
+NBTV-1,http://223.95.198.3:8000/hls/48/index.m3u8
+NBTV-2,http://223.95.198.3:8000/hls/49/index.m3u8
+浙江新闻,http://223.95.198.3:8000/hls/50/index.m3u8
+浙江民生,http://223.95.198.3:8000/hls/51/index.m3u8
+浙江少儿,http://223.95.198.3:8000/hls/52/index.m3u8
+
 杭州余杭综合,http://l.cztvcloud.com/channels/lantian/SXyuhang1/720p.m3u8
 杭州余杭平安,http://l.cztvcloud.com/channels/lantian/SXyuhang2/720p.m3u8
 杭州余杭未来,http://l.cztvcloud.com/channels/lantian/SXyuhang3/720p.m3u8
@@ -217,28 +229,8 @@ amc电影台,http://61.221.215.25:8800/hls/43/index.m3u8
 广州南国都市,https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de
 广州竞赛频道,https://tencentplay.gztv.com/live/jingsai.m3u8?txSecret=a4d04c27d0d1d8b7efef2ed7ff1c3eae&txTime=191b60cc9ca
 
-内蒙新闻,https://livestream-bt.nmtv.cn/nmtv/2316general.m3u8?txSecret=b4373417a82ed64e52b0982a66da8df2&txTime=771E8800
-内蒙经济,https://livestream-bt.nmtv.cn/nmtv/2317general.m3u8?txSecret=112b2c4c872de52b0f37aff6ead63ef0&txTime=771E8800
-内蒙少儿,https://livestream-bt.nmtv.cn/nmtv/2318general.m3u8?txSecret=a2c948908728a0733cecbe1fadea23dc&txTime=771E8800
-内蒙文体,https://livestream-bt.nmtv.cn/nmtv/2319general.m3u8?txSecret=c7b5c515d2bb6df442492d54955329a3&txTime=771E8800
-内蒙农牧,https://livestream-bt.nmtv.cn/nmtv/2320general.m3u8?txSecret=4d368a175afa19737a9f5be10af24fe2&txTime=771E8800
-蒙语卫视,https://livestream-bt.nmtv.cn/nmtv/2315general.m3u8?txSecret=4971666599ef9411629213c9a300bf66&txTime=771EF880
-蒙语文化,https://livestream-bt.nmtv.cn/nmtv/2321general.m3u8?txSecret=d9d0fd7a252ef56b515c46a2e21830f4&txTime=771E8800
-呼市新闻综合,https://livestream-bt.nmtv.cn/nmtv/2331general.m3u8?txSecret=4d7342ca5cd74480526ab6d292247aff&txTime=771E8800
-包头新闻综合,https://livestream-bt.nmtv.cn/nmtv/2358general.m3u8?txSecret=98390a77c143a68f0fd64bfe6e181dcb&txTime=771E8800
-鄂尔多斯新闻,https://livestream-bt.nmtv.cn/nmtv/2349general.m3u8?txSecret=e44477052aba305cadeea45aaf1c674a&txTime=771E8800
-巴彦淖尔新闻,https://livestream-bt.nmtv.cn/nmtv/2348general.m3u8?txSecret=6a4ddce077e41b976fe33619fbef2b30&txTime=771E8800
-赤峰新闻综合,https://livestream-bt.nmtv.cn/nmtv/2351general.m3u8?txSecret=8857087aeec2cec44d178a18550fdb8a&txTime=771E8800
-乌兰察布新闻,https://livestream-bt.nmtv.cn/nmtv/2354general.m3u8?txSecret=cf5f71d0000862b18f5813607b3dfd5b&txTime=771E8800
-
-北京卫视,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s1/index.m3u8?time=1759578007&sign=a3ab1e6e78e463524c75f499db2d7a85
-北京新闻,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s9/index.m3u8?time=1759311614&sign=fca6abd93c8e81b01834e9fac623896c
-北京影视,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s9/index.m3u8?time=1759578015&sign=0920121042a4658560f0eb29509a7e4b
-北京生活,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s7/index.m3u8?time=1759578014&sign=7804b876c3724e7ac9376aed01b63be6
-北京文艺,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s2/index.m3u8?time=1759578008&sign=bf5c6cd8cea6afad0fbbad7e8540bf26
-北京财经,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s5/index.m3u8?time=1759578012&sign=06dee20c45d542f54f45db06317a2ab6
-纪实科教,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s3/index.m3u8?time=1759578009&sign=e86403d763e3121311e0612733210b01
-卡酷少儿,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s10/index.m3u8?time=1759578016&sign=b32eb6989e87a1d3fe4e406dd4129e29
+BTV文艺高清,http://114.252.255.213:10443/hls/17/index.m3u8
+BTV体育休闲,http://114.252.255.213:10443/hls/18/index.m3u8
 
 国际,#genre#
 CGTN英语,https://english-livebkali.cgtn.com/live/encgtn_0.m3u8
@@ -252,35 +244,26 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 金砖中文,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
 金砖英文,http://brics.bonus-tv.ru/cdn/brics/english/tracks-v1a1/index.m3u8
 FashionTV,http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
-HBO,https://s.vdo.ai/vhs/1.m3u8
-HBO Mundi,http://170.254.18.106/HBO_MUNDI/index.m3u8
-HBO Signature,http://170.254.18.106/HBO_SIG/index.m3u8
-HBO Family,http://170.254.18.106/HBO_FAMILY/index.m3u8
-HBO Xtreme,http://170.254.18.106/HBO_XTREME/index.m3u8
-HBO Pop,http://170.254.18.106/HBO_POP/index.m3u8
-HBO2,http://170.254.18.106/HBO2/index.m3u8
-HBO+,http://170.254.18.106/HBO_PLUS/index.m3u8
-HBOFamily,http://iptv.fr.to/test/Fmtv.php?id=HBOFamily
-HBOHits,http://iptv.fr.to/test/Fmtv.php?id=HBOHits
-CINEMAX,http://170.254.18.106/CINEMAX/index.m3u8
-AXN,http://aktv.top/AKTV/live/aktv2/axn/AKTV.m3u8
-Discover asia,http://iptv.fr.to/test/Fmtv.php?id=asia
-BBC,https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
-CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-CNBC,http://fl5.moveonjoy.com/CNBC/index.m3u8
-NHK World,https://nhkworld-tv.akamaized.net/hls/live/2115640/nhkworld-tv/index_1M.m3u8
-WeTV,http://fl1.moveonjoy.com/WE_TV/index.m3u8
-Cooking Channel,http://fl3.moveonjoy.com/COOKING_CHANNEL/index.m3u8
-Much,http://fl1.moveonjoy.com/MUCH/index.m3u8
-Bridezillas,https://run-br-uk.otteravision.com/run/br_uk/br_uk_720.m3u8
+HBO,http://[240e:97d:2000:1109::25]/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226423/index.m3u8
+HBO2,
+HBO+,http://148.113.160.49:14193
+Cinemax,http://[240e:97d:2000:1109::25]/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226405/index.m3u8
+AXN,http://[240e:97d:2000:1109::25]/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226429/index.m3u8
+Discover,http://[240e:97d:2000:1109::25]/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226463/index.m3u8
+CNN,http://[240e:97d:2000:1109::25]/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226460/index.m3u8
+CNBC,http://[240e:97d:2000:1109::25]/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226426/index.m3u8
+BBC,
+NHK World,
+Star Sports,http://[240e:97d:2000:1109::25]/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226446/index.m3u8
 
 UHD,#genre#
-CCTV4K,
+CCTV4K,http://223.95.198.3:8000/hls/18/index.m3u8
 CCTV8K,
 CCTV16,
 欢笑剧场4K,
 华数4K,
 纯享4K,
+东方4K,https://bp-resource-dfl.bestv.cn/148/3/video.m3u8
 河北4K,http://106.53.99.30/tv/api.php?id=hebtv4k
 苏州4K,http://106.53.99.30/tv/api.php?id=sztv4k
 测试,
