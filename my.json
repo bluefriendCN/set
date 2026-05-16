@@ -1,6 +1,6 @@
 //以下内容均来源于互联网，只为自用和学习，如有冒犯，请联系删除。
 {
-  "spider": "https://ghproxy.net/raw.githubusercontent.com/bluefriendCN/bin/refs/heads/main/fan.txt;md5;0370a162a1edc618a5fe426160f8cf89",
+  "spider": "https://ghproxy.net/raw.githubusercontent.com/bluefriendCN/bin/refs/heads/main/fan.txt;md5;0fbc678a0d45eb6ef3efee883d5167bf",
   "wallpaper": "https://qist.cc/api/api.php",
   "flags": ["youku", "优酷", "优 酷", "优酷视频", "qq", "腾讯", "腾 讯", "腾讯视频", "iqiyi", "qiyi", "奇艺", "爱奇艺", "爱 奇 艺", "m1905", "xigua", "letv", "leshi", "乐视", "乐 视", "sohu", "搜狐", "搜 狐", "搜狐视频", "tudou", "mgtv", "芒果", "imgo", "芒果TV", "芒 果 T V", "bilibili", "哔 哩", "哔 哩 哔 哩", "SPA", "YuMi-vip", "pptv", "PPTV", "ltnb", "rx", "SLYS4k", "tucheng", "BYGA", "luanzi", "dxzy", "QEYSS", "aliyun", "AliS", "122", "chuangying", "CL4K", "xfyun", "wuduzy", "wasu", "renrenmi", "ppayun", "haiwaikan", "cool", "dbm3u8", "xmm", "funshion", "ruyi1080", "ruyib1080"],
   "lives": [
@@ -82,7 +82,7 @@
 {"key":"小学课堂","name":"📚小学┃课堂","type":3,"api":"csp_BiliGuard","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":{"json":"https://nos.netease.com/ysf/d7a21cf34ede56f5c686ecfba5fc7e3f.txt"}},
 {"key":"初中课堂","name":"📚初中┃课堂","type":3,"api":"csp_BiliGuard","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":{"json":"https://nos.netease.com/ysf/8f55d520f8d70056695740ef151744a7.txt"}},
 {"key":"高中教育","name":"📚高中┃课堂","type":3,"api":"csp_BiliGuard","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":{"json":"https://nos.netease.com/ysf/c66a4b5356141c49fd45ec51568017b4.txt"}},
-{"key":"cc","name":"请勿相信视频中任何广告","type":3,"api":"csp_XPathGuard","searchable":1,"quickSearch":0,"changeable":0}
+{"key":"cc","name":"请勿信视频中任何广告","type":3,"api":"csp_XPathGuard","searchable":1,"quickSearch":0,"changeable":0}
   ],
   "parses":[
     {"name":"Web聚合","type":3,"url":"Web"},
