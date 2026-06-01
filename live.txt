@@ -58,7 +58,10 @@ CETV3教育服务,
 CETV4职业教育,http://183.237.71.182:40000/hls/62/index.m3u8
 
 港澳台,#genre#
-凤凰中文,http://223.95.198.3:8000/hls/20/index.m3u8
+凤凰中文,http://182.135.66.163:1888/rtp/239.94.2.51:5140
+凤凰中文,http://182.135.66.163:1888/rtp/239.94.2.52:5140
+凤凰资讯,http://182.135.66.163:1888/rtp/239.94.2.49:5140
+凤凰资讯,http://182.135.66.163:1888/rtp/239.94.2.50:5140
 
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
@@ -79,30 +82,31 @@ CETV4职业教育,http://183.237.71.182:40000/hls/62/index.m3u8
 大爱1,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 大爱2,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 
-千禧經典台,http://bxtv.3a.ink/api.php?id=qxjd
-翡翠台,http://cdn6.163189.xyz/163189/fct4k
-明珠台,http://bxtv.3a.ink/api.php?id=mz
-無線新聞台,http://bxtv.3a.ink/api.php?id=wxxw
-美亞電影台,http://bxtv.3a.ink/api.php?id=meiya
-myTV SUPER 18台,http://bxtv.3a.ink/api.php?id=18
-TVB Plus,http://bxtv.3a.ink/api.php?id=tvbp
-PopC,http://bxtv.3a.ink/api.php?id=popc
-NOW新闻,http://bxtv.3a.ink/api.php?id=now
-中天新聞台,http://bxtv.3a.ink/api.php?id=ztxw
-广东体育,http://bxtv.3a.ink/api.php?id=gdty
-广东珠江,http://bxtv.3a.ink/api.php?id=gdzj
-
-Discover,http://61.221.215.25:8800/hls/1/index.m3u8
-TVBS新闻,http://61.221.215.25:8800/hls/9/index.m3u8
-八大戏剧台,http://61.221.215.25:8800/hls/39/index.m3u8
-三立戏剧台,http://61.221.215.25:8800/hls/41/index.m3u8
-amc电影台,http://61.221.215.25:8800/hls/43/index.m3u8
-中天娱乐,http://61.221.215.25:8800/hls/47/index.m3u8
-纬来精采,http://61.221.215.25:8800/hls/48/index.m3u8
-八大第1台,http://61.221.215.25:8800/hls/55/index.m3u8
-八大综合台,http://61.221.215.25:8800/hls/56/index.m3u8
-动物星球,http://61.221.215.25:8800/hls/57/index.m3u8
-音乐台,http://61.221.215.25:8800/hls/58/index.m3u8
+有线新闻,http://rihou.cc:555/tv/[Pd]有线新闻
+有线综合,http://rihou.cc:555/tv/[Pd]有线综合
+有线亚剧,http://rihou.cc:555/tv/[Pd]有线亚剧
+无线新闻,http://rihou.cc:555/tv/[Pd]无线新闻
+无线翡翠,http://rihou.cc:555/tv/[Pd]无线翡翠
+无线翡翠,http://rihou.cc:555/tv/[Pd]无线翡4K
+无线华丽,http://rihou.cc:555/tv/[Pd]无线华丽
+无线明珠,http://rihou.cc:555/tv/[Pd]无线明珠
+无线星河,http://rihou.cc:555/tv/[Pd]无线星河
+无线功夫,http://rihou.cc:555/tv/[Pd]无线功夫
+澳视澳门,http://rihou.cc:555/tv/[Pd]澳视澳门
+澳视卫星,http://rihou.cc:555/tv/[Pd]澳视卫星
+澳门体育,http://rihou.cc:555/tv/[Pd]澳门体育
+澳门综艺,http://rihou.cc:555/tv/[Pd]澳门综艺
+澳门莲花,http://rihou.cc:555/tv/[Pd]澳门莲花
+重温经典,http://rihou.cc:555/tv/[Pd]重温经典
+龙华电影,http://rihou.cc:555/tv/[Pd]龙华电影
+龙华经典,http://rihou.cc:555/tv/[Pd]龙华经典
+龙华偶像,http://rihou.cc:555/tv/[Pd]龙华偶像
+龙华日韩,http://rihou.cc:555/tv/[Pd]龙华日韩
+龙华戏剧,http://rihou.cc:555/tv/[Pd]龙华戏剧
+CHU综合,http://rihou.cc:555/tv/[Pd]CHU综合
+CH5综合,http://rihou.cc:555/tv/[Pd]CH5综合
+CH8综合,http://rihou.cc:555/tv/[Pd]CH8综合
+八度空间,http://rihou.cc:555/tv/[Pd]八度空间
 
 卫视,#genre#
 湖南卫视,http://183.237.71.182:40000/hls/19/index.m3u8
