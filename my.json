@@ -14,14 +14,14 @@
     {
       "name":"咪咕",
       "type":0,
-      "url":"https://ghfast.top/raw.githubusercontent.com/ioptu/IPTV.txt2m3u.player/refs/heads/main/migu.m3u",
+      "url":"https://ghfast.top/https://raw.githubusercontent.com/jn950/live/main/tv/holive.m3u",
       "epg":"https://epg.cdn.loc.cc/?ch={name}&date={date}",
       "logo":"https://logo.wyfc.qzz.io/{name}.png"
     },
     {
-      "name":"冰茶",
+      "name":"组播",
       "type":0,
-			"url": "https://bc.188766.xyz/?url=https://live.188766.xyz&mishitong=true&mima=bingcha1130&huikan=en&json=true",
+			"url": "https://ghproxy.net/raw.githubusercontent.com/jn950/live/main/tv/pllive.txt",
 			"ua": "bingcha/1.1(mianfeifenxiang)",
       "epg": "https://epg.cdn.loc.cc/?ch={name}&date={date}",
       "logo":"https://logo.wyfc.qzz.io/{name}.png"
