@@ -58,18 +58,13 @@ CETV3教育服务,
 CETV4职业教育,http://183.237.71.182:40000/hls/62/index.m3u8
 
 港澳台,#genre#
-凤凰中文,http://182.135.66.163:1888/rtp/239.94.2.51:5140
-凤凰中文,http://182.135.66.163:1888/rtp/239.94.2.52:5140
-凤凰资讯,http://182.135.66.163:1888/rtp/239.94.2.49:5140
-凤凰资讯,http://182.135.66.163:1888/rtp/239.94.2.50:5140
+凤凰中文,http://rihou.cc:555/tv/[Pd]凤凰中文
+凤凰资讯,http://rihou.cc:555/tv/[Pd]凤凰资讯
+凤凰香港,http://rihou.cc:555/tv/[Pd]凤凰香港
 
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
-
-凤凰中文,http://rihou.cc:555/tv/[Pd]凤凰中文
-凤凰资讯,http://rihou.cc:555/tv/[Pd]凤凰资讯
-凤凰香港,http://rihou.cc:555/tv/[Pd]凤凰香港
 
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 香港卫视,http://anren.live/HK/BSJDUFpB.m3u8
@@ -82,11 +77,12 @@ CETV4职业教育,http://183.237.71.182:40000/hls/62/index.m3u8
 大爱1,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 大爱2,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 
+Plus综合,http://rihou.cc:555/tv/[Pd]Plus综合
 有线新闻,http://rihou.cc:555/tv/[Pd]有线新闻
 有线综合,http://rihou.cc:555/tv/[Pd]有线综合
-有线亚剧,http://rihou.cc:555/tv/[Pd]有线亚剧
+有线亚剧http://rihou.cc:555/tv/[Pd]有线亚剧
 无线新闻,http://rihou.cc:555/tv/[Pd]无线新闻
-无线翡翠,http://rihou.cc:555/tv/[Pd]无线翡翠
+无线翡翠http://rihou.cc:555/tv/[Pd]无线翡翠
 无线翡翠,http://rihou.cc:555/tv/[Pd]无线翡4K
 无线华丽,http://rihou.cc:555/tv/[Pd]无线华丽
 无线明珠,http://rihou.cc:555/tv/[Pd]无线明珠
@@ -97,6 +93,7 @@ CETV4职业教育,http://183.237.71.182:40000/hls/62/index.m3u8
 澳门体育,http://rihou.cc:555/tv/[Pd]澳门体育
 澳门综艺,http://rihou.cc:555/tv/[Pd]澳门综艺
 澳门莲花,http://rihou.cc:555/tv/[Pd]澳门莲花
+央视综合,http://rihou.cc:555/tv/[Pd]央视综合
 重温经典,http://rihou.cc:555/tv/[Pd]重温经典
 龙华电影,http://rihou.cc:555/tv/[Pd]龙华电影
 龙华经典,http://rihou.cc:555/tv/[Pd]龙华经典
