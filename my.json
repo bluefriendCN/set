@@ -14,7 +14,7 @@
     {
       "name":"咪咕",
       "type":0,
-      "url":"https://ghfast.top/https://raw.githubusercontent.com/jn950/live/main/tv/holive.m3u",
+      "url":"https://ghfast.top/raw.githubusercontent.com/jn950/live/main/tv/holive.m3u",
       "epg":"https://epg.cdn.loc.cc/?ch={name}&date={date}",
       "logo":"https://logo.wyfc.qzz.io/{name}.png"
     },
