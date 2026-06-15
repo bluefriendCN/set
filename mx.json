@@ -1,13 +1,13 @@
 //以下内容均来源于互联网，只为自用和学习，如有冒犯，请联系删除。
 {
-  "spider": "https://ghproxy.net/raw.githubusercontent.com/bluefriendCN/bin/refs/heads/main/spider.jar;md5;e727792f1b1d3c983e3026ce633b9ad5",
+  "spider": "https://ghproxy.net/raw.githubusercontent.com/bluefriendCN/bin/main/spider.jar;md5;e727792f1b1d3c983e3026ce633b9ad5",
   "wallpaper": "https://qist.cc/api/api.php",
   "flags": ["youku", "优酷", "优 酷", "优酷视频", "qq", "腾讯", "腾 讯", "腾讯视频", "iqiyi", "qiyi", "奇艺", "爱奇艺", "爱 奇 艺", "m1905", "xigua", "letv", "leshi", "乐视", "乐 视", "sohu", "搜狐", "搜 狐", "搜狐视频", "tudou", "mgtv", "芒果", "imgo", "芒果TV", "芒 果 T V", "bilibili", "哔 哩", "哔 哩 哔 哩", "SPA", "YuMi-vip", "pptv", "PPTV", "ltnb", "rx", "SLYS4k", "tucheng", "BYGA", "luanzi", "dxzy", "QEYSS", "aliyun", "AliS", "122", "chuangying", "CL4K", "xfyun", "wuduzy", "wasu", "renrenmi", "ppayun", "haiwaikan", "cool", "dbm3u8", "xmm", "funshion", "ruyi1080", "ruyib1080"],
   "lives": [
     {
       "name":"Live",
       "type":0,
-      "url": "https://ghproxy.net/raw.githubusercontent.com/bluefriendCN/set/refs/heads/main/live.txt",
+      "url": "https://ghproxy.net/raw.githubusercontent.com/bluefriendCN/set/main/live.txt",
       "epg": "https://epg.cdn.loc.cc/?ch={name}&date={date}",
       "logo":"https://logo.wyfc.qzz.io/{name}.png"
     },
