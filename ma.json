@@ -43,17 +43,18 @@
     {"key": "黄色仓库","name": "黄色仓库","type": 1,"api": "https://hsckzy.vip/api.php/provide/vod/","quickSearch": 1,"searchable": 1,"filterable": 0},
     {"key": "乐播资源","name": "乐播资源","type": 1,"api": "https://lbapi9.com/api.php/provide/vod/","quickSearch": 1,"searchable": 1,"filterable": 0},
     {"key": "幸细胞","name": "幸细胞","type": 1,"api": "https://www.xxibaozyw.com/api.php/provide/vod/","quickSearch": 1,"searchable": 1,"filterable": 0},
+    {"key": "奥斯卡","name": "奥斯卡","type": 1,"api": "https://aosikazy.com/api.php/provide/vod","searchable": 1,"quickSearch": 1,"filterable": 1},
     {"key": "番号","name": "番号资源","type": 1,"api": "http://fhapi9.com/api.php/provide/vod","searchable": 1,"quickSearch": 1,"filterable": 1},
-    {"key": "精品","name": "精品","type": 1,"api": "https://www.jingpinx.com/api.php/provide/vod/?ac=list","searchable": 1,"quickSearch": 1,"filterable": 1},
+    {"key": "精品","name": "精品","type": 1,"api": "https://www.jingpinx.com/api.php/provide/vod","searchable": 1,"quickSearch": 1,"filterable": 1},
     {"key": "小鸡","name": "小鸡窝","type": 1,"api": "https://api.xiaojizy.live/provide/vod","searchable": 1,"quickSearch": 1,"filterable": 1},
     {"key": "番茄","name": "番茄","type": 1,"api": "https://fqzy.me//api.php/provide/vod/?ac=list","searchable": 1,"quickSearch": 1,"filterable": 1},
     {"key": "香蕉","name": "香蕉","type": 1,"api": " https://www.xiangjiaozyw.com/api.php/provide/vod/?ac=list","searchable": 1,"quickSearch": 1,"filterable": 1},
-    {"key": "soAV","name": "soAV","type": 1,"api": "https://api.souavzyw.net/api.php/provide/vod/?ac=list","searchable": 1,"quickSearch": 1,"filterable": 1},
+    {"key": "souAV","name": "souAV","type": 1,"api": "https://api.souavzyw.net/api.php/provide/vod/?ac=list","searchable": 1,"quickSearch": 1,"filterable": 1},
     {"key": "玉兔","name": "玉兔采集","type": 1,"api": "https://apiyutu.com/api.php/provide/vod/","searchable": 1,"quickSearch": 1,"filterable": 1},
     {"key": "森林","name": "森林采集","type": 1,"api": "https://slapibf.com/api.php/provide/vod/","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "proxy"},
 		{"key": "滴滴","name": "滴滴采集","type": 1,"api": "https://api.ddapi.cc/api.php/provide/vod/","quickSearch": 1,"searchable": 1,"changeable": 1,"ext": "proxy"},
 		{"key": "鸡坤","name": "鸡坤采集","type": 1,"api": "https://jkunzyapi.com/api.php/provide/vod/","quickSearch": 1,"searchable": 1,"changeable": 1,"ext": "proxy"},
-		{"key": "AIvin","name": "AIvin","type": 0,"api": "http://lbapiby.com/api.php/provide/vod/at/xml","ext": "proxy"}
+		{"key": "AIvin","name": "AIvin","type": 0,"api": "http://lbapiby.com/api.php/provide/vod/at/json","ext": "proxy"}
   ],
   "parses":[
     {"name":"Web聚合","type":3,"url":"Web"},
