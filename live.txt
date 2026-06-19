@@ -66,6 +66,9 @@ CETV4职业教育,http://183.237.71.182:40000/hls/62/index.m3u8
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 
+凤凰中文,http://zmgd.zyrnet.com:8888/hls/110/index.m3u8
+凤凰资讯,https://live.264788.xyz/channel/fenghuangweishizixun?streamid=77bd953dbf073e11b80bba0a8aca92c5&livekey=01Wb7kjxu1xx2f7s4tcqSAF03RfwBkY7h8Nz2
+
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 香港卫视,http://anren.live/HK/BSJDUFpB.m3u8
 翡翠台,http://183.62.8.58:50085/tsfile/live/0017_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -157,6 +160,8 @@ CH8综合,http://rihou.cc:555/tv/[Pd]CH8综合
 广东影视,http://183.237.71.182:40000/hls/70/index.m3u8
 广东少儿,http://183.237.71.182:40000/hls/71/index.m3u8
 嘉佳卡通,http://183.237.71.182:40000/hls/72/index.m3u8
+
+西藏卫视,https://tv.vtibet.cn/live/h701F9MpxzPDyE.m3u8?secret=7a77481141b24cb08d7569ffb1aa3f10&time=6a34fbb4
 
 重庆,#genre#
 重庆新闻,http://27.8.41.198:4022/rtp/225.0.4.188:7980
@@ -261,7 +266,7 @@ NHK World,
 Star Sports,http://[240e:97d:2000:1109::25]/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226446/index.m3u8
 
 UHD,#genre#
-CCTV4K,http://223.95.198.3:8000/hls/18/index.m3u8
+CCTV4K,
 CCTV8K,
 CCTV16,
 欢笑剧场4K,
@@ -269,50 +274,4 @@ CCTV16,
 纯享4K,
 东方4K,https://bp-resource-dfl.bestv.cn/148/3/video.m3u8
 江苏4K,http://8.138.7.223/tv/jsws4k.php
-河北4K,http://106.53.99.30/tv/api.php?id=hebtv4k
-苏州4K,http://106.53.99.30/tv/api.php?id=sztv4k
-
-CCTV4K,http://58.35.95.16:9898/rtp/233.18.204.188:5140
-CCTV4K,http://58.35.95.16:9898/rtp/233.18.204.204:5140
-CCTV16 4K,http://58.35.95.16:9898/rtp/233.18.204.114:5140
-CCTV16 4K,http://58.35.95.16:9898/rtp/233.18.204.215:5140
-北京卫视4K,http://58.35.95.16:9898/rtp/233.18.204.209:5140
-东方卫视4K,http://58.35.95.16:9898/rtp/233.18.204.224:5140
-广东卫视4K,http://58.35.95.16:9898/rtp/233.18.204.218:5140
-深圳卫视4K,http://58.35.95.16:9898/rtp/233.18.204.219:5140
-湖南卫视4K,http://58.35.95.16:9898/rtp/233.18.204.227:5140
-山东卫视4K,http://58.35.95.16:9898/rtp/233.18.204.228:5140
-四川卫视4K,http://58.35.95.16:9898/rtp/233.18.204.225:5140
-浙江卫视4K,http://58.35.95.16:9898/rtp/233.18.204.229:5140
-江苏卫视4K,http://58.35.95.16:9898/rtp/233.18.204.226:5140
-欢笑剧场4K,http://58.35.95.16:9898/rtp/233.18.204.115:5140
-欢笑剧场4K,http://58.35.95.16:9898/rtp/233.18.204.205:5140
-BesTV4K动画,http://58.35.95.16:9898/rtp/233.18.204.171:5140
-BesTV4K电影,http://58.35.95.16:9898/rtp/233.18.204.169:5140
-BesTV4K记录,http://58.35.95.16:9898/rtp/233.18.204.170:5140
-天翼高清4K,http://58.35.95.16:9898/rtp/233.18.204.201:5140
-四川卫视4KHD,http://58.35.95.16:9898/rtp/233.18.204.99:5140
-浙江卫视4K,http://112.255.80.180:4004/udp/239.253.242.27:8000
-湖南卫视4K,http://112.255.80.180:4004/udp/239.253.242.28:8000
-深圳卫视4K,http://112.255.80.180:4004/udp/239.253.242.61:8000
-广东卫视4K,http://112.255.80.180:4004/udp/239.253.242.108:8000
-四川卫视4K,http://112.255.80.180:4004/udp/239.253.242.123:8000
-东方卫视4K,http://112.255.80.180:4004/udp/239.253.242.176:8000
-北京卫视4K,http://112.255.80.180:4004/udp/239.253.242.200:8000
-CCTV16 4K,http://117.86.48.47:7777/rtp/239.49.0.109:8000
-北京卫视4K,http://117.86.48.47:7777/rtp/239.49.0.253:8000
-北京卫视4K,http://117.86.48.47:7777/rtp/239.49.0.42:8000
-东方卫视4K,http://117.86.48.47:7777/rtp/239.49.1.70:8000
-东方卫视4K,http://117.86.48.47:7777/rtp/239.49.8.38:8000
-广东卫视4K,http://117.86.48.47:7777/rtp/239.49.1.26:8000
-广东卫视4K,http://117.86.48.47:7777/rtp/239.49.1.24:8000
-湖南卫视4K,http://117.86.48.47:7777/rtp/239.49.1.68:8000
-欢笑剧场4K,http://117.86.48.47:7777/rtp/239.49.8.106:8000
-江苏卫视4K,http://117.86.48.47:7777/rtp/239.49.1.61:8000
-江苏卫视4K,http://117.86.48.47:7777/rtp/239.49.8.82:8000
-江苏卫视4K,http://117.86.48.47:7777/rtp/239.49.1.62:8000
-山东卫视4K,http://117.86.48.47:7777/rtp/239.49.1.72:8000
-深圳卫视4K,http://117.86.48.47:7777/rtp/239.49.1.28:8000
-深圳卫视4K,http://117.86.48.47:7777/rtp/239.49.1.27:8000
-四川卫视4K,http://117.86.48.47:7777/rtp/239.49.1.66:8000
-浙江卫视4K,http://117.86.48.47:7777/rtp/239.49.1.64:8000
+湖南4K,http://hlsal-ldvt.qing.mgtv.com:80/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
