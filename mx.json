@@ -29,6 +29,8 @@
 	"sites": [
     {"key": "drpy_js_豆瓣","name": "搜索|豆瓣","type": 3,"api": "https://ghproxy.net/raw.githubusercontent.com/qist/tvbox/master/lib/drpy2.min.js","ext": "https://ghproxy.net/raw.githubusercontent.com/qist/tvbox/master/js/drpy.js","searchable": 1,"quickSearch": 0,"changeable": 0},
     {"key":"Live2cms","name":"电视直播","type":3,"api":"https://ghproxy.net/raw.githubusercontent.com/bluefriendCN/bin/main/js/live2mv.js","changeable":0,"ext":"1989$https://tv.iill.top/m3u/Gather"},
+    {"key": "量子","name": "影视 | 量子[直连]","type": 1,"api": "https://cj.lziapi.com/api.php/provide/vod/","searchable": 1,"categories": ["动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","香港剧","韩国剧","欧美剧","记录片","台湾剧","日本剧","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫"]},
+    {"key": "非凡","name": "影视 | 非凡[直连]","type": 1,"api": "http://ffzy.tv/api.php/provide/vod/","searchable": 1,"categories": ["动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","香港剧","韩国剧","欧美剧","记录片","台湾剧","日本剧","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫"]},
 
     {"key": "push_agent","name": "手机｜推送","type": 3,"api": "csp_Push","searchable": 0,"filterable": 0,"changeable": 0}
   ],
