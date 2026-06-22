@@ -1,12 +1,12 @@
 {
-  "spider": "https://g.blfrp.cn/raw.githubusercontent.com/bluefriendCN/bin/main/custom_spider.jar;md5;22f558deceb8273665c00c05d89c4c18",
+  "spider": "https://g.blfrp.cn/raw.githubusercontent.com/bluefriendCN/bin/refs/heads/main/custom_spider.jar;md5;22f558deceb8273665c00c05d89c4c18",
   "wallpaper": "https://qist.cc/api/api.php",
   "flags": ["youku", "优酷", "优 酷", "优酷视频", "qq", "腾讯", "腾 讯", "腾讯视频", "iqiyi", "qiyi", "奇艺", "爱奇艺", "爱 奇 艺", "m1905", "xigua", "letv", "leshi", "乐视", "乐 视", "sohu", "搜狐", "搜 狐", "搜狐视频", "tudou", "mgtv", "芒果", "imgo", "芒果TV", "芒 果 T V", "bilibili", "哔 哩", "哔 哩 哔 哩", "SPA", "YuMi-vip", "pptv", "PPTV", "ltnb", "rx", "SLYS4k", "tucheng", "BYGA", "luanzi", "dxzy", "QEYSS", "aliyun", "AliS", "122", "chuangying", "CL4K", "xfyun", "wuduzy", "wasu", "renrenmi", "ppayun", "haiwaikan", "cool", "dbm3u8", "xmm", "funshion", "ruyi1080", "ruyib1080"],
   "lives": [
     {
       "name":"Live",
       "type":0,
-      "url": "https://g.blfrp.cn/raw.githubusercontent.com/bluefriendCN/set/main/live.txt",
+      "url": "https://g.blfrp.cn/raw.githubusercontent.com/bluefriendCN/set/refs/heads/main/live.txt",
       "epg": "https://epg.cdn.loc.cc/?ch={name}&date={date}",
       "logo":"https://logo.wyfc.qzz.io/{name}.png"
     },
@@ -14,21 +14,21 @@
     {
       "name":"咪咕",
       "type":0,
-      "url":"https://ghfast.top/raw.githubusercontent.com/jn950/live/main/tv/holive.m3u",
+      "url":"https://ghfast.top/raw.githubusercontent.com/jn950/live/refs/heads/main/tv/holive.m3u",
       "epg":"https://epg.cdn.loc.cc/?ch={name}&date={date}",
       "logo":"https://logo.wyfc.qzz.io/{name}.png"
     },
     {
       "name":"组播",
       "type":0,
-			"url": "https://ghproxy.net/raw.githubusercontent.com/jn950/live/main/tv/pllive.txt",
+			"url": "https://ghproxy.net/raw.githubusercontent.com/jn950/live/refs/heads/main/tv/pllive.txt",
       "epg": "https://epg.cdn.loc.cc/?ch={name}&date={date}",
       "logo":"https://logo.wyfc.qzz.io/{name}.png"
     }
   ],
 	"sites": [
-    {"key": "drpy_js_豆瓣","name": "搜索|豆瓣","type": 3,"api": "https://ghproxy.net/raw.githubusercontent.com/qist/tvbox/master/lib/drpy2.min.js","ext": "https://ghproxy.net/raw.githubusercontent.com/qist/tvbox/master/js/drpy.js","searchable": 1,"quickSearch": 0,"changeable": 0},
-    {"key":"Live2cms","name":"电视直播","type":3,"api":"https://ghproxy.net/raw.githubusercontent.com/bluefriendCN/bin/main/js/live2mv.js","changeable":0,"ext":"1989$https://tv.iill.top/m3u/Gather"},
+    {"key": "drpy_js_豆瓣","name": "搜索|豆瓣","type": 3,"api": "https://ghproxy.net/raw.githubusercontent.com/qist/tvbox/refs/heads/master/lib/drpy2.min.js","ext": "https://ghproxy.net/raw.githubusercontent.com/qist/tvbox/refs/heads/master/js/drpy.js","searchable": 1,"quickSearch": 0,"changeable": 0},
+    {"key":"Live2cms","name":"电视直播","type":3,"api":"https://ghproxy.net/raw.githubusercontent.com/bluefriendCN/bin/refs/heads/main/js/live2mv.js","changeable":0,"ext":"1989$https://tv.iill.top/m3u/Gather"},
     {"key": "量子","name": "影视 | 量子[直连]","type": 1,"api": "https://cj.lziapi.com/api.php/provide/vod/","searchable": 1,"categories": ["动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","香港剧","韩国剧","欧美剧","记录片","台湾剧","日本剧","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫"]},
     {"key": "非凡","name": "影视 | 非凡[直连]","type": 1,"api": "http://ffzy.tv/api.php/provide/vod/","searchable": 1,"categories": ["动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","香港剧","韩国剧","欧美剧","记录片","台湾剧","日本剧","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫"]},
 

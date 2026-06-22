@@ -7,7 +7,7 @@
     {
       "name":"Live",
       "type":0,
-      "url": "https://ghproxy.net/raw.githubusercontent.com/bluefriendCN/set/main/live.txt",
+      "url": "https://ghproxy.net/raw.githubusercontent.com/bluefriendCN/set/refs/heads/main/live.txt",
       "epg": "https://epg.cdn.loc.cc/?ch={name}&date={date}",
       "logo":"https://logo.wyfc.qzz.io/{name}.png"
     },
@@ -15,14 +15,14 @@
     {
       "name":"咪咕",
       "type":0,
-      "url":"https://ghfast.top/raw.githubusercontent.com/jn950/live/main/tv/holive.m3u",
+      "url":"https://ghfast.top/raw.githubusercontent.com/jn950/live/refs/heads/main/tv/holive.m3u",
       "epg":"https://epg.cdn.loc.cc/?ch={name}&date={date}",
       "logo":"https://logo.wyfc.qzz.io/{name}.png"
     },
     {
       "name":"组播",
       "type":0,
-			"url": "https://ghproxy.net/raw.githubusercontent.com/jn950/live/main/tv/pllive.txt",
+			"url": "https://ghproxy.net/raw.githubusercontent.com/jn950/live/refs/heads/main/tv/pllive.txt",
       "epg": "https://epg.cdn.loc.cc/?ch={name}&date={date}",
       "logo":"https://logo.wyfc.qzz.io/{name}.png"
     }

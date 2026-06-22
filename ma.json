@@ -1,12 +1,12 @@
 {
-  "spider": "https://g.blfrp.cn/raw.githubusercontent.com/bluefriendCN/bin/main/custom_spider.jar;md5;22f558deceb8273665c00c05d89c4c18",
+  "spider": "https://g.blfrp.cn/raw.githubusercontent.com/bluefriendCN/bin/refs/heads/main/custom_spider.jar;md5;22f558deceb8273665c00c05d89c4c18",
   "wallpaper": "https://qist.cc/api/api.php",
   "flags": ["youku", "优酷", "优 酷", "优酷视频", "qq", "腾讯", "腾 讯", "腾讯视频", "iqiyi", "qiyi", "奇艺", "爱奇艺", "爱 奇 艺", "m1905", "xigua", "letv", "leshi", "乐视", "乐 视", "sohu", "搜狐", "搜 狐", "搜狐视频", "tudou", "mgtv", "芒果", "imgo", "芒果TV", "芒 果 T V", "bilibili", "哔 哩", "哔 哩 哔 哩", "SPA", "YuMi-vip", "pptv", "PPTV", "ltnb", "rx", "SLYS4k", "tucheng", "BYGA", "luanzi", "dxzy", "QEYSS", "aliyun", "AliS", "122", "chuangying", "CL4K", "xfyun", "wuduzy", "wasu", "renrenmi", "ppayun", "haiwaikan", "cool", "dbm3u8", "xmm", "funshion", "ruyi1080", "ruyib1080"],
   "lives": [
     {
       "name":"麻豆",
       "type":0,
-      "url": "https://down.nigx.cn/raw.githubusercontent.com/ediart/tvbox/main/TVBoxOSC/tvbox/madou.m3u"
+      "url": "https://down.nigx.cn/raw.githubusercontent.com/ediart/tvbox/refs/heads/main/TVBoxOSC/tvbox/madou.m3u"
     },
     {
       "name":"atsushi",
@@ -16,7 +16,7 @@
     {
       "name":"初秋语",
       "type":0,
-      "url": "https://g.blfrp.cn/raw.githubusercontent.com/qist/tvbox/master/listx.m3u"
+      "url": "https://g.blfrp.cn/raw.githubusercontent.com/qist/tvbox/refs/heads/master/listx.m3u"
     },
     {
       "name":"YanG-1989",
