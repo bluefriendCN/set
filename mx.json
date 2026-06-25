@@ -9,21 +9,6 @@
       "url": "https://g.blfrp.cn/raw.githubusercontent.com/bluefriendCN/set/refs/heads/main/live.txt",
       "epg": "https://epg.cdn.loc.cc/?ch={name}&date={date}",
       "logo":"https://logo.wyfc.qzz.io/{name}.png"
-    },
-    {"name": "世界杯","type": 0,"url": "http://82.156.243.185:33389/fwc.m3u"},
-    {
-      "name":"咪咕",
-      "type":0,
-      "url":"https://ghfast.top/raw.githubusercontent.com/jn950/live/refs/heads/main/tv/holive.m3u",
-      "epg":"https://epg.cdn.loc.cc/?ch={name}&date={date}",
-      "logo":"https://logo.wyfc.qzz.io/{name}.png"
-    },
-    {
-      "name":"组播",
-      "type":0,
-			"url": "https://ghproxy.net/raw.githubusercontent.com/jn950/live/refs/heads/main/tv/pllive.txt",
-      "epg": "https://epg.cdn.loc.cc/?ch={name}&date={date}",
-      "logo":"https://logo.wyfc.qzz.io/{name}.png"
     }
   ],
 	"sites": [
@@ -67,45 +52,6 @@
     {"name":"免费分享","type": 0,"url": "https://jx.xmflv.com/?url=","ext": {"flag": ["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","imgo","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"header": {"User-Agent": "okhttp/4.1.0"}}},
     {"name":"咸鱼","type": 0,"url": "https://jx.xymp4.cc/?url=","ext": {"header": {"user-agent": "Mozilla/5.0(Linux;Android13;V2049ABuild/TP1A.220624.014;wv)AppleWebKit/537.36(KHTML,likeGecko)Version/4.0Chrome/116.0.0.0MobileSafari/537.36","referer": "https://www.xyflv.cc/"}}},
     {"name":"七七","type": 0,"url": "https://jx.77flv.cc/?url=","ext": {"header": {"user-agent": "Mozilla/5.0(Linux;Android13;V2049ABuild/TP1A.220624.014;wv)AppleWebKit/537.36(KHTML,likeGecko)Version/4.0Chrome/116.0.0.0MobileSafari/537.36"}}} 
-  ],
-  "doh": [
-    {"name": "Google","url": "https://dns.google/dns-query","ips": ["8.8.4.4","8.8.8.8"]},
-    {"name": "Cloudflare","url": "https://cloudflare-dns.com/dns-query","ips": ["1.1.1.1","1.0.0.1","2606:4700:4700::1111","2606:4700:4700::1001"]},
-    {"name": "AdGuard","url": "https://dns.adguard.com/dns-query","ips": ["94.140.14.140","94.140.14.141"]},
-    {"name": "DNSWatch","url": "https://resolver2.dns.watch/dns-query","ips": ["84.200.69.80","84.200.70.40"]},
-    {"name": "Quad9","url": "https://dns.quad9.net/dns-query","ips": ["9.9.9.9","149.112.112.112"]},
-    {"name": "Me","url": "https://qist.cc/dns-query","ips": ["47.94.105.9"]}
-  ],
-  "rules":[
-    {"name": "proxy","hosts": ["mypikpak.com",".*workers.dev","www.cilixiong.com","*.t4tv.hz.cz","kuba222.com","mp4us.com","dydhhy.com","magicalsearch.top","api123.adys.app","raw.githubusercontent.com","googlevideo.com","cdn.v82u1l.com","cdn.iz8qkg.com","cdn.kin6c1.com","c.biggggg.com","c.olddddd.com","haiwaikan.com","www.histar.tv","youtube.com","uhibo.com",".*boku.*",".*nivod.*",".*ulivetv.*"]},
-    {"name": "磁力廣告","hosts": ["magnet"],"regex": ["更多","社區","xuu","最新","最新","直播","更新","社区","有趣","有趣","英皇体育","全中文AV在线","澳门皇冠赌场","哥哥快来","美女荷官","裸聊","新片首发","UUE29"]},
-    {"name": "海外看","hosts": ["haiwaikan"],"regex": ["8.16","8.1748","10.0099","10.3333","10.85","12.33","16.0599"]},
-    {"name": "索尼","hosts": ["suonizy"],"regex": ["15.1666","15.2666"]},
-    {"name": "星星","hosts": ["aws.ulivetv.net"],"regex": ["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:8,[\\s\\S]*?#EXT-X-DISCONTINUITY"]},
-    {"name": "量子广告","hosts": ["vip.lz*","hd.lz*",".cdnlz",".cdnlz*"],"regex": ["#EXTINF.*?\\s+[a-z0-9]{18,}\\.ts","[a-z0-9]{18,}\\.ts\\s+","#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF.*?\\s+[a-z0-9]{18,}\\.ts[\\s\\S]*?#EXT-X-DISCONTINUITY"]},
-    {"name": "非凡广告","hosts": ["vip.ffzy","hd.ffzy",".ffzy*","super.ffzy","super.ffzy*","svipsvip.ffzy","*.ffzy*"],"regex": ["#EXT-X-DISCONTINUITY(?:\n.*?){8}\n#EXT-X-DISCONTINUITY","#EXT-X-DISCONTINUITY(?:\n(?!#EXT-X-DISCONTINUITY).*){10}\n#EXT-X-DISCONTINUITY"]},
-    {"name": "qihubf","hosts": ["qihubf"],"regex": ["#EXT-X-DISCONTINUITY\\r*\\n*#EXT-X-KEY:METHOD=NONE\\r*\\n*#EXTINF:2,[\\s\\S]*?#EXT-X-DISCONTINUITY\\r*\\n*#EXT-X-KEY:METHOD=AES-128","#EXT-X-DISCONTINUITY\\r*\\n*#EXT-X-KEY:METHOD=NONE\\r*\\n*#EXTINF:2,[\\s\\S]*?#EXT-X-DISCONTINUITY"]},
-    {"name": "快看广告","hosts": ["kuaikan"],"regex": ["#EXT-X-DISCONTINUITY\\r*\\n*#EXT-X-KEY:METHOD=NONE\\r*\\n*#EXTINF:.*?,[\\s\\S]*?#EXT-X-DISCONTINUITY"]},
-    {"name": "U酷资源广告","hosts": ["ukzy"],"regex": ["#EXT-X-DISCONTINUITY\\r*\\n*#EXT-X-KEY:METHOD=NONE\\r*\\n*#EXTINF:.*?,[\\s\\S]*?#EXT-X-DISCONTINUITY"]},
-    {"name": "ikun资源","hosts": ["bfikuncdn"],"regex": ["#EXT-X-DISCONTINUITY\\r*\\n*#EXT-X-KEY:METHOD=NONE\\r*\\n*#EXTINF:.*?,[\\s\\S]*?#EXT-X-DISCONTINUITY"]},
-    {"name": "卧龙影视资源","hosts": ["cdn.wl*"],"regex": ["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:.*?,[\\s\\S]*?#EXT-X-DISCONTINUITY"]},
-    {"name": "暴风广告","hosts": ["bfzy","bfbfvip","bfengbf"],"regex": ["#EXTINF.*?\\s+.*?adjump.*?\\.ts\\s+"]},
-    {"name": "火山嗅探","hosts": ["huoshan.com"],"regex": ["item_id="]},
-    {"name": "抖音嗅探","hosts": ["douyin.com"],"regex": ["is_play_url="]},
-    {"name": "農民嗅探","hosts": ["toutiaovod.com"],"regex": ["video/tos/cn"]},
-    {"name": "七新嗅探","hosts": ["api.52wyb.com"],"regex": ["m3u8?pt=m3u8"]},
-    {"name": "夜市點擊","hosts": ["yeslivetv.com"],"script": ["document.getElementsByClassName('vjs-big-play-button')[0].click()"]},
-    {"name": "毛驢點擊","hosts": ["www.maolvys.com"],"script": ["document.getElementsByClassName('swal-buttonswal-button--confirm')[0].click()"]},
-    {"name": "cdn.ryplay","hosts": ["cdn.ryplay"],"regex": ["5.480000","#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:5.480000,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXT-X-DISCONTINUITY\\s*\\r?\\n#EXTINF:5.320000,\\s*\\r?\\n.+\\.ts\\s*\\r?\\n(?:#EXTINF:[\\d.]+,\\s*\\r?\\n.+\\.ts\\s*\\r?\\n)*?#EXTINF:3.360000,\\s*\\r?\\n.+\\.ts\\s*\\r?\\n#EXT-X-DISCONTINUITY","#EXT-X-DISCONTINUITY\\s*\\r?\\n#EXTINF:4.000000,\\s*\\r?\\n.+\\.ts\\s*\\r?\\n(?:#EXTINF:[\\d.]+,\\s*\\r?\\n.+\\.ts\\s*\\r?\\n)*?#EXTINF:0.560000,\\s*\\r?\\n.+\\.ts\\s*\\r?\\n#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]}
-  ],
-  "hosts": [
-    "cache.ott.ystenlive.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com",
-    "cache.ott.bestlive.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com",
-    "cache.ott.wasulive.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com",
-    "cache.ott.fifalive.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com",
-    "cache.ott.hnbblive.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com",
-    "img1.wsyzy.org=fan.cloudflare.182682.xyz",
-    "fiizvfck.top=fan.cloudflare.182682.xyz"
   ],
   "ijk":[
     {"group":"软解码","options":[
