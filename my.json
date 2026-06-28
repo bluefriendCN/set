@@ -1,6 +1,6 @@
 //以下内容均来源于互联网，只为自用和学习，如有冒犯，请联系删除。
 {
-  "spider": "https://g.blfrp.cn/raw.githubusercontent.com/bluefriendCN/bin/refs/heads/main/fan.txt;md5;097bfd1388b83204958633f23eb6e4cb",
+  "spider": "https://g.blfrp.cn/raw.githubusercontent.com/bluefriendCN/bin/refs/heads/main/fan.txt;md5;b651deb915a5cb34e0882cdfeffa8eef",
   "wallpaper": "https://qist.cc/api/api.php",
   "flags": ["youku", "优酷", "优 酷", "优酷视频", "qq", "腾讯", "腾 讯", "腾讯视频", "iqiyi", "qiyi", "奇艺", "爱奇艺", "爱 奇 艺", "m1905", "xigua", "letv", "leshi", "乐视", "乐 视", "sohu", "搜狐", "搜 狐", "搜狐视频", "tudou", "mgtv", "芒果", "imgo", "芒果TV", "芒 果 T V", "bilibili", "哔 哩", "哔 哩 哔 哩", "SPA", "YuMi-vip", "pptv", "PPTV", "ltnb", "rx", "SLYS4k", "tucheng", "BYGA", "luanzi", "dxzy", "QEYSS", "aliyun", "AliS", "122", "chuangying", "CL4K", "xfyun", "wuduzy", "wasu", "renrenmi", "ppayun", "haiwaikan", "cool", "dbm3u8", "xmm", "funshion", "ruyi1080", "ruyib1080"],
   "lives": [
@@ -73,7 +73,7 @@
     {"key": "push_agent","name": "🛴手机┃推送","type": 3,"api": "csp_PushGuard","searchable": 0,"quickSearch": 0,"ext": {"Cloud-drive": "tvfan/Cloud-drive.txt"}},
     {"key": "Bili","name": "🅱哔哔合集┃弹幕","type": 3,"api": "csp_BiliGuard","style": {"type": "rect","ratio": 1.597},"searchable": 1,"quickSearch": 0,"changeable": 0,"ext": {"json": "https://nos.netease.com/ysf/0075389dca9afadd4614e9713765ff17.txt"}},
     {"key": "Biliych","name": "🅱哔哔演唱会┃弹幕","type": 3,"api": "csp_BiliGuard","style": {"type": "rect","ratio": 1.597},"searchable": 0,"quickSearch": 0,"changeable": 0,"ext": {"json": "https://nos.netease.com/ysf/6496356286589c68f52c2f99c0c674c7.txt"}},
-    {"key": "dr_兔小贝","name": "📚儿童┃启蒙","type": 3,"api": "https://qist.wyfc.qzz.io/FTY/drpy2.min.js","ext": "./FTY/%E5%85%94%E5%B0%8F%E8%B4%9D.js","style": {"type": "rect","ratio": 1.597},"searchable": 0,"quickSearch": 0,"changeable": 0},
+    {"key": "dr_兔小贝","name": "📚儿童┃启蒙","type": 3,"api": "https://qist.wyfc.qzz.io/FTY/drpy2.min.js","ext": "https://qist.wyfc.qzz.io/FTY/%E5%85%94%E5%B0%8F%E8%B4%9D.js","style": {"type": "rect","ratio": 1.597},"searchable": 0,"quickSearch": 0,"changeable": 0},
     {"key": "少儿教育","name": "📚少儿┃教育","type": 3,"api": "csp_BiliGuard","style": {"type": "rect","ratio": 1.597},"searchable": 0,"quickSearch": 0,"changeable": 0,"ext": {"json": "https://nos.netease.com/ysf/89370c8ddf36b5e1beb4d71adb921bda.txt"}},
     {"key": "小学课堂","name": "📚小学┃课堂","type": 3,"api": "csp_BiliGuard","style": {"type": "rect","ratio": 1.597},"searchable": 0,"quickSearch": 0,"changeable": 0,"ext": {"json": "https://nos.netease.com/ysf/d7a21cf34ede56f5c686ecfba5fc7e3f.txt"}},
     {"key": "初中课堂","name": "📚初中┃课堂","type": 3,"api": "csp_BiliGuard","style": {"type": "rect","ratio": 1.597},"searchable": 0,"quickSearch": 0,"changeable": 0,"ext": {"json": "https://nos.netease.com/ysf/8f55d520f8d70056695740ef151744a7.txt"}},
