@@ -1,6 +1,6 @@
 //以下内容均来源于互联网，只为自用和学习，如有冒犯，请联系删除。
 {
-  "spider": "https://ghproxy.net/raw.githubusercontent.com/bluefriendCN/bin/refs/heads/main/spider.jar;md5;5a5c64f87f0b0066919fa9b499912e4e",
+  "spider": "https://ghproxy.net/raw.githubusercontent.com/bluefriendCN/bin/refs/heads/main/spider.jar;md5;feb3dd35be7c31aa2a39bea423961279",
   "wallpaper": "https://qist.cc/api/api.php",
   "flags": ["youku", "优酷", "优 酷", "优酷视频", "qq", "腾讯", "腾 讯", "腾讯视频", "iqiyi", "qiyi", "奇艺", "爱奇艺", "爱 奇 艺", "m1905", "xigua", "letv", "leshi", "乐视", "乐 视", "sohu", "搜狐", "搜 狐", "搜狐视频", "tudou", "mgtv", "芒果", "imgo", "芒果TV", "芒 果 T V", "bilibili", "哔 哩", "哔 哩 哔 哩", "SPA", "YuMi-vip", "pptv", "PPTV", "ltnb", "rx", "SLYS4k", "tucheng", "BYGA", "luanzi", "dxzy", "QEYSS", "aliyun", "AliS", "122", "chuangying", "CL4K", "xfyun", "wuduzy", "wasu", "renrenmi", "ppayun", "haiwaikan", "cool", "dbm3u8", "xmm", "funshion", "ruyi1080", "ruyib1080"],
   "lives": [
@@ -120,9 +120,8 @@
     {"key": "百度网盘","name": "百度 • 网盘","type": 3,"api": "csp_PanBaidu","searchable": 0,"filterable": 0,"changeable": 0,"style": {"type": "list","ratio": 1.433}},
     {"key": "盘搜","name": "盘搜 • 搜索","type": 3,"api": "csp_PanSou","searchable": 1,"quickSearch": 0,"filterable": 0,"timeout": 60},
     {"key": "古哥","name": "古哥 • 搜索","type": 3,"api": "csp_GugeSo","searchable": 1,"quickSearch": 0,"filterable": 0,"timeout": 60},
-    {"key": "兄弟","name": "兄弟 • 搜索","type": 3,"api": "csp_XiongdiPan","searchable": 1,"quickSearch": 0,"filterable": 0,"timeout": 60},
     {"key": "百酷","name": "百酷 • 搜索","type": 3,"api": "csp_Baiku","searchable": 1,"quickSearch": 0,"filterable": 0,"timeout": 60},
-    {"key": "米搜","name": "米搜 • 搜索","type": 3,"api": "csp_MiSou","searchable": 1,"quickSearch": 0,"filterable": 0,"timeout": 60},
+    {"key": "米搜","name": "米搜 • 搜索","type": 3,"api": "csp_MiSou","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": {"site": ["https://misoso.shop","http://www.misoso.shop"]},"timeout": 60},
     {"key": "鬼鬼","name": "鬼鬼 • 搜索","type": 3,"api": "csp_GuiGui","searchable": 1,"quickSearch": 0,"filterable": 0,"timeout": 60},
     {"key": "混合","name": "混合 • 搜索","type": 3,"api": "csp_HunHePan","searchable": 1,"quickSearch": 0,"filterable": 0,"timeout": 60},
     {"key": "天翼","name": "天翼 • 搜索","type": 3,"api": "csp_TianYiSou","searchable": 1,"quickSearch": 0,"filterable": 0,"timeout": 60},
