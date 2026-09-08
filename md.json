@@ -1,6 +1,6 @@
 //以下内容均来源于互联网，只为自用和学习，如有冒犯，请联系删除。
 {
-  "spider": "https://ghproxy.net/raw.githubusercontent.com/bluefriendCN/bin/refs/heads/main/spider.jar;md5;ac037e008306b2f338c759a8968cd067",
+  "spider": "https://ghproxy.net/raw.githubusercontent.com/bluefriendCN/bin/refs/heads/main/spider.jar;md5;9e5592497fe68e612486d0426b33a8bc",
   "wallpaper": "https://qist.cc/api/api.php",
   "flags": ["youku", "优酷", "优 酷", "优酷视频", "qq", "腾讯", "腾 讯", "腾讯视频", "iqiyi", "qiyi", "奇艺", "爱奇艺", "爱 奇 艺", "m1905", "xigua", "letv", "leshi", "乐视", "乐 视", "sohu", "搜狐", "搜 狐", "搜狐视频", "tudou", "mgtv", "芒果", "imgo", "芒果TV", "芒 果 T V", "bilibili", "哔 哩", "哔 哩 哔 哩", "SPA", "YuMi-vip", "pptv", "PPTV", "ltnb", "rx", "SLYS4k", "tucheng", "BYGA", "luanzi", "dxzy", "QEYSS", "aliyun", "AliS", "122", "chuangying", "CL4K", "xfyun", "wuduzy", "wasu", "renrenmi", "ppayun", "haiwaikan", "cool", "dbm3u8", "xmm", "funshion", "ruyi1080", "ruyib1080"],
   "lives": [
@@ -123,7 +123,7 @@
     {"key": "UC网盘","name": "UC • 网盘","type": 3,"api": "csp_PanUC","searchable": 0,"filterable": 0,"changeable": 0,"style": {"type": "list","ratio": 1.433}},
     {"key": "百度网盘","name": "百度 • 网盘","type": 3,"api": "csp_PanBaidu","searchable": 0,"filterable": 0,"changeable": 0,"style": {"type": "list","ratio": 1.433}},
     {"key": "迅雷云盘","name": "迅雷 • 云盘","type": 3,"api": "csp_PanXunlei","searchable": 0,"filterable": 0,"changeable": 0,"style": {"type": "list","ratio": 1.433}},
-    {"key": "光鸭网盘","name": "光鸭 • 网盘","type": 3,"api": "csp_PanGuangya","searchable": 0,"filterable": 0,"changeable": 0,"style": {"type": "list","ratio": 1.433}},
+    {"key": "光鸭云盘","name": "光鸭 • 云盘","type": 3,"api": "csp_PanGuangya","searchable": 0,"filterable": 0,"changeable": 0,"style": {"type": "list","ratio": 1.433}},
     {"key": "天翼云盘","name": "天翼 • 云盘","type": 3,"api": "csp_PanTianyi","searchable": 0,"filterable": 0,"changeable": 0,"style": {"type": "list","ratio": 1.433}},
     {"key": "123云盘","name": "123 • 云盘","type": 3,"api": "csp_Pan123","searchable": 0,"filterable": 0,"changeable": 0,"style": {"type": "list","ratio": 1.433}},
     {"key": "聚合","name": "聚合 • 搜索","type": 3,"api": "csp_JuheSo","searchable": 1,"quickSearch": 0,"filterable": 0,"timeout": 60},
