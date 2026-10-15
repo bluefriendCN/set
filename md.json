@@ -1,6 +1,6 @@
 //以下内容均来源于互联网，只为自用和学习，如有冒犯，请联系删除。
 {
-  "spider": "https://ghproxy.net/raw.githubusercontent.com/bluefriendCN/bin/refs/heads/main/spider.jar;md5;2f92b21b869e0722eec445ed3cc71aa6",
+  "spider": "https://ghproxy.net/raw.githubusercontent.com/bluefriendCN/bin/refs/heads/main/spider.jar;md5;bf32cf121ae92e49326a9fed7a82b76b",
   "wallpaper": "https://qist.cc/api/api.php",
   "flags": ["youku", "优酷", "优 酷", "优酷视频", "qq", "腾讯", "腾 讯", "腾讯视频", "iqiyi", "qiyi", "奇艺", "爱奇艺", "爱 奇 艺", "m1905", "xigua", "letv", "leshi", "乐视", "乐 视", "sohu", "搜狐", "搜 狐", "搜狐视频", "tudou", "mgtv", "芒果", "imgo", "芒果TV", "芒 果 T V", "bilibili", "哔 哩", "哔 哩 哔 哩", "SPA", "YuMi-vip", "pptv", "PPTV", "ltnb", "rx", "SLYS4k", "tucheng", "BYGA", "luanzi", "dxzy", "QEYSS", "aliyun", "AliS", "122", "chuangying", "CL4K", "xfyun", "wuduzy", "wasu", "renrenmi", "ppayun", "haiwaikan", "cool", "dbm3u8", "xmm", "funshion", "ruyi1080", "ruyib1080"],
   "lives": [
@@ -123,6 +123,7 @@
     {"key": "咖啡体育","name": "咖啡 • 体育","type": 3,"api": "csp_SportsKafei","searchable": 0,"quickSearch": 0,"changeable": 0,"style": {"type": "list"}},
     {"key": "呦呦DJ","name": "呦呦 • DJ","type": 3,"api": "csp_Djuu","searchable": 1,"quickSearch": 0,"changeable": 0,"style": {"type": "list"}},
     {"key": "蜻蜓FM","name": "蜻蜓 • FM","type": 3,"api": "csp_QingtingFM","searchable": 0,"quickSearch": 0,"changeable": 0,"style": {"type": "list"}},
+    {"key": "听友听书","name": "听友 • 听书","type": 3,"api": "csp_TingTingyou","searchable": 1,"quickSearch": 0,"changeable": 0,"style": {"type": "list"}},
     {"key": "世界听书","name": "世界 • 听书","type": 3,"api": "csp_TingShijie","searchable": 1,"quickSearch": 0,"changeable": 0,"style": {"type": "list"}},
     {"key": "堇夏听书","name": "堇夏 • 听书","type": 3,"api": "csp_TingJinxia","searchable": 1,"quickSearch": 0,"changeable": 0,"ext": "https://m.ting15.com","style": {"type": "list"}},
     {"key": "博看听书","name": "博看 • 听书","type": 3,"api": "csp_TingBokan","searchable": 1,"quickSearch": 0,"changeable": 0,"style": {"type": "list"}},
