@@ -67,7 +67,7 @@ CETV4职业教育,http://183.237.71.182:40000/hls/62/index.m3u8
 凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 
 凤凰中文,http://zmgd.zyrnet.com:8888/hls/110/index.m3u8
-凤凰资讯,https://live.264788.xyz/channel/fenghuangweishizixun?streamid=77bd953dbf073e11b80bba0a8aca92c5&livekey=01Wb7kjxu1xx2f7s4tcqSAF03RfwBkY7h8Nz2
+凤凰资讯,http://zmgd.zyrnet.com:8888/hls/109/index.m3u8
 
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 香港卫视,http://anren.live/HK/BSJDUFpB.m3u8
