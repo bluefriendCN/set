@@ -1,6 +1,6 @@
 //以下内容均来源于互联网，只为自用和学习，如有冒犯，请联系删除。
 {
-  "spider": "https://g.blfrp.cn/raw.githubusercontent.com/bluefriendCN/bin/refs/heads/main/fan.txt;md5;b55978c4fe6d12e2fea9075f17c8a67a",
+  "spider": "https://g.blfrp.cn/raw.githubusercontent.com/bluefriendCN/bin/refs/heads/main/fan.txt;md5;d2a33b53d09ec59c4cb7e3f482ef3907",
   "wallpaper": "https://qist.cc/api/api.php",
   "flags": ["youku", "优酷", "优 酷", "优酷视频", "qq", "腾讯", "腾 讯", "腾讯视频", "iqiyi", "qiyi", "奇艺", "爱奇艺", "爱 奇 艺", "m1905", "xigua", "letv", "leshi", "乐视", "乐 视", "sohu", "搜狐", "搜 狐", "搜狐视频", "tudou", "mgtv", "芒果", "imgo", "芒果TV", "芒 果 T V", "bilibili", "哔 哩", "哔 哩 哔 哩", "SPA", "YuMi-vip", "pptv", "PPTV", "ltnb", "rx", "SLYS4k", "tucheng", "BYGA", "luanzi", "dxzy", "QEYSS", "aliyun", "AliS", "122", "chuangying", "CL4K", "xfyun", "wuduzy", "wasu", "renrenmi", "ppayun", "haiwaikan", "cool", "dbm3u8", "xmm", "funshion", "ruyi1080", "ruyib1080"],
   "lives": [
@@ -53,14 +53,13 @@
     {"key": "奥特","name": "🏝奥特┃多线","type": 3,"api": "csp_AueteGuard","timeout": 10,"searchable": 1,"quickSearch": 1,"changeable": 1},
     {"key": "新6V","name": "🧲新6V┃磁力","type": 3,"api": "csp_SixVGuard","timeout": 10,"searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "https://www.xb6v.com/"},
     {"key": "AiDj","name": "❤️AI┃短漫剧","type": 3,"api": "csp_AiDjGuard","ext": {"type": "video","name": "短剧","danMu": false},"indexs": 0,"quickSearch": 1,"searchable": 1,"changeable": 0},
-    {"key": "咕咕","name": "🦉咕咕┃动漫","type": 3,"api": "csp_AppSxGuard","timeout": 10,"searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "rfOX1voDIQhH8epBwpmIsuS/sSCZxc/l0mxkeoroQVYOelMAvX1kuYptSLB36YxEjVawS9p37Cgo"},
     {"key": "Dm84","name": "🚌巴士┃动漫","type": 3,"api": "csp_Dm84Guard","timeout": 10,"searchable": 1,"quickSearch": 1,"changeable": 1},
     {"key": "看球","name": "⚽八八┃看球","type": 3,"api": "csp_KanqiuGuard","timeout": 10,"searchable": 0,"changeable": 0,"style": {"type": "list"}},
     {"key": "多多","name": "🏀多多┃回放","type": 3,"api": "csp_DoubaoGuard","searchable": 0,"quickSearch": 0,"changeable": 0,"style": {"type": "list"}},
     {"key": "吃瓜","name": "🏐吃瓜┃看球","type": 3,"api": "csp_LiveGzGuard","searchable": 0,"quickSearch": 0,"changeable": 0,"style": {"type": "list"}},
     {"key": "alllive","name": "🎮一直播┃直播","type": 3,"api": "csp_AllliveGuard","style": {"type": "rect","ratio": 1.597},"timeout": 15,"playerType": "2","searchable": 0,"quickSearch": 0,"changeable": 0,"ext": "uqGL1fpJNAUN8ORQgIPD+b6l+CzC2t8="},
     {"key": "MTV","name": "🎶明星┃MV","type": 3,"api": "csp_BiliGuard","style": {"type": "rect","ratio": 1.597},"searchable": 0,"quickSearch": 0,"changeable": 0,"ext": {"json": "https://nos.netease.com/ysf/5af5fbe12a88b7c45aa1c21e6551826c.txt"}},
-    {"key": "有声小说","name": "🎧有声┃小说","type": 3,"api": "csp_Tingshu275Guard","style": {"type": "rect","ratio": 1},"searchable": 0,"quickSearch": 0,"changeable": 0},
+    {"key": "有声小说","name": "🎧有声┃小说","type": 3,"api": "csp_Tingshu275Guard","style": {"type": "rect","ratio": 1},"searchable": 1,"quickSearch": 0,"changeable": 0},
     {"key": "Aid","name": "🚑急救┃教学","type": 3,"api": "csp_FirstAidGuard","searchable": 0,"quickSearch": 0,"changeable": 0,"style": {"type": "rect","ratio": 3.8}},
     {"key": "虎牙js","name": "🐯虎牙┃直播","type": 3,"api": "https://qist.wyfc.qzz.io/FTY/drpy2.min.js","ext": "https://qist.wyfc.qzz.io/FTY/虎牙.js","style": {"type": "rect","ratio": 1.755},"timeout": 10,"playerType": "2","searchable": 1,"quickSearch": 0,"changeable": 0},
     {"key": "斗鱼js","name": "🐟斗鱼┃直播","type": 3,"api": "https://qist.wyfc.qzz.io/FTY/drpy2.min.js","ext": "https://qist.wyfc.qzz.io/FTY/斗鱼直播.js","style": {"type": "rect","ratio": 1.755},"timeout": 10,"playerType": "2","searchable": 1,"quickSearch": 0,"changeable": 0},
