@@ -4,20 +4,25 @@
   "flags": ["youku", "优酷", "优 酷", "优酷视频", "qq", "腾讯", "腾 讯", "腾讯视频", "iqiyi", "qiyi", "奇艺", "爱奇艺", "爱 奇 艺", "m1905", "xigua", "letv", "leshi", "乐视", "乐 视", "sohu", "搜狐", "搜 狐", "搜狐视频", "tudou", "mgtv", "芒果", "imgo", "芒果TV", "芒 果 T V", "bilibili", "哔 哩", "哔 哩 哔 哩", "SPA", "YuMi-vip", "pptv", "PPTV", "ltnb", "rx", "SLYS4k", "tucheng", "BYGA", "luanzi", "dxzy", "QEYSS", "aliyun", "AliS", "122", "chuangying", "CL4K", "xfyun", "wuduzy", "wasu", "renrenmi", "ppayun", "haiwaikan", "cool", "dbm3u8", "xmm", "funshion", "ruyi1080", "ruyib1080"],
   "lives": [
     {
+      "name":"TV",
+      "type":0,
+      "url":"https://fongmi.cachefly.net/atsushi444/iptv/main/adult.m3u"
+    }, 
+    {
       "name":"atsushi",
       "type":0,
-      "url":"https://fongmi.cachefly.net/atsushi444/adult/main/General.m3u"
+      "url":"https://fongmi.cachefly.net/atsushi444/iptv/main/adult2.m3u"
     },
+    {
+      "name":"三级",
+      "type":0,
+      "url":"https://fongmi.cachefly.net/atsushi444/iptv/main/nonload.m3u"
+    },    
     {
       "name":"初秋语",
       "type":0,
       "url": "https://down.mxw.xx.kg/raw.githubusercontent.com/qist/tvbox/refs/heads/master/listx.m3u"
-    },
-    {
-      "name":"TV",
-      "type":0,
-      "url":"https://fongmi.cachefly.net/atsushi444/iptv/main/adult.m3u"
-    },    
+    },   
     {
       "name":"YanG-1989",
       "url": "https://tv.iill.top/m3u/Adult",
