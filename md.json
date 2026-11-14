@@ -1,6 +1,6 @@
 //以下内容均来源于互联网，只为自用和学习，如有冒犯，请联系删除。
 {
-  "spider": "https://down.mxw.xx.kg/raw.githubusercontent.com/bluefriendCN/bin/refs/heads/main/spider.jar;md5;a2928946eb00e5fee87663c94ae37bff",
+  "spider": "https://down.mxw.xx.kg/raw.githubusercontent.com/bluefriendCN/bin/refs/heads/main/spider.jar;md5;cbe016eb3cb002ae62058604843f5106",
   "wallpaper": "https://qist.cc/api/api.php",
   "flags": ["youku", "优酷", "优 酷", "优酷视频", "qq", "腾讯", "腾 讯", "腾讯视频", "iqiyi", "qiyi", "奇艺", "爱奇艺", "爱 奇 艺", "m1905", "xigua", "letv", "leshi", "乐视", "乐 视", "sohu", "搜狐", "搜 狐", "搜狐视频", "tudou", "mgtv", "芒果", "imgo", "芒果TV", "芒 果 T V", "bilibili", "哔 哩", "哔 哩 哔 哩", "SPA", "YuMi-vip", "pptv", "PPTV", "ltnb", "rx", "SLYS4k", "tucheng", "BYGA", "luanzi", "dxzy", "QEYSS", "aliyun", "AliS", "122", "chuangying", "CL4K", "xfyun", "wuduzy", "wasu", "renrenmi", "ppayun", "haiwaikan", "cool", "dbm3u8", "xmm", "funshion", "ruyi1080", "ruyib1080"],
   "lives": [
@@ -88,8 +88,8 @@
     {"key": "好看短剧","name": "好看 • 短剧","type": 3,"api": "csp_ShortHaokan","genre": "shortdrama"},
     {"key": "星芽短剧","name": "星芽 • 短剧","type": 3,"api": "csp_ShortXingya","genre": "shortdrama"},
     {"key": "果果短剧","name": "果果 • 短剧","type": 3,"api": "csp_XBPQ","ext": {"请求头": "User-Agent$MOBILE_UA","编码": "UTF-8","分类": "重生$1#穿越$2#爽剧$3#言情$4#都市$5#古装$6#悬疑$7#剧情$8","分类url": "https://www.mochadj.com/i/{cateId}-{catePg}.html"},"genre": "shortdrama"},
+    {"key": "看剧","name": "看剧 • 影视","type": 3,"api": "csp_KanJuAI"},
     {"key": "懂片","name": "懂片 • 影视","type": 3,"api": "csp_DongPian"},
-    {"key": "杜北","name": "杜北 • 影视","type": 3,"api": "csp_Dubk"},
     {"key": "星辰影视","name": "星辰 • 影视","type": 3,"api": "csp_XingChen"},
     {"key": "飞娱影视","name": "飞娱 • 影视","type": 3,"api": "csp_Feiyu"},
     {"key": "旺旺影视","name": "旺旺 • 影视","type": 3,"api": "csp_Wwys","ext": "https://vip.wwgz.cn:5200"},
