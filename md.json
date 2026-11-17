@@ -1,6 +1,6 @@
 //以下内容均来源于互联网，只为自用和学习，如有冒犯，请联系删除。
 {
-  "spider": "https://down.mxw.xx.kg/raw.githubusercontent.com/bluefriendCN/bin/refs/heads/main/spider.jar;md5;cbe016eb3cb002ae62058604843f5106",
+  "spider": "https://down.mxw.xx.kg/raw.githubusercontent.com/bluefriendCN/bin/refs/heads/main/spider.jar;md5;decb609b673019e18512dc3a96b6a252",
   "wallpaper": "https://qist.cc/api/api.php",
   "flags": ["youku", "优酷", "优 酷", "优酷视频", "qq", "腾讯", "腾 讯", "腾讯视频", "iqiyi", "qiyi", "奇艺", "爱奇艺", "爱 奇 艺", "m1905", "xigua", "letv", "leshi", "乐视", "乐 视", "sohu", "搜狐", "搜 狐", "搜狐视频", "tudou", "mgtv", "芒果", "imgo", "芒果TV", "芒 果 T V", "bilibili", "哔 哩", "哔 哩 哔 哩", "SPA", "YuMi-vip", "pptv", "PPTV", "ltnb", "rx", "SLYS4k", "tucheng", "BYGA", "luanzi", "dxzy", "QEYSS", "aliyun", "AliS", "122", "chuangying", "CL4K", "xfyun", "wuduzy", "wasu", "renrenmi", "ppayun", "haiwaikan", "cool", "dbm3u8", "xmm", "funshion", "ruyi1080", "ruyib1080"],
   "lives": [
@@ -27,7 +27,7 @@
     }
   ],
   "sites": [
-    {"key": "豆瓣","name": "豆瓣｜首页","type": 3,"api": "csp_Douban","searchable": 0},
+    {"key": "豆瓣","name": "豆瓣｜首页","type": 3,"api": "csp_Douban","searchable": 1,"quickSearch": 0,"changeable": 0},
     {"key": "配置中心","name": "配置 • 中心","type": 3,"api": "csp_Config","searchable": 0,"changeable": 0,"indexs": 0,"style": {"type": "rect","ratio": 1.597}},
     {"key": "本地","name": "本地 • 视频","type": 3,"api": "csp_LocalFile"},
     {"key": "预告","name": "新片 • 预告","type": 3,"api": "csp_YGP","searchable": 0},
@@ -42,7 +42,8 @@
     {"key": "Didahd","name": "嘀嗒影视","type": 3,"api": "./py/Didahd.py","searchable": 1,"quickSearch": 1,"filterable": 0,"changeable": 1},
     {"key": "TVB云播","name": "TVB云播","type": 3,"api": "./py/TVB云播.py","searchable": 1,"quickSearch": 1,"filterable": 0,"changeable": 1},
     {"key": "热播影视","name": "热播 • APP","type": 3,"api": "csp_AppRJ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": {"url": "http://v.rbotv.cn"}},
-    {"key": "米诺","name": "米诺 • APP","type": 3,"api": "csp_AppMN","searchable": 1,"quickSearch": 1,"filterable": 0},
+    {"key": "云播","name": "云播 • APP","type": 3,"api": "csp_AppYB","searchable": 1,"quickSearch": 1,"filterable": 1},
+    {"key": "未来","name": "未来 • APP","type": 3,"api": "csp_AppWL","searchable": 1,"quickSearch": 1,"filterable": 0},
     {"key": "下饭","name": "下饭 • APP","type": 3,"api": "csp_JuXiaFan","searchable": 1,"quickSearch": 1,"filterable": 1},
     {"key": "快映fox","name": "快映 • APP","type": 3,"api": "csp_AppFox","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./json/ky4kbgq7b273.json"},
     {"key": "一起影视","name": "一起 • APP","type": 3,"api": "csp_AppYQK","searchable": 1,"quickSearch": 1,"filterable": 0},
